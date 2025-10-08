@@ -1,0 +1,2 @@
+- pkg:cargo/fuzzed-data-provider-rs@0.1.0
+- pkg:cargo/fuzzed-data-provider-rs@0.1.1

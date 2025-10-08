@@ -1,0 +1,5 @@
+- pkg:cargo/tree-sitter-d@0.3.8
+- pkg:cargo/tree-sitter-d@0.5.1
+- pkg:cargo/tree-sitter-d@0.6.0
+- pkg:cargo/tree-sitter-d@0.6.1
+- pkg:cargo/tree-sitter-d@0.8.2

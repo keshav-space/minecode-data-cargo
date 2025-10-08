@@ -1,0 +1,4 @@
+- pkg:cargo/truncate_string_at_whitespace@1.0.0
+- pkg:cargo/truncate_string_at_whitespace@1.0.1
+- pkg:cargo/truncate_string_at_whitespace@1.0.2
+- pkg:cargo/truncate_string_at_whitespace@1.0.3

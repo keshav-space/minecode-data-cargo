@@ -1,0 +1,6 @@
+- pkg:cargo/xor-cipher@1.0.0
+- pkg:cargo/xor-cipher@1.1.0
+- pkg:cargo/xor-cipher@2.0.0
+- pkg:cargo/xor-cipher@3.0.0
+- pkg:cargo/xor-cipher@4.0.0
+- pkg:cargo/xor-cipher@4.0.1

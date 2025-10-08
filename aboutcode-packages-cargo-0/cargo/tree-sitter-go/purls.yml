@@ -1,0 +1,12 @@
+- pkg:cargo/tree-sitter-go@0.16.0
+- pkg:cargo/tree-sitter-go@0.19.1
+- pkg:cargo/tree-sitter-go@0.20.0
+- pkg:cargo/tree-sitter-go@0.21.0
+- pkg:cargo/tree-sitter-go@0.21.1
+- pkg:cargo/tree-sitter-go@0.21.2
+- pkg:cargo/tree-sitter-go@0.23.0
+- pkg:cargo/tree-sitter-go@0.23.1
+- pkg:cargo/tree-sitter-go@0.23.2
+- pkg:cargo/tree-sitter-go@0.23.3
+- pkg:cargo/tree-sitter-go@0.23.4
+- pkg:cargo/tree-sitter-go@0.25.0

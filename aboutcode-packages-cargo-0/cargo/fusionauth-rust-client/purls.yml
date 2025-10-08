@@ -1,0 +1,17 @@
+- pkg:cargo/fusionauth-rust-client@1.49.0
+- pkg:cargo/fusionauth-rust-client@2.0.0
+- pkg:cargo/fusionauth-rust-client@2.0.1
+- pkg:cargo/fusionauth-rust-client@2.0.2
+- pkg:cargo/fusionauth-rust-client@2.1.0
+- pkg:cargo/fusionauth-rust-client@2.1.1
+- pkg:cargo/fusionauth-rust-client@2.2.0
+- pkg:cargo/fusionauth-rust-client@2.2.1
+- pkg:cargo/fusionauth-rust-client@2.3.0
+- pkg:cargo/fusionauth-rust-client@2.4.0
+- pkg:cargo/fusionauth-rust-client@2.4.1
+- pkg:cargo/fusionauth-rust-client@2.4.3
+- pkg:cargo/fusionauth-rust-client@2.4.4
+- pkg:cargo/fusionauth-rust-client@2.5.0
+- pkg:cargo/fusionauth-rust-client@2.6.0
+- pkg:cargo/fusionauth-rust-client@2.7.0
+- pkg:cargo/fusionauth-rust-client@2.8.0

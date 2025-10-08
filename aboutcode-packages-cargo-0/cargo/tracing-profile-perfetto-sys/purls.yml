@@ -1,0 +1,4 @@
+- pkg:cargo/tracing-profile-perfetto-sys@0.10.0
+- pkg:cargo/tracing-profile-perfetto-sys@0.10.1
+- pkg:cargo/tracing-profile-perfetto-sys@0.7.0
+- pkg:cargo/tracing-profile-perfetto-sys@0.9.0

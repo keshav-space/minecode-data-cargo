@@ -1,0 +1,4 @@
+- pkg:cargo/futures-stable@0.2.0
+- pkg:cargo/futures-stable@0.2.0-alpha
+- pkg:cargo/futures-stable@0.2.0-beta
+- pkg:cargo/futures-stable@0.2.1

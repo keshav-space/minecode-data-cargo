@@ -1,0 +1,8 @@
+- pkg:cargo/tree-sitter-devicetree@0.10.0
+- pkg:cargo/tree-sitter-devicetree@0.11.0
+- pkg:cargo/tree-sitter-devicetree@0.11.1
+- pkg:cargo/tree-sitter-devicetree@0.12.0
+- pkg:cargo/tree-sitter-devicetree@0.12.1
+- pkg:cargo/tree-sitter-devicetree@0.13.0
+- pkg:cargo/tree-sitter-devicetree@0.14.0
+- pkg:cargo/tree-sitter-devicetree@0.14.1

@@ -1,0 +1,4 @@
+- pkg:cargo/tree-sitter-haskell@0.15.0
+- pkg:cargo/tree-sitter-haskell@0.21.0
+- pkg:cargo/tree-sitter-haskell@0.23.0
+- pkg:cargo/tree-sitter-haskell@0.23.1

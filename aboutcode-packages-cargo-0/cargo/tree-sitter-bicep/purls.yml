@@ -1,0 +1,4 @@
+- pkg:cargo/tree-sitter-bicep@0.0.1
+- pkg:cargo/tree-sitter-bicep@1.0.0
+- pkg:cargo/tree-sitter-bicep@1.0.1
+- pkg:cargo/tree-sitter-bicep@1.1.0

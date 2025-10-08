@@ -1,0 +1,5 @@
+- pkg:cargo/tree-sitter-jsdoc@0.21.0
+- pkg:cargo/tree-sitter-jsdoc@0.23.0
+- pkg:cargo/tree-sitter-jsdoc@0.23.1
+- pkg:cargo/tree-sitter-jsdoc@0.23.2
+- pkg:cargo/tree-sitter-jsdoc@0.25.0

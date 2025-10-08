@@ -1,0 +1,9 @@
+- pkg:cargo/tree-sitter-powershell@0.1.0
+- pkg:cargo/tree-sitter-powershell@0.2.0
+- pkg:cargo/tree-sitter-powershell@0.24.4
+- pkg:cargo/tree-sitter-powershell@0.24.5
+- pkg:cargo/tree-sitter-powershell@0.25.2
+- pkg:cargo/tree-sitter-powershell@0.25.6
+- pkg:cargo/tree-sitter-powershell@0.25.7
+- pkg:cargo/tree-sitter-powershell@0.25.8
+- pkg:cargo/tree-sitter-powershell@0.25.9

@@ -1,0 +1,4 @@
+- pkg:cargo/lmake_version_from_date@0.3.32
+- pkg:cargo/lmake_version_from_date@0.3.38
+- pkg:cargo/lmake_version_from_date@0.3.40
+- pkg:cargo/lmake_version_from_date@0.3.41

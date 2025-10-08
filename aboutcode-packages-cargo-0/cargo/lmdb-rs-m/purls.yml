@@ -1,0 +1,6 @@
+- pkg:cargo/lmdb-rs-m@0.7.6
+- pkg:cargo/lmdb-rs-m@0.7.7
+- pkg:cargo/lmdb-rs-m@0.7.8
+- pkg:cargo/lmdb-rs-m@0.7.8-dev
+- pkg:cargo/lmdb-rs-m@0.7.9
+- pkg:cargo/lmdb-rs-m@0.8.0

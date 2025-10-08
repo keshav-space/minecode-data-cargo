@@ -1,0 +1,2 @@
+- pkg:cargo/trident-derive-fuzz-deserialize@0.0.1
+- pkg:cargo/trident-derive-fuzz-deserialize@0.0.2

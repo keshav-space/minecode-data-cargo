@@ -1,0 +1,4 @@
+- pkg:cargo/tree-sitter-elisp@1.2.0
+- pkg:cargo/tree-sitter-elisp@1.3.0
+- pkg:cargo/tree-sitter-elisp@1.4.0
+- pkg:cargo/tree-sitter-elisp@1.5.0

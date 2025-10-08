@@ -1,0 +1,2 @@
+- pkg:cargo/tracing-appender-localtime@0.2.3
+- pkg:cargo/tracing-appender-localtime@0.2.4

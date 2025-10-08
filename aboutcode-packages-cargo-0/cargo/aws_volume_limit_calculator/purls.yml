@@ -1,0 +1,2 @@
+- pkg:cargo/aws_volume_limit_calculator@0.1.0
+- pkg:cargo/aws_volume_limit_calculator@0.1.1

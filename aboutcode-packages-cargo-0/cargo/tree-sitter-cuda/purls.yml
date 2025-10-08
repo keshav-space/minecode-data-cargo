@@ -1,0 +1,13 @@
+- pkg:cargo/tree-sitter-cuda@0.0.1
+- pkg:cargo/tree-sitter-cuda@0.0.2
+- pkg:cargo/tree-sitter-cuda@0.0.3
+- pkg:cargo/tree-sitter-cuda@0.0.4
+- pkg:cargo/tree-sitter-cuda@0.1.0
+- pkg:cargo/tree-sitter-cuda@0.20.2
+- pkg:cargo/tree-sitter-cuda@0.20.3
+- pkg:cargo/tree-sitter-cuda@0.20.4
+- pkg:cargo/tree-sitter-cuda@0.20.5
+- pkg:cargo/tree-sitter-cuda@0.20.6
+- pkg:cargo/tree-sitter-cuda@0.20.7
+- pkg:cargo/tree-sitter-cuda@0.21.0
+- pkg:cargo/tree-sitter-cuda@0.21.1

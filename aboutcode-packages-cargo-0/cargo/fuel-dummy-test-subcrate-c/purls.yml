@@ -1,0 +1,5 @@
+- pkg:cargo/fuel-dummy-test-subcrate-c@0.2.11
+- pkg:cargo/fuel-dummy-test-subcrate-c@0.2.19
+- pkg:cargo/fuel-dummy-test-subcrate-c@0.2.20
+- pkg:cargo/fuel-dummy-test-subcrate-c@0.2.21
+- pkg:cargo/fuel-dummy-test-subcrate-c@0.2.22

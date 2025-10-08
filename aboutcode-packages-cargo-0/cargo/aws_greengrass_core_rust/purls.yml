@@ -1,0 +1,4 @@
+- pkg:cargo/aws_greengrass_core_rust@0.1.34
+- pkg:cargo/aws_greengrass_core_rust@0.1.35
+- pkg:cargo/aws_greengrass_core_rust@0.1.36
+- pkg:cargo/aws_greengrass_core_rust@0.1.37

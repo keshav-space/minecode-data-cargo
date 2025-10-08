@@ -1,0 +1,11 @@
+- pkg:cargo/tree-sitter-c2rust@0.20.10
+- pkg:cargo/tree-sitter-c2rust@0.20.11-pre.1
+- pkg:cargo/tree-sitter-c2rust@0.20.9
+- pkg:cargo/tree-sitter-c2rust@0.22.4
+- pkg:cargo/tree-sitter-c2rust@0.22.5
+- pkg:cargo/tree-sitter-c2rust@0.22.6
+- pkg:cargo/tree-sitter-c2rust@0.24.3
+- pkg:cargo/tree-sitter-c2rust@0.24.7
+- pkg:cargo/tree-sitter-c2rust@0.25.0
+- pkg:cargo/tree-sitter-c2rust@0.25.1
+- pkg:cargo/tree-sitter-c2rust@0.25.2

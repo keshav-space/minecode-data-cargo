@@ -1,0 +1,7 @@
+- pkg:cargo/tree-sitter-html@0.19.0
+- pkg:cargo/tree-sitter-html@0.20.0
+- pkg:cargo/tree-sitter-html@0.20.3
+- pkg:cargo/tree-sitter-html@0.20.4
+- pkg:cargo/tree-sitter-html@0.23.0
+- pkg:cargo/tree-sitter-html@0.23.1
+- pkg:cargo/tree-sitter-html@0.23.2

@@ -1,0 +1,10 @@
+- pkg:cargo/trustcaptcha-rust@0.0.1
+- pkg:cargo/trustcaptcha-rust@1.0.0
+- pkg:cargo/trustcaptcha-rust@1.0.1
+- pkg:cargo/trustcaptcha-rust@1.0.2
+- pkg:cargo/trustcaptcha-rust@1.0.3
+- pkg:cargo/trustcaptcha-rust@1.2.0
+- pkg:cargo/trustcaptcha-rust@1.2.1
+- pkg:cargo/trustcaptcha-rust@1.2.1-beta.0
+- pkg:cargo/trustcaptcha-rust@1.2.1-beta.1
+- pkg:cargo/trustcaptcha-rust@1.2.1-beta.2

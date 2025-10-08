@@ -1,0 +1,5 @@
+- pkg:cargo/fuel-block-committer-encoding@0.0.0
+- pkg:cargo/fuel-block-committer-encoding@0.10.10
+- pkg:cargo/fuel-block-committer-encoding@0.10.3
+- pkg:cargo/fuel-block-committer-encoding@0.10.5
+- pkg:cargo/fuel-block-committer-encoding@0.10.7
