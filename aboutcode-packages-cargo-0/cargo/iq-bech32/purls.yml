@@ -1,0 +1,5 @@
+- pkg:cargo/iq-bech32@0.0.1
+- pkg:cargo/iq-bech32@0.0.999
+- pkg:cargo/iq-bech32@0.1.0
+- pkg:cargo/iq-bech32@0.1.1
+- pkg:cargo/iq-bech32@0.99.99

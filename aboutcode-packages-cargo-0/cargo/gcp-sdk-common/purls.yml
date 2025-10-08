@@ -1,0 +1,2 @@
+- pkg:cargo/gcp-sdk-common@0.0.0
+- pkg:cargo/gcp-sdk-common@0.3.0

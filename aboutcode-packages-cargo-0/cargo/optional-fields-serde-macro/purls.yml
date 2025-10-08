@@ -1,0 +1,3 @@
+- pkg:cargo/optional-fields-serde-macro@0.1.0
+- pkg:cargo/optional-fields-serde-macro@0.1.1
+- pkg:cargo/optional-fields-serde-macro@0.1.2

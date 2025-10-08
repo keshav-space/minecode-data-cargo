@@ -1,0 +1,3 @@
+- pkg:cargo/avr-config@1.0.0
+- pkg:cargo/avr-config@2.0.0
+- pkg:cargo/avr-config@2.0.1

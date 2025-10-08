@@ -1,0 +1,6 @@
+- pkg:cargo/qp-plonky2-field@0.0.11
+- pkg:cargo/qp-plonky2-field@0.0.12
+- pkg:cargo/qp-plonky2-field@0.0.13
+- pkg:cargo/qp-plonky2-field@1.0.3
+- pkg:cargo/qp-plonky2-field@1.1.0
+- pkg:cargo/qp-plonky2-field@1.1.1

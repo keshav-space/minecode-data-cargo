@@ -1,0 +1,13 @@
+- pkg:cargo/gccjit@0.0.1
+- pkg:cargo/gccjit@0.0.2
+- pkg:cargo/gccjit@1.0.0
+- pkg:cargo/gccjit@2.0.0
+- pkg:cargo/gccjit@2.1.0
+- pkg:cargo/gccjit@2.2.0
+- pkg:cargo/gccjit@2.3.0
+- pkg:cargo/gccjit@2.4.0
+- pkg:cargo/gccjit@2.5.0
+- pkg:cargo/gccjit@2.6.0
+- pkg:cargo/gccjit@2.7.0
+- pkg:cargo/gccjit@2.8.0
+- pkg:cargo/gccjit@2.9.0

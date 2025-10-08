@@ -1,0 +1,12 @@
+- pkg:cargo/healthchecks-monitor@1.0.0
+- pkg:cargo/healthchecks-monitor@1.0.1
+- pkg:cargo/healthchecks-monitor@2.0.0
+- pkg:cargo/healthchecks-monitor@3.0.0
+- pkg:cargo/healthchecks-monitor@3.0.1
+- pkg:cargo/healthchecks-monitor@3.0.2
+- pkg:cargo/healthchecks-monitor@3.0.3
+- pkg:cargo/healthchecks-monitor@3.0.4
+- pkg:cargo/healthchecks-monitor@3.0.5
+- pkg:cargo/healthchecks-monitor@3.0.6
+- pkg:cargo/healthchecks-monitor@3.0.7
+- pkg:cargo/healthchecks-monitor@3.1.0

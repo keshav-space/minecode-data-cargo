@@ -1,0 +1,2 @@
+- pkg:cargo/gcloud-spanner-derive@0.2.1
+- pkg:cargo/gcloud-spanner-derive@1.0.0

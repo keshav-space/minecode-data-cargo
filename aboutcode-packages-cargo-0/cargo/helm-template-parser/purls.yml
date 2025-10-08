@@ -1,0 +1,3 @@
+- pkg:cargo/helm-template-parser@0.0.1
+- pkg:cargo/helm-template-parser@0.0.2
+- pkg:cargo/helm-template-parser@0.0.3

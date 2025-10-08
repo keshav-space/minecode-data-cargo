@@ -1,0 +1,2 @@
+- pkg:cargo/openwhisk-client-rust@0.1.6
+- pkg:cargo/openwhisk-client-rust@0.1.7

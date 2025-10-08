@@ -1,0 +1,4 @@
+- pkg:cargo/avocado-schema-derive@0.6.2
+- pkg:cargo/avocado-schema-derive@0.6.3
+- pkg:cargo/avocado-schema-derive@0.7.0
+- pkg:cargo/avocado-schema-derive@0.8.0

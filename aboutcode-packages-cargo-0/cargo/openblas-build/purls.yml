@@ -1,0 +1,11 @@
+- pkg:cargo/openblas-build@0.1.0
+- pkg:cargo/openblas-build@0.1.1
+- pkg:cargo/openblas-build@0.10.10
+- pkg:cargo/openblas-build@0.10.11
+- pkg:cargo/openblas-build@0.10.12
+- pkg:cargo/openblas-build@0.10.13
+- pkg:cargo/openblas-build@0.10.5
+- pkg:cargo/openblas-build@0.10.6
+- pkg:cargo/openblas-build@0.10.7
+- pkg:cargo/openblas-build@0.10.8
+- pkg:cargo/openblas-build@0.10.9

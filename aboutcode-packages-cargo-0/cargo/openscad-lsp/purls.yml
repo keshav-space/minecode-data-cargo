@@ -1,0 +1,15 @@
+- pkg:cargo/openscad-lsp@1.0.1
+- pkg:cargo/openscad-lsp@1.0.2
+- pkg:cargo/openscad-lsp@1.0.3
+- pkg:cargo/openscad-lsp@1.1.0
+- pkg:cargo/openscad-lsp@1.1.1
+- pkg:cargo/openscad-lsp@1.2.0
+- pkg:cargo/openscad-lsp@1.2.1
+- pkg:cargo/openscad-lsp@1.2.3
+- pkg:cargo/openscad-lsp@1.2.4
+- pkg:cargo/openscad-lsp@1.2.5
+- pkg:cargo/openscad-lsp@1.2.6
+- pkg:cargo/openscad-lsp@1.2.7
+- pkg:cargo/openscad-lsp@1.3.0
+- pkg:cargo/openscad-lsp@1.3.1
+- pkg:cargo/openscad-lsp@2.0.1

@@ -1,0 +1,4 @@
+- pkg:cargo/tide-server-timing@0.13.0
+- pkg:cargo/tide-server-timing@0.13.1
+- pkg:cargo/tide-server-timing@0.15.0
+- pkg:cargo/tide-server-timing@0.16.0

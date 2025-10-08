@@ -1,0 +1,3 @@
+- pkg:cargo/mm_example_crate@0.1.1
+- pkg:cargo/mm_example_crate@0.1.3
+- pkg:cargo/mm_example_crate@0.1.4

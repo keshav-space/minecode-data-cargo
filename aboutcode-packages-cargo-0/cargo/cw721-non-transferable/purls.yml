@@ -1,0 +1,4 @@
+- pkg:cargo/cw721-non-transferable@0.16.0
+- pkg:cargo/cw721-non-transferable@0.17.0
+- pkg:cargo/cw721-non-transferable@0.18.0
+- pkg:cargo/cw721-non-transferable@0.20.0

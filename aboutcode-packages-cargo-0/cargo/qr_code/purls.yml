@@ -1,0 +1,14 @@
+- pkg:cargo/qr_code@0.1.0
+- pkg:cargo/qr_code@0.15.0
+- pkg:cargo/qr_code@0.16.0
+- pkg:cargo/qr_code@0.17.0
+- pkg:cargo/qr_code@0.18.0
+- pkg:cargo/qr_code@0.19.0
+- pkg:cargo/qr_code@0.2.0
+- pkg:cargo/qr_code@0.3.0
+- pkg:cargo/qr_code@0.4.0
+- pkg:cargo/qr_code@0.5.0
+- pkg:cargo/qr_code@0.6.0
+- pkg:cargo/qr_code@1.0.0
+- pkg:cargo/qr_code@1.1.0
+- pkg:cargo/qr_code@2.0.0

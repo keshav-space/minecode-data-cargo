@@ -1,0 +1,5 @@
+- pkg:cargo/gcp-sdk-api@0.0.0
+- pkg:cargo/gcp-sdk-api@0.2.0
+- pkg:cargo/gcp-sdk-api@0.2.0-rc1
+- pkg:cargo/gcp-sdk-api@0.2.0-rc2
+- pkg:cargo/gcp-sdk-api@0.3.0

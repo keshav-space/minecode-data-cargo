@@ -1,0 +1,13 @@
+- pkg:cargo/cw-storage-macro@0.14.0
+- pkg:cargo/cw-storage-macro@0.15.0
+- pkg:cargo/cw-storage-macro@0.15.1
+- pkg:cargo/cw-storage-macro@0.16.0
+- pkg:cargo/cw-storage-macro@1.0.0
+- pkg:cargo/cw-storage-macro@1.0.1
+- pkg:cargo/cw-storage-macro@1.1.0
+- pkg:cargo/cw-storage-macro@1.2.0
+- pkg:cargo/cw-storage-macro@2.0.0
+- pkg:cargo/cw-storage-macro@2.0.0-beta.0
+- pkg:cargo/cw-storage-macro@2.0.0-rc.0
+- pkg:cargo/cw-storage-macro@2.1.0
+- pkg:cargo/cw-storage-macro@3.0.1

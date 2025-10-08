@@ -1,0 +1,5 @@
+- pkg:cargo/opslang-wasm@0.7.0
+- pkg:cargo/opslang-wasm@0.7.0-beta.5
+- pkg:cargo/opslang-wasm@1.0.0
+- pkg:cargo/opslang-wasm@1.1.1
+- pkg:cargo/opslang-wasm@1.2.0

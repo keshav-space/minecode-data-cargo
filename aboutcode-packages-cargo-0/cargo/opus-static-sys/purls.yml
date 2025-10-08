@@ -1,0 +1,5 @@
+- pkg:cargo/opus-static-sys@1.0.0
+- pkg:cargo/opus-static-sys@1.0.1
+- pkg:cargo/opus-static-sys@1.5.0
+- pkg:cargo/opus-static-sys@1.5.1
+- pkg:cargo/opus-static-sys@1.5.2

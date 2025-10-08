@@ -1,0 +1,5 @@
+- pkg:cargo/mmap-wrapper@0.9.10
+- pkg:cargo/mmap-wrapper@0.9.9
+- pkg:cargo/mmap-wrapper@1.0.1
+- pkg:cargo/mmap-wrapper@1.1.0
+- pkg:cargo/mmap-wrapper@2.0.1

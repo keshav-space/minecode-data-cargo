@@ -1,0 +1,3 @@
+- pkg:cargo/openbrush_contracts_derive@1.8.0
+- pkg:cargo/openbrush_contracts_derive@2.0.0
+- pkg:cargo/openbrush_contracts_derive@2.1.0

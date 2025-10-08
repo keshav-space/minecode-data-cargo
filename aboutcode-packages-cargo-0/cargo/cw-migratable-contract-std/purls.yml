@@ -1,0 +1,6 @@
+- pkg:cargo/cw-migratable-contract-std@10.0.0
+- pkg:cargo/cw-migratable-contract-std@11.0.0
+- pkg:cargo/cw-migratable-contract-std@12.0.0
+- pkg:cargo/cw-migratable-contract-std@7.0.0
+- pkg:cargo/cw-migratable-contract-std@8.0.0
+- pkg:cargo/cw-migratable-contract-std@9.0.0

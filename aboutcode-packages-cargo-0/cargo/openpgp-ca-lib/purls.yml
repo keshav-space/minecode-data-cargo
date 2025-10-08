@@ -1,0 +1,11 @@
+- pkg:cargo/openpgp-ca-lib@0.10.1
+- pkg:cargo/openpgp-ca-lib@0.11.1
+- pkg:cargo/openpgp-ca-lib@0.11.2
+- pkg:cargo/openpgp-ca-lib@0.11.3
+- pkg:cargo/openpgp-ca-lib@0.12.0
+- pkg:cargo/openpgp-ca-lib@0.12.0-alpha.1
+- pkg:cargo/openpgp-ca-lib@0.12.1
+- pkg:cargo/openpgp-ca-lib@0.13.0
+- pkg:cargo/openpgp-ca-lib@0.13.0-alpha.1
+- pkg:cargo/openpgp-ca-lib@0.13.1
+- pkg:cargo/openpgp-ca-lib@0.14.0

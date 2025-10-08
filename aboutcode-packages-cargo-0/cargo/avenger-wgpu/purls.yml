@@ -1,0 +1,5 @@
+- pkg:cargo/avenger-wgpu@0.0.1-a1
+- pkg:cargo/avenger-wgpu@0.0.2
+- pkg:cargo/avenger-wgpu@0.0.3
+- pkg:cargo/avenger-wgpu@0.0.7
+- pkg:cargo/avenger-wgpu@0.0.8

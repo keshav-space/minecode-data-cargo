@@ -1,0 +1,5 @@
+- pkg:cargo/openshmem-sys@1.5.0
+- pkg:cargo/openshmem-sys@1.5.2
+- pkg:cargo/openshmem-sys@1.5.2-1
+- pkg:cargo/openshmem-sys@1.5.3
+- pkg:cargo/openshmem-sys@1.5.4

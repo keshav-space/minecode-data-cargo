@@ -1,0 +1,4 @@
+- pkg:cargo/opentelemetry_api@0.1.0
+- pkg:cargo/opentelemetry_api@0.18.0
+- pkg:cargo/opentelemetry_api@0.19.0
+- pkg:cargo/opentelemetry_api@0.20.0
