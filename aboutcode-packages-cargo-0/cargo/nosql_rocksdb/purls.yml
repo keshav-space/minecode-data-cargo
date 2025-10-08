@@ -1,0 +1,2 @@
+- pkg:cargo/nosql_rocksdb@0.0.1
+- pkg:cargo/nosql_rocksdb@0.0.2

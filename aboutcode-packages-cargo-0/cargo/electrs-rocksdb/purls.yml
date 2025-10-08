@@ -1,0 +1,7 @@
+- pkg:cargo/electrs-rocksdb@0.15.0-e1
+- pkg:cargo/electrs-rocksdb@0.15.0-e2
+- pkg:cargo/electrs-rocksdb@0.15.0-e3
+- pkg:cargo/electrs-rocksdb@0.15.1-rc1
+- pkg:cargo/electrs-rocksdb@0.19.0-e1
+- pkg:cargo/electrs-rocksdb@0.19.0-e2
+- pkg:cargo/electrs-rocksdb@0.19.0-e3

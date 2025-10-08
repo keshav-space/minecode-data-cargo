@@ -1,0 +1,3 @@
+- pkg:cargo/rmalloc@1.0.0
+- pkg:cargo/rmalloc@1.0.1
+- pkg:cargo/rmalloc@1.1.0

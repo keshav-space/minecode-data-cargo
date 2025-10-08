@@ -1,0 +1,4 @@
+- pkg:cargo/fvm-wasm-instrument@0.1.2
+- pkg:cargo/fvm-wasm-instrument@0.2.0
+- pkg:cargo/fvm-wasm-instrument@0.3.0
+- pkg:cargo/fvm-wasm-instrument@0.4.0

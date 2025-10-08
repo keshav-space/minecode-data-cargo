@@ -1,0 +1,5 @@
+- pkg:cargo/format_no_std@1.0.0
+- pkg:cargo/format_no_std@1.0.1
+- pkg:cargo/format_no_std@1.0.2
+- pkg:cargo/format_no_std@1.1.0
+- pkg:cargo/format_no_std@1.2.0

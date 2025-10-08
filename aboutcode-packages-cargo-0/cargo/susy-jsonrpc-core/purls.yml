@@ -1,0 +1,4 @@
+- pkg:cargo/susy-jsonrpc-core@10.0.1
+- pkg:cargo/susy-jsonrpc-core@10.0.2
+- pkg:cargo/susy-jsonrpc-core@10.1.0
+- pkg:cargo/susy-jsonrpc-core@8.0.0

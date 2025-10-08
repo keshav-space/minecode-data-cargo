@@ -1,0 +1,16 @@
+- pkg:cargo/fvm_ipld_hamt@0.1.0
+- pkg:cargo/fvm_ipld_hamt@0.10.0
+- pkg:cargo/fvm_ipld_hamt@0.10.1
+- pkg:cargo/fvm_ipld_hamt@0.10.2
+- pkg:cargo/fvm_ipld_hamt@0.10.3
+- pkg:cargo/fvm_ipld_hamt@0.10.4
+- pkg:cargo/fvm_ipld_hamt@0.2.0
+- pkg:cargo/fvm_ipld_hamt@0.3.0
+- pkg:cargo/fvm_ipld_hamt@0.4.0
+- pkg:cargo/fvm_ipld_hamt@0.5.0
+- pkg:cargo/fvm_ipld_hamt@0.5.1
+- pkg:cargo/fvm_ipld_hamt@0.6.0
+- pkg:cargo/fvm_ipld_hamt@0.6.1
+- pkg:cargo/fvm_ipld_hamt@0.7.0
+- pkg:cargo/fvm_ipld_hamt@0.8.0
+- pkg:cargo/fvm_ipld_hamt@0.9.0

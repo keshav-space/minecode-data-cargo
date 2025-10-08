@@ -1,0 +1,2 @@
+- pkg:cargo/novax-sqlx-postgres@0.0.1
+- pkg:cargo/novax-sqlx-postgres@0.1.0

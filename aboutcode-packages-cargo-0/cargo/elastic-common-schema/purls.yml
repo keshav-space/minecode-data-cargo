@@ -1,0 +1,2 @@
+- pkg:cargo/elastic-common-schema@1.10.0
+- pkg:cargo/elastic-common-schema@8.11.0

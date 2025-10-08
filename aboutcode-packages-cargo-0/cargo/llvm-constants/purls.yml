@@ -1,0 +1,4 @@
+- pkg:cargo/llvm-constants@0.0.2
+- pkg:cargo/llvm-constants@0.0.2-rc.2
+- pkg:cargo/llvm-constants@0.0.2-rc.3
+- pkg:cargo/llvm-constants@0.0.2-rc.4

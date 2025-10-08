@@ -1,0 +1,2 @@
+- pkg:cargo/surrealdb-migrate-db-client@0.1.0
+- pkg:cargo/surrealdb-migrate-db-client@0.2.0

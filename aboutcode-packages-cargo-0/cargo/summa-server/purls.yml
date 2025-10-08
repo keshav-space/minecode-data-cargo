@@ -1,0 +1,4 @@
+- pkg:cargo/summa-server@0.10.0
+- pkg:cargo/summa-server@0.19.2
+- pkg:cargo/summa-server@0.22.6
+- pkg:cargo/summa-server@0.9.0

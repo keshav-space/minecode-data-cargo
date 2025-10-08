@@ -1,0 +1,5 @@
+- pkg:cargo/susy-codec-derive@2.1.0
+- pkg:cargo/susy-codec-derive@2.2.0
+- pkg:cargo/susy-codec-derive@3.1.0
+- pkg:cargo/susy-codec-derive@3.2.0
+- pkg:cargo/susy-codec-derive@3.3.0

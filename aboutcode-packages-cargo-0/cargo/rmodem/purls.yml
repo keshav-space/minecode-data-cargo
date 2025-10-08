@@ -1,0 +1,4 @@
+- pkg:cargo/rmodem@0.1.0
+- pkg:cargo/rmodem@0.1.0-pre-release
+- pkg:cargo/rmodem@0.1.0-prerelease
+- pkg:cargo/rmodem@0.1.1

@@ -1,0 +1,10 @@
+- pkg:cargo/substreams-solana-core@0.1.1
+- pkg:cargo/substreams-solana-core@0.10.1
+- pkg:cargo/substreams-solana-core@0.10.2
+- pkg:cargo/substreams-solana-core@0.11.0
+- pkg:cargo/substreams-solana-core@0.11.1
+- pkg:cargo/substreams-solana-core@0.12.0
+- pkg:cargo/substreams-solana-core@0.13.0
+- pkg:cargo/substreams-solana-core@0.14.0
+- pkg:cargo/substreams-solana-core@0.14.1
+- pkg:cargo/substreams-solana-core@0.14.2

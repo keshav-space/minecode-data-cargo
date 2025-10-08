@@ -1,0 +1,4 @@
+- pkg:cargo/llm_stream@0.1.0
+- pkg:cargo/llm_stream@0.2.0
+- pkg:cargo/llm_stream@0.3.0
+- pkg:cargo/llm_stream@0.3.1

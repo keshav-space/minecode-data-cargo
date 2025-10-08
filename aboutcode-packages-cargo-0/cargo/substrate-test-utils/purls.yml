@@ -1,0 +1,4 @@
+- pkg:cargo/substrate-test-utils@2.0.0
+- pkg:cargo/substrate-test-utils@2.0.0-rc6
+- pkg:cargo/substrate-test-utils@2.0.1
+- pkg:cargo/substrate-test-utils@3.0.0

@@ -1,0 +1,15 @@
+- pkg:cargo/suricata-derive@7.0.0-alpha.2
+- pkg:cargo/suricata-derive@7.0.0-alpha.3
+- pkg:cargo/suricata-derive@7.0.0-alpha.4
+- pkg:cargo/suricata-derive@7.0.0-alpha.5
+- pkg:cargo/suricata-derive@7.0.10
+- pkg:cargo/suricata-derive@7.0.12
+- pkg:cargo/suricata-derive@7.0.5
+- pkg:cargo/suricata-derive@7.0.8
+- pkg:cargo/suricata-derive@8.0.0
+- pkg:cargo/suricata-derive@8.0.0-alpha.1
+- pkg:cargo/suricata-derive@8.0.0-alpha.20240613
+- pkg:cargo/suricata-derive@8.0.0-beta1
+- pkg:cargo/suricata-derive@8.0.0-rc1
+- pkg:cargo/suricata-derive@8.0.0-rc1.1
+- pkg:cargo/suricata-derive@8.0.1

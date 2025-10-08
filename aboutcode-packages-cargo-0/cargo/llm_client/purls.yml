@@ -1,0 +1,5 @@
+- pkg:cargo/llm_client@0.0.2
+- pkg:cargo/llm_client@0.0.4
+- pkg:cargo/llm_client@0.0.5
+- pkg:cargo/llm_client@0.0.6
+- pkg:cargo/llm_client@0.0.7

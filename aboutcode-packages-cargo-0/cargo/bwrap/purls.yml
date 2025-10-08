@@ -1,0 +1,13 @@
+- pkg:cargo/bwrap@0.1.0-beta1
+- pkg:cargo/bwrap@0.1.0-beta2
+- pkg:cargo/bwrap@0.1.0-beta3
+- pkg:cargo/bwrap@0.1.0-beta4
+- pkg:cargo/bwrap@0.1.0-beta5
+- pkg:cargo/bwrap@0.1.0-beta6
+- pkg:cargo/bwrap@1.0.0
+- pkg:cargo/bwrap@1.1.0
+- pkg:cargo/bwrap@1.1.1
+- pkg:cargo/bwrap@1.2.0
+- pkg:cargo/bwrap@1.2.1
+- pkg:cargo/bwrap@1.2.3
+- pkg:cargo/bwrap@1.3.0

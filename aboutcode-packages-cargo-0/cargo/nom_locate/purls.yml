@@ -1,0 +1,16 @@
+- pkg:cargo/nom_locate@0.0.0
+- pkg:cargo/nom_locate@0.1.0
+- pkg:cargo/nom_locate@0.1.1
+- pkg:cargo/nom_locate@0.3.0
+- pkg:cargo/nom_locate@0.3.1
+- pkg:cargo/nom_locate@0.4.0
+- pkg:cargo/nom_locate@1.0.0
+- pkg:cargo/nom_locate@2.0.0
+- pkg:cargo/nom_locate@2.1.0
+- pkg:cargo/nom_locate@3.0.0
+- pkg:cargo/nom_locate@3.0.1
+- pkg:cargo/nom_locate@3.0.2
+- pkg:cargo/nom_locate@4.0.0
+- pkg:cargo/nom_locate@4.1.0
+- pkg:cargo/nom_locate@4.2.0
+- pkg:cargo/nom_locate@5.0.0

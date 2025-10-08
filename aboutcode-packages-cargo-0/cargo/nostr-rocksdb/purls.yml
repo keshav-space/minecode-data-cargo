@@ -1,0 +1,9 @@
+- pkg:cargo/nostr-rocksdb@0.0.0
+- pkg:cargo/nostr-rocksdb@0.26.0
+- pkg:cargo/nostr-rocksdb@0.28.0
+- pkg:cargo/nostr-rocksdb@0.29.0
+- pkg:cargo/nostr-rocksdb@0.30.0
+- pkg:cargo/nostr-rocksdb@0.31.0
+- pkg:cargo/nostr-rocksdb@0.32.0
+- pkg:cargo/nostr-rocksdb@0.33.0
+- pkg:cargo/nostr-rocksdb@0.34.0

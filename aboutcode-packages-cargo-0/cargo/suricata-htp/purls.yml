@@ -1,0 +1,4 @@
+- pkg:cargo/suricata-htp@2.0.0
+- pkg:cargo/suricata-htp@2.0.1-rc.1
+- pkg:cargo/suricata-htp@8.0.0
+- pkg:cargo/suricata-htp@8.0.1

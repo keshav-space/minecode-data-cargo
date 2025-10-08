@@ -1,0 +1,4 @@
+- pkg:cargo/substrate-wasmtime-profiling@0.16.0-threadsafe.1
+- pkg:cargo/substrate-wasmtime-profiling@0.16.0-threadsafe.2
+- pkg:cargo/substrate-wasmtime-profiling@0.16.0-threadsafe.3
+- pkg:cargo/substrate-wasmtime-profiling@0.16.0-threadsafe.4

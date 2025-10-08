@@ -1,0 +1,4 @@
+- pkg:cargo/subshell@0.1.0
+- pkg:cargo/subshell@0.1.1
+- pkg:cargo/subshell@1.23.0
+- pkg:cargo/subshell@1.23.1

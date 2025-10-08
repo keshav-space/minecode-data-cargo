@@ -1,0 +1,4 @@
+- pkg:cargo/supply-chain-trust-example-crate-000002@2.6.0
+- pkg:cargo/supply-chain-trust-example-crate-000002@2.6.1
+- pkg:cargo/supply-chain-trust-example-crate-000002@2.6.2
+- pkg:cargo/supply-chain-trust-example-crate-000002@2.9.1

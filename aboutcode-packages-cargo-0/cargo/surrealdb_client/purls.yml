@@ -1,0 +1,4 @@
+- pkg:cargo/surrealdb_client@0.1.0
+- pkg:cargo/surrealdb_client@1.5.4
+- pkg:cargo/surrealdb_client@1.5.5
+- pkg:cargo/surrealdb_client@2.0.0

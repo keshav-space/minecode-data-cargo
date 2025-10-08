@@ -1,0 +1,4 @@
+- pkg:cargo/substrate-test-utils-derive@0.8.0
+- pkg:cargo/substrate-test-utils-derive@0.8.0-rc6
+- pkg:cargo/substrate-test-utils-derive@0.8.1
+- pkg:cargo/substrate-test-utils-derive@0.9.0

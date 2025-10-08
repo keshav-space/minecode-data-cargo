@@ -1,0 +1,17 @@
+- pkg:cargo/nougat@0.0.0
+- pkg:cargo/nougat@0.0.1-alpha
+- pkg:cargo/nougat@0.1.0
+- pkg:cargo/nougat@0.1.0-rc1
+- pkg:cargo/nougat@0.1.0-rc2
+- pkg:cargo/nougat@0.2.0
+- pkg:cargo/nougat@0.2.0-rc1
+- pkg:cargo/nougat@0.2.0-rc2
+- pkg:cargo/nougat@0.2.1
+- pkg:cargo/nougat@0.2.1-rc1
+- pkg:cargo/nougat@0.2.1-rc2
+- pkg:cargo/nougat@0.2.2
+- pkg:cargo/nougat@0.2.2-rc1
+- pkg:cargo/nougat@0.2.3
+- pkg:cargo/nougat@0.2.3-rc1
+- pkg:cargo/nougat@0.2.3-rc2
+- pkg:cargo/nougat@0.2.4

@@ -1,0 +1,3 @@
+- pkg:cargo/llmvm-protocol@1.0.0
+- pkg:cargo/llmvm-protocol@2.0.0
+- pkg:cargo/llmvm-protocol@2.0.1

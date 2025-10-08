@@ -1,0 +1,9 @@
+- pkg:cargo/llvm-bitcursor@0.0.2
+- pkg:cargo/llvm-bitcursor@0.0.2-rc.10
+- pkg:cargo/llvm-bitcursor@0.0.2-rc.2
+- pkg:cargo/llvm-bitcursor@0.0.2-rc.3
+- pkg:cargo/llvm-bitcursor@0.0.2-rc.4
+- pkg:cargo/llvm-bitcursor@0.0.2-rc.5
+- pkg:cargo/llvm-bitcursor@0.0.2-rc.6
+- pkg:cargo/llvm-bitcursor@0.0.2-rc.9
+- pkg:cargo/llvm-bitcursor@0.0.3

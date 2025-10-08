@@ -1,0 +1,4 @@
+- pkg:cargo/rmqttd@0.15.0
+- pkg:cargo/rmqttd@0.15.1
+- pkg:cargo/rmqttd@0.16.0
+- pkg:cargo/rmqttd@0.16.1

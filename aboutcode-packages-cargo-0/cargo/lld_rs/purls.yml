@@ -1,0 +1,3 @@
+- pkg:cargo/lld_rs@120.0.1
+- pkg:cargo/lld_rs@130.0.0
+- pkg:cargo/lld_rs@140.0.0

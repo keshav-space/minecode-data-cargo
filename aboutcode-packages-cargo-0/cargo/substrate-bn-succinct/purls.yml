@@ -1,0 +1,6 @@
+- pkg:cargo/substrate-bn-succinct@0.6.0
+- pkg:cargo/substrate-bn-succinct@0.6.0-v4
+- pkg:cargo/substrate-bn-succinct@0.6.0-v4-alpha
+- pkg:cargo/substrate-bn-succinct@0.6.0-v4-rc.8
+- pkg:cargo/substrate-bn-succinct@0.6.0-v4.1.4
+- pkg:cargo/substrate-bn-succinct@0.6.0-v5.0.0
