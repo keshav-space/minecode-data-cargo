@@ -1,0 +1,8 @@
+- pkg:cargo/datafusion-datasource-avro@47.0.0
+- pkg:cargo/datafusion-datasource-avro@48.0.0
+- pkg:cargo/datafusion-datasource-avro@48.0.1
+- pkg:cargo/datafusion-datasource-avro@49.0.0
+- pkg:cargo/datafusion-datasource-avro@49.0.1
+- pkg:cargo/datafusion-datasource-avro@49.0.2
+- pkg:cargo/datafusion-datasource-avro@50.0.0
+- pkg:cargo/datafusion-datasource-avro@50.1.0

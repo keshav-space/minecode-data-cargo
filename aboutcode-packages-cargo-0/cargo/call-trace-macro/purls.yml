@@ -1,0 +1,4 @@
+- pkg:cargo/call-trace-macro@0.1.0
+- pkg:cargo/call-trace-macro@0.2.0
+- pkg:cargo/call-trace-macro@0.3.0
+- pkg:cargo/call-trace-macro@0.4.0

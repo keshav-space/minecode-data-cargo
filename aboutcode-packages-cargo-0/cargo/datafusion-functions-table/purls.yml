@@ -1,0 +1,12 @@
+- pkg:cargo/datafusion-functions-table@44.0.0
+- pkg:cargo/datafusion-functions-table@45.0.0
+- pkg:cargo/datafusion-functions-table@46.0.0
+- pkg:cargo/datafusion-functions-table@46.0.1
+- pkg:cargo/datafusion-functions-table@47.0.0
+- pkg:cargo/datafusion-functions-table@48.0.0
+- pkg:cargo/datafusion-functions-table@48.0.1
+- pkg:cargo/datafusion-functions-table@49.0.0
+- pkg:cargo/datafusion-functions-table@49.0.1
+- pkg:cargo/datafusion-functions-table@49.0.2
+- pkg:cargo/datafusion-functions-table@50.0.0
+- pkg:cargo/datafusion-functions-table@50.1.0

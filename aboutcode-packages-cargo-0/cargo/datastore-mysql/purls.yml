@@ -1,0 +1,2 @@
+- pkg:cargo/datastore-mysql@0.1.0
+- pkg:cargo/datastore-mysql@0.2.0

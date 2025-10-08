@@ -1,0 +1,8 @@
+- pkg:cargo/datafusion-session@47.0.0
+- pkg:cargo/datafusion-session@48.0.0
+- pkg:cargo/datafusion-session@48.0.1
+- pkg:cargo/datafusion-session@49.0.0
+- pkg:cargo/datafusion-session@49.0.1
+- pkg:cargo/datafusion-session@49.0.2
+- pkg:cargo/datafusion-session@50.0.0
+- pkg:cargo/datafusion-session@50.1.0

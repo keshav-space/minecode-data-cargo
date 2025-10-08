@@ -1,0 +1,6 @@
+- pkg:cargo/datafusion-functions-array@36.0.0
+- pkg:cargo/datafusion-functions-array@37.0.0
+- pkg:cargo/datafusion-functions-array@37.1.0
+- pkg:cargo/datafusion-functions-array@38.0.0
+- pkg:cargo/datafusion-functions-array@39.0.0
+- pkg:cargo/datafusion-functions-array@40.0.0

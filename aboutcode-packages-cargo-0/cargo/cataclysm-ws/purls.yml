@@ -1,0 +1,15 @@
+- pkg:cargo/cataclysm-ws@0.1.0
+- pkg:cargo/cataclysm-ws@0.1.1
+- pkg:cargo/cataclysm-ws@0.1.2
+- pkg:cargo/cataclysm-ws@0.2.0-beta.1
+- pkg:cargo/cataclysm-ws@0.2.0-beta.2
+- pkg:cargo/cataclysm-ws@0.2.0-beta.3
+- pkg:cargo/cataclysm-ws@0.2.0-beta.4
+- pkg:cargo/cataclysm-ws@0.2.0-beta.5
+- pkg:cargo/cataclysm-ws@0.2.0-beta.6
+- pkg:cargo/cataclysm-ws@0.3.0-beta.1
+- pkg:cargo/cataclysm-ws@0.3.0-beta.2
+- pkg:cargo/cataclysm-ws@0.3.0-beta.3
+- pkg:cargo/cataclysm-ws@0.4.0-beta.1
+- pkg:cargo/cataclysm-ws@0.4.0-beta.2
+- pkg:cargo/cataclysm-ws@0.5.0

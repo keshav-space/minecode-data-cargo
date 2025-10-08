@@ -1,0 +1,5 @@
+- pkg:cargo/daemonizer@0.2.4
+- pkg:cargo/daemonizer@0.3.4
+- pkg:cargo/daemonizer@0.4.0
+- pkg:cargo/daemonizer@0.4.1
+- pkg:cargo/daemonizer@0.4.2

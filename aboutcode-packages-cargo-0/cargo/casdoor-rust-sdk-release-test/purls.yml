@@ -1,0 +1,4 @@
+- pkg:cargo/casdoor-rust-sdk-release-test@1.0.0
+- pkg:cargo/casdoor-rust-sdk-release-test@1.3.0
+- pkg:cargo/casdoor-rust-sdk-release-test@1.4.0
+- pkg:cargo/casdoor-rust-sdk-release-test@1.5.0

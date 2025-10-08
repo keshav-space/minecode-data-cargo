@@ -1,0 +1,17 @@
+- pkg:cargo/dapr-macros@0.14.0
+- pkg:cargo/dapr-macros@0.15.0
+- pkg:cargo/dapr-macros@0.15.1
+- pkg:cargo/dapr-macros@0.15.1-rc.1
+- pkg:cargo/dapr-macros@0.16.0
+- pkg:cargo/dapr-macros@0.16.0-rc.0
+- pkg:cargo/dapr-macros@0.16.0-rc.1
+- pkg:cargo/dapr-macros@0.16.0-rc.2
+- pkg:cargo/dapr-macros@0.16.0-rc.3
+- pkg:cargo/dapr-macros@0.16.0-rc.4
+- pkg:cargo/dapr-macros@0.16.0-rc.5
+- pkg:cargo/dapr-macros@0.16.0-rc.6
+- pkg:cargo/dapr-macros@0.16.0-rc.7
+- pkg:cargo/dapr-macros@0.16.1
+- pkg:cargo/dapr-macros@0.16.2
+- pkg:cargo/dapr-macros@0.17.0
+- pkg:cargo/dapr-macros@0.17.0-rc.0

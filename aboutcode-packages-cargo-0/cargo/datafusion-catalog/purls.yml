@@ -1,0 +1,17 @@
+- pkg:cargo/datafusion-catalog@41.0.0
+- pkg:cargo/datafusion-catalog@42.0.0
+- pkg:cargo/datafusion-catalog@42.1.0
+- pkg:cargo/datafusion-catalog@42.2.0
+- pkg:cargo/datafusion-catalog@43.0.0
+- pkg:cargo/datafusion-catalog@44.0.0
+- pkg:cargo/datafusion-catalog@45.0.0
+- pkg:cargo/datafusion-catalog@46.0.0
+- pkg:cargo/datafusion-catalog@46.0.1
+- pkg:cargo/datafusion-catalog@47.0.0
+- pkg:cargo/datafusion-catalog@48.0.0
+- pkg:cargo/datafusion-catalog@48.0.1
+- pkg:cargo/datafusion-catalog@49.0.0
+- pkg:cargo/datafusion-catalog@49.0.1
+- pkg:cargo/datafusion-catalog@49.0.2
+- pkg:cargo/datafusion-catalog@50.0.0
+- pkg:cargo/datafusion-catalog@50.1.0

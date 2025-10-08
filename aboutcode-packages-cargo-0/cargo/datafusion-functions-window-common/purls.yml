@@ -1,0 +1,13 @@
+- pkg:cargo/datafusion-functions-window-common@43.0.0
+- pkg:cargo/datafusion-functions-window-common@44.0.0
+- pkg:cargo/datafusion-functions-window-common@45.0.0
+- pkg:cargo/datafusion-functions-window-common@46.0.0
+- pkg:cargo/datafusion-functions-window-common@46.0.1
+- pkg:cargo/datafusion-functions-window-common@47.0.0
+- pkg:cargo/datafusion-functions-window-common@48.0.0
+- pkg:cargo/datafusion-functions-window-common@48.0.1
+- pkg:cargo/datafusion-functions-window-common@49.0.0
+- pkg:cargo/datafusion-functions-window-common@49.0.1
+- pkg:cargo/datafusion-functions-window-common@49.0.2
+- pkg:cargo/datafusion-functions-window-common@50.0.0
+- pkg:cargo/datafusion-functions-window-common@50.1.0

@@ -1,0 +1,9 @@
+- pkg:cargo/datafusion-tracing@47.0.0
+- pkg:cargo/datafusion-tracing@47.0.1
+- pkg:cargo/datafusion-tracing@47.0.2
+- pkg:cargo/datafusion-tracing@48.0.0
+- pkg:cargo/datafusion-tracing@48.0.1
+- pkg:cargo/datafusion-tracing@49.0.0
+- pkg:cargo/datafusion-tracing@50.0.0
+- pkg:cargo/datafusion-tracing@50.0.1
+- pkg:cargo/datafusion-tracing@50.0.2

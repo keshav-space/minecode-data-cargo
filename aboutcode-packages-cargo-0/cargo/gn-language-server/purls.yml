@@ -1,0 +1,5 @@
+- pkg:cargo/gn-language-server@1.0.0
+- pkg:cargo/gn-language-server@1.4.0
+- pkg:cargo/gn-language-server@1.5.1
+- pkg:cargo/gn-language-server@1.5.2
+- pkg:cargo/gn-language-server@1.8.0

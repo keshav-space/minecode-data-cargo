@@ -1,0 +1,10 @@
+- pkg:cargo/datafusion-datasource@46.0.0
+- pkg:cargo/datafusion-datasource@46.0.1
+- pkg:cargo/datafusion-datasource@47.0.0
+- pkg:cargo/datafusion-datasource@48.0.0
+- pkg:cargo/datafusion-datasource@48.0.1
+- pkg:cargo/datafusion-datasource@49.0.0
+- pkg:cargo/datafusion-datasource@49.0.1
+- pkg:cargo/datafusion-datasource@49.0.2
+- pkg:cargo/datafusion-datasource@50.0.0
+- pkg:cargo/datafusion-datasource@50.1.0
