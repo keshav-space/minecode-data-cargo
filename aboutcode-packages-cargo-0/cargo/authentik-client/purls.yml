@@ -17,6 +17,7 @@
 - pkg:cargo/authentik-client@2025.10.0-rc1.1759331860
 - pkg:cargo/authentik-client@2025.10.0-rc1.1759848209
 - pkg:cargo/authentik-client@2025.10.0-rc1.1759854101
+- pkg:cargo/authentik-client@2025.10.0-rc1.1759935281
 - pkg:cargo/authentik-client@2025.2.0
 - pkg:cargo/authentik-client@2025.2.0-rc1
 - pkg:cargo/authentik-client@2025.2.0-rc2
