@@ -1,0 +1,13 @@
+- pkg:cargo/fast-glob@0.1.0
+- pkg:cargo/fast-glob@0.2.0
+- pkg:cargo/fast-glob@0.3.0
+- pkg:cargo/fast-glob@0.3.1
+- pkg:cargo/fast-glob@0.3.2
+- pkg:cargo/fast-glob@0.3.3
+- pkg:cargo/fast-glob@0.4.0
+- pkg:cargo/fast-glob@0.4.1
+- pkg:cargo/fast-glob@0.4.2
+- pkg:cargo/fast-glob@0.4.3
+- pkg:cargo/fast-glob@0.4.4
+- pkg:cargo/fast-glob@0.4.5
+- pkg:cargo/fast-glob@1.0.0

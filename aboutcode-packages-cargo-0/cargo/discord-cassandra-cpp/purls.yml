@@ -1,0 +1,14 @@
+- pkg:cargo/discord-cassandra-cpp@0.15.1
+- pkg:cargo/discord-cassandra-cpp@0.15.2-rc0
+- pkg:cargo/discord-cassandra-cpp@0.15.2-rc1
+- pkg:cargo/discord-cassandra-cpp@0.15.2-rc2
+- pkg:cargo/discord-cassandra-cpp@0.16.0-rc0
+- pkg:cargo/discord-cassandra-cpp@0.16.0-rc1
+- pkg:cargo/discord-cassandra-cpp@0.16.0-rc2
+- pkg:cargo/discord-cassandra-cpp@0.16.1-rc0
+- pkg:cargo/discord-cassandra-cpp@0.16.1-rc1
+- pkg:cargo/discord-cassandra-cpp@0.16.2-rc0
+- pkg:cargo/discord-cassandra-cpp@0.16.3
+- pkg:cargo/discord-cassandra-cpp@0.16.4
+- pkg:cargo/discord-cassandra-cpp@0.16.5
+- pkg:cargo/discord-cassandra-cpp@0.16.6

@@ -1,0 +1,4 @@
+- pkg:cargo/diesel-selectable-macro@0.1.0
+- pkg:cargo/diesel-selectable-macro@0.2.0
+- pkg:cargo/diesel-selectable-macro@0.3.0
+- pkg:cargo/diesel-selectable-macro@1.0.0

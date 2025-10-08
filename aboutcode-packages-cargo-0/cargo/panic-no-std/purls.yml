@@ -1,0 +1,2 @@
+- pkg:cargo/panic-no-std@0.0.1
+- pkg:cargo/panic-no-std@0.1.0

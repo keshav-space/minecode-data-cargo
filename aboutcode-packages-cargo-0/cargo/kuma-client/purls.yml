@@ -1,0 +1,9 @@
+- pkg:cargo/kuma-client@0.0.0
+- pkg:cargo/kuma-client@0.0.1
+- pkg:cargo/kuma-client@0.0.3
+- pkg:cargo/kuma-client@0.4.1
+- pkg:cargo/kuma-client@0.5.0
+- pkg:cargo/kuma-client@0.6.0
+- pkg:cargo/kuma-client@0.7.0
+- pkg:cargo/kuma-client@0.8.0
+- pkg:cargo/kuma-client@1.0.0

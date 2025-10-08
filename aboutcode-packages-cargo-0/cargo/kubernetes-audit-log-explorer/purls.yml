@@ -1,0 +1,5 @@
+- pkg:cargo/kubernetes-audit-log-explorer@0.1.0
+- pkg:cargo/kubernetes-audit-log-explorer@0.2.0
+- pkg:cargo/kubernetes-audit-log-explorer@0.3.0
+- pkg:cargo/kubernetes-audit-log-explorer@0.3.1
+- pkg:cargo/kubernetes-audit-log-explorer@0.3.2

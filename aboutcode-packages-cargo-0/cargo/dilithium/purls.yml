@@ -1,0 +1,5 @@
+- pkg:cargo/dilithium@0.1.0
+- pkg:cargo/dilithium@0.1.1
+- pkg:cargo/dilithium@0.1.2%2Bdeprecated
+- pkg:cargo/dilithium@0.2.0-alpha.2
+- pkg:cargo/dilithium@0.2.0-alpha.3

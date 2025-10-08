@@ -1,0 +1,12 @@
+- pkg:cargo/packer@0.1.0
+- pkg:cargo/packer@0.2.0
+- pkg:cargo/packer@0.3.0
+- pkg:cargo/packer@0.3.1
+- pkg:cargo/packer@0.4.0
+- pkg:cargo/packer@0.4.1
+- pkg:cargo/packer@0.5.0
+- pkg:cargo/packer@0.5.1
+- pkg:cargo/packer@0.5.2
+- pkg:cargo/packer@0.5.3
+- pkg:cargo/packer@0.5.5
+- pkg:cargo/packer@0.5.7

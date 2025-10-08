@@ -1,0 +1,15 @@
+- pkg:cargo/diesel-connection@1.0.0
+- pkg:cargo/diesel-connection@1.0.1
+- pkg:cargo/diesel-connection@1.0.3
+- pkg:cargo/diesel-connection@1.0.4
+- pkg:cargo/diesel-connection@1.0.4-beta.1
+- pkg:cargo/diesel-connection@1.0.5
+- pkg:cargo/diesel-connection@1.0.6
+- pkg:cargo/diesel-connection@2.0.0
+- pkg:cargo/diesel-connection@2.0.0-rc.0
+- pkg:cargo/diesel-connection@3.0.0
+- pkg:cargo/diesel-connection@3.0.1
+- pkg:cargo/diesel-connection@3.0.2
+- pkg:cargo/diesel-connection@4.0.0
+- pkg:cargo/diesel-connection@4.0.1
+- pkg:cargo/diesel-connection@4.1.0

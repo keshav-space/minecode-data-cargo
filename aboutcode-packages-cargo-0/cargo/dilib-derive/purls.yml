@@ -1,0 +1,4 @@
+- pkg:cargo/dilib-derive@0.1.0-alpha
+- pkg:cargo/dilib-derive@0.2.0
+- pkg:cargo/dilib-derive@0.2.0-alpha
+- pkg:cargo/dilib-derive@0.2.1-alpha

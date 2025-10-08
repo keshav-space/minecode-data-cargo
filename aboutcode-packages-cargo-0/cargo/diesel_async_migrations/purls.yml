@@ -1,0 +1,4 @@
+- pkg:cargo/diesel_async_migrations@0.12.0
+- pkg:cargo/diesel_async_migrations@0.13.0
+- pkg:cargo/diesel_async_migrations@0.14.0
+- pkg:cargo/diesel_async_migrations@0.15.0

@@ -1,0 +1,5 @@
+- pkg:cargo/fastcgi@1.0.0
+- pkg:cargo/fastcgi@1.0.0-alpha
+- pkg:cargo/fastcgi@1.0.0-alpha.2
+- pkg:cargo/fastcgi@1.0.0-alpha.3
+- pkg:cargo/fastcgi@1.0.0-beta

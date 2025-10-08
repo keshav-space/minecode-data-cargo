@@ -1,0 +1,2 @@
+- pkg:cargo/kube-subcontroller@0.0.1
+- pkg:cargo/kube-subcontroller@0.0.2

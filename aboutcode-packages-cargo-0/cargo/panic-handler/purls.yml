@@ -1,0 +1,4 @@
+- pkg:cargo/panic-handler@0.0.0
+- pkg:cargo/panic-handler@2.0.1
+- pkg:cargo/panic-handler@2.0.2
+- pkg:cargo/panic-handler@2.1.2

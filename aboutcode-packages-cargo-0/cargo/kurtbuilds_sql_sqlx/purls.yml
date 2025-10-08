@@ -1,0 +1,4 @@
+- pkg:cargo/kurtbuilds_sql_sqlx@0.25.0
+- pkg:cargo/kurtbuilds_sql_sqlx@0.25.1
+- pkg:cargo/kurtbuilds_sql_sqlx@0.25.2
+- pkg:cargo/kurtbuilds_sql_sqlx@0.26.0

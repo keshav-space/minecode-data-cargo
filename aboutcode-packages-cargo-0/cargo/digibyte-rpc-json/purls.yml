@@ -1,0 +1,4 @@
+- pkg:cargo/digibyte-rpc-json@0.13.0
+- pkg:cargo/digibyte-rpc-json@0.13.1
+- pkg:cargo/digibyte-rpc-json@0.13.2
+- pkg:cargo/digibyte-rpc-json@0.13.3

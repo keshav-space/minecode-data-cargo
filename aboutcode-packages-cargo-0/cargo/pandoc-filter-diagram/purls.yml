@@ -1,0 +1,4 @@
+- pkg:cargo/pandoc-filter-diagram@0.1.0
+- pkg:cargo/pandoc-filter-diagram@0.1.1
+- pkg:cargo/pandoc-filter-diagram@0.2.0
+- pkg:cargo/pandoc-filter-diagram@0.2.1
