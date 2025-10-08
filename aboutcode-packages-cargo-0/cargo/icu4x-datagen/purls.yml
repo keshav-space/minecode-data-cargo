@@ -1,0 +1,4 @@
+- pkg:cargo/icu4x-datagen@0.0.1
+- pkg:cargo/icu4x-datagen@2.0.0
+- pkg:cargo/icu4x-datagen@2.0.0-beta1
+- pkg:cargo/icu4x-datagen@2.0.0-beta2

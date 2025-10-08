@@ -1,0 +1,5 @@
+- pkg:cargo/seal_fhe@0.5.0
+- pkg:cargo/seal_fhe@0.6.0
+- pkg:cargo/seal_fhe@0.7.0
+- pkg:cargo/seal_fhe@0.8.0
+- pkg:cargo/seal_fhe@0.8.1

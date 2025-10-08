@@ -1,0 +1,2 @@
+- pkg:cargo/serde-avro-bytes@0.1.0
+- pkg:cargo/serde-avro-bytes@0.2.0

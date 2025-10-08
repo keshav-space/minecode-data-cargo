@@ -1,0 +1,5 @@
+- pkg:cargo/iced_renderer@0.0.1
+- pkg:cargo/iced_renderer@0.1.0
+- pkg:cargo/iced_renderer@0.12.0
+- pkg:cargo/iced_renderer@0.12.1
+- pkg:cargo/iced_renderer@0.13.0

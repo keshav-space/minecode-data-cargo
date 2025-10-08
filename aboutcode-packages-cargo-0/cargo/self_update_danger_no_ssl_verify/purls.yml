@@ -1,0 +1,2 @@
+- pkg:cargo/self_update_danger_no_ssl_verify@0.37.0
+- pkg:cargo/self_update_danger_no_ssl_verify@0.38.0

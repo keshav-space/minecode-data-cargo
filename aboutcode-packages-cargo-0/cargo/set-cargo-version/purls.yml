@@ -1,0 +1,3 @@
+- pkg:cargo/set-cargo-version@1.0.0
+- pkg:cargo/set-cargo-version@1.2.0
+- pkg:cargo/set-cargo-version@1.2.1

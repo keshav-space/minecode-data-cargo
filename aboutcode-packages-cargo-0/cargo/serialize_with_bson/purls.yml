@@ -1,0 +1,5 @@
+- pkg:cargo/serialize_with_bson@0.1.0
+- pkg:cargo/serialize_with_bson@0.1.1
+- pkg:cargo/serialize_with_bson@0.1.2
+- pkg:cargo/serialize_with_bson@0.1.3
+- pkg:cargo/serialize_with_bson@0.1.4

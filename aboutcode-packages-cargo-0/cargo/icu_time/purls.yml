@@ -1,0 +1,3 @@
+- pkg:cargo/icu_time@0.0.1
+- pkg:cargo/icu_time@2.0.0
+- pkg:cargo/icu_time@2.0.0-beta2

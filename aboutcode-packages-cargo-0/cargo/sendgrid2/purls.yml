@@ -1,0 +1,4 @@
+- pkg:cargo/sendgrid2@0.1.0
+- pkg:cargo/sendgrid2@1.0.0
+- pkg:cargo/sendgrid2@2.0.0
+- pkg:cargo/sendgrid2@4.0.0

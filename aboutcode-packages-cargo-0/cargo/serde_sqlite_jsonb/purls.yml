@@ -1,0 +1,4 @@
+- pkg:cargo/serde_sqlite_jsonb@0.0.1-alpha
+- pkg:cargo/serde_sqlite_jsonb@0.1.0
+- pkg:cargo/serde_sqlite_jsonb@0.2.0
+- pkg:cargo/serde_sqlite_jsonb@0.2.1

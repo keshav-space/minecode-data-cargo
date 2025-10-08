@@ -1,0 +1,2 @@
+- pkg:cargo/tetsy-rocksdb-sys@0.5.2
+- pkg:cargo/tetsy-rocksdb-sys@0.5.6

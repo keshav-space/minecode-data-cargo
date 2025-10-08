@@ -1,0 +1,4 @@
+- pkg:cargo/serum-borsh@0.7.2%2Bserum.1
+- pkg:cargo/serum-borsh@0.7.2%2Bserum.2
+- pkg:cargo/serum-borsh@0.8.0-serum.1
+- pkg:cargo/serum-borsh@0.8.1-serum.1

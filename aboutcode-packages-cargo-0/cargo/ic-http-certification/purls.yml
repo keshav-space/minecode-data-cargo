@@ -1,0 +1,12 @@
+- pkg:cargo/ic-http-certification@2.0.0
+- pkg:cargo/ic-http-certification@2.0.1
+- pkg:cargo/ic-http-certification@2.1.0
+- pkg:cargo/ic-http-certification@2.2.0
+- pkg:cargo/ic-http-certification@2.3.0
+- pkg:cargo/ic-http-certification@2.4.0
+- pkg:cargo/ic-http-certification@2.5.0
+- pkg:cargo/ic-http-certification@2.6.0
+- pkg:cargo/ic-http-certification@3.0.0
+- pkg:cargo/ic-http-certification@3.0.1
+- pkg:cargo/ic-http-certification@3.0.2
+- pkg:cargo/ic-http-certification@3.0.3

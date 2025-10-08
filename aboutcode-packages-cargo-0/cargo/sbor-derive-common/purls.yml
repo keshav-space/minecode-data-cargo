@@ -1,0 +1,6 @@
+- pkg:cargo/sbor-derive-common@1.2.0
+- pkg:cargo/sbor-derive-common@1.2.0-dev
+- pkg:cargo/sbor-derive-common@1.3.0
+- pkg:cargo/sbor-derive-common@1.3.0-rc.1
+- pkg:cargo/sbor-derive-common@1.3.0-rc.2
+- pkg:cargo/sbor-derive-common@1.3.0-rc.3

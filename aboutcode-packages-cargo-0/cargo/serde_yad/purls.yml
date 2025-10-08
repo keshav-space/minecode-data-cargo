@@ -1,0 +1,4 @@
+- pkg:cargo/serde_yad@0.1.0
+- pkg:cargo/serde_yad@1.0.0
+- pkg:cargo/serde_yad@1.0.0-a
+- pkg:cargo/serde_yad@1.0.1

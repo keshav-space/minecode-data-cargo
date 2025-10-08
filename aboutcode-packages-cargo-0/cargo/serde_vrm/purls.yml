@@ -1,0 +1,5 @@
+- pkg:cargo/serde_vrm@0.0.10
+- pkg:cargo/serde_vrm@0.0.11
+- pkg:cargo/serde_vrm@0.0.12
+- pkg:cargo/serde_vrm@0.0.9
+- pkg:cargo/serde_vrm@0.1.0

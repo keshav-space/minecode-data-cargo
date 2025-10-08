@@ -1,0 +1,15 @@
+- pkg:cargo/ic-cbor@1.1.0
+- pkg:cargo/ic-cbor@1.2.0
+- pkg:cargo/ic-cbor@1.3.0
+- pkg:cargo/ic-cbor@2.0.0
+- pkg:cargo/ic-cbor@2.0.1
+- pkg:cargo/ic-cbor@2.1.0
+- pkg:cargo/ic-cbor@2.2.0
+- pkg:cargo/ic-cbor@2.3.0
+- pkg:cargo/ic-cbor@2.4.0
+- pkg:cargo/ic-cbor@2.5.0
+- pkg:cargo/ic-cbor@2.6.0
+- pkg:cargo/ic-cbor@3.0.0
+- pkg:cargo/ic-cbor@3.0.1
+- pkg:cargo/ic-cbor@3.0.2
+- pkg:cargo/ic-cbor@3.0.3

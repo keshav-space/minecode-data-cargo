@@ -1,0 +1,14 @@
+- pkg:cargo/sea-query-derive@0.1.0
+- pkg:cargo/sea-query-derive@0.1.1
+- pkg:cargo/sea-query-derive@0.1.2
+- pkg:cargo/sea-query-derive@0.2.0
+- pkg:cargo/sea-query-derive@0.3.0
+- pkg:cargo/sea-query-derive@0.3.1
+- pkg:cargo/sea-query-derive@0.4.0
+- pkg:cargo/sea-query-derive@0.4.1
+- pkg:cargo/sea-query-derive@0.4.2
+- pkg:cargo/sea-query-derive@0.4.3
+- pkg:cargo/sea-query-derive@1.0.0-rc.5
+- pkg:cargo/sea-query-derive@1.0.0-rc.7
+- pkg:cargo/sea-query-derive@1.0.0-rc.8
+- pkg:cargo/sea-query-derive@1.0.0-rc.9

@@ -1,0 +1,5 @@
+- pkg:cargo/serde_molecule@1.0.0
+- pkg:cargo/serde_molecule@1.0.1
+- pkg:cargo/serde_molecule@1.1.0
+- pkg:cargo/serde_molecule@1.1.1
+- pkg:cargo/serde_molecule@1.1.2

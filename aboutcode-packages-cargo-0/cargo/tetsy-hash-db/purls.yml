@@ -1,0 +1,4 @@
+- pkg:cargo/tetsy-hash-db@0.15.2
+- pkg:cargo/tetsy-hash-db@0.15.2-alpha
+- pkg:cargo/tetsy-hash-db@0.15.2-beta
+- pkg:cargo/tetsy-hash-db@0.15.3

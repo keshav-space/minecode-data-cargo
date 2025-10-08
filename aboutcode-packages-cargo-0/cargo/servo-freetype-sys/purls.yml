@@ -1,0 +1,7 @@
+- pkg:cargo/servo-freetype-sys@2.4.11
+- pkg:cargo/servo-freetype-sys@4.0.0
+- pkg:cargo/servo-freetype-sys@4.0.1
+- pkg:cargo/servo-freetype-sys@4.0.2
+- pkg:cargo/servo-freetype-sys@4.0.3
+- pkg:cargo/servo-freetype-sys@4.0.4
+- pkg:cargo/servo-freetype-sys@4.0.5

@@ -1,0 +1,4 @@
+- pkg:cargo/serde-reflect-intermediate-derive@1.2.0
+- pkg:cargo/serde-reflect-intermediate-derive@1.2.2
+- pkg:cargo/serde-reflect-intermediate-derive@1.2.3
+- pkg:cargo/serde-reflect-intermediate-derive@1.2.4

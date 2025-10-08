@@ -1,0 +1,9 @@
+- pkg:cargo/ic-evm-utils@0.1.0
+- pkg:cargo/ic-evm-utils@0.1.1
+- pkg:cargo/ic-evm-utils@0.1.2
+- pkg:cargo/ic-evm-utils@1.0.0
+- pkg:cargo/ic-evm-utils@2.0.0
+- pkg:cargo/ic-evm-utils@3.0.0
+- pkg:cargo/ic-evm-utils@3.1.0
+- pkg:cargo/ic-evm-utils@3.2.0
+- pkg:cargo/ic-evm-utils@4.0.0

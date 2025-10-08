@@ -1,0 +1,2 @@
+- pkg:cargo/serde_ethabi@0.2.1
+- pkg:cargo/serde_ethabi@0.2.2

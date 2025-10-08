@@ -1,0 +1,4 @@
+- pkg:cargo/search@0.0.2
+- pkg:cargo/search@0.1.0
+- pkg:cargo/search@1.0.0-beta
+- pkg:cargo/search@1.1.0
