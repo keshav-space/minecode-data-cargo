@@ -1,0 +1,12 @@
+- pkg:cargo/sc-simnode@1.15.0
+- pkg:cargo/sc-simnode@1.16.0
+- pkg:cargo/sc-simnode@1.6.0
+- pkg:cargo/sc-simnode@1.6.1
+- pkg:cargo/sc-simnode@1.6.2
+- pkg:cargo/sc-simnode@1.6.3
+- pkg:cargo/sc-simnode@1.8.0
+- pkg:cargo/sc-simnode@1.9.0
+- pkg:cargo/sc-simnode@16.0.0
+- pkg:cargo/sc-simnode@2412.0.0
+- pkg:cargo/sc-simnode@2503.0.0
+- pkg:cargo/sc-simnode@2506.0.0

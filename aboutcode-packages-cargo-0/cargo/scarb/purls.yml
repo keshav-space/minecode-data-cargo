@@ -1,0 +1,16 @@
+- pkg:cargo/scarb@0.0.1
+- pkg:cargo/scarb@0.1.0
+- pkg:cargo/scarb@0.1.0-rc.0
+- pkg:cargo/scarb@0.1.0-rc.2
+- pkg:cargo/scarb@0.2.0
+- pkg:cargo/scarb@0.2.0-alpha.0
+- pkg:cargo/scarb@0.2.1
+- pkg:cargo/scarb@0.3.0
+- pkg:cargo/scarb@0.5.0
+- pkg:cargo/scarb@0.5.0-alpha.0
+- pkg:cargo/scarb@0.5.0-alpha.1
+- pkg:cargo/scarb@0.5.0-alpha.2
+- pkg:cargo/scarb@0.5.0-alpha.3
+- pkg:cargo/scarb@0.5.0-alpha.4
+- pkg:cargo/scarb@0.5.2
+- pkg:cargo/scarb@0.6.0-alpha.1

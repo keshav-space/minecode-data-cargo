@@ -1,0 +1,5 @@
+- pkg:cargo/cosmic-registry-postgres@0.3.4
+- pkg:cargo/cosmic-registry-postgres@0.3.6
+- pkg:cargo/cosmic-registry-postgres@0.3.6-rc2
+- pkg:cargo/cosmic-registry-postgres@0.3.6-rc3
+- pkg:cargo/cosmic-registry-postgres@0.3.6-rc5

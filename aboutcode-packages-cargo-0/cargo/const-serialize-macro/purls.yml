@@ -1,0 +1,10 @@
+- pkg:cargo/const-serialize-macro@0.6.0
+- pkg:cargo/const-serialize-macro@0.6.0-rc.0
+- pkg:cargo/const-serialize-macro@0.6.1
+- pkg:cargo/const-serialize-macro@0.6.2
+- pkg:cargo/const-serialize-macro@0.7.0-alpha.0
+- pkg:cargo/const-serialize-macro@0.7.0-alpha.1
+- pkg:cargo/const-serialize-macro@0.7.0-alpha.2
+- pkg:cargo/const-serialize-macro@0.7.0-alpha.3
+- pkg:cargo/const-serialize-macro@0.7.0-rc.0
+- pkg:cargo/const-serialize-macro@0.7.0-rc.1

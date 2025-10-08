@@ -1,0 +1,5 @@
+- pkg:cargo/codegen-for-async-graphql-renderer@0.1.0
+- pkg:cargo/codegen-for-async-graphql-renderer@0.2.0
+- pkg:cargo/codegen-for-async-graphql-renderer@0.2.1
+- pkg:cargo/codegen-for-async-graphql-renderer@0.2.5
+- pkg:cargo/codegen-for-async-graphql-renderer@0.2.6

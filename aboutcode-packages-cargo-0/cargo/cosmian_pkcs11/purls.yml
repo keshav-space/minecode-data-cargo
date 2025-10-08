@@ -1,0 +1,5 @@
+- pkg:cargo/cosmian_pkcs11@0.4.0
+- pkg:cargo/cosmian_pkcs11@1.2.0
+- pkg:cargo/cosmian_pkcs11@1.3.0
+- pkg:cargo/cosmian_pkcs11@1.4.0
+- pkg:cargo/cosmian_pkcs11@1.4.1

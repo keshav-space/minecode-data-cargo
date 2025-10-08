@@ -1,0 +1,6 @@
+- pkg:cargo/core-nightly@0.0.0-20141227
+- pkg:cargo/core-nightly@2014.12.27
+- pkg:cargo/core-nightly@2014.12.29
+- pkg:cargo/core-nightly@2015.1.2
+- pkg:cargo/core-nightly@2015.1.5
+- pkg:cargo/core-nightly@2015.1.7

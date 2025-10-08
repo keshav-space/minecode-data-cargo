@@ -1,0 +1,12 @@
+- pkg:cargo/cosmwasm-vm-derive@2.2.0
+- pkg:cargo/cosmwasm-vm-derive@2.2.0-rc.1
+- pkg:cargo/cosmwasm-vm-derive@2.2.0-rc.2
+- pkg:cargo/cosmwasm-vm-derive@2.2.0-rc.3
+- pkg:cargo/cosmwasm-vm-derive@2.2.1
+- pkg:cargo/cosmwasm-vm-derive@2.2.2
+- pkg:cargo/cosmwasm-vm-derive@3.0.0
+- pkg:cargo/cosmwasm-vm-derive@3.0.0-ibc2.0
+- pkg:cargo/cosmwasm-vm-derive@3.0.0-rc.0
+- pkg:cargo/cosmwasm-vm-derive@3.0.0-rc.1
+- pkg:cargo/cosmwasm-vm-derive@3.0.1
+- pkg:cargo/cosmwasm-vm-derive@3.0.2

@@ -1,0 +1,2 @@
+- pkg:cargo/compat-no-std@0.4.1-1
+- pkg:cargo/compat-no-std@0.4.1-patch1

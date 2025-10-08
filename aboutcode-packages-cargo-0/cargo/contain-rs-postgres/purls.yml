@@ -1,0 +1,9 @@
+- pkg:cargo/contain-rs-postgres@0.2.0
+- pkg:cargo/contain-rs-postgres@0.2.0-alpha.3
+- pkg:cargo/contain-rs-postgres@0.2.0-alpha.4
+- pkg:cargo/contain-rs-postgres@0.2.0-alpha.5
+- pkg:cargo/contain-rs-postgres@0.2.0-alpha.6
+- pkg:cargo/contain-rs-postgres@0.2.0-alpha.9
+- pkg:cargo/contain-rs-postgres@0.2.1
+- pkg:cargo/contain-rs-postgres@0.2.2
+- pkg:cargo/contain-rs-postgres@0.2.3

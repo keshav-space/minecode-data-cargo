@@ -1,0 +1,6 @@
+- pkg:cargo/coinbase-client@0.1.0
+- pkg:cargo/coinbase-client@0.1.1
+- pkg:cargo/coinbase-client@0.1.2
+- pkg:cargo/coinbase-client@1.0.0-alpha
+- pkg:cargo/coinbase-client@1.0.0-beta
+- pkg:cargo/coinbase-client@1.0.1-alpha

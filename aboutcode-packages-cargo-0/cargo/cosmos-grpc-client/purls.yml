@@ -1,0 +1,14 @@
+- pkg:cargo/cosmos-grpc-client@0.1.0
+- pkg:cargo/cosmos-grpc-client@0.2.0
+- pkg:cargo/cosmos-grpc-client@0.2.1
+- pkg:cargo/cosmos-grpc-client@0.2.2
+- pkg:cargo/cosmos-grpc-client@0.2.4
+- pkg:cargo/cosmos-grpc-client@0.3.0
+- pkg:cargo/cosmos-grpc-client@1.0.0
+- pkg:cargo/cosmos-grpc-client@1.0.1
+- pkg:cargo/cosmos-grpc-client@1.0.2
+- pkg:cargo/cosmos-grpc-client@1.0.3
+- pkg:cargo/cosmos-grpc-client@2.0.0
+- pkg:cargo/cosmos-grpc-client@2.0.1
+- pkg:cargo/cosmos-grpc-client@2.0.2
+- pkg:cargo/cosmos-grpc-client@3.0.1

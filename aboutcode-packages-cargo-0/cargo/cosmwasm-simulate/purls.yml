@@ -1,0 +1,5 @@
+- pkg:cargo/cosmwasm-simulate@0.13.2
+- pkg:cargo/cosmwasm-simulate@0.13.3
+- pkg:cargo/cosmwasm-simulate@0.13.4
+- pkg:cargo/cosmwasm-simulate@0.13.5
+- pkg:cargo/cosmwasm-simulate@0.13.6

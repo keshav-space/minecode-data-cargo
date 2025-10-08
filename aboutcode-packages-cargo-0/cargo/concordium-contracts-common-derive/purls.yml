@@ -1,0 +1,7 @@
+- pkg:cargo/concordium-contracts-common-derive@1.0.0
+- pkg:cargo/concordium-contracts-common-derive@1.0.1
+- pkg:cargo/concordium-contracts-common-derive@2.0.0
+- pkg:cargo/concordium-contracts-common-derive@3.0.0
+- pkg:cargo/concordium-contracts-common-derive@4.0.0
+- pkg:cargo/concordium-contracts-common-derive@4.0.1
+- pkg:cargo/concordium-contracts-common-derive@4.1.0

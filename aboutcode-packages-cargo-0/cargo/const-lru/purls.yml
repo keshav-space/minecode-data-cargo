@@ -1,0 +1,5 @@
+- pkg:cargo/const-lru@0.1.0
+- pkg:cargo/const-lru@0.2.0
+- pkg:cargo/const-lru@0.2.1
+- pkg:cargo/const-lru@0.2.2
+- pkg:cargo/const-lru@1.0.0

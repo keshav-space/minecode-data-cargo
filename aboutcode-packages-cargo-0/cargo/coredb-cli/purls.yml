@@ -1,0 +1,17 @@
+- pkg:cargo/coredb-cli@0.1.0
+- pkg:cargo/coredb-cli@0.2.0
+- pkg:cargo/coredb-cli@0.2.0-alpha
+- pkg:cargo/coredb-cli@0.2.0-rc
+- pkg:cargo/coredb-cli@0.2.0-rc-3c17358
+- pkg:cargo/coredb-cli@0.2.0-rc-45a3ee8
+- pkg:cargo/coredb-cli@0.2.0-rc-916b4e3
+- pkg:cargo/coredb-cli@0.2.0-rc-94d0041
+- pkg:cargo/coredb-cli@0.2.1
+- pkg:cargo/coredb-cli@0.2.2
+- pkg:cargo/coredb-cli@0.2.3
+- pkg:cargo/coredb-cli@2023.1.23
+- pkg:cargo/coredb-cli@2023.1.27
+- pkg:cargo/coredb-cli@2023.2.15
+- pkg:cargo/coredb-cli@2023.3.6
+- pkg:cargo/coredb-cli@2023.3.9
+- pkg:cargo/coredb-cli@2023.3.9%2B1

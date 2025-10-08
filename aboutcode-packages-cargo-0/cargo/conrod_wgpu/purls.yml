@@ -1,0 +1,9 @@
+- pkg:cargo/conrod_wgpu@0.69.0
+- pkg:cargo/conrod_wgpu@0.70.0
+- pkg:cargo/conrod_wgpu@0.71.0
+- pkg:cargo/conrod_wgpu@0.72.0
+- pkg:cargo/conrod_wgpu@0.73.0
+- pkg:cargo/conrod_wgpu@0.74.0
+- pkg:cargo/conrod_wgpu@0.75.0
+- pkg:cargo/conrod_wgpu@0.76.0
+- pkg:cargo/conrod_wgpu@0.76.1

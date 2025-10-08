@@ -1,0 +1,7 @@
+- pkg:cargo/concordium-wasm@1.0.0
+- pkg:cargo/concordium-wasm@1.1.0
+- pkg:cargo/concordium-wasm@2.0.0
+- pkg:cargo/concordium-wasm@3.0.0
+- pkg:cargo/concordium-wasm@4.0.0
+- pkg:cargo/concordium-wasm@5.0.0
+- pkg:cargo/concordium-wasm@5.1.0

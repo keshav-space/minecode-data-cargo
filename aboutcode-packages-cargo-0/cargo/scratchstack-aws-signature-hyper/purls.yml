@@ -1,0 +1,4 @@
+- pkg:cargo/scratchstack-aws-signature-hyper@0.10.2
+- pkg:cargo/scratchstack-aws-signature-hyper@0.10.3
+- pkg:cargo/scratchstack-aws-signature-hyper@0.10.4
+- pkg:cargo/scratchstack-aws-signature-hyper@0.10.5

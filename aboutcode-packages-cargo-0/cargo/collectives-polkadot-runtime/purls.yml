@@ -1,0 +1,8 @@
+- pkg:cargo/collectives-polkadot-runtime@0.0.0
+- pkg:cargo/collectives-polkadot-runtime@0.1.0-dev.3
+- pkg:cargo/collectives-polkadot-runtime@1.0.0
+- pkg:cargo/collectives-polkadot-runtime@2.0.0
+- pkg:cargo/collectives-polkadot-runtime@3.0.0
+- pkg:cargo/collectives-polkadot-runtime@3.0.0-dev.1
+- pkg:cargo/collectives-polkadot-runtime@4.0.0
+- pkg:cargo/collectives-polkadot-runtime@5.0.0

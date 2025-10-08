@@ -1,0 +1,5 @@
+- pkg:cargo/copy_to_output@1.0.0
+- pkg:cargo/copy_to_output@2.0.0
+- pkg:cargo/copy_to_output@2.0.1
+- pkg:cargo/copy_to_output@2.1.0
+- pkg:cargo/copy_to_output@2.2.0

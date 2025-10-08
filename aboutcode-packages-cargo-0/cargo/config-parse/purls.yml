@@ -1,0 +1,5 @@
+- pkg:cargo/config-parse@2.0.0
+- pkg:cargo/config-parse@2.1.0
+- pkg:cargo/config-parse@2.2.0
+- pkg:cargo/config-parse@2.2.1
+- pkg:cargo/config-parse@2.2.2

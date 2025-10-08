@@ -1,0 +1,15 @@
+- pkg:cargo/commit_encoding_derive@0.10.0
+- pkg:cargo/commit_encoding_derive@0.10.0-beta.1
+- pkg:cargo/commit_encoding_derive@0.11.0
+- pkg:cargo/commit_encoding_derive@0.11.0-beta.4
+- pkg:cargo/commit_encoding_derive@0.11.0-beta.5
+- pkg:cargo/commit_encoding_derive@0.11.0-beta.7
+- pkg:cargo/commit_encoding_derive@0.11.0-beta.8
+- pkg:cargo/commit_encoding_derive@0.11.1-alpha.2
+- pkg:cargo/commit_encoding_derive@0.12.0
+- pkg:cargo/commit_encoding_derive@0.12.0-alpha.1
+- pkg:cargo/commit_encoding_derive@0.12.0-alpha.2
+- pkg:cargo/commit_encoding_derive@0.12.0-beta.1
+- pkg:cargo/commit_encoding_derive@0.12.0-beta.4
+- pkg:cargo/commit_encoding_derive@0.12.0-beta.6
+- pkg:cargo/commit_encoding_derive@0.12.0-rc.1

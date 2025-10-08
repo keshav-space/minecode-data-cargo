@@ -1,0 +1,4 @@
+- pkg:cargo/composer-cli@0.0.2
+- pkg:cargo/composer-cli@0.0.3
+- pkg:cargo/composer-cli@0.0.5
+- pkg:cargo/composer-cli@0.0.6
