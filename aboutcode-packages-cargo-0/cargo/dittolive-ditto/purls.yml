@@ -118,6 +118,7 @@
 - pkg:cargo/dittolive-ditto@4.12.2-experimental.bp-receive-timeout.6
 - pkg:cargo/dittolive-ditto@4.12.2-rc.1
 - pkg:cargo/dittolive-ditto@4.12.2-rc.2
+- pkg:cargo/dittolive-ditto@4.12.3-rc.1
 - pkg:cargo/dittolive-ditto@4.2.0
 - pkg:cargo/dittolive-ditto@4.2.1
 - pkg:cargo/dittolive-ditto@4.2.2
