@@ -2,3 +2,4 @@
 - pkg:cargo/winio-ui-gtk@0.1.1
 - pkg:cargo/winio-ui-gtk@0.1.2
 - pkg:cargo/winio-ui-gtk@0.2.0
+- pkg:cargo/winio-ui-gtk@0.3.0

@@ -33,3 +33,4 @@
 - pkg:cargo/winio@0.8.0
 - pkg:cargo/winio@0.8.1
 - pkg:cargo/winio@0.8.2
+- pkg:cargo/winio@0.9.0
