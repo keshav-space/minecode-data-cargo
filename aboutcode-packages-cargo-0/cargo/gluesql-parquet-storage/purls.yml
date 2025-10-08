@@ -1,0 +1,6 @@
+- pkg:cargo/gluesql-parquet-storage@0.16.0
+- pkg:cargo/gluesql-parquet-storage@0.16.1
+- pkg:cargo/gluesql-parquet-storage@0.16.2
+- pkg:cargo/gluesql-parquet-storage@0.16.3
+- pkg:cargo/gluesql-parquet-storage@0.17.0
+- pkg:cargo/gluesql-parquet-storage@0.18.0

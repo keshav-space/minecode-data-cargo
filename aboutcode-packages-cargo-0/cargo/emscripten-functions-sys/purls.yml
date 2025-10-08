@@ -1,0 +1,6 @@
+- pkg:cargo/emscripten-functions-sys@3.1.44
+- pkg:cargo/emscripten-functions-sys@3.2.46
+- pkg:cargo/emscripten-functions-sys@3.3.63
+- pkg:cargo/emscripten-functions-sys@4.1.401
+- pkg:cargo/emscripten-functions-sys@4.1.67
+- pkg:cargo/emscripten-functions-sys@5.0.401

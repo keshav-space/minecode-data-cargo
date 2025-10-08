@@ -1,0 +1,3 @@
+- pkg:cargo/pololu-smc@0.1.0
+- pkg:cargo/pololu-smc@0.2.0
+- pkg:cargo/pololu-smc@0.2.1

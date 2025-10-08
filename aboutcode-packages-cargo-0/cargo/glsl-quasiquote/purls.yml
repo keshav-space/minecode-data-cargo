@@ -1,0 +1,15 @@
+- pkg:cargo/glsl-quasiquote@0.1.0
+- pkg:cargo/glsl-quasiquote@0.1.1
+- pkg:cargo/glsl-quasiquote@0.2.0
+- pkg:cargo/glsl-quasiquote@0.2.1
+- pkg:cargo/glsl-quasiquote@0.2.2
+- pkg:cargo/glsl-quasiquote@0.3.0
+- pkg:cargo/glsl-quasiquote@0.3.1
+- pkg:cargo/glsl-quasiquote@1.0.0
+- pkg:cargo/glsl-quasiquote@2.0.0
+- pkg:cargo/glsl-quasiquote@3.0.0
+- pkg:cargo/glsl-quasiquote@4.0.0
+- pkg:cargo/glsl-quasiquote@5.0.0
+- pkg:cargo/glsl-quasiquote@6.0.0
+- pkg:cargo/glsl-quasiquote@6.0.1
+- pkg:cargo/glsl-quasiquote@7.0.0

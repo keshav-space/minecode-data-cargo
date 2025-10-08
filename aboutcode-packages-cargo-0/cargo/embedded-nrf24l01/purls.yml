@@ -1,0 +1,4 @@
+- pkg:cargo/embedded-nrf24l01@0.0.0
+- pkg:cargo/embedded-nrf24l01@0.0.1
+- pkg:cargo/embedded-nrf24l01@0.1.0
+- pkg:cargo/embedded-nrf24l01@0.2.0

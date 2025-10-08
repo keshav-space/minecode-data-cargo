@@ -1,0 +1,4 @@
+- pkg:cargo/embree@0.0.1
+- pkg:cargo/embree@0.3.6
+- pkg:cargo/embree@0.3.7
+- pkg:cargo/embree@0.3.8

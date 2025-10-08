@@ -1,0 +1,2 @@
+- pkg:cargo/xgboost-sys@0.1.1
+- pkg:cargo/xgboost-sys@0.1.2

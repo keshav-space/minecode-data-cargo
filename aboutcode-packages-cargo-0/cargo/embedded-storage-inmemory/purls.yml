@@ -1,0 +1,2 @@
+- pkg:cargo/embedded-storage-inmemory@0.1.0
+- pkg:cargo/embedded-storage-inmemory@0.1.1

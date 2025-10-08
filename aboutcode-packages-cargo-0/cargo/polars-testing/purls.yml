@@ -1,0 +1,4 @@
+- pkg:cargo/polars-testing@0.49.0
+- pkg:cargo/polars-testing@0.49.1
+- pkg:cargo/polars-testing@0.50.0
+- pkg:cargo/polars-testing@0.51.0

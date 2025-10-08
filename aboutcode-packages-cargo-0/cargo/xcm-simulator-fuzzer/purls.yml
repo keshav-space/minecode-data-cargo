@@ -1,0 +1,3 @@
+- pkg:cargo/xcm-simulator-fuzzer@0.0.0
+- pkg:cargo/xcm-simulator-fuzzer@0.1.0-dev.6
+- pkg:cargo/xcm-simulator-fuzzer@1.0.0

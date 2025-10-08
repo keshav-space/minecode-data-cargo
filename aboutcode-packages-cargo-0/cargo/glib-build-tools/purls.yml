@@ -1,0 +1,10 @@
+- pkg:cargo/glib-build-tools@0.0.0
+- pkg:cargo/glib-build-tools@0.1.0
+- pkg:cargo/glib-build-tools@0.16.0
+- pkg:cargo/glib-build-tools@0.16.3
+- pkg:cargo/glib-build-tools@0.17.0
+- pkg:cargo/glib-build-tools@0.17.10
+- pkg:cargo/glib-build-tools@0.18.0
+- pkg:cargo/glib-build-tools@0.19.0
+- pkg:cargo/glib-build-tools@0.20.0
+- pkg:cargo/glib-build-tools@0.21.0

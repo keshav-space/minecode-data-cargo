@@ -1,0 +1,11 @@
+- pkg:cargo/emerald-rocksdb@0.10.0
+- pkg:cargo/emerald-rocksdb@0.10.2
+- pkg:cargo/emerald-rocksdb@0.10.3
+- pkg:cargo/emerald-rocksdb@0.7.0
+- pkg:cargo/emerald-rocksdb@0.8.0
+- pkg:cargo/emerald-rocksdb@0.8.2
+- pkg:cargo/emerald-rocksdb@0.9.0
+- pkg:cargo/emerald-rocksdb@1.0.0
+- pkg:cargo/emerald-rocksdb@1.8.2
+- pkg:cargo/emerald-rocksdb@100.0.0
+- pkg:cargo/emerald-rocksdb@2.8.2

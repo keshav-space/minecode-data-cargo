@@ -1,0 +1,5 @@
+- pkg:cargo/embedded-hal-fuzz@0.1.0
+- pkg:cargo/embedded-hal-fuzz@0.1.1
+- pkg:cargo/embedded-hal-fuzz@0.1.2
+- pkg:cargo/embedded-hal-fuzz@1.0.0
+- pkg:cargo/embedded-hal-fuzz@1.0.0-rc.1

@@ -1,0 +1,4 @@
+- pkg:cargo/em-client@2.0.0
+- pkg:cargo/em-client@3.0.0
+- pkg:cargo/em-client@4.0.0
+- pkg:cargo/em-client@4.0.1

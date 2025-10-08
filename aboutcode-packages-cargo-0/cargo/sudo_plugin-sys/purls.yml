@@ -1,0 +1,5 @@
+- pkg:cargo/sudo_plugin-sys@1.0.0
+- pkg:cargo/sudo_plugin-sys@1.0.1
+- pkg:cargo/sudo_plugin-sys@1.1.0
+- pkg:cargo/sudo_plugin-sys@1.2.0
+- pkg:cargo/sudo_plugin-sys@1.2.1

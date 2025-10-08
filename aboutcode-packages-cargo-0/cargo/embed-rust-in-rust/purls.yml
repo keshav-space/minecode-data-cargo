@@ -1,0 +1,2 @@
+- pkg:cargo/embed-rust-in-rust@1.0.0
+- pkg:cargo/embed-rust-in-rust@999.0.0

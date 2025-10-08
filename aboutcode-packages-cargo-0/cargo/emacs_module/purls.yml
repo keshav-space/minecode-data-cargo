@@ -1,0 +1,9 @@
+- pkg:cargo/emacs_module@0.1.0
+- pkg:cargo/emacs_module@0.10.0
+- pkg:cargo/emacs_module@0.12.0
+- pkg:cargo/emacs_module@0.16.2
+- pkg:cargo/emacs_module@0.18.0
+- pkg:cargo/emacs_module@0.2.0
+- pkg:cargo/emacs_module@0.2.1
+- pkg:cargo/emacs_module@0.3.0
+- pkg:cargo/emacs_module@0.4.0

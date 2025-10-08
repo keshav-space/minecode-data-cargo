@@ -1,0 +1,11 @@
+- pkg:cargo/s3-tokio@0.37.0
+- pkg:cargo/s3-tokio@0.37.1
+- pkg:cargo/s3-tokio@0.37.2
+- pkg:cargo/s3-tokio@0.38.0
+- pkg:cargo/s3-tokio@0.39.0
+- pkg:cargo/s3-tokio@0.39.1
+- pkg:cargo/s3-tokio@0.39.2
+- pkg:cargo/s3-tokio@0.39.3
+- pkg:cargo/s3-tokio@0.39.4
+- pkg:cargo/s3-tokio@0.39.5
+- pkg:cargo/s3-tokio@0.39.6

@@ -1,0 +1,12 @@
+- pkg:cargo/s3-bucket-stats@0.4.0
+- pkg:cargo/s3-bucket-stats@0.4.1
+- pkg:cargo/s3-bucket-stats@0.5.0
+- pkg:cargo/s3-bucket-stats@0.5.1
+- pkg:cargo/s3-bucket-stats@0.5.2
+- pkg:cargo/s3-bucket-stats@0.6.0
+- pkg:cargo/s3-bucket-stats@0.7.0
+- pkg:cargo/s3-bucket-stats@0.7.5
+- pkg:cargo/s3-bucket-stats@0.7.6
+- pkg:cargo/s3-bucket-stats@0.7.7
+- pkg:cargo/s3-bucket-stats@0.8.0
+- pkg:cargo/s3-bucket-stats@0.8.1

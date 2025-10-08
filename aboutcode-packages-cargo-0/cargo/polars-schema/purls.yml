@@ -1,0 +1,16 @@
+- pkg:cargo/polars-schema@0.43.0
+- pkg:cargo/polars-schema@0.43.1
+- pkg:cargo/polars-schema@0.44.0
+- pkg:cargo/polars-schema@0.44.1
+- pkg:cargo/polars-schema@0.44.2
+- pkg:cargo/polars-schema@0.45.0
+- pkg:cargo/polars-schema@0.45.1
+- pkg:cargo/polars-schema@0.46.0
+- pkg:cargo/polars-schema@0.47.0
+- pkg:cargo/polars-schema@0.47.1
+- pkg:cargo/polars-schema@0.48.0
+- pkg:cargo/polars-schema@0.48.1
+- pkg:cargo/polars-schema@0.49.0
+- pkg:cargo/polars-schema@0.49.1
+- pkg:cargo/polars-schema@0.50.0
+- pkg:cargo/polars-schema@0.51.0

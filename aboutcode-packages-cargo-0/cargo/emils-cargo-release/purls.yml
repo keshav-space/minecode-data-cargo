@@ -1,0 +1,8 @@
+- pkg:cargo/emils-cargo-release@0.12.5
+- pkg:cargo/emils-cargo-release@0.12.6
+- pkg:cargo/emils-cargo-release@0.12.6-alpha.1
+- pkg:cargo/emils-cargo-release@0.12.6-alpha.2
+- pkg:cargo/emils-cargo-release@0.12.6-alpha.3
+- pkg:cargo/emils-cargo-release@0.12.7
+- pkg:cargo/emils-cargo-release@0.13.0
+- pkg:cargo/emils-cargo-release@0.13.2-alpha.3

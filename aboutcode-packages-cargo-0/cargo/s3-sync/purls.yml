@@ -1,0 +1,5 @@
+- pkg:cargo/s3-sync@0.1.0
+- pkg:cargo/s3-sync@0.2.0
+- pkg:cargo/s3-sync@0.2.1
+- pkg:cargo/s3-sync@0.3.0
+- pkg:cargo/s3-sync@0.4.0

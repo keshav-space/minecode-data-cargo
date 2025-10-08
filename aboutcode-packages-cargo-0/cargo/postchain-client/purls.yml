@@ -1,0 +1,5 @@
+- pkg:cargo/postchain-client@0.0.1
+- pkg:cargo/postchain-client@0.0.2
+- pkg:cargo/postchain-client@0.0.3
+- pkg:cargo/postchain-client@0.0.4
+- pkg:cargo/postchain-client@0.0.5
