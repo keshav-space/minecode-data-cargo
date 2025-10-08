@@ -1,0 +1,5 @@
+- pkg:cargo/split-first-char@0.0.0
+- pkg:cargo/split-first-char@1.0.0
+- pkg:cargo/split-first-char@2.0.0
+- pkg:cargo/split-first-char@2.0.1
+- pkg:cargo/split-first-char@2.0.1-renamed

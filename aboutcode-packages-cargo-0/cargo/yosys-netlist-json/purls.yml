@@ -1,0 +1,4 @@
+- pkg:cargo/yosys-netlist-json@0.0.1
+- pkg:cargo/yosys-netlist-json@0.0.2
+- pkg:cargo/yosys-netlist-json@0.0.3
+- pkg:cargo/yosys-netlist-json@0.1.0

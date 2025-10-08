@@ -1,0 +1,3 @@
+- pkg:cargo/yolo-rustc-bootstrap@1.0.0
+- pkg:cargo/yolo-rustc-bootstrap@1.0.1
+- pkg:cargo/yolo-rustc-bootstrap@1.0.2

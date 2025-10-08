@@ -1,0 +1,2 @@
+- pkg:cargo/curve25519-compact@2.0.0
+- pkg:cargo/curve25519-compact@2.0.1

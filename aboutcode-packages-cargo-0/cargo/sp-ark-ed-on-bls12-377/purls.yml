@@ -1,0 +1,4 @@
+- pkg:cargo/sp-ark-ed-on-bls12-377@0.4.0-alpha
+- pkg:cargo/sp-ark-ed-on-bls12-377@0.4.0-beta
+- pkg:cargo/sp-ark-ed-on-bls12-377@0.4.1
+- pkg:cargo/sp-ark-ed-on-bls12-377@0.4.1-beta

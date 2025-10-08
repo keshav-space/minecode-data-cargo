@@ -1,0 +1,14 @@
+- pkg:cargo/spirv-to-dxil-sys@0.1.1-beta.3
+- pkg:cargo/spirv-to-dxil-sys@0.2.1
+- pkg:cargo/spirv-to-dxil-sys@0.2.2
+- pkg:cargo/spirv-to-dxil-sys@0.2.3
+- pkg:cargo/spirv-to-dxil-sys@0.2.6
+- pkg:cargo/spirv-to-dxil-sys@0.3.0
+- pkg:cargo/spirv-to-dxil-sys@0.4.0
+- pkg:cargo/spirv-to-dxil-sys@0.4.1
+- pkg:cargo/spirv-to-dxil-sys@0.4.2
+- pkg:cargo/spirv-to-dxil-sys@0.4.3
+- pkg:cargo/spirv-to-dxil-sys@0.4.4-beta
+- pkg:cargo/spirv-to-dxil-sys@0.4.5
+- pkg:cargo/spirv-to-dxil-sys@0.4.6
+- pkg:cargo/spirv-to-dxil-sys@0.4.7

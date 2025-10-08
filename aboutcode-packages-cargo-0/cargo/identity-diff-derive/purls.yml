@@ -1,0 +1,12 @@
+- pkg:cargo/identity-diff-derive@0.5.0
+- pkg:cargo/identity-diff-derive@0.6.0
+- pkg:cargo/identity-diff-derive@0.6.1
+- pkg:cargo/identity-diff-derive@0.6.2
+- pkg:cargo/identity-diff-derive@0.6.3
+- pkg:cargo/identity-diff-derive@0.6.3-rc.1
+- pkg:cargo/identity-diff-derive@0.7.0-alpha.1
+- pkg:cargo/identity-diff-derive@0.7.0-alpha.2
+- pkg:cargo/identity-diff-derive@0.7.0-alpha.3
+- pkg:cargo/identity-diff-derive@0.7.0-alpha.4
+- pkg:cargo/identity-diff-derive@0.7.0-alpha.5
+- pkg:cargo/identity-diff-derive@0.7.0-alpha.6

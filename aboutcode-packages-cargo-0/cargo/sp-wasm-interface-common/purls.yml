@@ -1,0 +1,4 @@
+- pkg:cargo/sp-wasm-interface-common@15.0.0
+- pkg:cargo/sp-wasm-interface-common@7.0.0
+- pkg:cargo/sp-wasm-interface-common@7.0.1
+- pkg:cargo/sp-wasm-interface-common@7.0.2

@@ -1,0 +1,4 @@
+- pkg:cargo/spirv@0.1.0
+- pkg:cargo/spirv@0.1.0%2B1.5.4
+- pkg:cargo/spirv@0.2.0%2B1.5.4
+- pkg:cargo/spirv@0.3.0%2Bsdk-1.3.268.0

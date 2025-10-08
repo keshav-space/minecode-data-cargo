@@ -1,0 +1,5 @@
+- pkg:cargo/spglib-sys@0.1.0
+- pkg:cargo/spglib-sys@0.1.1
+- pkg:cargo/spglib-sys@1.15.1
+- pkg:cargo/spglib-sys@1.15.1%2Bpatch1
+- pkg:cargo/spglib-sys@1.16.1

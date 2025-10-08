@@ -1,0 +1,6 @@
+- pkg:cargo/springtime-web-axum@0.2.0
+- pkg:cargo/springtime-web-axum@1.0.0
+- pkg:cargo/springtime-web-axum@2.0.0
+- pkg:cargo/springtime-web-axum@2.0.1
+- pkg:cargo/springtime-web-axum@3.0.0
+- pkg:cargo/springtime-web-axum@3.0.1

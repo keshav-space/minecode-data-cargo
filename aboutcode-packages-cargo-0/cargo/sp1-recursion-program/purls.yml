@@ -1,0 +1,12 @@
+- pkg:cargo/sp1-recursion-program@0.0.0-test
+- pkg:cargo/sp1-recursion-program@0.0.1-test
+- pkg:cargo/sp1-recursion-program@0.0.2-test
+- pkg:cargo/sp1-recursion-program@1.0.0-rc.1
+- pkg:cargo/sp1-recursion-program@1.0.1
+- pkg:cargo/sp1-recursion-program@1.1.0
+- pkg:cargo/sp1-recursion-program@1.1.1
+- pkg:cargo/sp1-recursion-program@1.2.0
+- pkg:cargo/sp1-recursion-program@1.2.0-rc1
+- pkg:cargo/sp1-recursion-program@1.2.0-rc2
+- pkg:cargo/sp1-recursion-program@2.0.0
+- pkg:cargo/sp1-recursion-program@3.0.0-rc1

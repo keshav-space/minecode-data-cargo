@@ -1,0 +1,2 @@
+- pkg:cargo/curve25519-dalek-v2@4.1.2
+- pkg:cargo/curve25519-dalek-v2@4.1.3

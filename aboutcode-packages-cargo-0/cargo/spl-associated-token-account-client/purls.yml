@@ -1,0 +1,2 @@
+- pkg:cargo/spl-associated-token-account-client@1.0.0
+- pkg:cargo/spl-associated-token-account-client@2.0.0

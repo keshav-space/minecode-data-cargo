@@ -1,0 +1,7 @@
+- pkg:cargo/spdlog-src@0.1.0
+- pkg:cargo/spdlog-src@0.1.0%2Bv1.8.4
+- pkg:cargo/spdlog-src@0.1.0%2Bv1.8.5
+- pkg:cargo/spdlog-src@0.1.1%2Bv1.9.0
+- pkg:cargo/spdlog-src@0.1.1%2Bv1.9.1
+- pkg:cargo/spdlog-src@0.1.1%2Bv1.9.2
+- pkg:cargo/spdlog-src@0.1.2%2Bv1.9.1

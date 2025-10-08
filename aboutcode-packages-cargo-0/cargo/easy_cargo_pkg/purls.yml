@@ -1,0 +1,4 @@
+- pkg:cargo/easy_cargo_pkg@0.1.0
+- pkg:cargo/easy_cargo_pkg@1.0.0
+- pkg:cargo/easy_cargo_pkg@1.0.0-patch
+- pkg:cargo/easy_cargo_pkg@2.0.0

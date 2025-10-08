@@ -1,0 +1,4 @@
+- pkg:cargo/fedimint-threshold-crypto@0.0.1
+- pkg:cargo/fedimint-threshold-crypto@0.1.0
+- pkg:cargo/fedimint-threshold-crypto@0.2.0
+- pkg:cargo/fedimint-threshold-crypto@0.2.1

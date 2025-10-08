@@ -1,0 +1,7 @@
+- pkg:cargo/curve25519-dalek-ml@4.0.0
+- pkg:cargo/curve25519-dalek-ml@4.1.1
+- pkg:cargo/curve25519-dalek-ml@4.1.2
+- pkg:cargo/curve25519-dalek-ml@4.2.0
+- pkg:cargo/curve25519-dalek-ml@4.2.1
+- pkg:cargo/curve25519-dalek-ml@4.2.2
+- pkg:cargo/curve25519-dalek-ml@4.3.0

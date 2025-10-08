@@ -1,0 +1,8 @@
+- pkg:cargo/spirv-cross-sys@0.0.1
+- pkg:cargo/spirv-cross-sys@0.1.0
+- pkg:cargo/spirv-cross-sys@0.2.0
+- pkg:cargo/spirv-cross-sys@0.3.0
+- pkg:cargo/spirv-cross-sys@0.4.0
+- pkg:cargo/spirv-cross-sys@0.4.1%2Bf84c1fb
+- pkg:cargo/spirv-cross-sys@0.4.2%2Bb28b355
+- pkg:cargo/spirv-cross-sys@0.4.3%2Be670b39

@@ -1,0 +1,2 @@
+- pkg:cargo/curve25519-dalek-derive@0.1.0
+- pkg:cargo/curve25519-dalek-derive@0.1.1

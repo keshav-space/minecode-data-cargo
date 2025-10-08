@@ -1,0 +1,6 @@
+- pkg:cargo/curve25519-dalek-organism@0.0.1
+- pkg:cargo/curve25519-dalek-organism@0.0.2
+- pkg:cargo/curve25519-dalek-organism@0.0.3
+- pkg:cargo/curve25519-dalek-organism@0.0.4
+- pkg:cargo/curve25519-dalek-organism@0.0.5
+- pkg:cargo/curve25519-dalek-organism@1.2.3

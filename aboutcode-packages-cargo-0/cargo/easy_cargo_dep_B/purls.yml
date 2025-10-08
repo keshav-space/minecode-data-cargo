@@ -1,0 +1,11 @@
+- pkg:cargo/easy_cargo_dep_B@0.1.0
+- pkg:cargo/easy_cargo_dep_B@0.1.1
+- pkg:cargo/easy_cargo_dep_B@1.0.0
+- pkg:cargo/easy_cargo_dep_B@1.1.0
+- pkg:cargo/easy_cargo_dep_B@2.0.0
+- pkg:cargo/easy_cargo_dep_B@2.1.0
+- pkg:cargo/easy_cargo_dep_B@2.1.1
+- pkg:cargo/easy_cargo_dep_B@2.1.2
+- pkg:cargo/easy_cargo_dep_B@3.0.0
+- pkg:cargo/easy_cargo_dep_B@3.1.0
+- pkg:cargo/easy_cargo_dep_B@3.1.1
