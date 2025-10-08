@@ -1,0 +1,2 @@
+- pkg:cargo/i2cdev-lsm303dlhc@1.0.0
+- pkg:cargo/i2cdev-lsm303dlhc@1.0.1

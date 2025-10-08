@@ -1,0 +1,3 @@
+- pkg:cargo/ros_package_manifest@0.1.0
+- pkg:cargo/ros_package_manifest@0.2.0
+- pkg:cargo/ros_package_manifest@0.3.0

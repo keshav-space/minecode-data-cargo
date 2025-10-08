@@ -1,0 +1,3 @@
+- pkg:cargo/cpp_to_rust_generator@0.0.0
+- pkg:cargo/cpp_to_rust_generator@0.2.0
+- pkg:cargo/cpp_to_rust_generator@0.5.3

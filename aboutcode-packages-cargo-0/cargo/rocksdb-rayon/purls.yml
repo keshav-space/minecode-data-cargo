@@ -1,0 +1,2 @@
+- pkg:cargo/rocksdb-rayon@0.1.0
+- pkg:cargo/rocksdb-rayon@1.0.0

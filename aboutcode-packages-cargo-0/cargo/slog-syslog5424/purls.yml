@@ -1,0 +1,2 @@
+- pkg:cargo/slog-syslog5424@0.1.0
+- pkg:cargo/slog-syslog5424@0.1.1

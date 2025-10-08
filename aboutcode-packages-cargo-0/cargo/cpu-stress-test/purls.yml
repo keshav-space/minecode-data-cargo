@@ -1,0 +1,4 @@
+- pkg:cargo/cpu-stress-test@1.0.0
+- pkg:cargo/cpu-stress-test@2.0.0
+- pkg:cargo/cpu-stress-test@2.0.1
+- pkg:cargo/cpu-stress-test@2.1.0

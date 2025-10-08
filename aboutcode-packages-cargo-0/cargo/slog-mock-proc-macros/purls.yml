@@ -1,0 +1,2 @@
+- pkg:cargo/slog-mock-proc-macros@0.3.0
+- pkg:cargo/slog-mock-proc-macros@0.4.0

@@ -1,0 +1,3 @@
+- pkg:cargo/roa-router@0.5.0-alpha
+- pkg:cargo/roa-router@0.5.0-beta
+- pkg:cargo/roa-router@0.5.0-rc

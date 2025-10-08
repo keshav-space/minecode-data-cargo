@@ -1,0 +1,2 @@
+- pkg:cargo/tc-tracing-proc-macro@0.0.0
+- pkg:cargo/tc-tracing-proc-macro@2.0.0

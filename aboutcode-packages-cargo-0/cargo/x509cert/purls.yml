@@ -1,0 +1,4 @@
+- pkg:cargo/x509cert@0.25.0
+- pkg:cargo/x509cert@0.25.1
+- pkg:cargo/x509cert@0.25.2
+- pkg:cargo/x509cert@0.25.3

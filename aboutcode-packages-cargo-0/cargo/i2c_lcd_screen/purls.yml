@@ -1,0 +1,2 @@
+- pkg:cargo/i2c_lcd_screen@1.0.0
+- pkg:cargo/i2c_lcd_screen@2.0.0

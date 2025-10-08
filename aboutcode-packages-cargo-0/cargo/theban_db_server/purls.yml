@@ -1,0 +1,4 @@
+- pkg:cargo/theban_db_server@0.3.0
+- pkg:cargo/theban_db_server@0.3.1
+- pkg:cargo/theban_db_server@0.3.5
+- pkg:cargo/theban_db_server@0.3.6

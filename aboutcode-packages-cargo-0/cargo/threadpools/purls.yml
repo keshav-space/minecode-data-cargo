@@ -1,0 +1,13 @@
+- pkg:cargo/threadpools@1.0.0
+- pkg:cargo/threadpools@2.0.0
+- pkg:cargo/threadpools@3.0.0
+- pkg:cargo/threadpools@3.0.1
+- pkg:cargo/threadpools@4.0.0
+- pkg:cargo/threadpools@4.0.1
+- pkg:cargo/threadpools@5.0.0
+- pkg:cargo/threadpools@5.0.1
+- pkg:cargo/threadpools@6.0.0
+- pkg:cargo/threadpools@6.0.1
+- pkg:cargo/threadpools@7.0.0
+- pkg:cargo/threadpools@7.0.1
+- pkg:cargo/threadpools@8.0.0

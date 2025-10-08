@@ -1,0 +1,9 @@
+- pkg:cargo/tcmalloc2@0.1.0%2B2.10
+- pkg:cargo/tcmalloc2@0.1.1%2B2.10
+- pkg:cargo/tcmalloc2@0.1.2%2B2.13
+- pkg:cargo/tcmalloc2@0.2.0%2B2.15
+- pkg:cargo/tcmalloc2@0.2.1%2B2.16
+- pkg:cargo/tcmalloc2@0.2.2%2B2.16
+- pkg:cargo/tcmalloc2@0.3.0%2B2.17
+- pkg:cargo/tcmalloc2@0.3.1%2B2.17.1
+- pkg:cargo/tcmalloc2@0.3.2%2B2.17.2

@@ -1,0 +1,7 @@
+- pkg:cargo/rocket-slog@0.1.0
+- pkg:cargo/rocket-slog@0.2.0
+- pkg:cargo/rocket-slog@0.2.1
+- pkg:cargo/rocket-slog@0.2.2
+- pkg:cargo/rocket-slog@0.3.0
+- pkg:cargo/rocket-slog@0.4.0
+- pkg:cargo/rocket-slog@0.4.0-rc.2

@@ -1,0 +1,4 @@
+- pkg:cargo/i2cdev-lsm9ds0@0.1.0
+- pkg:cargo/i2cdev-lsm9ds0@0.1.1
+- pkg:cargo/i2cdev-lsm9ds0@0.1.2
+- pkg:cargo/i2cdev-lsm9ds0@0.1.3

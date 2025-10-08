@@ -1,0 +1,4 @@
+- pkg:cargo/routerify-cors@1.0.0
+- pkg:cargo/routerify-cors@1.1.0
+- pkg:cargo/routerify-cors@2.0.0
+- pkg:cargo/routerify-cors@3.0.0

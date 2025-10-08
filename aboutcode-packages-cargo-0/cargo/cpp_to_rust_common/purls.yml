@@ -1,0 +1,6 @@
+- pkg:cargo/cpp_to_rust_common@0.0.0
+- pkg:cargo/cpp_to_rust_common@0.0.1
+- pkg:cargo/cpp_to_rust_common@0.0.2
+- pkg:cargo/cpp_to_rust_common@0.2.0
+- pkg:cargo/cpp_to_rust_common@0.2.1
+- pkg:cargo/cpp_to_rust_common@0.2.3

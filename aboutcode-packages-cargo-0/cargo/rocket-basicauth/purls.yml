@@ -1,0 +1,4 @@
+- pkg:cargo/rocket-basicauth@1.0.0
+- pkg:cargo/rocket-basicauth@2.1.0
+- pkg:cargo/rocket-basicauth@2.1.1
+- pkg:cargo/rocket-basicauth@3.0.0

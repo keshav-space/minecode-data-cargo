@@ -1,0 +1,4 @@
+- pkg:cargo/snarkvm-nonnative@0.2.3
+- pkg:cargo/snarkvm-nonnative@0.3.1
+- pkg:cargo/snarkvm-nonnative@0.3.2
+- pkg:cargo/snarkvm-nonnative@0.4.0
