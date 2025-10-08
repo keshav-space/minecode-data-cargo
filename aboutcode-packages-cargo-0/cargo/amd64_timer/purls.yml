@@ -1,0 +1,4 @@
+- pkg:cargo/amd64_timer@1.0.0
+- pkg:cargo/amd64_timer@1.2.0
+- pkg:cargo/amd64_timer@1.2.1
+- pkg:cargo/amd64_timer@1.3.0

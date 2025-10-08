@@ -1,0 +1,15 @@
+- pkg:cargo/bitcoinsv-rpc@0.19.0
+- pkg:cargo/bitcoinsv-rpc@0.19.1
+- pkg:cargo/bitcoinsv-rpc@0.19.2
+- pkg:cargo/bitcoinsv-rpc@0.19.3
+- pkg:cargo/bitcoinsv-rpc@0.19.4
+- pkg:cargo/bitcoinsv-rpc@0.19.5
+- pkg:cargo/bitcoinsv-rpc@0.19.6
+- pkg:cargo/bitcoinsv-rpc@1.0.0
+- pkg:cargo/bitcoinsv-rpc@1.0.1
+- pkg:cargo/bitcoinsv-rpc@1.0.2
+- pkg:cargo/bitcoinsv-rpc@1.0.3
+- pkg:cargo/bitcoinsv-rpc@1.0.4
+- pkg:cargo/bitcoinsv-rpc@1.0.5
+- pkg:cargo/bitcoinsv-rpc@2.0.0
+- pkg:cargo/bitcoinsv-rpc@2.0.1

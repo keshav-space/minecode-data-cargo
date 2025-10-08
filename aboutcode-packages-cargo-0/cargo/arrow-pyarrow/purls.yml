@@ -1,0 +1,4 @@
+- pkg:cargo/arrow-pyarrow@55.2.0
+- pkg:cargo/arrow-pyarrow@56.0.0
+- pkg:cargo/arrow-pyarrow@56.1.0
+- pkg:cargo/arrow-pyarrow@56.2.0

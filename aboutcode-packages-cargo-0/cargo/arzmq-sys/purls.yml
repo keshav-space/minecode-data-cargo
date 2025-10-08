@@ -1,0 +1,6 @@
+- pkg:cargo/arzmq-sys@0.0.1
+- pkg:cargo/arzmq-sys@0.3.0
+- pkg:cargo/arzmq-sys@0.3.1
+- pkg:cargo/arzmq-sys@0.3.2
+- pkg:cargo/arzmq-sys@0.4.0
+- pkg:cargo/arzmq-sys@0.4.0-alpha.1

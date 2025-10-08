@@ -1,0 +1,14 @@
+- pkg:cargo/bitcoincore-rest@0.1.0
+- pkg:cargo/bitcoincore-rest@0.1.1
+- pkg:cargo/bitcoincore-rest@0.1.2
+- pkg:cargo/bitcoincore-rest@0.1.3
+- pkg:cargo/bitcoincore-rest@0.1.4
+- pkg:cargo/bitcoincore-rest@0.1.5
+- pkg:cargo/bitcoincore-rest@1.0.0
+- pkg:cargo/bitcoincore-rest@1.1.0
+- pkg:cargo/bitcoincore-rest@2.0.0
+- pkg:cargo/bitcoincore-rest@3.0.0
+- pkg:cargo/bitcoincore-rest@3.0.1
+- pkg:cargo/bitcoincore-rest@4.0.0
+- pkg:cargo/bitcoincore-rest@4.0.1
+- pkg:cargo/bitcoincore-rest@4.0.2

@@ -1,0 +1,7 @@
+- pkg:cargo/bitcoin-spv@0.1.0
+- pkg:cargo/bitcoin-spv@1.0.0
+- pkg:cargo/bitcoin-spv@2.0.0
+- pkg:cargo/bitcoin-spv@3.0.0
+- pkg:cargo/bitcoin-spv@4.0.0
+- pkg:cargo/bitcoin-spv@4.0.1
+- pkg:cargo/bitcoin-spv@5.0.0

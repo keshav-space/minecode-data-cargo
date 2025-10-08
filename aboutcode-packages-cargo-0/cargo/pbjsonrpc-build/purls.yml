@@ -1,0 +1,13 @@
+- pkg:cargo/pbjsonrpc-build@0.0.1
+- pkg:cargo/pbjsonrpc-build@0.0.2
+- pkg:cargo/pbjsonrpc-build@0.0.3
+- pkg:cargo/pbjsonrpc-build@0.1.0
+- pkg:cargo/pbjsonrpc-build@0.1.1
+- pkg:cargo/pbjsonrpc-build@0.17.0
+- pkg:cargo/pbjsonrpc-build@0.18.0
+- pkg:cargo/pbjsonrpc-build@0.18.1
+- pkg:cargo/pbjsonrpc-build@0.2.0
+- pkg:cargo/pbjsonrpc-build@0.2.1
+- pkg:cargo/pbjsonrpc-build@0.24.1
+- pkg:cargo/pbjsonrpc-build@0.25.0
+- pkg:cargo/pbjsonrpc-build@0.26.0

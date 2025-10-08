@@ -1,0 +1,2 @@
+- pkg:cargo/arrow-flight-sql-client@0.2.0
+- pkg:cargo/arrow-flight-sql-client@0.4.0

@@ -1,0 +1,16 @@
+- pkg:cargo/rei@0.0.1
+- pkg:cargo/rei@0.0.5
+- pkg:cargo/rei@0.0.7
+- pkg:cargo/rei@0.1.1
+- pkg:cargo/rei@0.1.3
+- pkg:cargo/rei@0.1.4
+- pkg:cargo/rei@0.1.77
+- pkg:cargo/rei@0.77.0
+- pkg:cargo/rei@2018.7.7
+- pkg:cargo/rei@2019.12.13
+- pkg:cargo/rei@7.7.18
+- pkg:cargo/rei@9.9.9
+- pkg:cargo/rei@9999.999.99
+- pkg:cargo/rei@99999.99999.99999
+- pkg:cargo/rei@9999999.9999999.9999999
+- pkg:cargo/rei@999999999.999999999.999999999
