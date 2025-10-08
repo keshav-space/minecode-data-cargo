@@ -1,0 +1,5 @@
+- pkg:cargo/rpc-router-macros@0.0.2
+- pkg:cargo/rpc-router-macros@0.0.3
+- pkg:cargo/rpc-router-macros@0.1.0
+- pkg:cargo/rpc-router-macros@0.1.0-rc.1
+- pkg:cargo/rpc-router-macros@0.2.0-alpha.1

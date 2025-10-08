@@ -1,0 +1,14 @@
+- pkg:cargo/wgpu-async@0.16.2
+- pkg:cargo/wgpu-async@0.16.3
+- pkg:cargo/wgpu-async@0.16.4
+- pkg:cargo/wgpu-async@0.17.1
+- pkg:cargo/wgpu-async@0.18.0
+- pkg:cargo/wgpu-async@0.18.1
+- pkg:cargo/wgpu-async@0.19.0
+- pkg:cargo/wgpu-async@0.19.1
+- pkg:cargo/wgpu-async@0.19.4
+- pkg:cargo/wgpu-async@0.20.1
+- pkg:cargo/wgpu-async@22.1.0
+- pkg:cargo/wgpu-async@23.0.0
+- pkg:cargo/wgpu-async@24.0.0
+- pkg:cargo/wgpu-async@24.0.3

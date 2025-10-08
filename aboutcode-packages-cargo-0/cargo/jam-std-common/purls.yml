@@ -1,0 +1,15 @@
+- pkg:cargo/jam-std-common@0.1.15
+- pkg:cargo/jam-std-common@0.1.16
+- pkg:cargo/jam-std-common@0.1.17
+- pkg:cargo/jam-std-common@0.1.19
+- pkg:cargo/jam-std-common@0.1.20
+- pkg:cargo/jam-std-common@0.1.21
+- pkg:cargo/jam-std-common@0.1.21-rc.1
+- pkg:cargo/jam-std-common@0.1.21-rc.2
+- pkg:cargo/jam-std-common@0.1.21-rc.3
+- pkg:cargo/jam-std-common@0.1.22
+- pkg:cargo/jam-std-common@0.1.22-rc.1
+- pkg:cargo/jam-std-common@0.1.22-rc.3
+- pkg:cargo/jam-std-common@0.1.22-rc.4
+- pkg:cargo/jam-std-common@0.1.22-rc.5
+- pkg:cargo/jam-std-common@0.1.22-rc.6

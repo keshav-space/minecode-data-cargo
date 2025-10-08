@@ -1,0 +1,4 @@
+- pkg:cargo/rplc_opcua@0.12.0
+- pkg:cargo/rplc_opcua@0.12.1
+- pkg:cargo/rplc_opcua@0.12.2
+- pkg:cargo/rplc_opcua@0.12.3

@@ -1,0 +1,2 @@
+- pkg:cargo/jar_conflict_detecter@0.0.1
+- pkg:cargo/jar_conflict_detecter@0.0.2

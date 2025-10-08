@@ -1,0 +1,5 @@
+- pkg:cargo/tmi-parser@0.1.0
+- pkg:cargo/tmi-parser@0.1.1
+- pkg:cargo/tmi-parser@0.1.1-alpha
+- pkg:cargo/tmi-parser@0.1.1-beta
+- pkg:cargo/tmi-parser@0.1.2-alpha

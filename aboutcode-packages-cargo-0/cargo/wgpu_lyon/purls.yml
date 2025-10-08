@@ -1,0 +1,4 @@
+- pkg:cargo/wgpu_lyon@1.0.0
+- pkg:cargo/wgpu_lyon@1.1.0
+- pkg:cargo/wgpu_lyon@1.1.1
+- pkg:cargo/wgpu_lyon@2.0.0

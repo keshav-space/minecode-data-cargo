@@ -1,0 +1,15 @@
+- pkg:cargo/netlink_wi@0.1.0
+- pkg:cargo/netlink_wi@0.1.1
+- pkg:cargo/netlink_wi@0.1.2
+- pkg:cargo/netlink_wi@0.2.0
+- pkg:cargo/netlink_wi@0.2.1
+- pkg:cargo/netlink_wi@0.3.0
+- pkg:cargo/netlink_wi@0.4.0
+- pkg:cargo/netlink_wi@0.4.1
+- pkg:cargo/netlink_wi@0.5.0
+- pkg:cargo/netlink_wi@0.6.0
+- pkg:cargo/netlink_wi@0.7.0-rc1
+- pkg:cargo/netlink_wi@0.7.0-rc2
+- pkg:cargo/netlink_wi@0.7.0-rc3
+- pkg:cargo/netlink_wi@0.7.0-rc4
+- pkg:cargo/netlink_wi@0.7.0-rc5

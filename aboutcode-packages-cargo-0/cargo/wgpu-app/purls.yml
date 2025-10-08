@@ -1,0 +1,5 @@
+- pkg:cargo/wgpu-app@0.17.0
+- pkg:cargo/wgpu-app@0.17.1
+- pkg:cargo/wgpu-app@0.17.2
+- pkg:cargo/wgpu-app@0.17.3
+- pkg:cargo/wgpu-app@0.17.4

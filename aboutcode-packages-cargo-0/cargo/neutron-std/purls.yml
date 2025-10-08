@@ -1,0 +1,9 @@
+- pkg:cargo/neutron-std@1.0.4-rc.1
+- pkg:cargo/neutron-std@4.0.0-rc.3
+- pkg:cargo/neutron-std@4.0.1-rc.1
+- pkg:cargo/neutron-std@4.2.2-rc
+- pkg:cargo/neutron-std@5.0.1-rc0
+- pkg:cargo/neutron-std@5.1.2
+- pkg:cargo/neutron-std@5.1.4
+- pkg:cargo/neutron-std@6.0.0
+- pkg:cargo/neutron-std@8.0.0

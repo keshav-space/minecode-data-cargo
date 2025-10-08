@@ -1,0 +1,2 @@
+- pkg:cargo/netsnmp-sys-nocrypto@0.1.2
+- pkg:cargo/netsnmp-sys-nocrypto@0.1.3

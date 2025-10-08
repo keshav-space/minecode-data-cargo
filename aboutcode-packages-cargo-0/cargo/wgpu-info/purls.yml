@@ -1,0 +1,11 @@
+- pkg:cargo/wgpu-info@0.17.0
+- pkg:cargo/wgpu-info@0.18.0
+- pkg:cargo/wgpu-info@0.19.0
+- pkg:cargo/wgpu-info@0.20.0
+- pkg:cargo/wgpu-info@0.20.1
+- pkg:cargo/wgpu-info@22.0.0
+- pkg:cargo/wgpu-info@23.0.0
+- pkg:cargo/wgpu-info@24.0.0
+- pkg:cargo/wgpu-info@25.0.0
+- pkg:cargo/wgpu-info@26.0.0
+- pkg:cargo/wgpu-info@27.0.0

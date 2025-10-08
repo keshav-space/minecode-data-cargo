@@ -1,0 +1,3 @@
+- pkg:cargo/jam-stress-service-bin@0.1.22
+- pkg:cargo/jam-stress-service-bin@0.1.22-rc.3
+- pkg:cargo/jam-stress-service-bin@0.1.22-rc.6

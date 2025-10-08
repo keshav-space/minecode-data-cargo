@@ -1,0 +1,3 @@
+- pkg:cargo/java-runtimes@0.2.0
+- pkg:cargo/java-runtimes@0.3.0
+- pkg:cargo/java-runtimes@0.3.1

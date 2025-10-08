@@ -1,0 +1,4 @@
+- pkg:cargo/rpassword-wasi@5.0.1
+- pkg:cargo/rpassword-wasi@5.0.2
+- pkg:cargo/rpassword-wasi@5.0.3
+- pkg:cargo/rpassword-wasi@5.0.4

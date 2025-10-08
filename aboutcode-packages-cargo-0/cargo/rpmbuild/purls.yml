@@ -1,0 +1,2 @@
+- pkg:cargo/rpmbuild@0.0.0
+- pkg:cargo/rpmbuild@0.1.0

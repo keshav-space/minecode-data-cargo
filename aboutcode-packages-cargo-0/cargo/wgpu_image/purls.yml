@@ -1,0 +1,4 @@
+- pkg:cargo/wgpu_image@1.0.0
+- pkg:cargo/wgpu_image@2.0.0
+- pkg:cargo/wgpu_image@2.0.1
+- pkg:cargo/wgpu_image@2.0.2

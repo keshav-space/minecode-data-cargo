@@ -1,0 +1,3 @@
+- pkg:cargo/wgpu-core-deps-wasm@25.0.0
+- pkg:cargo/wgpu-core-deps-wasm@26.0.0
+- pkg:cargo/wgpu-core-deps-wasm@27.0.0

@@ -1,0 +1,4 @@
+- pkg:cargo/jamsocket-wasm-macro@0.1.0
+- pkg:cargo/jamsocket-wasm-macro@0.1.5
+- pkg:cargo/jamsocket-wasm-macro@0.1.7
+- pkg:cargo/jamsocket-wasm-macro@0.2.0

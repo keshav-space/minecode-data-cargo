@@ -1,0 +1,17 @@
+- pkg:cargo/akd_client@0.4.0
+- pkg:cargo/akd_client@0.5.2
+- pkg:cargo/akd_client@0.5.5
+- pkg:cargo/akd_client@0.6.1
+- pkg:cargo/akd_client@0.6.2
+- pkg:cargo/akd_client@0.7.1
+- pkg:cargo/akd_client@0.7.6
+- pkg:cargo/akd_client@0.7.7
+- pkg:cargo/akd_client@0.8.0
+- pkg:cargo/akd_client@0.8.2
+- pkg:cargo/akd_client@0.8.3
+- pkg:cargo/akd_client@0.8.4
+- pkg:cargo/akd_client@0.8.5
+- pkg:cargo/akd_client@0.8.6
+- pkg:cargo/akd_client@0.8.7
+- pkg:cargo/akd_client@0.8.8
+- pkg:cargo/akd_client@0.8.9

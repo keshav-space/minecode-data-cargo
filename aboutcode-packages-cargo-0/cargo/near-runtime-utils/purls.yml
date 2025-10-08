@@ -1,0 +1,4 @@
+- pkg:cargo/near-runtime-utils@2.2.0
+- pkg:cargo/near-runtime-utils@3.0.0
+- pkg:cargo/near-runtime-utils@3.0.0-pre-release
+- pkg:cargo/near-runtime-utils@4.0.0-pre.1
