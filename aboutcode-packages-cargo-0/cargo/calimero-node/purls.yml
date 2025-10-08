@@ -1,0 +1,3 @@
+- pkg:cargo/calimero-node@0.2.5
+- pkg:cargo/calimero-node@0.8.0
+- pkg:cargo/calimero-node@0.8.0-rc.18

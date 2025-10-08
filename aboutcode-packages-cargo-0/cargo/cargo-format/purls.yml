@@ -1,0 +1,7 @@
+- pkg:cargo/cargo-format@0.0.0--
+- pkg:cargo/cargo-format@0.0.0-cargo-format
+- pkg:cargo/cargo-format@0.0.1
+- pkg:cargo/cargo-format@0.0.2
+- pkg:cargo/cargo-format@0.0.2-dev
+- pkg:cargo/cargo-format@0.0.3
+- pkg:cargo/cargo-format@0.0.4

@@ -1,0 +1,2 @@
+- pkg:cargo/ed25519-dalek-v2@2.0.0-rc.3
+- pkg:cargo/ed25519-dalek-v2@2.1.1

@@ -1,0 +1,14 @@
+- pkg:cargo/ed448-goldilocks-plus@0.10.0
+- pkg:cargo/ed448-goldilocks-plus@0.11.0
+- pkg:cargo/ed448-goldilocks-plus@0.11.1
+- pkg:cargo/ed448-goldilocks-plus@0.11.2
+- pkg:cargo/ed448-goldilocks-plus@0.12.0
+- pkg:cargo/ed448-goldilocks-plus@0.12.1
+- pkg:cargo/ed448-goldilocks-plus@0.13.0
+- pkg:cargo/ed448-goldilocks-plus@0.13.1
+- pkg:cargo/ed448-goldilocks-plus@0.13.2
+- pkg:cargo/ed448-goldilocks-plus@0.13.3
+- pkg:cargo/ed448-goldilocks-plus@0.14.0
+- pkg:cargo/ed448-goldilocks-plus@0.14.1
+- pkg:cargo/ed448-goldilocks-plus@0.15.0
+- pkg:cargo/ed448-goldilocks-plus@0.16.0

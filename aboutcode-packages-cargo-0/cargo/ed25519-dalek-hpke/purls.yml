@@ -1,0 +1,4 @@
+- pkg:cargo/ed25519-dalek-hpke@0.0.1
+- pkg:cargo/ed25519-dalek-hpke@0.0.2
+- pkg:cargo/ed25519-dalek-hpke@0.0.3
+- pkg:cargo/ed25519-dalek-hpke@0.0.4

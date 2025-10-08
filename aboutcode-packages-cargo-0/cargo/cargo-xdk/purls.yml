@@ -1,0 +1,4 @@
+- pkg:cargo/cargo-xdk@2.10.1
+- pkg:cargo/cargo-xdk@2.12.6
+- pkg:cargo/cargo-xdk@2.5.0
+- pkg:cargo/cargo-xdk@2.7.0

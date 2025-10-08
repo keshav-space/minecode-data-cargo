@@ -1,0 +1,4 @@
+- pkg:cargo/casper-wasmi-validation@0.5.0
+- pkg:cargo/casper-wasmi-validation@0.6.0
+- pkg:cargo/casper-wasmi-validation@0.7.0
+- pkg:cargo/casper-wasmi-validation@1.0.0

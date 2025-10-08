@@ -1,0 +1,16 @@
+- pkg:cargo/cargo_crates-io_docs-rs_test@0.1.0
+- pkg:cargo/cargo_crates-io_docs-rs_test@0.1.0%2B1
+- pkg:cargo/cargo_crates-io_docs-rs_test@0.1.0%2B2
+- pkg:cargo/cargo_crates-io_docs-rs_test@0.1.0%2B3
+- pkg:cargo/cargo_crates-io_docs-rs_test@0.1.0-rc.1
+- pkg:cargo/cargo_crates-io_docs-rs_test@0.2.0
+- pkg:cargo/cargo_crates-io_docs-rs_test@0.2.0%2B1
+- pkg:cargo/cargo_crates-io_docs-rs_test@0.2.0-1
+- pkg:cargo/cargo_crates-io_docs-rs_test@0.3.0
+- pkg:cargo/cargo_crates-io_docs-rs_test@0.3.0-1
+- pkg:cargo/cargo_crates-io_docs-rs_test@0.3.0-rc.1
+- pkg:cargo/cargo_crates-io_docs-rs_test@0.4.0-1
+- pkg:cargo/cargo_crates-io_docs-rs_test@0.4.0-rc.1
+- pkg:cargo/cargo_crates-io_docs-rs_test@0.4.0-rc.2
+- pkg:cargo/cargo_crates-io_docs-rs_test@0.4.0-rc.3
+- pkg:cargo/cargo_crates-io_docs-rs_test@0.5.0

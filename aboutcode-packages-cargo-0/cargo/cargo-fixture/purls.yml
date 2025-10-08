@@ -1,0 +1,5 @@
+- pkg:cargo/cargo-fixture@0.1.0
+- pkg:cargo/cargo-fixture@1.0.0
+- pkg:cargo/cargo-fixture@1.1.0
+- pkg:cargo/cargo-fixture@1.2.0
+- pkg:cargo/cargo-fixture@1.2.2

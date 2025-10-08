@@ -1,0 +1,5 @@
+- pkg:cargo/casper-wasm@0.46.0
+- pkg:cargo/casper-wasm@0.46.1
+- pkg:cargo/casper-wasm@0.46.2
+- pkg:cargo/casper-wasm@0.47.0
+- pkg:cargo/casper-wasm@1.0.0

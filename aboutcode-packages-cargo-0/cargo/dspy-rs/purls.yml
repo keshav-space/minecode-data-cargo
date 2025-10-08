@@ -1,0 +1,4 @@
+- pkg:cargo/dspy-rs@0.0.1-beta
+- pkg:cargo/dspy-rs@0.0.5
+- pkg:cargo/dspy-rs@0.5.0
+- pkg:cargo/dspy-rs@0.6.0

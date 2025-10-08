@@ -1,0 +1,4 @@
+- pkg:cargo/cargo-version-upgrade@1.0.1
+- pkg:cargo/cargo-version-upgrade@1.0.4
+- pkg:cargo/cargo-version-upgrade@1.0.5
+- pkg:cargo/cargo-version-upgrade@1.0.6

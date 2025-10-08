@@ -1,0 +1,2 @@
+- pkg:cargo/ed25519-dalek-blake2b@1.0.1
+- pkg:cargo/ed25519-dalek-blake2b@1.0.2

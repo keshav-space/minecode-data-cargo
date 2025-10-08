@@ -1,0 +1,3 @@
+- pkg:cargo/ed25519-dalek-bip32-black@0.1.0
+- pkg:cargo/ed25519-dalek-bip32-black@0.1.1
+- pkg:cargo/ed25519-dalek-bip32-black@0.1.2

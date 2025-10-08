@@ -1,0 +1,5 @@
+- pkg:cargo/cargo-test-all-features@0.1.0
+- pkg:cargo/cargo-test-all-features@1.0.0
+- pkg:cargo/cargo-test-all-features@1.0.1
+- pkg:cargo/cargo-test-all-features@2.0.0
+- pkg:cargo/cargo-test-all-features@3.0.0

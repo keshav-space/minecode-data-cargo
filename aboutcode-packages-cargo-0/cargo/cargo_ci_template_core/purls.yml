@@ -1,0 +1,9 @@
+- pkg:cargo/cargo_ci_template_core@1.0.1
+- pkg:cargo/cargo_ci_template_core@1.0.5
+- pkg:cargo/cargo_ci_template_core@1.0.6-alpha.1
+- pkg:cargo/cargo_ci_template_core@1.0.6-alpha.2
+- pkg:cargo/cargo_ci_template_core@1.1.0
+- pkg:cargo/cargo_ci_template_core@1.1.1
+- pkg:cargo/cargo_ci_template_core@1.1.1-alpha.1
+- pkg:cargo/cargo_ci_template_core@1.1.2
+- pkg:cargo/cargo_ci_template_core@1.1.3

@@ -1,0 +1,2 @@
+- pkg:cargo/cargo-registry-s3@0.1.0
+- pkg:cargo/cargo-registry-s3@0.2.0

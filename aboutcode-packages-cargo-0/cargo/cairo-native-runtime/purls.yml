@@ -1,0 +1,16 @@
+- pkg:cargo/cairo-native-runtime@0.2.0-alpha.1
+- pkg:cargo/cairo-native-runtime@0.2.0-alpha.2
+- pkg:cargo/cairo-native-runtime@0.2.0-alpha.3
+- pkg:cargo/cairo-native-runtime@0.2.0-alpha.4
+- pkg:cargo/cairo-native-runtime@0.2.1-alpha.0
+- pkg:cargo/cairo-native-runtime@0.2.2-alpha.0
+- pkg:cargo/cairo-native-runtime@0.2.3
+- pkg:cargo/cairo-native-runtime@0.2.4
+- pkg:cargo/cairo-native-runtime@0.2.5
+- pkg:cargo/cairo-native-runtime@0.2.5-rc0
+- pkg:cargo/cairo-native-runtime@0.2.5-rc1
+- pkg:cargo/cairo-native-runtime@0.2.5-rc2
+- pkg:cargo/cairo-native-runtime@0.2.6
+- pkg:cargo/cairo-native-runtime@0.2.7
+- pkg:cargo/cairo-native-runtime@0.2.8
+- pkg:cargo/cairo-native-runtime@0.2.9

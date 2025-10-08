@@ -1,0 +1,5 @@
+- pkg:cargo/ed25519-dalek-xkeypair@0.1.0
+- pkg:cargo/ed25519-dalek-xkeypair@0.1.1
+- pkg:cargo/ed25519-dalek-xkeypair@1.0.0
+- pkg:cargo/ed25519-dalek-xkeypair@1.0.1
+- pkg:cargo/ed25519-dalek-xkeypair@1.0.2

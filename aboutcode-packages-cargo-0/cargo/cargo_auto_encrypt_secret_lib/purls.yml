@@ -1,0 +1,4 @@
+- pkg:cargo/cargo_auto_encrypt_secret_lib@1.0.5
+- pkg:cargo/cargo_auto_encrypt_secret_lib@1.0.7
+- pkg:cargo/cargo_auto_encrypt_secret_lib@1.1.4
+- pkg:cargo/cargo_auto_encrypt_secret_lib@1.1.7

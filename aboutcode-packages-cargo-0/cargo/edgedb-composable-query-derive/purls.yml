@@ -1,0 +1,3 @@
+- pkg:cargo/edgedb-composable-query-derive@0.0.1
+- pkg:cargo/edgedb-composable-query-derive@0.0.3
+- pkg:cargo/edgedb-composable-query-derive@0.0.4

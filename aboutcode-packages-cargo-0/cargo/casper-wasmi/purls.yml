@@ -1,0 +1,4 @@
+- pkg:cargo/casper-wasmi@0.13.2
+- pkg:cargo/casper-wasmi@0.14.0
+- pkg:cargo/casper-wasmi@0.15.0
+- pkg:cargo/casper-wasmi@1.0.0

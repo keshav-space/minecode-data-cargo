@@ -1,0 +1,17 @@
+- pkg:cargo/cargo-toml-workspace@0.0.0
+- pkg:cargo/cargo-toml-workspace@1.0.0
+- pkg:cargo/cargo-toml-workspace@2.0.0
+- pkg:cargo/cargo-toml-workspace@3.0.0
+- pkg:cargo/cargo-toml-workspace@4.0.0
+- pkg:cargo/cargo-toml-workspace@5.0.0
+- pkg:cargo/cargo-toml-workspace@6.0.0
+- pkg:cargo/cargo-toml-workspace@6.0.1
+- pkg:cargo/cargo-toml-workspace@6.0.2
+- pkg:cargo/cargo-toml-workspace@6.0.3
+- pkg:cargo/cargo-toml-workspace@7.0.0
+- pkg:cargo/cargo-toml-workspace@7.0.1
+- pkg:cargo/cargo-toml-workspace@7.0.2
+- pkg:cargo/cargo-toml-workspace@7.0.3
+- pkg:cargo/cargo-toml-workspace@7.0.4
+- pkg:cargo/cargo-toml-workspace@7.0.5
+- pkg:cargo/cargo-toml-workspace@7.0.6

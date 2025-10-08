@@ -1,0 +1,4 @@
+- pkg:cargo/cairo-lint-core@2.11.0
+- pkg:cargo/cairo-lint-core@2.11.1
+- pkg:cargo/cairo-lint-core@2.11.2
+- pkg:cargo/cairo-lint-core@2.11.3

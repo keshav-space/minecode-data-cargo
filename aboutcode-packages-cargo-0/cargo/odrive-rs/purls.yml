@@ -1,0 +1,5 @@
+- pkg:cargo/odrive-rs@0.1.0
+- pkg:cargo/odrive-rs@0.1.1
+- pkg:cargo/odrive-rs@1.0.0
+- pkg:cargo/odrive-rs@1.1.0
+- pkg:cargo/odrive-rs@2.0.0-alpha.1

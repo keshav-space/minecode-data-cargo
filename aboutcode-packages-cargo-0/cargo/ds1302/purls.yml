@@ -1,0 +1,4 @@
+- pkg:cargo/ds1302@0.1.1
+- pkg:cargo/ds1302@2.0.0
+- pkg:cargo/ds1302@3.0.0
+- pkg:cargo/ds1302@4.0.0
