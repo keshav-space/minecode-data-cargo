@@ -1,0 +1,2 @@
+- pkg:cargo/go-server-rust-sdk@1.5.8
+- pkg:cargo/go-server-rust-sdk@1.6.0

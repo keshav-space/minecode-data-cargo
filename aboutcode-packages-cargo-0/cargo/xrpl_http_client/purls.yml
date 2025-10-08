@@ -1,0 +1,8 @@
+- pkg:cargo/xrpl_http_client@0.13.0
+- pkg:cargo/xrpl_http_client@0.14.0
+- pkg:cargo/xrpl_http_client@0.15.0
+- pkg:cargo/xrpl_http_client@0.16.0
+- pkg:cargo/xrpl_http_client@0.16.3
+- pkg:cargo/xrpl_http_client@0.16.4
+- pkg:cargo/xrpl_http_client@0.16.5
+- pkg:cargo/xrpl_http_client@0.16.7

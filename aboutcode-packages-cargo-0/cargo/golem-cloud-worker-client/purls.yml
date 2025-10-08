@@ -1,0 +1,4 @@
+- pkg:cargo/golem-cloud-worker-client@0.0.59
+- pkg:cargo/golem-cloud-worker-client@0.0.60
+- pkg:cargo/golem-cloud-worker-client@0.0.61
+- pkg:cargo/golem-cloud-worker-client@0.0.62

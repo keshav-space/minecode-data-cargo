@@ -1,0 +1,4 @@
+- pkg:cargo/gdk4-macos@0.0.0
+- pkg:cargo/gdk4-macos@0.10.0
+- pkg:cargo/gdk4-macos@0.10.1
+- pkg:cargo/gdk4-macos@0.9.5

@@ -1,0 +1,11 @@
+- pkg:cargo/bintest@0.0.0
+- pkg:cargo/bintest@0.0.1
+- pkg:cargo/bintest@0.0.2
+- pkg:cargo/bintest@0.1.0
+- pkg:cargo/bintest@0.1.1
+- pkg:cargo/bintest@1.0.0
+- pkg:cargo/bintest@1.0.1
+- pkg:cargo/bintest@1.0.2
+- pkg:cargo/bintest@1.0.3
+- pkg:cargo/bintest@2.0.0
+- pkg:cargo/bintest@2.0.1

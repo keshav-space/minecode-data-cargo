@@ -1,0 +1,12 @@
+- pkg:cargo/aurora-evm@0.0.0-reserved
+- pkg:cargo/aurora-evm@1.0.0
+- pkg:cargo/aurora-evm@1.0.0-beta.1
+- pkg:cargo/aurora-evm@1.0.0-beta.2
+- pkg:cargo/aurora-evm@1.0.0-rc.1
+- pkg:cargo/aurora-evm@2.0.0
+- pkg:cargo/aurora-evm@2.0.0-rc.1
+- pkg:cargo/aurora-evm@2.0.0-rc.2
+- pkg:cargo/aurora-evm@2.1.0
+- pkg:cargo/aurora-evm@2.1.1
+- pkg:cargo/aurora-evm@2.1.2
+- pkg:cargo/aurora-evm@2.1.3

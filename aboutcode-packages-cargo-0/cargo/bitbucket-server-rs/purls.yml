@@ -1,0 +1,4 @@
+- pkg:cargo/bitbucket-server-rs@0.3.2
+- pkg:cargo/bitbucket-server-rs@0.4.1
+- pkg:cargo/bitbucket-server-rs@0.5.0
+- pkg:cargo/bitbucket-server-rs@0.5.1

@@ -1,0 +1,4 @@
+- pkg:cargo/is_terminal_polyfill@1.48.0
+- pkg:cargo/is_terminal_polyfill@1.48.1
+- pkg:cargo/is_terminal_polyfill@1.70.0
+- pkg:cargo/is_terminal_polyfill@1.70.1

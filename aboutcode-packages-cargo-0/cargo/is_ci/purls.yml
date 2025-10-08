@@ -1,0 +1,6 @@
+- pkg:cargo/is_ci@0.0.0
+- pkg:cargo/is_ci@1.0.0
+- pkg:cargo/is_ci@1.0.1
+- pkg:cargo/is_ci@1.1.0
+- pkg:cargo/is_ci@1.1.1
+- pkg:cargo/is_ci@1.2.0

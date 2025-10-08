@@ -1,0 +1,4 @@
+- pkg:cargo/autd-core@4.0.0
+- pkg:cargo/autd-core@5.0.0
+- pkg:cargo/autd-core@5.0.0-rc1
+- pkg:cargo/autd-core@6.0.0

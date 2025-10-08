@@ -1,0 +1,2 @@
+- pkg:cargo/auth-tarball-from-git@0.1.0
+- pkg:cargo/auth-tarball-from-git@0.2.0

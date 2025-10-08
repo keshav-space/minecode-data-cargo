@@ -1,0 +1,4 @@
+- pkg:cargo/aes256ctr_poly1305aes@0.1.0
+- pkg:cargo/aes256ctr_poly1305aes@0.1.1
+- pkg:cargo/aes256ctr_poly1305aes@0.2.0
+- pkg:cargo/aes256ctr_poly1305aes@0.2.1

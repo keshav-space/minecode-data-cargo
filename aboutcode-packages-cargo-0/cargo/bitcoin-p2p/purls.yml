@@ -1,0 +1,3 @@
+- pkg:cargo/bitcoin-p2p@0.0.1
+- pkg:cargo/bitcoin-p2p@0.0.2
+- pkg:cargo/bitcoin-p2p@0.1.0

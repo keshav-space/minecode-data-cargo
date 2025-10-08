@@ -1,0 +1,2 @@
+- pkg:cargo/bigquery-client@0.1.0-alpha
+- pkg:cargo/bigquery-client@0.2.0-alpha

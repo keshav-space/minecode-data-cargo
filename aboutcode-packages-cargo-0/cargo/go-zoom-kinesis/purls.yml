@@ -1,0 +1,13 @@
+- pkg:cargo/go-zoom-kinesis@0.10.0
+- pkg:cargo/go-zoom-kinesis@0.11.0
+- pkg:cargo/go-zoom-kinesis@0.12.0
+- pkg:cargo/go-zoom-kinesis@0.13.0
+- pkg:cargo/go-zoom-kinesis@0.14.0
+- pkg:cargo/go-zoom-kinesis@0.15.0
+- pkg:cargo/go-zoom-kinesis@0.16.0
+- pkg:cargo/go-zoom-kinesis@0.17.0
+- pkg:cargo/go-zoom-kinesis@0.18.0
+- pkg:cargo/go-zoom-kinesis@0.9.0
+- pkg:cargo/go-zoom-kinesis@0.9.1
+- pkg:cargo/go-zoom-kinesis@0.9.2
+- pkg:cargo/go-zoom-kinesis@0.9.3

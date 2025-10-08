@@ -1,0 +1,3 @@
+- pkg:cargo/autograder-setup@2.2.3
+- pkg:cargo/autograder-setup@2.2.4
+- pkg:cargo/autograder-setup@2.2.5

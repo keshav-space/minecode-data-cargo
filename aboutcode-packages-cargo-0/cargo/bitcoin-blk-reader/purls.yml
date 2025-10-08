@@ -1,0 +1,3 @@
+- pkg:cargo/bitcoin-blk-reader@0.0.1
+- pkg:cargo/bitcoin-blk-reader@0.0.2
+- pkg:cargo/bitcoin-blk-reader@0.0.3

@@ -1,0 +1,17 @@
+- pkg:cargo/google-cloud-bigquery@0.1.0
+- pkg:cargo/google-cloud-bigquery@0.1.1
+- pkg:cargo/google-cloud-bigquery@0.10.0
+- pkg:cargo/google-cloud-bigquery@0.12.0
+- pkg:cargo/google-cloud-bigquery@0.13.0
+- pkg:cargo/google-cloud-bigquery@0.13.1
+- pkg:cargo/google-cloud-bigquery@0.14.0
+- pkg:cargo/google-cloud-bigquery@0.15.0
+- pkg:cargo/google-cloud-bigquery@0.2.0
+- pkg:cargo/google-cloud-bigquery@0.3.0
+- pkg:cargo/google-cloud-bigquery@0.4.0
+- pkg:cargo/google-cloud-bigquery@0.4.1
+- pkg:cargo/google-cloud-bigquery@0.5.0
+- pkg:cargo/google-cloud-bigquery@0.6.0
+- pkg:cargo/google-cloud-bigquery@0.7.0
+- pkg:cargo/google-cloud-bigquery@0.8.0
+- pkg:cargo/google-cloud-bigquery@0.9.0

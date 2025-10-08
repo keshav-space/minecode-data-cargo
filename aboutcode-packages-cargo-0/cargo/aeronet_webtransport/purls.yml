@@ -1,0 +1,13 @@
+- pkg:cargo/aeronet_webtransport@0.10.0
+- pkg:cargo/aeronet_webtransport@0.10.1
+- pkg:cargo/aeronet_webtransport@0.11.0
+- pkg:cargo/aeronet_webtransport@0.12.0
+- pkg:cargo/aeronet_webtransport@0.14.0
+- pkg:cargo/aeronet_webtransport@0.14.0-rc.1
+- pkg:cargo/aeronet_webtransport@0.14.0-rc.2
+- pkg:cargo/aeronet_webtransport@0.16.0
+- pkg:cargo/aeronet_webtransport@0.16.1
+- pkg:cargo/aeronet_webtransport@0.6.0
+- pkg:cargo/aeronet_webtransport@0.7.0-alpha.1
+- pkg:cargo/aeronet_webtransport@0.7.0-alpha.2
+- pkg:cargo/aeronet_webtransport@0.9.0

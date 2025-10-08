@@ -1,0 +1,15 @@
+- pkg:cargo/auditable-serde@0.1.0
+- pkg:cargo/auditable-serde@0.1.0-rc0
+- pkg:cargo/auditable-serde@0.2.0
+- pkg:cargo/auditable-serde@0.2.0-alpha.1
+- pkg:cargo/auditable-serde@0.3.0
+- pkg:cargo/auditable-serde@0.4.0
+- pkg:cargo/auditable-serde@0.5.0
+- pkg:cargo/auditable-serde@0.5.1
+- pkg:cargo/auditable-serde@0.5.2
+- pkg:cargo/auditable-serde@0.5.2-alpha.1
+- pkg:cargo/auditable-serde@0.6.0
+- pkg:cargo/auditable-serde@0.6.1
+- pkg:cargo/auditable-serde@0.7.0
+- pkg:cargo/auditable-serde@0.8.0
+- pkg:cargo/auditable-serde@0.9.0

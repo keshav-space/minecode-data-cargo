@@ -1,0 +1,9 @@
+- pkg:cargo/gdkwayland-sys@0.0.0
+- pkg:cargo/gdkwayland-sys@0.15.0
+- pkg:cargo/gdkwayland-sys@0.15.1
+- pkg:cargo/gdkwayland-sys@0.15.2
+- pkg:cargo/gdkwayland-sys@0.15.3
+- pkg:cargo/gdkwayland-sys@0.16.0
+- pkg:cargo/gdkwayland-sys@0.17.0
+- pkg:cargo/gdkwayland-sys@0.18.0
+- pkg:cargo/gdkwayland-sys@0.18.2

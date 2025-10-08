@@ -1,0 +1,2 @@
+- pkg:cargo/autoschematic-connector-aws-ecr@0.6.1
+- pkg:cargo/autoschematic-connector-aws-ecr@0.7.0

@@ -1,0 +1,3 @@
+- pkg:cargo/aead-stream@0.0.0
+- pkg:cargo/aead-stream@0.6.0-rc.0
+- pkg:cargo/aead-stream@0.6.0-rc.1

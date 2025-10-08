@@ -1,0 +1,4 @@
+- pkg:cargo/authorized_keys@0.10.0
+- pkg:cargo/authorized_keys@0.11.0
+- pkg:cargo/authorized_keys@0.9.0
+- pkg:cargo/authorized_keys@1.0.0

@@ -1,0 +1,3 @@
+- pkg:cargo/gdal-src@0.1.0
+- pkg:cargo/gdal-src@0.2.0%2B3.10.2
+- pkg:cargo/gdal-src@0.2.1%2B3.10.3

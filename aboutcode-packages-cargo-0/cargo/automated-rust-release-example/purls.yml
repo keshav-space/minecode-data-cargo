@@ -1,0 +1,7 @@
+- pkg:cargo/automated-rust-release-example@0.0.0
+- pkg:cargo/automated-rust-release-example@0.0.21
+- pkg:cargo/automated-rust-release-example@0.0.22
+- pkg:cargo/automated-rust-release-example@0.0.23
+- pkg:cargo/automated-rust-release-example@0.0.24
+- pkg:cargo/automated-rust-release-example@0.0.25
+- pkg:cargo/automated-rust-release-example@0.0.26

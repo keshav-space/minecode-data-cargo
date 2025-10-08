@@ -1,0 +1,13 @@
+- pkg:cargo/binread_derive@1.0.0
+- pkg:cargo/binread_derive@1.0.1
+- pkg:cargo/binread_derive@1.0.2
+- pkg:cargo/binread_derive@1.1.0
+- pkg:cargo/binread_derive@1.1.1
+- pkg:cargo/binread_derive@1.2.0
+- pkg:cargo/binread_derive@1.3.0
+- pkg:cargo/binread_derive@1.4.0
+- pkg:cargo/binread_derive@1.4.2
+- pkg:cargo/binread_derive@1.4.3
+- pkg:cargo/binread_derive@2.0.0
+- pkg:cargo/binread_derive@2.0.0-beta.1
+- pkg:cargo/binread_derive@2.1.0
