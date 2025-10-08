@@ -1,0 +1,11 @@
+- pkg:cargo/orm_macro_derive@0.1.0
+- pkg:cargo/orm_macro_derive@0.1.1
+- pkg:cargo/orm_macro_derive@0.1.2
+- pkg:cargo/orm_macro_derive@1.0.0
+- pkg:cargo/orm_macro_derive@1.0.1
+- pkg:cargo/orm_macro_derive@1.1.1
+- pkg:cargo/orm_macro_derive@1.1.2
+- pkg:cargo/orm_macro_derive@1.1.3
+- pkg:cargo/orm_macro_derive@1.2.0
+- pkg:cargo/orm_macro_derive@1.2.1
+- pkg:cargo/orm_macro_derive@1.3.0

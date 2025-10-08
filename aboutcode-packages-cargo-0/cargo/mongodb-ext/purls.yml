@@ -1,0 +1,9 @@
+- pkg:cargo/mongodb-ext@0.1.0
+- pkg:cargo/mongodb-ext@1.1.0
+- pkg:cargo/mongodb-ext@2.1.0
+- pkg:cargo/mongodb-ext@3.1.0
+- pkg:cargo/mongodb-ext@4.1.0
+- pkg:cargo/mongodb-ext@4.1.1
+- pkg:cargo/mongodb-ext@4.2.1
+- pkg:cargo/mongodb-ext@4.2.2
+- pkg:cargo/mongodb-ext@4.3.2

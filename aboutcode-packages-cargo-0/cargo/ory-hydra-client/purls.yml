@@ -1,0 +1,12 @@
+- pkg:cargo/ory-hydra-client@1.10.3
+- pkg:cargo/ory-hydra-client@1.10.5
+- pkg:cargo/ory-hydra-client@1.10.6
+- pkg:cargo/ory-hydra-client@1.11.4
+- pkg:cargo/ory-hydra-client@1.11.5
+- pkg:cargo/ory-hydra-client@1.11.6
+- pkg:cargo/ory-hydra-client@1.11.7
+- pkg:cargo/ory-hydra-client@1.11.8
+- pkg:cargo/ory-hydra-client@2.1.0
+- pkg:cargo/ory-hydra-client@2.1.1
+- pkg:cargo/ory-hydra-client@2.2.0
+- pkg:cargo/ory-hydra-client@2.2.0-rc.3

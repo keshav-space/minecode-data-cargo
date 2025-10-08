@@ -1,0 +1,15 @@
+- pkg:cargo/zephyrus-macros@0.10.0
+- pkg:cargo/zephyrus-macros@0.11.0
+- pkg:cargo/zephyrus-macros@0.2.1
+- pkg:cargo/zephyrus-macros@0.2.2
+- pkg:cargo/zephyrus-macros@0.2.3
+- pkg:cargo/zephyrus-macros@0.2.5
+- pkg:cargo/zephyrus-macros@0.2.8
+- pkg:cargo/zephyrus-macros@0.3.0
+- pkg:cargo/zephyrus-macros@0.3.1
+- pkg:cargo/zephyrus-macros@0.3.2
+- pkg:cargo/zephyrus-macros@0.4.0
+- pkg:cargo/zephyrus-macros@0.5.0
+- pkg:cargo/zephyrus-macros@0.6.0
+- pkg:cargo/zephyrus-macros@0.8.0
+- pkg:cargo/zephyrus-macros@0.9.0

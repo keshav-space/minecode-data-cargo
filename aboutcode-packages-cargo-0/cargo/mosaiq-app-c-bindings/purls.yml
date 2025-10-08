@@ -1,0 +1,4 @@
+- pkg:cargo/mosaiq-app-c-bindings@0.2.10
+- pkg:cargo/mosaiq-app-c-bindings@0.2.7
+- pkg:cargo/mosaiq-app-c-bindings@0.2.8
+- pkg:cargo/mosaiq-app-c-bindings@0.2.9

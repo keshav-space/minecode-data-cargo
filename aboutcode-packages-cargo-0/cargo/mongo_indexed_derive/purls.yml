@@ -1,0 +1,7 @@
+- pkg:cargo/mongo_indexed_derive@0.1.0
+- pkg:cargo/mongo_indexed_derive@0.2.0
+- pkg:cargo/mongo_indexed_derive@0.2.2
+- pkg:cargo/mongo_indexed_derive@0.3.0
+- pkg:cargo/mongo_indexed_derive@1.0.0
+- pkg:cargo/mongo_indexed_derive@2.0.0
+- pkg:cargo/mongo_indexed_derive@2.0.2

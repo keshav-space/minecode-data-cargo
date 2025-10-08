@@ -1,0 +1,6 @@
+- pkg:cargo/zerofs_nfsserve@0.10.3
+- pkg:cargo/zerofs_nfsserve@0.11.0
+- pkg:cargo/zerofs_nfsserve@0.12.0
+- pkg:cargo/zerofs_nfsserve@0.13.0
+- pkg:cargo/zerofs_nfsserve@0.14.0
+- pkg:cargo/zerofs_nfsserve@0.15.0

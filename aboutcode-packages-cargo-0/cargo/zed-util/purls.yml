@@ -1,0 +1,4 @@
+- pkg:cargo/zed-util@0.1.0
+- pkg:cargo/zed-util@0.2.0-test.1
+- pkg:cargo/zed-util@0.2.0-test.3
+- pkg:cargo/zed-util@0.2.0-test.4

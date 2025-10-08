@@ -1,0 +1,6 @@
+- pkg:cargo/abstract-registry@0.24.1
+- pkg:cargo/abstract-registry@0.24.1-beta.1
+- pkg:cargo/abstract-registry@0.24.1-beta.2
+- pkg:cargo/abstract-registry@0.24.2
+- pkg:cargo/abstract-registry@0.26.0
+- pkg:cargo/abstract-registry@0.26.1

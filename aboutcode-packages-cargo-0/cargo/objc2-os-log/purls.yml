@@ -1,0 +1,3 @@
+- pkg:cargo/objc2-os-log@0.0.0
+- pkg:cargo/objc2-os-log@0.3.1
+- pkg:cargo/objc2-os-log@0.3.2

@@ -1,0 +1,12 @@
+- pkg:cargo/mosquitto-plugin@0.1.0
+- pkg:cargo/mosquitto-plugin@0.1.1
+- pkg:cargo/mosquitto-plugin@1.0.1
+- pkg:cargo/mosquitto-plugin@1.0.2-alpha.0
+- pkg:cargo/mosquitto-plugin@1.1.0
+- pkg:cargo/mosquitto-plugin@1.2.0
+- pkg:cargo/mosquitto-plugin@1.3.0
+- pkg:cargo/mosquitto-plugin@2.0.0
+- pkg:cargo/mosquitto-plugin@2.1.0
+- pkg:cargo/mosquitto-plugin@2.1.1
+- pkg:cargo/mosquitto-plugin@2.1.2
+- pkg:cargo/mosquitto-plugin@2.1.3

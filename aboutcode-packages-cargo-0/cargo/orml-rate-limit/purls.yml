@@ -1,0 +1,12 @@
+- pkg:cargo/orml-rate-limit@0.10.0
+- pkg:cargo/orml-rate-limit@0.12.0
+- pkg:cargo/orml-rate-limit@0.13.0
+- pkg:cargo/orml-rate-limit@0.8.0
+- pkg:cargo/orml-rate-limit@0.9.0
+- pkg:cargo/orml-rate-limit@0.9.1
+- pkg:cargo/orml-rate-limit@1.0.0
+- pkg:cargo/orml-rate-limit@1.1.0
+- pkg:cargo/orml-rate-limit@1.2.1
+- pkg:cargo/orml-rate-limit@1.3.0
+- pkg:cargo/orml-rate-limit@1.4.0
+- pkg:cargo/orml-rate-limit@1.5.0

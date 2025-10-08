@@ -1,0 +1,9 @@
+- pkg:cargo/ord-bitcoincore-rpc@0.16.0
+- pkg:cargo/ord-bitcoincore-rpc@0.16.2
+- pkg:cargo/ord-bitcoincore-rpc@0.16.3
+- pkg:cargo/ord-bitcoincore-rpc@0.16.4
+- pkg:cargo/ord-bitcoincore-rpc@0.16.5
+- pkg:cargo/ord-bitcoincore-rpc@0.17.0
+- pkg:cargo/ord-bitcoincore-rpc@0.17.1
+- pkg:cargo/ord-bitcoincore-rpc@0.17.2
+- pkg:cargo/ord-bitcoincore-rpc@0.19.0

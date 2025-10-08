@@ -1,0 +1,4 @@
+- pkg:cargo/modbus-core@0.0.0
+- pkg:cargo/modbus-core@0.1.0
+- pkg:cargo/modbus-core@0.1.1
+- pkg:cargo/modbus-core@0.2.0

@@ -1,0 +1,2 @@
+- pkg:cargo/mobc-redis-cluster@0.1.0
+- pkg:cargo/mobc-redis-cluster@0.1.1

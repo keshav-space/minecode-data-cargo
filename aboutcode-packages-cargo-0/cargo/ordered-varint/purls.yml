@@ -1,0 +1,6 @@
+- pkg:cargo/ordered-varint@0.0.0-reserve.0
+- pkg:cargo/ordered-varint@0.1.0-dev.0
+- pkg:cargo/ordered-varint@0.1.0-dev.1
+- pkg:cargo/ordered-varint@1.0.0
+- pkg:cargo/ordered-varint@1.0.1
+- pkg:cargo/ordered-varint@2.0.0

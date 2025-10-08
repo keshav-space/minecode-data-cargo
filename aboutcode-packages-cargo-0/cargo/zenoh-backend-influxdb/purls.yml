@@ -1,0 +1,4 @@
+- pkg:cargo/zenoh-backend-influxdb@0.0.0
+- pkg:cargo/zenoh-backend-influxdb@0.10.0-rc
+- pkg:cargo/zenoh-backend-influxdb@0.7.0-rc
+- pkg:cargo/zenoh-backend-influxdb@0.7.2-rc

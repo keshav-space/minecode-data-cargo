@@ -1,0 +1,2 @@
+- pkg:cargo/zenoh-link-quic_datagram@1.5.0
+- pkg:cargo/zenoh-link-quic_datagram@1.5.1

@@ -1,0 +1,3 @@
+- pkg:cargo/mosaiq-c-bindings@0.2.4
+- pkg:cargo/mosaiq-c-bindings@0.2.5
+- pkg:cargo/mosaiq-c-bindings@0.2.6

@@ -1,0 +1,10 @@
+- pkg:cargo/mozilla-root-ca@2024.12.15
+- pkg:cargo/mozilla-root-ca@2024.12.16
+- pkg:cargo/mozilla-root-ca@2024.12.17
+- pkg:cargo/mozilla-root-ca@2024.12.18
+- pkg:cargo/mozilla-root-ca@2024.12.19
+- pkg:cargo/mozilla-root-ca@2025.1.11
+- pkg:cargo/mozilla-root-ca@2025.2.26
+- pkg:cargo/mozilla-root-ca@2025.3.7
+- pkg:cargo/mozilla-root-ca@2025.5.21
+- pkg:cargo/mozilla-root-ca@2025.6.7

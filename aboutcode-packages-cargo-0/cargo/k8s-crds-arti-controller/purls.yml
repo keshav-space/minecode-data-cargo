@@ -1,0 +1,2 @@
+- pkg:cargo/k8s-crds-arti-controller@0.8.0
+- pkg:cargo/k8s-crds-arti-controller@0.8.1
