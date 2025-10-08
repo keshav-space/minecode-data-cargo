@@ -1,0 +1,5 @@
+- pkg:cargo/raca_std@14.0.0
+- pkg:cargo/raca_std@14.0.1
+- pkg:cargo/raca_std@15.0.0
+- pkg:cargo/raca_std@15.0.1
+- pkg:cargo/raca_std@16.0.0

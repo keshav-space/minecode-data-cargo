@@ -1,0 +1,5 @@
+- pkg:cargo/salt@0.0.1
+- pkg:cargo/salt@0.0.3
+- pkg:cargo/salt@0.0.4
+- pkg:cargo/salt@0.2.2
+- pkg:cargo/salt@0.2.3

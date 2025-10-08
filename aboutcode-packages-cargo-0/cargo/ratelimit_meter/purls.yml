@@ -1,0 +1,17 @@
+- pkg:cargo/ratelimit_meter@0.0.2
+- pkg:cargo/ratelimit_meter@0.0.3
+- pkg:cargo/ratelimit_meter@0.1.0
+- pkg:cargo/ratelimit_meter@0.2.0
+- pkg:cargo/ratelimit_meter@0.3.0
+- pkg:cargo/ratelimit_meter@0.3.1
+- pkg:cargo/ratelimit_meter@0.4.0
+- pkg:cargo/ratelimit_meter@0.4.1
+- pkg:cargo/ratelimit_meter@0.5.0
+- pkg:cargo/ratelimit_meter@1.0.0
+- pkg:cargo/ratelimit_meter@2.0.0
+- pkg:cargo/ratelimit_meter@3.0.0
+- pkg:cargo/ratelimit_meter@4.0.0
+- pkg:cargo/ratelimit_meter@4.0.1
+- pkg:cargo/ratelimit_meter@4.1.0
+- pkg:cargo/ratelimit_meter@4.1.1
+- pkg:cargo/ratelimit_meter@5.0.0

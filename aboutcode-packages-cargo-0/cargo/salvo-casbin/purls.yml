@@ -1,0 +1,5 @@
+- pkg:cargo/salvo-casbin@0.2.0
+- pkg:cargo/salvo-casbin@0.73.0
+- pkg:cargo/salvo-casbin@0.73.1
+- pkg:cargo/salvo-casbin@0.73.2
+- pkg:cargo/salvo-casbin@0.73.3

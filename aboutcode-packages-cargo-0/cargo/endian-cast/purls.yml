@@ -1,0 +1,5 @@
+- pkg:cargo/endian-cast@0.1.0
+- pkg:cargo/endian-cast@1.0.0
+- pkg:cargo/endian-cast@2.0.0
+- pkg:cargo/endian-cast@2.0.1
+- pkg:cargo/endian-cast@2.0.2

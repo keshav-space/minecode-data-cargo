@@ -1,0 +1,6 @@
+- pkg:cargo/oci-client@0.11.0
+- pkg:cargo/oci-client@0.12.0
+- pkg:cargo/oci-client@0.12.1
+- pkg:cargo/oci-client@0.13.0
+- pkg:cargo/oci-client@0.14.0
+- pkg:cargo/oci-client@0.15.0

@@ -1,0 +1,6 @@
+- pkg:cargo/saa-proto-wasm@0.25.0
+- pkg:cargo/saa-proto-wasm@0.25.1
+- pkg:cargo/saa-proto-wasm@0.25.2
+- pkg:cargo/saa-proto-wasm@0.26.0
+- pkg:cargo/saa-proto-wasm@0.26.0-beta
+- pkg:cargo/saa-proto-wasm@0.27.0

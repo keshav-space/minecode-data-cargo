@@ -1,0 +1,5 @@
+- pkg:cargo/enum_pipeline_derive@0.1.0
+- pkg:cargo/enum_pipeline_derive@1.0.0
+- pkg:cargo/enum_pipeline_derive@1.0.1
+- pkg:cargo/enum_pipeline_derive@1.0.2
+- pkg:cargo/enum_pipeline_derive@2.0.0
