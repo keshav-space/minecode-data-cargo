@@ -1,0 +1,3 @@
+- pkg:cargo/kaspa-metrics-core@0.0.0
+- pkg:cargo/kaspa-metrics-core@0.13.4
+- pkg:cargo/kaspa-metrics-core@0.15.0

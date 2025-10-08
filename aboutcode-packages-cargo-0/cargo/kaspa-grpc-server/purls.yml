@@ -1,0 +1,6 @@
+- pkg:cargo/kaspa-grpc-server@0.0.1
+- pkg:cargo/kaspa-grpc-server@0.0.2
+- pkg:cargo/kaspa-grpc-server@0.0.3
+- pkg:cargo/kaspa-grpc-server@0.0.4
+- pkg:cargo/kaspa-grpc-server@0.13.4
+- pkg:cargo/kaspa-grpc-server@0.15.0

@@ -1,0 +1,4 @@
+- pkg:cargo/pqcrypto-dilithium-wasi@0.4.3
+- pkg:cargo/pqcrypto-dilithium-wasi@0.4.4
+- pkg:cargo/pqcrypto-dilithium-wasi@0.4.6
+- pkg:cargo/pqcrypto-dilithium-wasi@0.4.7

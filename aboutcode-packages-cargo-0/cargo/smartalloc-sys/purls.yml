@@ -1,0 +1,3 @@
+- pkg:cargo/smartalloc-sys@0.0.1
+- pkg:cargo/smartalloc-sys@0.1.1
+- pkg:cargo/smartalloc-sys@0.2.0

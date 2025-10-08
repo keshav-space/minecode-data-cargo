@@ -1,0 +1,4 @@
+- pkg:cargo/yb-tokio-postgres@0.7.10-yb-1-beta
+- pkg:cargo/yb-tokio-postgres@0.7.10-yb-1-beta.1
+- pkg:cargo/yb-tokio-postgres@0.7.10-yb-1-beta.2
+- pkg:cargo/yb-tokio-postgres@0.7.10-yb-1-beta.3

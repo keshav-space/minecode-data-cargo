@@ -1,0 +1,4 @@
+- pkg:cargo/pqcrypto-frodo-wasi@0.4.10
+- pkg:cargo/pqcrypto-frodo-wasi@0.4.11
+- pkg:cargo/pqcrypto-frodo-wasi@0.4.12
+- pkg:cargo/pqcrypto-frodo-wasi@0.4.9

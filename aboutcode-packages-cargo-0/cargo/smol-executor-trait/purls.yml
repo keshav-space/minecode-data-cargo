@@ -1,0 +1,10 @@
+- pkg:cargo/smol-executor-trait@1.0.0
+- pkg:cargo/smol-executor-trait@2.0.0
+- pkg:cargo/smol-executor-trait@2.0.1
+- pkg:cargo/smol-executor-trait@2.0.2
+- pkg:cargo/smol-executor-trait@2.1.0
+- pkg:cargo/smol-executor-trait@3.0.0
+- pkg:cargo/smol-executor-trait@3.0.1
+- pkg:cargo/smol-executor-trait@3.0.2
+- pkg:cargo/smol-executor-trait@4.0.0
+- pkg:cargo/smol-executor-trait@4.1.0

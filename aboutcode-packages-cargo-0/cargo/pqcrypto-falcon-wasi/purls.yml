@@ -1,0 +1,6 @@
+- pkg:cargo/pqcrypto-falcon-wasi@0.2.10
+- pkg:cargo/pqcrypto-falcon-wasi@0.2.11
+- pkg:cargo/pqcrypto-falcon-wasi@0.2.12
+- pkg:cargo/pqcrypto-falcon-wasi@0.2.13
+- pkg:cargo/pqcrypto-falcon-wasi@0.2.14
+- pkg:cargo/pqcrypto-falcon-wasi@0.2.9

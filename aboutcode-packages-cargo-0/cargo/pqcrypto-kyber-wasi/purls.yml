@@ -1,0 +1,4 @@
+- pkg:cargo/pqcrypto-kyber-wasi@0.7.3
+- pkg:cargo/pqcrypto-kyber-wasi@0.7.4
+- pkg:cargo/pqcrypto-kyber-wasi@0.7.5
+- pkg:cargo/pqcrypto-kyber-wasi@0.7.6

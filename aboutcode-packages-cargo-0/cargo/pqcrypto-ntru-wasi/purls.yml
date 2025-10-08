@@ -1,0 +1,6 @@
+- pkg:cargo/pqcrypto-ntru-wasi@0.5.10
+- pkg:cargo/pqcrypto-ntru-wasi@0.5.11
+- pkg:cargo/pqcrypto-ntru-wasi@0.5.6
+- pkg:cargo/pqcrypto-ntru-wasi@0.5.7
+- pkg:cargo/pqcrypto-ntru-wasi@0.5.8
+- pkg:cargo/pqcrypto-ntru-wasi@0.5.9

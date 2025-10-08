@@ -1,0 +1,6 @@
+- pkg:cargo/turn-server-proto@0.1.0
+- pkg:cargo/turn-server-proto@0.2.0
+- pkg:cargo/turn-server-proto@0.3.0
+- pkg:cargo/turn-server-proto@0.4.0-alpha0
+- pkg:cargo/turn-server-proto@0.4.0-alpha1
+- pkg:cargo/turn-server-proto@0.4.0-alpha2

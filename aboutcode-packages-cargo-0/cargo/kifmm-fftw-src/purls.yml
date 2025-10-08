@@ -1,0 +1,4 @@
+- pkg:cargo/kifmm-fftw-src@0.1.0
+- pkg:cargo/kifmm-fftw-src@0.1.0-dev
+- pkg:cargo/kifmm-fftw-src@0.2.0
+- pkg:cargo/kifmm-fftw-src@0.2.1
