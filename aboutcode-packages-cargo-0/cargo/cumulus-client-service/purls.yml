@@ -19,6 +19,7 @@
 - pkg:cargo/cumulus-client-service@0.26.0
 - pkg:cargo/cumulus-client-service@0.27.0
 - pkg:cargo/cumulus-client-service@0.28.0
+- pkg:cargo/cumulus-client-service@0.29.0
 - pkg:cargo/cumulus-client-service@0.3.0
 - pkg:cargo/cumulus-client-service@0.3.0-dev.1
 - pkg:cargo/cumulus-client-service@0.4.0
