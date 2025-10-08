@@ -1,0 +1,7 @@
+- pkg:cargo/wasmtime-wasi-tls-nativetls@35.0.0
+- pkg:cargo/wasmtime-wasi-tls-nativetls@36.0.0
+- pkg:cargo/wasmtime-wasi-tls-nativetls@36.0.1
+- pkg:cargo/wasmtime-wasi-tls-nativetls@36.0.2
+- pkg:cargo/wasmtime-wasi-tls-nativetls@37.0.0
+- pkg:cargo/wasmtime-wasi-tls-nativetls@37.0.1
+- pkg:cargo/wasmtime-wasi-tls-nativetls@37.0.2

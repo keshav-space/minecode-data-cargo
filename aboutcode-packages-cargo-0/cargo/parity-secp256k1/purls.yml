@@ -1,0 +1,2 @@
+- pkg:cargo/parity-secp256k1@0.6.0
+- pkg:cargo/parity-secp256k1@0.7.0

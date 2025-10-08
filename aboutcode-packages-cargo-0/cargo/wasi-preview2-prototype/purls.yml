@@ -1,0 +1,4 @@
+- pkg:cargo/wasi-preview2-prototype@0.0.0
+- pkg:cargo/wasi-preview2-prototype@0.0.1
+- pkg:cargo/wasi-preview2-prototype@0.0.2
+- pkg:cargo/wasi-preview2-prototype@0.0.3

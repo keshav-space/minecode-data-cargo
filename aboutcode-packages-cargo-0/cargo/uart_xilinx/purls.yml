@@ -1,0 +1,2 @@
+- pkg:cargo/uart_xilinx@0.1.0
+- pkg:cargo/uart_xilinx@0.2.0

@@ -1,0 +1,3 @@
+- pkg:cargo/wasmswap@1.0.0-beta
+- pkg:cargo/wasmswap@1.1.1-beta
+- pkg:cargo/wasmswap@1.1.2-beta

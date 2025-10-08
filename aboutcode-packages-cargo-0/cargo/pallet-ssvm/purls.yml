@@ -1,0 +1,4 @@
+- pkg:cargo/pallet-ssvm@0.0.1
+- pkg:cargo/pallet-ssvm@0.0.1-rc1
+- pkg:cargo/pallet-ssvm@0.1.0-rc2
+- pkg:cargo/pallet-ssvm@0.2.0-rc1

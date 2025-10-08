@@ -1,0 +1,7 @@
+- pkg:cargo/wasmer-clif-fork-simplejit@0.31.0
+- pkg:cargo/wasmer-clif-fork-simplejit@0.31.1
+- pkg:cargo/wasmer-clif-fork-simplejit@0.32.0
+- pkg:cargo/wasmer-clif-fork-simplejit@0.33.0
+- pkg:cargo/wasmer-clif-fork-simplejit@0.34.0
+- pkg:cargo/wasmer-clif-fork-simplejit@0.52.0
+- pkg:cargo/wasmer-clif-fork-simplejit@0.59.0

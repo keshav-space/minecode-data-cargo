@@ -1,0 +1,4 @@
+- pkg:cargo/wasmcloud-logging@0.9.0
+- pkg:cargo/wasmcloud-logging@0.9.1
+- pkg:cargo/wasmcloud-logging@0.9.3
+- pkg:cargo/wasmcloud-logging@0.9.4

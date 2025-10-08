@@ -1,0 +1,14 @@
+- pkg:cargo/pallet-contracts-uapi@0.0.0
+- pkg:cargo/pallet-contracts-uapi@10.0.0
+- pkg:cargo/pallet-contracts-uapi@10.0.1
+- pkg:cargo/pallet-contracts-uapi@11.0.0
+- pkg:cargo/pallet-contracts-uapi@12.0.0
+- pkg:cargo/pallet-contracts-uapi@12.0.1
+- pkg:cargo/pallet-contracts-uapi@13.0.0-rc1
+- pkg:cargo/pallet-contracts-uapi@14.0.0
+- pkg:cargo/pallet-contracts-uapi@4.0.0
+- pkg:cargo/pallet-contracts-uapi@5.0.0
+- pkg:cargo/pallet-contracts-uapi@6.0.0
+- pkg:cargo/pallet-contracts-uapi@7.0.0
+- pkg:cargo/pallet-contracts-uapi@8.0.0
+- pkg:cargo/pallet-contracts-uapi@9.0.0

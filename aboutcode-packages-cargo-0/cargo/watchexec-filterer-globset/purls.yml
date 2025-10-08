@@ -1,0 +1,13 @@
+- pkg:cargo/watchexec-filterer-globset@1.0.0
+- pkg:cargo/watchexec-filterer-globset@1.0.1
+- pkg:cargo/watchexec-filterer-globset@1.1.0
+- pkg:cargo/watchexec-filterer-globset@1.2.0
+- pkg:cargo/watchexec-filterer-globset@2.0.0
+- pkg:cargo/watchexec-filterer-globset@2.0.1
+- pkg:cargo/watchexec-filterer-globset@3.0.0
+- pkg:cargo/watchexec-filterer-globset@4.0.0
+- pkg:cargo/watchexec-filterer-globset@4.0.1
+- pkg:cargo/watchexec-filterer-globset@5.0.0
+- pkg:cargo/watchexec-filterer-globset@6.0.0
+- pkg:cargo/watchexec-filterer-globset@7.0.0
+- pkg:cargo/watchexec-filterer-globset@8.0.0

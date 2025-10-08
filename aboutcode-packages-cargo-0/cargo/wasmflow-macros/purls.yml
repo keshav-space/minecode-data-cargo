@@ -1,0 +1,4 @@
+- pkg:cargo/wasmflow-macros@0.10.0
+- pkg:cargo/wasmflow-macros@0.10.0-beta.0
+- pkg:cargo/wasmflow-macros@0.10.0-beta.1
+- pkg:cargo/wasmflow-macros@0.10.0-beta.4

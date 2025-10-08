@@ -1,0 +1,9 @@
+- pkg:cargo/wasmer-clif-fork-wasm@0.31.0
+- pkg:cargo/wasmer-clif-fork-wasm@0.31.1
+- pkg:cargo/wasmer-clif-fork-wasm@0.32.0
+- pkg:cargo/wasmer-clif-fork-wasm@0.33.0
+- pkg:cargo/wasmer-clif-fork-wasm@0.34.0
+- pkg:cargo/wasmer-clif-fork-wasm@0.43.1
+- pkg:cargo/wasmer-clif-fork-wasm@0.44.0
+- pkg:cargo/wasmer-clif-fork-wasm@0.52.0
+- pkg:cargo/wasmer-clif-fork-wasm@0.59.0

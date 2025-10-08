@@ -1,0 +1,14 @@
+- pkg:cargo/wasm-rpc-macros@0.1.0
+- pkg:cargo/wasm-rpc-macros@0.1.1
+- pkg:cargo/wasm-rpc-macros@0.2.10
+- pkg:cargo/wasm-rpc-macros@0.2.12
+- pkg:cargo/wasm-rpc-macros@0.2.13
+- pkg:cargo/wasm-rpc-macros@0.2.14
+- pkg:cargo/wasm-rpc-macros@0.2.15
+- pkg:cargo/wasm-rpc-macros@0.2.16
+- pkg:cargo/wasm-rpc-macros@0.2.17
+- pkg:cargo/wasm-rpc-macros@0.2.18
+- pkg:cargo/wasm-rpc-macros@0.2.6
+- pkg:cargo/wasm-rpc-macros@0.2.7
+- pkg:cargo/wasm-rpc-macros@0.2.8
+- pkg:cargo/wasm-rpc-macros@0.2.9

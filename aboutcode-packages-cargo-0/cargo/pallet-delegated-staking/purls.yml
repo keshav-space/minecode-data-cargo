@@ -1,0 +1,13 @@
+- pkg:cargo/pallet-delegated-staking@0.0.0
+- pkg:cargo/pallet-delegated-staking@1.0.0
+- pkg:cargo/pallet-delegated-staking@10.0.0
+- pkg:cargo/pallet-delegated-staking@2.0.0
+- pkg:cargo/pallet-delegated-staking@3.0.0
+- pkg:cargo/pallet-delegated-staking@4.0.0
+- pkg:cargo/pallet-delegated-staking@5.0.0
+- pkg:cargo/pallet-delegated-staking@5.0.1
+- pkg:cargo/pallet-delegated-staking@6.0.0
+- pkg:cargo/pallet-delegated-staking@6.1.0
+- pkg:cargo/pallet-delegated-staking@7.0.0
+- pkg:cargo/pallet-delegated-staking@8.0.0
+- pkg:cargo/pallet-delegated-staking@9.0.0

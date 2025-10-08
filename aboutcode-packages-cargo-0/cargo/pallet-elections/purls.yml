@@ -1,0 +1,14 @@
+- pkg:cargo/pallet-elections@2.0.0
+- pkg:cargo/pallet-elections@2.0.0-alpha.3
+- pkg:cargo/pallet-elections@2.0.0-alpha.5
+- pkg:cargo/pallet-elections@2.0.0-alpha.6
+- pkg:cargo/pallet-elections@2.0.0-alpha.7
+- pkg:cargo/pallet-elections@2.0.0-alpha.8
+- pkg:cargo/pallet-elections@2.0.0-rc1
+- pkg:cargo/pallet-elections@2.0.0-rc2
+- pkg:cargo/pallet-elections@2.0.0-rc3
+- pkg:cargo/pallet-elections@2.0.0-rc4
+- pkg:cargo/pallet-elections@2.0.0-rc5
+- pkg:cargo/pallet-elections@2.0.0-rc6
+- pkg:cargo/pallet-elections@2.0.1
+- pkg:cargo/pallet-elections@3.0.0

@@ -1,0 +1,3 @@
+- pkg:cargo/pallet-dynamic-fee@1.0.0
+- pkg:cargo/pallet-dynamic-fee@2.0.0
+- pkg:cargo/pallet-dynamic-fee@3.0.0

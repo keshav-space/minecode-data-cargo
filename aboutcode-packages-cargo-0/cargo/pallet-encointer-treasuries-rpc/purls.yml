@@ -1,0 +1,6 @@
+- pkg:cargo/pallet-encointer-treasuries-rpc@13.3.0
+- pkg:cargo/pallet-encointer-treasuries-rpc@14.3.0
+- pkg:cargo/pallet-encointer-treasuries-rpc@15.3.0
+- pkg:cargo/pallet-encointer-treasuries-rpc@16.3.0
+- pkg:cargo/pallet-encointer-treasuries-rpc@19.3.0
+- pkg:cargo/pallet-encointer-treasuries-rpc@20.3.0

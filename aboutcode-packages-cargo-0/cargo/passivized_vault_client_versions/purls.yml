@@ -1,0 +1,4 @@
+- pkg:cargo/passivized_vault_client_versions@0.0.10
+- pkg:cargo/passivized_vault_client_versions@0.0.8
+- pkg:cargo/passivized_vault_client_versions@0.0.8-alpha
+- pkg:cargo/passivized_vault_client_versions@0.0.9

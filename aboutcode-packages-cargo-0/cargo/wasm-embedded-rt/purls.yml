@@ -1,0 +1,5 @@
+- pkg:cargo/wasm-embedded-rt@0.1.0
+- pkg:cargo/wasm-embedded-rt@0.1.1
+- pkg:cargo/wasm-embedded-rt@0.1.2
+- pkg:cargo/wasm-embedded-rt@0.3.0
+- pkg:cargo/wasm-embedded-rt@0.4.0

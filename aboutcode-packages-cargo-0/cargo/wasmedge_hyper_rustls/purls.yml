@@ -1,0 +1,2 @@
+- pkg:cargo/wasmedge_hyper_rustls@0.1.0
+- pkg:cargo/wasmedge_hyper_rustls@0.1.1

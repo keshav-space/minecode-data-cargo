@@ -1,0 +1,6 @@
+- pkg:cargo/parsql-deadpool-postgres@0.3.3
+- pkg:cargo/parsql-deadpool-postgres@0.3.4
+- pkg:cargo/parsql-deadpool-postgres@0.3.6
+- pkg:cargo/parsql-deadpool-postgres@0.3.7
+- pkg:cargo/parsql-deadpool-postgres@0.4.0
+- pkg:cargo/parsql-deadpool-postgres@0.5.0

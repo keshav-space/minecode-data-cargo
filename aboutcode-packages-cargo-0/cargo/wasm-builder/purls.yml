@@ -1,0 +1,5 @@
+- pkg:cargo/wasm-builder@0.0.0
+- pkg:cargo/wasm-builder@1.0.9
+- pkg:cargo/wasm-builder@2.1.2
+- pkg:cargo/wasm-builder@3.0.0
+- pkg:cargo/wasm-builder@3.0.1

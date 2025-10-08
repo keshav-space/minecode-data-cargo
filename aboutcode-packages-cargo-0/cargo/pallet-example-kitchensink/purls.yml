@@ -1,0 +1,12 @@
+- pkg:cargo/pallet-example-kitchensink@0.0.0
+- pkg:cargo/pallet-example-kitchensink@0.1.0-dev.2
+- pkg:cargo/pallet-example-kitchensink@0.1.0-dev.3
+- pkg:cargo/pallet-example-kitchensink@0.1.0-dev.5
+- pkg:cargo/pallet-example-kitchensink@0.1.0-dev.6
+- pkg:cargo/pallet-example-kitchensink@4.0.0
+- pkg:cargo/pallet-example-kitchensink@5.0.0
+- pkg:cargo/pallet-example-kitchensink@6.0.0
+- pkg:cargo/pallet-example-kitchensink@6.0.0-dev.1
+- pkg:cargo/pallet-example-kitchensink@7.0.0
+- pkg:cargo/pallet-example-kitchensink@8.0.0
+- pkg:cargo/pallet-example-kitchensink@9.0.0

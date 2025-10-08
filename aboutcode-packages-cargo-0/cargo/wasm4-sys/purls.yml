@@ -1,0 +1,5 @@
+- pkg:cargo/wasm4-sys@0.0.1
+- pkg:cargo/wasm4-sys@0.1.0
+- pkg:cargo/wasm4-sys@0.1.1
+- pkg:cargo/wasm4-sys@0.1.2
+- pkg:cargo/wasm4-sys@0.1.3

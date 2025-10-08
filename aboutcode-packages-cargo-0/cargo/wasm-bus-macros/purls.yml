@@ -1,0 +1,3 @@
+- pkg:cargo/wasm-bus-macros@0.1.0
+- pkg:cargo/wasm-bus-macros@1.0.0
+- pkg:cargo/wasm-bus-macros@1.1.0

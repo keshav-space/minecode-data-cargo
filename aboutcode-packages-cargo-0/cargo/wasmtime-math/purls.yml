@@ -1,0 +1,14 @@
+- pkg:cargo/wasmtime-math@29.0.0
+- pkg:cargo/wasmtime-math@29.0.1
+- pkg:cargo/wasmtime-math@30.0.0
+- pkg:cargo/wasmtime-math@30.0.1
+- pkg:cargo/wasmtime-math@30.0.2
+- pkg:cargo/wasmtime-math@31.0.0
+- pkg:cargo/wasmtime-math@32.0.0
+- pkg:cargo/wasmtime-math@32.0.1
+- pkg:cargo/wasmtime-math@33.0.0
+- pkg:cargo/wasmtime-math@33.0.1
+- pkg:cargo/wasmtime-math@33.0.2
+- pkg:cargo/wasmtime-math@34.0.0
+- pkg:cargo/wasmtime-math@34.0.1
+- pkg:cargo/wasmtime-math@34.0.2

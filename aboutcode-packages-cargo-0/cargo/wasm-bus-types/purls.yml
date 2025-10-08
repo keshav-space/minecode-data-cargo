@@ -1,0 +1,3 @@
+- pkg:cargo/wasm-bus-types@0.1.0
+- pkg:cargo/wasm-bus-types@1.0.0
+- pkg:cargo/wasm-bus-types@1.1.0

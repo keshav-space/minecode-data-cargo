@@ -1,0 +1,2 @@
+- pkg:cargo/wasmtime-api@0.3.0
+- pkg:cargo/wasmtime-api@0.4.0

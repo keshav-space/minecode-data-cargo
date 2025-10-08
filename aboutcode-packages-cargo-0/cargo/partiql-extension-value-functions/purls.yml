@@ -1,0 +1,4 @@
+- pkg:cargo/partiql-extension-value-functions@0.11.0
+- pkg:cargo/partiql-extension-value-functions@0.12.0
+- pkg:cargo/partiql-extension-value-functions@0.13.0
+- pkg:cargo/partiql-extension-value-functions@0.14.0
