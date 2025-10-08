@@ -37,3 +37,4 @@
 - pkg:cargo/genson-core@0.5.6
 - pkg:cargo/genson-core@0.6.0
 - pkg:cargo/genson-core@0.6.1
+- pkg:cargo/genson-core@0.6.2
