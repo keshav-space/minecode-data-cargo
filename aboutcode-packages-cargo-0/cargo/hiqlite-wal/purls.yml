@@ -1,0 +1,5 @@
+- pkg:cargo/hiqlite-wal@0.10.0
+- pkg:cargo/hiqlite-wal@0.7.0
+- pkg:cargo/hiqlite-wal@0.7.1
+- pkg:cargo/hiqlite-wal@0.8.0
+- pkg:cargo/hiqlite-wal@0.9.0

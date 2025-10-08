@@ -1,0 +1,8 @@
+- pkg:cargo/mysql_async_wasi@0.30.0
+- pkg:cargo/mysql_async_wasi@0.30.1
+- pkg:cargo/mysql_async_wasi@0.31.2
+- pkg:cargo/mysql_async_wasi@0.31.3
+- pkg:cargo/mysql_async_wasi@0.31.4
+- pkg:cargo/mysql_async_wasi@0.31.5
+- pkg:cargo/mysql_async_wasi@0.31.6
+- pkg:cargo/mysql_async_wasi@0.33.0

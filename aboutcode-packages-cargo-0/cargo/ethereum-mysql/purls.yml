@@ -1,0 +1,12 @@
+- pkg:cargo/ethereum-mysql@0.1.0
+- pkg:cargo/ethereum-mysql@1.0.0
+- pkg:cargo/ethereum-mysql@1.5.0
+- pkg:cargo/ethereum-mysql@1.6.0
+- pkg:cargo/ethereum-mysql@1.6.1
+- pkg:cargo/ethereum-mysql@2.0.0
+- pkg:cargo/ethereum-mysql@2.1.0
+- pkg:cargo/ethereum-mysql@3.0.0
+- pkg:cargo/ethereum-mysql@3.0.1
+- pkg:cargo/ethereum-mysql@3.0.2
+- pkg:cargo/ethereum-mysql@3.1.0
+- pkg:cargo/ethereum-mysql@3.1.1

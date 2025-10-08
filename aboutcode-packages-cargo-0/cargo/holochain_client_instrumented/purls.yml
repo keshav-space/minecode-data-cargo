@@ -1,0 +1,7 @@
+- pkg:cargo/holochain_client_instrumented@0.1.0-alpha.1
+- pkg:cargo/holochain_client_instrumented@0.1.0-alpha.2
+- pkg:cargo/holochain_client_instrumented@0.1.0-alpha.3
+- pkg:cargo/holochain_client_instrumented@0.2.0-alpha.1
+- pkg:cargo/holochain_client_instrumented@0.2.0-alpha.2
+- pkg:cargo/holochain_client_instrumented@0.4.0-dev.1
+- pkg:cargo/holochain_client_instrumented@0.5.0-dev.0

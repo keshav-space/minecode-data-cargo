@@ -1,0 +1,8 @@
+- pkg:cargo/nix-cpio-generator@0.1.0
+- pkg:cargo/nix-cpio-generator@0.1.1
+- pkg:cargo/nix-cpio-generator@0.2.0
+- pkg:cargo/nix-cpio-generator@0.2.1
+- pkg:cargo/nix-cpio-generator@0.3.0
+- pkg:cargo/nix-cpio-generator@0.3.1
+- pkg:cargo/nix-cpio-generator@0.3.2
+- pkg:cargo/nix-cpio-generator@0.3.3

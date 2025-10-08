@@ -1,0 +1,17 @@
+- pkg:cargo/kv-derive@0.1.0-alpha.1
+- pkg:cargo/kv-derive@0.1.0-alpha.14
+- pkg:cargo/kv-derive@0.1.0-alpha.17
+- pkg:cargo/kv-derive@0.1.0-alpha.2
+- pkg:cargo/kv-derive@0.2.0-alpha.1
+- pkg:cargo/kv-derive@0.2.0-alpha.2
+- pkg:cargo/kv-derive@0.2.0-alpha.3
+- pkg:cargo/kv-derive@0.3.0-alpha.1
+- pkg:cargo/kv-derive@1.0.0
+- pkg:cargo/kv-derive@1.0.0-rc.1
+- pkg:cargo/kv-derive@1.0.0-rc.4
+- pkg:cargo/kv-derive@1.0.0-rc.5
+- pkg:cargo/kv-derive@1.0.0-rc.6
+- pkg:cargo/kv-derive@1.0.0-rc.7
+- pkg:cargo/kv-derive@1.0.0-rc.8
+- pkg:cargo/kv-derive@1.0.0-rc.9
+- pkg:cargo/kv-derive@1.0.1

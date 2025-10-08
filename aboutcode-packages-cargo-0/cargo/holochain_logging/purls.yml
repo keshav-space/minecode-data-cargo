@@ -1,0 +1,4 @@
+- pkg:cargo/holochain_logging@0.0.1
+- pkg:cargo/holochain_logging@0.0.4
+- pkg:cargo/holochain_logging@0.0.6
+- pkg:cargo/holochain_logging@0.0.7

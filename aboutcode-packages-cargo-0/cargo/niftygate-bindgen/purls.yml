@@ -1,0 +1,4 @@
+- pkg:cargo/niftygate-bindgen@0.6.2
+- pkg:cargo/niftygate-bindgen@0.6.3
+- pkg:cargo/niftygate-bindgen@0.7.0
+- pkg:cargo/niftygate-bindgen@0.8.0

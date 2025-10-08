@@ -1,0 +1,4 @@
+- pkg:cargo/hive_metastore@0.0.1
+- pkg:cargo/hive_metastore@0.0.2
+- pkg:cargo/hive_metastore@0.1.0
+- pkg:cargo/hive_metastore@0.2.0

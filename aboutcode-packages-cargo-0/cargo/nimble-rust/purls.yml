@@ -1,0 +1,9 @@
+- pkg:cargo/nimble-rust@0.0.11-dev
+- pkg:cargo/nimble-rust@0.0.12-dev
+- pkg:cargo/nimble-rust@0.0.13-dev
+- pkg:cargo/nimble-rust@0.0.14-dev
+- pkg:cargo/nimble-rust@0.0.15-dev
+- pkg:cargo/nimble-rust@0.0.15-dev2
+- pkg:cargo/nimble-rust@0.0.16
+- pkg:cargo/nimble-rust@0.0.16-dev
+- pkg:cargo/nimble-rust@0.0.17-dev

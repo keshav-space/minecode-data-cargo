@@ -1,0 +1,16 @@
+- pkg:cargo/mysql-es@0.2.4
+- pkg:cargo/mysql-es@0.2.5
+- pkg:cargo/mysql-es@0.3.0
+- pkg:cargo/mysql-es@0.3.1
+- pkg:cargo/mysql-es@0.3.2
+- pkg:cargo/mysql-es@0.4.0
+- pkg:cargo/mysql-es@0.4.1
+- pkg:cargo/mysql-es@0.4.10
+- pkg:cargo/mysql-es@0.4.11
+- pkg:cargo/mysql-es@0.4.12
+- pkg:cargo/mysql-es@0.4.2
+- pkg:cargo/mysql-es@0.4.3
+- pkg:cargo/mysql-es@0.4.4
+- pkg:cargo/mysql-es@0.4.5
+- pkg:cargo/mysql-es@0.4.8
+- pkg:cargo/mysql-es@0.4.9

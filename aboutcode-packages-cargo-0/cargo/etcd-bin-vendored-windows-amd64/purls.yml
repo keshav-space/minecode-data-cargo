@@ -1,0 +1,2 @@
+- pkg:cargo/etcd-bin-vendored-windows-amd64@0.3.434
+- pkg:cargo/etcd-bin-vendored-windows-amd64@0.3.516

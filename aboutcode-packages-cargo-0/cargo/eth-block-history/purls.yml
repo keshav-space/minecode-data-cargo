@@ -1,0 +1,3 @@
+- pkg:cargo/eth-block-history@0.7.1
+- pkg:cargo/eth-block-history@0.8.0
+- pkg:cargo/eth-block-history@0.9.0

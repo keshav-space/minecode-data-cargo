@@ -1,0 +1,13 @@
+- pkg:cargo/nixl-sys@0.2.1
+- pkg:cargo/nixl-sys@0.2.1-rc.1
+- pkg:cargo/nixl-sys@0.2.1-rc.2
+- pkg:cargo/nixl-sys@0.2.1-rc.3
+- pkg:cargo/nixl-sys@0.3.0
+- pkg:cargo/nixl-sys@0.3.0-rc.1
+- pkg:cargo/nixl-sys@0.3.0-rc.2
+- pkg:cargo/nixl-sys@0.3.1
+- pkg:cargo/nixl-sys@0.4.0
+- pkg:cargo/nixl-sys@0.4.1
+- pkg:cargo/nixl-sys@0.5.0
+- pkg:cargo/nixl-sys@0.5.1
+- pkg:cargo/nixl-sys@0.6.0

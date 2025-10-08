@@ -1,0 +1,15 @@
+- pkg:cargo/ethabi-contract@10.0.0
+- pkg:cargo/ethabi-contract@11.0.0
+- pkg:cargo/ethabi-contract@16.0.0
+- pkg:cargo/ethabi-contract@4.0.0
+- pkg:cargo/ethabi-contract@5.0.0
+- pkg:cargo/ethabi-contract@5.0.1
+- pkg:cargo/ethabi-contract@5.0.2
+- pkg:cargo/ethabi-contract@5.0.3
+- pkg:cargo/ethabi-contract@5.1.0
+- pkg:cargo/ethabi-contract@5.1.1
+- pkg:cargo/ethabi-contract@6.0.0
+- pkg:cargo/ethabi-contract@7.0.0
+- pkg:cargo/ethabi-contract@8.0.0
+- pkg:cargo/ethabi-contract@8.0.1
+- pkg:cargo/ethabi-contract@9.0.0

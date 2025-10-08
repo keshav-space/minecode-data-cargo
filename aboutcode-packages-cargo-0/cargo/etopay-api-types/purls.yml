@@ -1,0 +1,6 @@
+- pkg:cargo/etopay-api-types@0.14.0-rc0
+- pkg:cargo/etopay-api-types@0.14.1
+- pkg:cargo/etopay-api-types@0.14.2
+- pkg:cargo/etopay-api-types@0.15.0
+- pkg:cargo/etopay-api-types@0.16.0
+- pkg:cargo/etopay-api-types@0.16.1

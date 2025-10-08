@@ -1,0 +1,2 @@
+- pkg:cargo/synfuzz@0.0.0
+- pkg:cargo/synfuzz@0.1.0

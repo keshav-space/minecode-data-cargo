@@ -1,0 +1,5 @@
+- pkg:cargo/holochain_cli_launch@0.0.10
+- pkg:cargo/holochain_cli_launch@0.0.11
+- pkg:cargo/holochain_cli_launch@0.0.12
+- pkg:cargo/holochain_cli_launch@0.0.8
+- pkg:cargo/holochain_cli_launch@0.0.9

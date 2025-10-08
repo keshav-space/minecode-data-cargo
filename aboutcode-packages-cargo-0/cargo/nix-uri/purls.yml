@@ -1,0 +1,6 @@
+- pkg:cargo/nix-uri@0.0.0
+- pkg:cargo/nix-uri@0.1.5
+- pkg:cargo/nix-uri@0.1.6
+- pkg:cargo/nix-uri@0.1.7
+- pkg:cargo/nix-uri@0.1.8
+- pkg:cargo/nix-uri@0.1.9

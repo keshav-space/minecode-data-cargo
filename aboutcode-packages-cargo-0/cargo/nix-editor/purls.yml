@@ -1,0 +1,12 @@
+- pkg:cargo/nix-editor@0.2.10
+- pkg:cargo/nix-editor@0.2.11
+- pkg:cargo/nix-editor@0.2.12
+- pkg:cargo/nix-editor@0.2.3
+- pkg:cargo/nix-editor@0.2.4
+- pkg:cargo/nix-editor@0.2.5
+- pkg:cargo/nix-editor@0.2.6
+- pkg:cargo/nix-editor@0.2.7
+- pkg:cargo/nix-editor@0.2.8
+- pkg:cargo/nix-editor@0.2.9
+- pkg:cargo/nix-editor@0.3.0
+- pkg:cargo/nix-editor@0.3.0-beta.1

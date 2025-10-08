@@ -1,0 +1,3 @@
+- pkg:cargo/ethereum-block@0.3.4
+- pkg:cargo/ethereum-block@0.3.5
+- pkg:cargo/ethereum-block@0.4.0

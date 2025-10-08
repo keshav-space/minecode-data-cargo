@@ -1,0 +1,3 @@
+- pkg:cargo/hookpoints-cli@0.3.0
+- pkg:cargo/hookpoints-cli@0.9.0
+- pkg:cargo/hookpoints-cli@1.0.0

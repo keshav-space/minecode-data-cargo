@@ -1,0 +1,8 @@
+- pkg:cargo/SysMonk@0.0.0-alpha
+- pkg:cargo/SysMonk@0.0.0-beta
+- pkg:cargo/SysMonk@0.0.1
+- pkg:cargo/SysMonk@0.1.0
+- pkg:cargo/SysMonk@0.1.0-alpha
+- pkg:cargo/SysMonk@0.1.0-beta
+- pkg:cargo/SysMonk@0.1.0-rc
+- pkg:cargo/SysMonk@0.1.1
