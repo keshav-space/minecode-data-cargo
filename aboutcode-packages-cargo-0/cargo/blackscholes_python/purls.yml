@@ -1,0 +1,3 @@
+- pkg:cargo/blackscholes_python@0.10.4
+- pkg:cargo/blackscholes_python@0.10.6
+- pkg:cargo/blackscholes_python@0.10.7

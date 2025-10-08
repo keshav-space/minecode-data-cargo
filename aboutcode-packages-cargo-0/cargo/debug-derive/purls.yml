@@ -1,0 +1,4 @@
+- pkg:cargo/debug-derive@0.0.0
+- pkg:cargo/debug-derive@2.0.1
+- pkg:cargo/debug-derive@2.0.2
+- pkg:cargo/debug-derive@2.1.2

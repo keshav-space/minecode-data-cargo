@@ -1,0 +1,3 @@
+- pkg:cargo/deserialize_xml@0.1.0
+- pkg:cargo/deserialize_xml@0.2.0
+- pkg:cargo/deserialize_xml@0.2.1

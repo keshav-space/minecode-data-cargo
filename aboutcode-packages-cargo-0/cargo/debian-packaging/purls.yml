@@ -1,0 +1,11 @@
+- pkg:cargo/debian-packaging@0.10.0
+- pkg:cargo/debian-packaging@0.11.0
+- pkg:cargo/debian-packaging@0.12.0
+- pkg:cargo/debian-packaging@0.13.0
+- pkg:cargo/debian-packaging@0.14.0
+- pkg:cargo/debian-packaging@0.15.0
+- pkg:cargo/debian-packaging@0.16.0
+- pkg:cargo/debian-packaging@0.17.0
+- pkg:cargo/debian-packaging@0.18.0
+- pkg:cargo/debian-packaging@0.8.0
+- pkg:cargo/debian-packaging@0.9.0

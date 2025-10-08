@@ -1,0 +1,5 @@
+- pkg:cargo/descriptor@0.0.1
+- pkg:cargo/descriptor@0.0.1-patch-readme
+- pkg:cargo/descriptor@0.0.2
+- pkg:cargo/descriptor@0.0.3
+- pkg:cargo/descriptor@0.0.4

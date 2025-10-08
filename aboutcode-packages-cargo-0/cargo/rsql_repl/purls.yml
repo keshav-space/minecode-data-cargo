@@ -1,0 +1,5 @@
+- pkg:cargo/rsql_repl@0.18.2
+- pkg:cargo/rsql_repl@0.18.3
+- pkg:cargo/rsql_repl@0.19.0
+- pkg:cargo/rsql_repl@0.19.1
+- pkg:cargo/rsql_repl@0.19.2

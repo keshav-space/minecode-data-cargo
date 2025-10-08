@@ -1,0 +1,4 @@
+- pkg:cargo/blackscholes_wasm@0.10.6
+- pkg:cargo/blackscholes_wasm@0.10.7
+- pkg:cargo/blackscholes_wasm@0.18.0
+- pkg:cargo/blackscholes_wasm@0.18.1

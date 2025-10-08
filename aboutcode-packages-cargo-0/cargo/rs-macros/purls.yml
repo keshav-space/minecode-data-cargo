@@ -1,0 +1,4 @@
+- pkg:cargo/rs-macros@0.1.0
+- pkg:cargo/rs-macros@3.0.0-canary.663
+- pkg:cargo/rs-macros@3.0.0-canary.687
+- pkg:cargo/rs-macros@3.0.0-canary.688

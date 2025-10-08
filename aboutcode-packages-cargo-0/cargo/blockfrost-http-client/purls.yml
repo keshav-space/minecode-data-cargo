@@ -1,0 +1,10 @@
+- pkg:cargo/blockfrost-http-client@0.0.10
+- pkg:cargo/blockfrost-http-client@0.0.11
+- pkg:cargo/blockfrost-http-client@0.0.13
+- pkg:cargo/blockfrost-http-client@0.0.14
+- pkg:cargo/blockfrost-http-client@0.0.3
+- pkg:cargo/blockfrost-http-client@0.0.4
+- pkg:cargo/blockfrost-http-client@0.0.5
+- pkg:cargo/blockfrost-http-client@0.0.6
+- pkg:cargo/blockfrost-http-client@0.0.8
+- pkg:cargo/blockfrost-http-client@0.0.9

@@ -1,0 +1,5 @@
+- pkg:cargo/bn254_blackbox_solver@0.39.0
+- pkg:cargo/bn254_blackbox_solver@0.43.0
+- pkg:cargo/bn254_blackbox_solver@0.44.0
+- pkg:cargo/bn254_blackbox_solver@0.45.0
+- pkg:cargo/bn254_blackbox_solver@0.46.0

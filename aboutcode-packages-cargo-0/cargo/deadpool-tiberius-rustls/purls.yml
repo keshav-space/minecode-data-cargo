@@ -1,0 +1,3 @@
+- pkg:cargo/deadpool-tiberius-rustls@0.1.10
+- pkg:cargo/deadpool-tiberius-rustls@0.1.11
+- pkg:cargo/deadpool-tiberius-rustls@0.1.12

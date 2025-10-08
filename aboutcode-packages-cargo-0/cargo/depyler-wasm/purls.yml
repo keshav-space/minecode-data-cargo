@@ -1,0 +1,14 @@
+- pkg:cargo/depyler-wasm@0.3.1
+- pkg:cargo/depyler-wasm@1.0.6
+- pkg:cargo/depyler-wasm@1.1.0
+- pkg:cargo/depyler-wasm@2.1.0
+- pkg:cargo/depyler-wasm@2.2.0
+- pkg:cargo/depyler-wasm@2.2.1
+- pkg:cargo/depyler-wasm@2.2.2
+- pkg:cargo/depyler-wasm@2.3.0
+- pkg:cargo/depyler-wasm@3.0.0
+- pkg:cargo/depyler-wasm@3.1.0
+- pkg:cargo/depyler-wasm@3.2.0
+- pkg:cargo/depyler-wasm@3.3.0
+- pkg:cargo/depyler-wasm@3.4.0
+- pkg:cargo/depyler-wasm@3.5.0

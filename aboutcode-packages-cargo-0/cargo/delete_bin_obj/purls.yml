@@ -1,0 +1,5 @@
+- pkg:cargo/delete_bin_obj@0.1.0
+- pkg:cargo/delete_bin_obj@0.2.0
+- pkg:cargo/delete_bin_obj@0.2.1
+- pkg:cargo/delete_bin_obj@1.0.0
+- pkg:cargo/delete_bin_obj@1.0.1
