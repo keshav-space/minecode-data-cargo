@@ -5,3 +5,4 @@
 - pkg:cargo/bevy_log_events@0.4.1
 - pkg:cargo/bevy_log_events@0.4.2
 - pkg:cargo/bevy_log_events@0.5.0
+- pkg:cargo/bevy_log_events@0.6.0
