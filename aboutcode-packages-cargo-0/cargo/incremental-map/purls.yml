@@ -1,0 +1,5 @@
+- pkg:cargo/incremental-map@0.1.0
+- pkg:cargo/incremental-map@0.2.0
+- pkg:cargo/incremental-map@0.2.3
+- pkg:cargo/incremental-map@0.2.7
+- pkg:cargo/incremental-map@0.2.8

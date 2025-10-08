@@ -1,0 +1,9 @@
+- pkg:cargo/test_gmp_mpir@0.0.1
+- pkg:cargo/test_gmp_mpir@0.0.2
+- pkg:cargo/test_gmp_mpir@0.0.3
+- pkg:cargo/test_gmp_mpir@0.2.0
+- pkg:cargo/test_gmp_mpir@0.2.3
+- pkg:cargo/test_gmp_mpir@0.2.5
+- pkg:cargo/test_gmp_mpir@0.2.6
+- pkg:cargo/test_gmp_mpir@0.3.4
+- pkg:cargo/test_gmp_mpir@0.4.2

@@ -1,0 +1,6 @@
+- pkg:cargo/test-binary@1.0.0
+- pkg:cargo/test-binary@1.0.1
+- pkg:cargo/test-binary@2.0.0
+- pkg:cargo/test-binary@3.0.0
+- pkg:cargo/test-binary@3.0.1
+- pkg:cargo/test-binary@3.0.2

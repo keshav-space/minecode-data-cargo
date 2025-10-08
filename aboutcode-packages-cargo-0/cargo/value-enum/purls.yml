@@ -1,0 +1,4 @@
+- pkg:cargo/value-enum@0.5.1
+- pkg:cargo/value-enum@0.5.2
+- pkg:cargo/value-enum@0.6.0
+- pkg:cargo/value-enum@1.0.0

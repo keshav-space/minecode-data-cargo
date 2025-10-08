@@ -1,0 +1,2 @@
+- pkg:cargo/test_rust_project@0.1.0
+- pkg:cargo/test_rust_project@0.2.0

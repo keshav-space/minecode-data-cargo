@@ -1,0 +1,4 @@
+- pkg:cargo/validator-cli@1.0.0
+- pkg:cargo/validator-cli@1.0.1
+- pkg:cargo/validator-cli@1.0.2
+- pkg:cargo/validator-cli@1.0.3

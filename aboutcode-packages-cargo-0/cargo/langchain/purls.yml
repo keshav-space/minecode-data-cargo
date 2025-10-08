@@ -1,0 +1,5 @@
+- pkg:cargo/langchain@0.0.0
+- pkg:cargo/langchain@0.0.1
+- pkg:cargo/langchain@0.0.2
+- pkg:cargo/langchain@0.2.1
+- pkg:cargo/langchain@0.2.2

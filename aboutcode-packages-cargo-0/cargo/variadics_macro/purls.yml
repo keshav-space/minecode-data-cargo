@@ -1,0 +1,4 @@
+- pkg:cargo/variadics_macro@0.5.5
+- pkg:cargo/variadics_macro@0.5.6
+- pkg:cargo/variadics_macro@0.6.0
+- pkg:cargo/variadics_macro@0.6.1

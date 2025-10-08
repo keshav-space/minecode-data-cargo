@@ -1,0 +1,5 @@
+- pkg:cargo/init_guard@1.0.0
+- pkg:cargo/init_guard@1.0.1
+- pkg:cargo/init_guard@1.1.1
+- pkg:cargo/init_guard@1.2.1
+- pkg:cargo/init_guard@1.3.0

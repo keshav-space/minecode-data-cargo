@@ -1,0 +1,7 @@
+- pkg:cargo/test_publish_cool_workspace_inner@0.13.3
+- pkg:cargo/test_publish_cool_workspace_inner@0.13.4
+- pkg:cargo/test_publish_cool_workspace_inner@0.13.5
+- pkg:cargo/test_publish_cool_workspace_inner@0.13.6
+- pkg:cargo/test_publish_cool_workspace_inner@0.13.7
+- pkg:cargo/test_publish_cool_workspace_inner@0.13.8
+- pkg:cargo/test_publish_cool_workspace_inner@0.13.9

@@ -1,0 +1,15 @@
+- pkg:cargo/varlink_stdinterfaces@0.1.0
+- pkg:cargo/varlink_stdinterfaces@0.2.0
+- pkg:cargo/varlink_stdinterfaces@0.2.1
+- pkg:cargo/varlink_stdinterfaces@10.0.0
+- pkg:cargo/varlink_stdinterfaces@11.0.0
+- pkg:cargo/varlink_stdinterfaces@11.0.1
+- pkg:cargo/varlink_stdinterfaces@11.0.2
+- pkg:cargo/varlink_stdinterfaces@4.0.0
+- pkg:cargo/varlink_stdinterfaces@5.0.0
+- pkg:cargo/varlink_stdinterfaces@5.0.1
+- pkg:cargo/varlink_stdinterfaces@5.0.2
+- pkg:cargo/varlink_stdinterfaces@5.0.3
+- pkg:cargo/varlink_stdinterfaces@5.0.4
+- pkg:cargo/varlink_stdinterfaces@7.0.0
+- pkg:cargo/varlink_stdinterfaces@8.0.0

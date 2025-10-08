@@ -1,0 +1,17 @@
+- pkg:cargo/testnet-parachains-constants@0.0.0
+- pkg:cargo/testnet-parachains-constants@1.0.0
+- pkg:cargo/testnet-parachains-constants@10.0.0
+- pkg:cargo/testnet-parachains-constants@11.0.0
+- pkg:cargo/testnet-parachains-constants@12.0.0
+- pkg:cargo/testnet-parachains-constants@13.0.0
+- pkg:cargo/testnet-parachains-constants@14.0.0
+- pkg:cargo/testnet-parachains-constants@15.0.0
+- pkg:cargo/testnet-parachains-constants@16.0.0
+- pkg:cargo/testnet-parachains-constants@2.0.0
+- pkg:cargo/testnet-parachains-constants@3.0.0
+- pkg:cargo/testnet-parachains-constants@4.0.0
+- pkg:cargo/testnet-parachains-constants@5.0.0
+- pkg:cargo/testnet-parachains-constants@6.0.0
+- pkg:cargo/testnet-parachains-constants@7.0.0
+- pkg:cargo/testnet-parachains-constants@8.0.0
+- pkg:cargo/testnet-parachains-constants@9.0.0

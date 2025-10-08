@@ -1,0 +1,15 @@
+- pkg:cargo/layer-climb-config@0.3.6
+- pkg:cargo/layer-climb-config@0.3.7
+- pkg:cargo/layer-climb-config@0.4.0
+- pkg:cargo/layer-climb-config@0.4.0-alpha.2
+- pkg:cargo/layer-climb-config@0.4.1
+- pkg:cargo/layer-climb-config@0.4.2
+- pkg:cargo/layer-climb-config@0.4.3
+- pkg:cargo/layer-climb-config@0.5.0
+- pkg:cargo/layer-climb-config@0.5.1
+- pkg:cargo/layer-climb-config@0.5.2
+- pkg:cargo/layer-climb-config@0.6.0
+- pkg:cargo/layer-climb-config@0.7.0
+- pkg:cargo/layer-climb-config@0.7.1
+- pkg:cargo/layer-climb-config@0.7.2
+- pkg:cargo/layer-climb-config@0.7.3

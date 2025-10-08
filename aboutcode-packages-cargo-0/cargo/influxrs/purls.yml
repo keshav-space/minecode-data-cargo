@@ -1,0 +1,9 @@
+- pkg:cargo/influxrs@0.1.0
+- pkg:cargo/influxrs@0.1.1
+- pkg:cargo/influxrs@0.1.2
+- pkg:cargo/influxrs@1.0.0
+- pkg:cargo/influxrs@2.0.0
+- pkg:cargo/influxrs@2.0.1
+- pkg:cargo/influxrs@2.1.0
+- pkg:cargo/influxrs@3.0.0
+- pkg:cargo/influxrs@3.0.1

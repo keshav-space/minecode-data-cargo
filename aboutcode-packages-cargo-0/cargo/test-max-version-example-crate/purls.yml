@@ -1,0 +1,2 @@
+- pkg:cargo/test-max-version-example-crate@0.1.0
+- pkg:cargo/test-max-version-example-crate@18446744073709551615.18446744073709551615.18446744073709551615

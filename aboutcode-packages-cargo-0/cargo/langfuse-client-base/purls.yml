@@ -1,0 +1,12 @@
+- pkg:cargo/langfuse-client-base@0.1.0
+- pkg:cargo/langfuse-client-base@0.1.1
+- pkg:cargo/langfuse-client-base@0.2.0
+- pkg:cargo/langfuse-client-base@0.2.1
+- pkg:cargo/langfuse-client-base@0.2.2
+- pkg:cargo/langfuse-client-base@0.2.3
+- pkg:cargo/langfuse-client-base@0.2.4
+- pkg:cargo/langfuse-client-base@0.2.5
+- pkg:cargo/langfuse-client-base@0.2.6
+- pkg:cargo/langfuse-client-base@0.2.7
+- pkg:cargo/langfuse-client-base@0.3.0
+- pkg:cargo/langfuse-client-base@0.4.0

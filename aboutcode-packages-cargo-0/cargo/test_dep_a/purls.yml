@@ -1,0 +1,2 @@
+- pkg:cargo/test_dep_a@1.0.0
+- pkg:cargo/test_dep_a@2.0.0

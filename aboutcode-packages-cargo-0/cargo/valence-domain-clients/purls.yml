@@ -1,0 +1,4 @@
+- pkg:cargo/valence-domain-clients@1.1.0
+- pkg:cargo/valence-domain-clients@2.0.0
+- pkg:cargo/valence-domain-clients@3.0.0
+- pkg:cargo/valence-domain-clients@3.0.1

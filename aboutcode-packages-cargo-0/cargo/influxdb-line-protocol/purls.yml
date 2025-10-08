@@ -1,0 +1,5 @@
+- pkg:cargo/influxdb-line-protocol@0.1.0
+- pkg:cargo/influxdb-line-protocol@0.1.1
+- pkg:cargo/influxdb-line-protocol@0.2.0
+- pkg:cargo/influxdb-line-protocol@1.0.0
+- pkg:cargo/influxdb-line-protocol@2.0.0

@@ -1,0 +1,3 @@
+- pkg:cargo/indirect-once-derive@0.1.0
+- pkg:cargo/indirect-once-derive@0.1.1
+- pkg:cargo/indirect-once-derive@0.2.0

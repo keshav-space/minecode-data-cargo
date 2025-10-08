@@ -1,0 +1,15 @@
+- pkg:cargo/inkwell@0.0.0
+- pkg:cargo/inkwell@0.1.0
+- pkg:cargo/inkwell@0.1.0-beta.1
+- pkg:cargo/inkwell@0.1.0-beta.2
+- pkg:cargo/inkwell@0.1.0-beta.3
+- pkg:cargo/inkwell@0.1.0-beta.4
+- pkg:cargo/inkwell@0.1.0-beta.5
+- pkg:cargo/inkwell@0.1.0-llvm10sample
+- pkg:cargo/inkwell@0.1.0-llvm8sample
+- pkg:cargo/inkwell@0.1.1
+- pkg:cargo/inkwell@0.2.0
+- pkg:cargo/inkwell@0.3.0
+- pkg:cargo/inkwell@0.4.0
+- pkg:cargo/inkwell@0.5.0
+- pkg:cargo/inkwell@0.6.0

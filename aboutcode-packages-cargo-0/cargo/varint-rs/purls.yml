@@ -1,0 +1,17 @@
+- pkg:cargo/varint-rs@1.0.0
+- pkg:cargo/varint-rs@1.0.1
+- pkg:cargo/varint-rs@1.0.2
+- pkg:cargo/varint-rs@1.1.0
+- pkg:cargo/varint-rs@1.1.1
+- pkg:cargo/varint-rs@1.1.2
+- pkg:cargo/varint-rs@1.1.3
+- pkg:cargo/varint-rs@1.1.4
+- pkg:cargo/varint-rs@1.1.5
+- pkg:cargo/varint-rs@2.0.0
+- pkg:cargo/varint-rs@2.0.1
+- pkg:cargo/varint-rs@2.1.0
+- pkg:cargo/varint-rs@2.1.1
+- pkg:cargo/varint-rs@2.1.2
+- pkg:cargo/varint-rs@2.1.3
+- pkg:cargo/varint-rs@2.1.4
+- pkg:cargo/varint-rs@2.2.0

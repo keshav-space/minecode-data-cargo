@@ -1,0 +1,16 @@
+- pkg:cargo/test-curve25519-dalek@4.0.0-pre.10
+- pkg:cargo/test-curve25519-dalek@4.0.0-pre.11
+- pkg:cargo/test-curve25519-dalek@4.0.0-pre.12
+- pkg:cargo/test-curve25519-dalek@4.0.0-pre.13
+- pkg:cargo/test-curve25519-dalek@4.0.0-pre.15
+- pkg:cargo/test-curve25519-dalek@4.0.0-pre.16
+- pkg:cargo/test-curve25519-dalek@4.0.0-pre.17
+- pkg:cargo/test-curve25519-dalek@4.0.0-pre.2
+- pkg:cargo/test-curve25519-dalek@4.0.0-pre.3
+- pkg:cargo/test-curve25519-dalek@4.0.0-pre.4
+- pkg:cargo/test-curve25519-dalek@4.0.0-pre.5
+- pkg:cargo/test-curve25519-dalek@4.0.0-pre.6
+- pkg:cargo/test-curve25519-dalek@4.0.0-pre.7
+- pkg:cargo/test-curve25519-dalek@4.0.0-pre.8
+- pkg:cargo/test-curve25519-dalek@4.0.0-pre.9
+- pkg:cargo/test-curve25519-dalek@4.0.0-rc.1

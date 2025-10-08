@@ -1,0 +1,2 @@
+- pkg:cargo/install-action-manifest-schema@0.1.0
+- pkg:cargo/install-action-manifest-schema@0.1.1

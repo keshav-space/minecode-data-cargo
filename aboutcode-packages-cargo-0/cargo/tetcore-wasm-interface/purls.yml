@@ -1,0 +1,4 @@
+- pkg:cargo/tetcore-wasm-interface@0.0.0
+- pkg:cargo/tetcore-wasm-interface@2.0.1
+- pkg:cargo/tetcore-wasm-interface@2.0.2
+- pkg:cargo/tetcore-wasm-interface@2.1.2

@@ -1,0 +1,7 @@
+- pkg:cargo/lalrpop-lambda@0.1.0
+- pkg:cargo/lalrpop-lambda@0.2.0
+- pkg:cargo/lalrpop-lambda@0.3.0
+- pkg:cargo/lalrpop-lambda@0.4.0
+- pkg:cargo/lalrpop-lambda@0.4.1
+- pkg:cargo/lalrpop-lambda@0.5.0
+- pkg:cargo/lalrpop-lambda@0.6.1

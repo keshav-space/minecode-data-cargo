@@ -1,0 +1,2 @@
+- pkg:cargo/inherit-config-derive@0.1.0
+- pkg:cargo/inherit-config-derive@0.1.1

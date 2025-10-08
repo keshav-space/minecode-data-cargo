@@ -1,0 +1,5 @@
+- pkg:cargo/valkey@0.0.0-alpha1
+- pkg:cargo/valkey@0.0.0-alpha2
+- pkg:cargo/valkey@0.0.0-alpha3
+- pkg:cargo/valkey@0.0.0-alpha4
+- pkg:cargo/valkey@0.0.0-alpha5

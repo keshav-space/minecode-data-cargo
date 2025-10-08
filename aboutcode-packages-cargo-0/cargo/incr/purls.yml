@@ -1,0 +1,5 @@
+- pkg:cargo/incr@0.1.0
+- pkg:cargo/incr@0.1.1
+- pkg:cargo/incr@0.2.0
+- pkg:cargo/incr@0.2.0-rc.1
+- pkg:cargo/incr@0.2.1

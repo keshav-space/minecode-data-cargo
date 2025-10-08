@@ -1,0 +1,5 @@
+- pkg:cargo/infra-compass-db@0.0.4
+- pkg:cargo/infra-compass-db@0.0.5
+- pkg:cargo/infra-compass-db@0.0.6
+- pkg:cargo/infra-compass-db@0.0.7
+- pkg:cargo/infra-compass-db@0.0.8

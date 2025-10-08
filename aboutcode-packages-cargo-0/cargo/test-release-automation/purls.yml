@@ -1,0 +1,15 @@
+- pkg:cargo/test-release-automation@0.1.0
+- pkg:cargo/test-release-automation@0.1.1
+- pkg:cargo/test-release-automation@0.2.0
+- pkg:cargo/test-release-automation@0.2.1
+- pkg:cargo/test-release-automation@0.2.1-dev.0
+- pkg:cargo/test-release-automation@0.2.1-dev.10
+- pkg:cargo/test-release-automation@0.2.1-dev.11
+- pkg:cargo/test-release-automation@0.2.1-dev.2
+- pkg:cargo/test-release-automation@0.2.1-dev.3
+- pkg:cargo/test-release-automation@0.2.1-dev.4
+- pkg:cargo/test-release-automation@0.2.1-dev.5
+- pkg:cargo/test-release-automation@0.2.1-dev.6
+- pkg:cargo/test-release-automation@0.2.1-dev.7
+- pkg:cargo/test-release-automation@0.2.1-dev.8
+- pkg:cargo/test-release-automation@0.2.1-dev.9
