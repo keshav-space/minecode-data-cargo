@@ -1,0 +1,3 @@
+- pkg:cargo/docker-registry@0.6.0
+- pkg:cargo/docker-registry@0.7.0
+- pkg:cargo/docker-registry@0.8.0

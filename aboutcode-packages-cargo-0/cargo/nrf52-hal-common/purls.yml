@@ -1,0 +1,9 @@
+- pkg:cargo/nrf52-hal-common@0.6.0
+- pkg:cargo/nrf52-hal-common@0.6.0-beta.1
+- pkg:cargo/nrf52-hal-common@0.6.0-beta.2
+- pkg:cargo/nrf52-hal-common@0.6.0-beta.3
+- pkg:cargo/nrf52-hal-common@0.6.1
+- pkg:cargo/nrf52-hal-common@0.7.0
+- pkg:cargo/nrf52-hal-common@0.8.0
+- pkg:cargo/nrf52-hal-common@0.8.0-beta1
+- pkg:cargo/nrf52-hal-common@0.8.1

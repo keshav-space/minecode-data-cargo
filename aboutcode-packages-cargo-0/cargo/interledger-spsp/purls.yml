@@ -1,0 +1,8 @@
+- pkg:cargo/interledger-spsp@0.1.0
+- pkg:cargo/interledger-spsp@0.2.1
+- pkg:cargo/interledger-spsp@0.2.2-alpha.1
+- pkg:cargo/interledger-spsp@0.2.2-beta.1
+- pkg:cargo/interledger-spsp@0.2.2-beta.2
+- pkg:cargo/interledger-spsp@0.2.2-beta.3
+- pkg:cargo/interledger-spsp@0.3.0
+- pkg:cargo/interledger-spsp@0.4.0

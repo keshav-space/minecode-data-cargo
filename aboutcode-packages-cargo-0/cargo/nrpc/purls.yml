@@ -1,0 +1,6 @@
+- pkg:cargo/nrpc@0.1.0
+- pkg:cargo/nrpc@0.10.0
+- pkg:cargo/nrpc@0.2.0
+- pkg:cargo/nrpc@0.6.0
+- pkg:cargo/nrpc@0.7.0
+- pkg:cargo/nrpc@0.8.0

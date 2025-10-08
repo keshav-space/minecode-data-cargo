@@ -1,0 +1,5 @@
+- pkg:cargo/dotenv_rs@0.15.0
+- pkg:cargo/dotenv_rs@0.15.1
+- pkg:cargo/dotenv_rs@0.15.2
+- pkg:cargo/dotenv_rs@0.16.0
+- pkg:cargo/dotenv_rs@0.16.1

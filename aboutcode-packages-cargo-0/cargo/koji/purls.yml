@@ -1,0 +1,10 @@
+- pkg:cargo/koji@1.5.0
+- pkg:cargo/koji@1.5.1
+- pkg:cargo/koji@1.5.2
+- pkg:cargo/koji@1.5.3
+- pkg:cargo/koji@2.0.0
+- pkg:cargo/koji@2.1.0
+- pkg:cargo/koji@2.2.0
+- pkg:cargo/koji@3.0.0
+- pkg:cargo/koji@3.1.0
+- pkg:cargo/koji@3.2.0

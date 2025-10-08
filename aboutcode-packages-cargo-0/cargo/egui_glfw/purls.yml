@@ -1,0 +1,4 @@
+- pkg:cargo/egui_glfw@0.13.1
+- pkg:cargo/egui_glfw@0.55.0
+- pkg:cargo/egui_glfw@0.55.1
+- pkg:cargo/egui_glfw@0.55.2

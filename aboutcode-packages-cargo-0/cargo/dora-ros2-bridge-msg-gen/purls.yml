@@ -1,0 +1,6 @@
+- pkg:cargo/dora-ros2-bridge-msg-gen@0.3.10
+- pkg:cargo/dora-ros2-bridge-msg-gen@0.3.11
+- pkg:cargo/dora-ros2-bridge-msg-gen@0.3.11-rc1
+- pkg:cargo/dora-ros2-bridge-msg-gen@0.3.12
+- pkg:cargo/dora-ros2-bridge-msg-gen@0.3.12-rc1
+- pkg:cargo/dora-ros2-bridge-msg-gen@0.3.13

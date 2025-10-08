@@ -1,0 +1,15 @@
+- pkg:cargo/downstream@0.1.0
+- pkg:cargo/downstream@1.10.0
+- pkg:cargo/downstream@1.11.0
+- pkg:cargo/downstream@1.12.0
+- pkg:cargo/downstream@1.13.0
+- pkg:cargo/downstream@1.14.1
+- pkg:cargo/downstream@1.14.2
+- pkg:cargo/downstream@1.14.3
+- pkg:cargo/downstream@1.15.2
+- pkg:cargo/downstream@1.6.19
+- pkg:cargo/downstream@1.6.24
+- pkg:cargo/downstream@1.7.0
+- pkg:cargo/downstream@1.8.0
+- pkg:cargo/downstream@1.8.1
+- pkg:cargo/downstream@1.9.0

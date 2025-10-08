@@ -1,0 +1,4 @@
+- pkg:cargo/ndtensor@0.0.0
+- pkg:cargo/ndtensor@0.1.0
+- pkg:cargo/ndtensor@0.1.0-nightly
+- pkg:cargo/ndtensor@0.1.1

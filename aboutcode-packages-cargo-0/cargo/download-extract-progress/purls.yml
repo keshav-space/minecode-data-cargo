@@ -1,0 +1,4 @@
+- pkg:cargo/download-extract-progress@0.1.0
+- pkg:cargo/download-extract-progress@0.1.1
+- pkg:cargo/download-extract-progress@0.1.2
+- pkg:cargo/download-extract-progress@1.0.0

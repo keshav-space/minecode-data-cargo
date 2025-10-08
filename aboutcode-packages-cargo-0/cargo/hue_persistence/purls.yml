@@ -1,0 +1,4 @@
+- pkg:cargo/hue_persistence@0.1.2
+- pkg:cargo/hue_persistence@0.2.0
+- pkg:cargo/hue_persistence@0.2.2
+- pkg:cargo/hue_persistence@0.2.5

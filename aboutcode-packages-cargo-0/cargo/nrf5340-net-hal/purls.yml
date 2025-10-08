@@ -1,0 +1,6 @@
+- pkg:cargo/nrf5340-net-hal@0.15.1
+- pkg:cargo/nrf5340-net-hal@0.16.0
+- pkg:cargo/nrf5340-net-hal@0.16.1
+- pkg:cargo/nrf5340-net-hal@0.17.0
+- pkg:cargo/nrf5340-net-hal@0.17.1
+- pkg:cargo/nrf5340-net-hal@0.18.0

@@ -1,0 +1,6 @@
+- pkg:cargo/intel-mkl-sys@0.1.0
+- pkg:cargo/intel-mkl-sys@0.2.0%2Bmkl2020.1
+- pkg:cargo/intel-mkl-sys@0.8.0
+- pkg:cargo/intel-mkl-sys@0.8.0-rc.0
+- pkg:cargo/intel-mkl-sys@0.8.0-rc.1
+- pkg:cargo/intel-mkl-sys@0.8.1
