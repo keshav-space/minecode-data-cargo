@@ -1,0 +1,8 @@
+- pkg:cargo/dwt-systick-monotonic@0.1.0-alpha.0
+- pkg:cargo/dwt-systick-monotonic@0.1.0-alpha.1
+- pkg:cargo/dwt-systick-monotonic@0.1.0-alpha.2
+- pkg:cargo/dwt-systick-monotonic@0.1.0-alpha.3
+- pkg:cargo/dwt-systick-monotonic@0.1.0-rc.1
+- pkg:cargo/dwt-systick-monotonic@0.1.0-rc.2
+- pkg:cargo/dwt-systick-monotonic@1.0.0
+- pkg:cargo/dwt-systick-monotonic@1.1.0

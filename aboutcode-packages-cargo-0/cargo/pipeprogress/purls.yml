@@ -1,0 +1,4 @@
+- pkg:cargo/pipeprogress@2020.6.0
+- pkg:cargo/pipeprogress@2020.6.1
+- pkg:cargo/pipeprogress@2020.6.4
+- pkg:cargo/pipeprogress@2023.3.0

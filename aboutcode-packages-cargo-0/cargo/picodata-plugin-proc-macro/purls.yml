@@ -1,0 +1,15 @@
+- pkg:cargo/picodata-plugin-proc-macro@24.6.1
+- pkg:cargo/picodata-plugin-proc-macro@24.6.1-rc1
+- pkg:cargo/picodata-plugin-proc-macro@25.1.1
+- pkg:cargo/picodata-plugin-proc-macro@25.1.1-rc1
+- pkg:cargo/picodata-plugin-proc-macro@25.1.2
+- pkg:cargo/picodata-plugin-proc-macro@25.2.1
+- pkg:cargo/picodata-plugin-proc-macro@25.2.2
+- pkg:cargo/picodata-plugin-proc-macro@25.2.3
+- pkg:cargo/picodata-plugin-proc-macro@25.2.4
+- pkg:cargo/picodata-plugin-proc-macro@25.3.1
+- pkg:cargo/picodata-plugin-proc-macro@25.3.2
+- pkg:cargo/picodata-plugin-proc-macro@25.3.3
+- pkg:cargo/picodata-plugin-proc-macro@25.3.4
+- pkg:cargo/picodata-plugin-proc-macro@25.3.5
+- pkg:cargo/picodata-plugin-proc-macro@25.4.1

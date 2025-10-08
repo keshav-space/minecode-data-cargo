@@ -1,0 +1,5 @@
+- pkg:cargo/actix-web-middleware-redirect-https@0.1.0
+- pkg:cargo/actix-web-middleware-redirect-https@0.1.1
+- pkg:cargo/actix-web-middleware-redirect-https@1.0.0
+- pkg:cargo/actix-web-middleware-redirect-https@3.0.0
+- pkg:cargo/actix-web-middleware-redirect-https@3.0.1

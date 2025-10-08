@@ -1,0 +1,6 @@
+- pkg:cargo/ac-compose-macros@0.18.0
+- pkg:cargo/ac-compose-macros@0.3.0
+- pkg:cargo/ac-compose-macros@0.5.0
+- pkg:cargo/ac-compose-macros@1.16.0
+- pkg:cargo/ac-compose-macros@1.17.0
+- pkg:cargo/ac-compose-macros@1.18.0

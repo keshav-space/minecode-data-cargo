@@ -1,0 +1,5 @@
+- pkg:cargo/pint-manifest@0.0.0-release
+- pkg:cargo/pint-manifest@0.1.0
+- pkg:cargo/pint-manifest@0.2.0
+- pkg:cargo/pint-manifest@0.3.0
+- pkg:cargo/pint-manifest@0.4.0

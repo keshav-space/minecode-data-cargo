@@ -1,0 +1,2 @@
+- pkg:cargo/actix-web-query-method-middleware@1.0.0
+- pkg:cargo/actix-web-query-method-middleware@1.0.1

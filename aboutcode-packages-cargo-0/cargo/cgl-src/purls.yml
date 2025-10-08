@@ -1,0 +1,7 @@
+- pkg:cargo/cgl-src@0.2.0%2B0.60.6
+- pkg:cargo/cgl-src@0.2.2%2B0.60.6
+- pkg:cargo/cgl-src@0.2.4%2B0.60.7
+- pkg:cargo/cgl-src@0.2.5%2B0.60.8
+- pkg:cargo/cgl-src@0.2.6%2B0.60.8
+- pkg:cargo/cgl-src@0.2.7%2B0.60.8
+- pkg:cargo/cgl-src@0.2.8%2B0.60.9

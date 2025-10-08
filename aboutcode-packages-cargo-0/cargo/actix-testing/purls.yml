@@ -1,0 +1,8 @@
+- pkg:cargo/actix-testing@0.1.0
+- pkg:cargo/actix-testing@0.2.0
+- pkg:cargo/actix-testing@0.3.0-alpha.1
+- pkg:cargo/actix-testing@1.0.0
+- pkg:cargo/actix-testing@1.0.0-alpha.2
+- pkg:cargo/actix-testing@1.0.0-alpha.3
+- pkg:cargo/actix-testing@1.0.1
+- pkg:cargo/actix-testing@2.0.0-beta.1

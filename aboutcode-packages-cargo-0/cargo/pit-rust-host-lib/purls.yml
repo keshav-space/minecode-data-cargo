@@ -1,0 +1,7 @@
+- pkg:cargo/pit-rust-host-lib@0.1.1
+- pkg:cargo/pit-rust-host-lib@0.2.0
+- pkg:cargo/pit-rust-host-lib@0.2.5
+- pkg:cargo/pit-rust-host-lib@0.3.0
+- pkg:cargo/pit-rust-host-lib@0.3.1
+- pkg:cargo/pit-rust-host-lib@0.3.2
+- pkg:cargo/pit-rust-host-lib@0.4.0

@@ -1,0 +1,9 @@
+- pkg:cargo/actix-web-rust-embed-responder@0.1.0
+- pkg:cargo/actix-web-rust-embed-responder@1.0.0
+- pkg:cargo/actix-web-rust-embed-responder@2.0.0
+- pkg:cargo/actix-web-rust-embed-responder@2.1.0
+- pkg:cargo/actix-web-rust-embed-responder@2.1.1
+- pkg:cargo/actix-web-rust-embed-responder@2.2.0
+- pkg:cargo/actix-web-rust-embed-responder@2.2.1
+- pkg:cargo/actix-web-rust-embed-responder@2.2.2
+- pkg:cargo/actix-web-rust-embed-responder@2.2.3

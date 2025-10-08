@@ -1,0 +1,5 @@
+- pkg:cargo/actix-web-middleware-cognito@0.1.0
+- pkg:cargo/actix-web-middleware-cognito@0.2.0
+- pkg:cargo/actix-web-middleware-cognito@0.3.0
+- pkg:cargo/actix-web-middleware-cognito@0.4.0-beta.19
+- pkg:cargo/actix-web-middleware-cognito@0.4.0-beta.5

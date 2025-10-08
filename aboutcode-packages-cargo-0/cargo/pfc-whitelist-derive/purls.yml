@@ -1,0 +1,5 @@
+- pkg:cargo/pfc-whitelist-derive@0.1.0
+- pkg:cargo/pfc-whitelist-derive@1.4.0
+- pkg:cargo/pfc-whitelist-derive@1.5.0
+- pkg:cargo/pfc-whitelist-derive@1.5.1
+- pkg:cargo/pfc-whitelist-derive@2.0.0

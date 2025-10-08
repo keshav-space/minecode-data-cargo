@@ -1,0 +1,10 @@
+- pkg:cargo/actix-web-thiserror-derive@0.1.0
+- pkg:cargo/actix-web-thiserror-derive@0.1.6
+- pkg:cargo/actix-web-thiserror-derive@0.1.7
+- pkg:cargo/actix-web-thiserror-derive@0.2.0
+- pkg:cargo/actix-web-thiserror-derive@0.2.1
+- pkg:cargo/actix-web-thiserror-derive@0.2.2
+- pkg:cargo/actix-web-thiserror-derive@0.2.4
+- pkg:cargo/actix-web-thiserror-derive@0.2.5
+- pkg:cargo/actix-web-thiserror-derive@0.2.6
+- pkg:cargo/actix-web-thiserror-derive@0.2.7

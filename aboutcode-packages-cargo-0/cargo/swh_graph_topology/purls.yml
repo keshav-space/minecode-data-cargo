@@ -1,0 +1,10 @@
+- pkg:cargo/swh_graph_topology@6.2.0
+- pkg:cargo/swh_graph_topology@6.3.0
+- pkg:cargo/swh_graph_topology@6.7.4
+- pkg:cargo/swh_graph_topology@6.7.5
+- pkg:cargo/swh_graph_topology@7.0.0
+- pkg:cargo/swh_graph_topology@8.0.4
+- pkg:cargo/swh_graph_topology@8.0.5
+- pkg:cargo/swh_graph_topology@8.0.6
+- pkg:cargo/swh_graph_topology@8.0.7
+- pkg:cargo/swh_graph_topology@8.0.8

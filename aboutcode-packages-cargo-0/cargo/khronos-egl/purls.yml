@@ -1,0 +1,14 @@
+- pkg:cargo/khronos-egl@1.0.0
+- pkg:cargo/khronos-egl@1.0.1
+- pkg:cargo/khronos-egl@2.0.0
+- pkg:cargo/khronos-egl@2.1.0
+- pkg:cargo/khronos-egl@2.1.1
+- pkg:cargo/khronos-egl@2.2.0
+- pkg:cargo/khronos-egl@3.0.0
+- pkg:cargo/khronos-egl@3.0.0-beta
+- pkg:cargo/khronos-egl@3.0.1
+- pkg:cargo/khronos-egl@3.0.2
+- pkg:cargo/khronos-egl@4.0.0
+- pkg:cargo/khronos-egl@4.1.0
+- pkg:cargo/khronos-egl@5.0.0
+- pkg:cargo/khronos-egl@6.0.0

@@ -1,0 +1,3 @@
+- pkg:cargo/dns-ptr-resolver@1.0.0
+- pkg:cargo/dns-ptr-resolver@1.1.0
+- pkg:cargo/dns-ptr-resolver@1.2.0

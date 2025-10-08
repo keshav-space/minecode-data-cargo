@@ -1,0 +1,4 @@
+- pkg:cargo/agio@0.0.1
+- pkg:cargo/agio@0.0.1-alpha
+- pkg:cargo/agio@0.0.1-beta
+- pkg:cargo/agio@0.0.1-prerelease

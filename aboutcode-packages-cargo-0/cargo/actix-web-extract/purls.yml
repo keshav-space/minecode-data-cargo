@@ -1,0 +1,4 @@
+- pkg:cargo/actix-web-extract@0.0.1
+- pkg:cargo/actix-web-extract@0.0.1-beta1
+- pkg:cargo/actix-web-extract@0.0.1-beta2
+- pkg:cargo/actix-web-extract@0.1.0

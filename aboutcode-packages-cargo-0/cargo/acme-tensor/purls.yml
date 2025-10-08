@@ -1,0 +1,8 @@
+- pkg:cargo/acme-tensor@0.3.0
+- pkg:cargo/acme-tensor@0.3.0-nightly
+- pkg:cargo/acme-tensor@0.3.0-nightly.1
+- pkg:cargo/acme-tensor@0.3.0-nightly.2
+- pkg:cargo/acme-tensor@0.3.0-nightly.3
+- pkg:cargo/acme-tensor@0.3.0-nightly.4
+- pkg:cargo/acme-tensor@0.3.1
+- pkg:cargo/acme-tensor@0.3.1-nightly

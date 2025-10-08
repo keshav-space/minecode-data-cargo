@@ -1,0 +1,4 @@
+- pkg:cargo/actix-web-middleware-requestid@1.0.0
+- pkg:cargo/actix-web-middleware-requestid@2.0.0
+- pkg:cargo/actix-web-middleware-requestid@3.0.0
+- pkg:cargo/actix-web-middleware-requestid@3.0.1

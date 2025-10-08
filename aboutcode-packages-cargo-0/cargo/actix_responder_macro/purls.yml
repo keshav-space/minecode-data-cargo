@@ -1,0 +1,4 @@
+- pkg:cargo/actix_responder_macro@0.0.1
+- pkg:cargo/actix_responder_macro@0.0.2
+- pkg:cargo/actix_responder_macro@0.0.3
+- pkg:cargo/actix_responder_macro@0.0.4

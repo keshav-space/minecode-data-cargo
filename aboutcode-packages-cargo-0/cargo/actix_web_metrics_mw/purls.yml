@@ -1,0 +1,4 @@
+- pkg:cargo/actix_web_metrics_mw@0.0.1
+- pkg:cargo/actix_web_metrics_mw@0.2.0
+- pkg:cargo/actix_web_metrics_mw@0.3.0
+- pkg:cargo/actix_web_metrics_mw@0.3.1
