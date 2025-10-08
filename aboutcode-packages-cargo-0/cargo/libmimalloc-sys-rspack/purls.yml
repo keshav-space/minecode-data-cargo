@@ -1,0 +1,4 @@
+- pkg:cargo/libmimalloc-sys-rspack@0.1.39
+- pkg:cargo/libmimalloc-sys-rspack@0.1.40
+- pkg:cargo/libmimalloc-sys-rspack@0.2.0
+- pkg:cargo/libmimalloc-sys-rspack@0.2.1

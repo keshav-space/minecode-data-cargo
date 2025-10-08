@@ -1,0 +1,2 @@
+- pkg:cargo/lib25519-sys@0.1.0
+- pkg:cargo/lib25519-sys@0.1.1

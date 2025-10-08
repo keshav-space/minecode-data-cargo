@@ -1,0 +1,4 @@
+- pkg:cargo/libXNVCtrl-sys@0.1.0
+- pkg:cargo/libXNVCtrl-sys@1.29.0
+- pkg:cargo/libXNVCtrl-sys@1.29.1
+- pkg:cargo/libXNVCtrl-sys@1.29.2

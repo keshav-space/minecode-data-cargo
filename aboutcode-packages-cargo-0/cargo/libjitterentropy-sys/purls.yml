@@ -1,0 +1,6 @@
+- pkg:cargo/libjitterentropy-sys@0.1.2
+- pkg:cargo/libjitterentropy-sys@0.1.3
+- pkg:cargo/libjitterentropy-sys@0.1.4
+- pkg:cargo/libjitterentropy-sys@0.1.5
+- pkg:cargo/libjitterentropy-sys@0.1.6
+- pkg:cargo/libjitterentropy-sys@0.1.7

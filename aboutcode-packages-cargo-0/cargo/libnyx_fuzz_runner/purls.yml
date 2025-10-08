@@ -1,0 +1,2 @@
+- pkg:cargo/libnyx_fuzz_runner@0.1.2
+- pkg:cargo/libnyx_fuzz_runner@0.1.3

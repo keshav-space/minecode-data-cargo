@@ -1,0 +1,9 @@
+- pkg:cargo/libxlsxwriter-sys@0.8.7
+- pkg:cargo/libxlsxwriter-sys@0.9.4
+- pkg:cargo/libxlsxwriter-sys@1.0.0
+- pkg:cargo/libxlsxwriter-sys@1.0.2
+- pkg:cargo/libxlsxwriter-sys@1.0.6
+- pkg:cargo/libxlsxwriter-sys@1.1.1
+- pkg:cargo/libxlsxwriter-sys@1.1.4
+- pkg:cargo/libxlsxwriter-sys@1.1.5
+- pkg:cargo/libxlsxwriter-sys@1.1.7

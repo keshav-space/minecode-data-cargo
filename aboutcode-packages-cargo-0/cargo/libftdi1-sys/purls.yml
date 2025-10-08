@@ -1,0 +1,9 @@
+- pkg:cargo/libftdi1-sys@0.1.0
+- pkg:cargo/libftdi1-sys@1.0.0
+- pkg:cargo/libftdi1-sys@1.0.0-alpha1
+- pkg:cargo/libftdi1-sys@1.0.0-alpha2
+- pkg:cargo/libftdi1-sys@1.0.0-alpha3
+- pkg:cargo/libftdi1-sys@1.1.0
+- pkg:cargo/libftdi1-sys@1.1.1
+- pkg:cargo/libftdi1-sys@1.1.2
+- pkg:cargo/libftdi1-sys@1.1.3

@@ -1,0 +1,4 @@
+- pkg:cargo/libraw-rs-sys@0.0.1%2Blibraw-0.20.0
+- pkg:cargo/libraw-rs-sys@0.0.2%2Blibraw-0.20.0
+- pkg:cargo/libraw-rs-sys@0.0.3%2Blibraw-0.20.1
+- pkg:cargo/libraw-rs-sys@0.0.4%2Blibraw-0.20.1

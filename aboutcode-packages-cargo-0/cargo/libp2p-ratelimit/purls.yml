@@ -1,0 +1,12 @@
+- pkg:cargo/libp2p-ratelimit@0.1.1
+- pkg:cargo/libp2p-ratelimit@0.10.0
+- pkg:cargo/libp2p-ratelimit@0.11.0
+- pkg:cargo/libp2p-ratelimit@0.12.0
+- pkg:cargo/libp2p-ratelimit@0.2.0
+- pkg:cargo/libp2p-ratelimit@0.3.0
+- pkg:cargo/libp2p-ratelimit@0.4.0
+- pkg:cargo/libp2p-ratelimit@0.5.0
+- pkg:cargo/libp2p-ratelimit@0.6.0
+- pkg:cargo/libp2p-ratelimit@0.7.0
+- pkg:cargo/libp2p-ratelimit@0.8.0
+- pkg:cargo/libp2p-ratelimit@0.9.0

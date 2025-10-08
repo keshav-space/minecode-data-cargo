@@ -1,0 +1,3 @@
+- pkg:cargo/libquickjspp-sys@0.1.0
+- pkg:cargo/libquickjspp-sys@0.6.0-rc.0
+- pkg:cargo/libquickjspp-sys@0.6.0-rc.1

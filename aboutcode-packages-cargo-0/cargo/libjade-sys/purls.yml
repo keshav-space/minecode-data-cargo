@@ -1,0 +1,4 @@
+- pkg:cargo/libjade-sys@0.0.1
+- pkg:cargo/libjade-sys@0.0.1-dev.1
+- pkg:cargo/libjade-sys@0.0.2-pre.1
+- pkg:cargo/libjade-sys@0.0.2-pre.2

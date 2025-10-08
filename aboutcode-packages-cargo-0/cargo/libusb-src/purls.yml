@@ -1,0 +1,5 @@
+- pkg:cargo/libusb-src@1.0.26
+- pkg:cargo/libusb-src@1.26.0
+- pkg:cargo/libusb-src@1.26.1
+- pkg:cargo/libusb-src@1.26.2
+- pkg:cargo/libusb-src@1.27.0%2B1.0.26

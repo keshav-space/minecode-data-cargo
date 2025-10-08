@@ -1,0 +1,4 @@
+- pkg:cargo/libfranka-rs@0.8.0-alpha
+- pkg:cargo/libfranka-rs@0.8.0-alpha-1
+- pkg:cargo/libfranka-rs@0.8.0-alpha-2
+- pkg:cargo/libfranka-rs@0.9.0

@@ -1,0 +1,4 @@
+- pkg:cargo/librqbit-sha1-wrapper@2.2.1
+- pkg:cargo/librqbit-sha1-wrapper@3.0.0
+- pkg:cargo/librqbit-sha1-wrapper@4.0.0
+- pkg:cargo/librqbit-sha1-wrapper@4.1.0

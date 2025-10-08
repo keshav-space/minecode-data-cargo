@@ -1,0 +1,16 @@
+- pkg:cargo/lindera-wasm@0.40.1
+- pkg:cargo/lindera-wasm@0.40.2
+- pkg:cargo/lindera-wasm@0.42.2
+- pkg:cargo/lindera-wasm@0.42.3
+- pkg:cargo/lindera-wasm@0.42.4
+- pkg:cargo/lindera-wasm@0.42.5
+- pkg:cargo/lindera-wasm@0.43.0
+- pkg:cargo/lindera-wasm@0.43.1
+- pkg:cargo/lindera-wasm@0.43.2
+- pkg:cargo/lindera-wasm@0.43.7
+- pkg:cargo/lindera-wasm@0.44.0
+- pkg:cargo/lindera-wasm@0.44.1
+- pkg:cargo/lindera-wasm@0.45.0
+- pkg:cargo/lindera-wasm@1.0.0
+- pkg:cargo/lindera-wasm@1.1.0
+- pkg:cargo/lindera-wasm@1.1.1

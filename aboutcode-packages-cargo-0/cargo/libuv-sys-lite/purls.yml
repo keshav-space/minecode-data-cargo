@@ -1,0 +1,4 @@
+- pkg:cargo/libuv-sys-lite@1.48.0
+- pkg:cargo/libuv-sys-lite@1.48.1
+- pkg:cargo/libuv-sys-lite@1.48.2
+- pkg:cargo/libuv-sys-lite@1.48.3

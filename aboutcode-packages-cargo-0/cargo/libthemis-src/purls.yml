@@ -1,0 +1,5 @@
+- pkg:cargo/libthemis-src@0.0.2-1
+- pkg:cargo/libthemis-src@0.0.3
+- pkg:cargo/libthemis-src@0.11.0
+- pkg:cargo/libthemis-src@0.12.0
+- pkg:cargo/libthemis-src@0.13.0

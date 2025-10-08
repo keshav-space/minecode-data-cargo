@@ -1,0 +1,16 @@
+- pkg:cargo/libzfs-sys@0.1.0
+- pkg:cargo/libzfs-sys@0.2.0
+- pkg:cargo/libzfs-sys@0.3.0
+- pkg:cargo/libzfs-sys@0.4.0
+- pkg:cargo/libzfs-sys@0.5.0
+- pkg:cargo/libzfs-sys@0.5.1
+- pkg:cargo/libzfs-sys@0.5.10
+- pkg:cargo/libzfs-sys@0.5.11
+- pkg:cargo/libzfs-sys@0.5.2
+- pkg:cargo/libzfs-sys@0.5.3
+- pkg:cargo/libzfs-sys@0.5.4
+- pkg:cargo/libzfs-sys@0.5.5
+- pkg:cargo/libzfs-sys@0.5.6
+- pkg:cargo/libzfs-sys@0.5.7
+- pkg:cargo/libzfs-sys@0.5.8
+- pkg:cargo/libzfs-sys@0.5.9

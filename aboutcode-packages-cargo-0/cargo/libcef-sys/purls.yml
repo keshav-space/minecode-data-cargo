@@ -1,0 +1,4 @@
+- pkg:cargo/libcef-sys@1.0.0
+- pkg:cargo/libcef-sys@1.0.1
+- pkg:cargo/libcef-sys@117.2.5
+- pkg:cargo/libcef-sys@117.2.6

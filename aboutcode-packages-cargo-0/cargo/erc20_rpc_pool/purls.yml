@@ -1,0 +1,14 @@
+- pkg:cargo/erc20_rpc_pool@0.3.10
+- pkg:cargo/erc20_rpc_pool@0.3.12
+- pkg:cargo/erc20_rpc_pool@0.3.13
+- pkg:cargo/erc20_rpc_pool@0.3.14
+- pkg:cargo/erc20_rpc_pool@0.3.16
+- pkg:cargo/erc20_rpc_pool@0.3.20
+- pkg:cargo/erc20_rpc_pool@0.3.22
+- pkg:cargo/erc20_rpc_pool@0.3.25
+- pkg:cargo/erc20_rpc_pool@0.3.7
+- pkg:cargo/erc20_rpc_pool@0.4.0
+- pkg:cargo/erc20_rpc_pool@0.4.1
+- pkg:cargo/erc20_rpc_pool@0.4.7
+- pkg:cargo/erc20_rpc_pool@0.5.0
+- pkg:cargo/erc20_rpc_pool@0.5.1

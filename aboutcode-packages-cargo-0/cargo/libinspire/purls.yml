@@ -1,0 +1,4 @@
+- pkg:cargo/libinspire@0.1.0
+- pkg:cargo/libinspire@0.1.0-alpha
+- pkg:cargo/libinspire@0.1.0-beta
+- pkg:cargo/libinspire@0.1.0-beta-no-https

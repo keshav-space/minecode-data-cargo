@@ -1,0 +1,7 @@
+- pkg:cargo/libmodbus-rs@0.4.1
+- pkg:cargo/libmodbus-rs@0.4.2
+- pkg:cargo/libmodbus-rs@0.4.3
+- pkg:cargo/libmodbus-rs@0.5.8
+- pkg:cargo/libmodbus-rs@0.6.1
+- pkg:cargo/libmodbus-rs@0.8.2
+- pkg:cargo/libmodbus-rs@0.8.3
