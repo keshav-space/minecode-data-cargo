@@ -1,0 +1,5 @@
+- pkg:cargo/mediaflow_core@0.6.1
+- pkg:cargo/mediaflow_core@0.6.2
+- pkg:cargo/mediaflow_core@0.7.0
+- pkg:cargo/mediaflow_core@0.8.0
+- pkg:cargo/mediaflow_core@0.9.0

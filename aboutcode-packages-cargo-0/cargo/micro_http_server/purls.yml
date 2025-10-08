@@ -1,0 +1,5 @@
+- pkg:cargo/micro_http_server@0.0.1
+- pkg:cargo/micro_http_server@0.0.2
+- pkg:cargo/micro_http_server@0.0.3
+- pkg:cargo/micro_http_server@0.0.4
+- pkg:cargo/micro_http_server@0.0.5

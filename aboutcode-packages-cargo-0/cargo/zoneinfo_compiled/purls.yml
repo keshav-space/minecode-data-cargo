@@ -1,0 +1,5 @@
+- pkg:cargo/zoneinfo_compiled@0.4.5
+- pkg:cargo/zoneinfo_compiled@0.4.7
+- pkg:cargo/zoneinfo_compiled@0.4.8
+- pkg:cargo/zoneinfo_compiled@0.5.0
+- pkg:cargo/zoneinfo_compiled@0.5.1

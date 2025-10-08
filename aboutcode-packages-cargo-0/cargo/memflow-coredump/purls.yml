@@ -1,0 +1,5 @@
+- pkg:cargo/memflow-coredump@0.0.0
+- pkg:cargo/memflow-coredump@0.1.1
+- pkg:cargo/memflow-coredump@0.2.0-beta11
+- pkg:cargo/memflow-coredump@0.2.0-beta3
+- pkg:cargo/memflow-coredump@0.2.0-beta7

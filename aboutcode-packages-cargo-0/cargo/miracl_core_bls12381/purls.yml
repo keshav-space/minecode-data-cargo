@@ -1,0 +1,5 @@
+- pkg:cargo/miracl_core_bls12381@0.4.1
+- pkg:cargo/miracl_core_bls12381@4.1.0
+- pkg:cargo/miracl_core_bls12381@4.1.1
+- pkg:cargo/miracl_core_bls12381@4.1.2
+- pkg:cargo/miracl_core_bls12381@4.2.2

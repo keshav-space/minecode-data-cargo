@@ -1,0 +1,4 @@
+- pkg:cargo/mimalloc3-rs@0.0.1
+- pkg:cargo/mimalloc3-rs@0.0.2
+- pkg:cargo/mimalloc3-rs@0.0.3
+- pkg:cargo/mimalloc3-rs@0.0.5

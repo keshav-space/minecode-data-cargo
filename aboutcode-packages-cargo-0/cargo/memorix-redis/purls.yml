@@ -1,0 +1,6 @@
+- pkg:cargo/memorix-redis@1.4.10
+- pkg:cargo/memorix-redis@1.4.11
+- pkg:cargo/memorix-redis@1.4.12
+- pkg:cargo/memorix-redis@1.4.15
+- pkg:cargo/memorix-redis@1.4.16
+- pkg:cargo/memorix-redis@1.4.9

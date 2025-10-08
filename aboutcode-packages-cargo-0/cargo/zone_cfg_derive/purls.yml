@@ -1,0 +1,5 @@
+- pkg:cargo/zone_cfg_derive@0.1.1
+- pkg:cargo/zone_cfg_derive@0.1.2
+- pkg:cargo/zone_cfg_derive@0.2.0
+- pkg:cargo/zone_cfg_derive@0.3.0
+- pkg:cargo/zone_cfg_derive@0.3.1

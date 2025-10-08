@@ -1,0 +1,14 @@
+- pkg:cargo/merde_msgpack@10.0.0
+- pkg:cargo/merde_msgpack@10.0.1
+- pkg:cargo/merde_msgpack@10.0.2
+- pkg:cargo/merde_msgpack@10.0.3
+- pkg:cargo/merde_msgpack@10.0.4
+- pkg:cargo/merde_msgpack@10.0.5
+- pkg:cargo/merde_msgpack@10.0.6
+- pkg:cargo/merde_msgpack@7.1.0
+- pkg:cargo/merde_msgpack@7.1.1
+- pkg:cargo/merde_msgpack@8.0.0
+- pkg:cargo/merde_msgpack@8.0.1
+- pkg:cargo/merde_msgpack@8.0.2
+- pkg:cargo/merde_msgpack@9.0.0
+- pkg:cargo/merde_msgpack@9.0.1

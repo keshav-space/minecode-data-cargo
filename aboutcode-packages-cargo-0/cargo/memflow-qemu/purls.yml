@@ -1,0 +1,10 @@
+- pkg:cargo/memflow-qemu@0.0.0
+- pkg:cargo/memflow-qemu@0.2.0
+- pkg:cargo/memflow-qemu@0.2.0-beta1
+- pkg:cargo/memflow-qemu@0.2.0-beta10
+- pkg:cargo/memflow-qemu@0.2.0-beta11
+- pkg:cargo/memflow-qemu@0.2.0-beta2
+- pkg:cargo/memflow-qemu@0.2.0-beta3
+- pkg:cargo/memflow-qemu@0.2.0-beta7
+- pkg:cargo/memflow-qemu@0.2.0-beta9
+- pkg:cargo/memflow-qemu@0.2.1

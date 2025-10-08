@@ -1,0 +1,14 @@
+- pkg:cargo/zoi-cli@3.3.6-beta-prod
+- pkg:cargo/zoi-cli@3.4.0-beta-prod
+- pkg:cargo/zoi-cli@3.4.1-beta-prod
+- pkg:cargo/zoi-cli@3.4.2-beta-prod
+- pkg:cargo/zoi-cli@3.5.2-beta-prod
+- pkg:cargo/zoi-cli@3.7.2-beta-prod
+- pkg:cargo/zoi-cli@3.8.0-beta-prod
+- pkg:cargo/zoi-cli@3.8.1-beta-prod
+- pkg:cargo/zoi-cli@4.0.0-beta-prod
+- pkg:cargo/zoi-cli@4.0.2-beta-prod
+- pkg:cargo/zoi-cli@4.0.4-beta-prod
+- pkg:cargo/zoi-cli@4.1.0-beta-prod
+- pkg:cargo/zoi-cli@4.1.1-beta-prod
+- pkg:cargo/zoi-cli@4.1.2-beta-prod

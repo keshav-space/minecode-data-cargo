@@ -1,0 +1,5 @@
+- pkg:cargo/mimalloc-rust-sys@1.7.2
+- pkg:cargo/mimalloc-rust-sys@1.7.3
+- pkg:cargo/mimalloc-rust-sys@1.7.3-source
+- pkg:cargo/mimalloc-rust-sys@1.7.6-source
+- pkg:cargo/mimalloc-rust-sys@1.7.9-source

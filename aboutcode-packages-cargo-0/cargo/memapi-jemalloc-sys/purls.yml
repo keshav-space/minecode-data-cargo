@@ -1,0 +1,4 @@
+- pkg:cargo/memapi-jemalloc-sys@0.1.0%2B5.3.0-298-g70d4102f48dce2d5755e9139a15eeec606f97bff
+- pkg:cargo/memapi-jemalloc-sys@0.1.1%2B5.3.0-298-g70d4102f48dce2d5755e9139a15eeec606f97bff
+- pkg:cargo/memapi-jemalloc-sys@0.1.2%2B5.3.0-298-g70d4102f48dce2d5755e9139a15eeec606f97bff
+- pkg:cargo/memapi-jemalloc-sys@0.6.0%2B5.3.0-1-ge13ca993e8ccb9ba9847cc330696e02839f328f7

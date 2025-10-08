@@ -1,0 +1,2 @@
+- pkg:cargo/metriki-prometheus-exporter@0.1.1
+- pkg:cargo/metriki-prometheus-exporter@0.2.0

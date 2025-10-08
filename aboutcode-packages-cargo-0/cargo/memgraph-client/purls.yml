@@ -1,0 +1,2 @@
+- pkg:cargo/memgraph-client@0.1.0
+- pkg:cargo/memgraph-client@0.1.1

@@ -1,0 +1,5 @@
+- pkg:cargo/metrics-exporter-otel@0.1.0
+- pkg:cargo/metrics-exporter-otel@0.1.0-fork.0
+- pkg:cargo/metrics-exporter-otel@0.1.0-fork.1
+- pkg:cargo/metrics-exporter-otel@0.1.0-fork.3
+- pkg:cargo/metrics-exporter-otel@0.2.0
