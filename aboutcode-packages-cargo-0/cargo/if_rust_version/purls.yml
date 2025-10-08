@@ -1,0 +1,2 @@
+- pkg:cargo/if_rust_version@0.1.0
+- pkg:cargo/if_rust_version@1.0.0

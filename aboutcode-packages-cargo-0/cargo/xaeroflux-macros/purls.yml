@@ -1,0 +1,7 @@
+- pkg:cargo/xaeroflux-macros@0.2.0-m3
+- pkg:cargo/xaeroflux-macros@0.3.0-m3
+- pkg:cargo/xaeroflux-macros@0.5.0-m3
+- pkg:cargo/xaeroflux-macros@0.5.0-m4
+- pkg:cargo/xaeroflux-macros@0.7.0-m5
+- pkg:cargo/xaeroflux-macros@0.8.0-m5
+- pkg:cargo/xaeroflux-macros@0.8.1-m5

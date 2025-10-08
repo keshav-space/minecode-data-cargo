@@ -1,0 +1,2 @@
+- pkg:cargo/u-siem-datasetmanager-sqlite@0.0.2
+- pkg:cargo/u-siem-datasetmanager-sqlite@0.0.3

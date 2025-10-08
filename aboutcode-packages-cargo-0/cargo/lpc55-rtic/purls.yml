@@ -1,0 +1,3 @@
+- pkg:cargo/lpc55-rtic@0.5.5
+- pkg:cargo/lpc55-rtic@0.5.6
+- pkg:cargo/lpc55-rtic@0.5.7

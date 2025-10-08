@@ -1,0 +1,3 @@
+- pkg:cargo/nakago-figment@0.23.0
+- pkg:cargo/nakago-figment@0.24.1
+- pkg:cargo/nakago-figment@0.25.0

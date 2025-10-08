@@ -1,0 +1,4 @@
+- pkg:cargo/nand2tetris_assembler_rust@1.0.0
+- pkg:cargo/nand2tetris_assembler_rust@1.0.1
+- pkg:cargo/nand2tetris_assembler_rust@1.0.2
+- pkg:cargo/nand2tetris_assembler_rust@1.0.3

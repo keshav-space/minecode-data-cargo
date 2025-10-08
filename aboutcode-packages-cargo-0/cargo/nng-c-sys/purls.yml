@@ -1,0 +1,13 @@
+- pkg:cargo/nng-c-sys@1.10.0
+- pkg:cargo/nng-c-sys@1.10.1
+- pkg:cargo/nng-c-sys@1.11.0
+- pkg:cargo/nng-c-sys@1.11.1
+- pkg:cargo/nng-c-sys@1.8.0-beta.1
+- pkg:cargo/nng-c-sys@1.8.0-beta.2
+- pkg:cargo/nng-c-sys@1.8.0-beta.3
+- pkg:cargo/nng-c-sys@1.8.0-beta.4
+- pkg:cargo/nng-c-sys@1.8.0-beta.5
+- pkg:cargo/nng-c-sys@1.8.0-beta.6
+- pkg:cargo/nng-c-sys@1.8.0-beta.7
+- pkg:cargo/nng-c-sys@1.9.0-beta.1
+- pkg:cargo/nng-c-sys@1.9.0-beta.2

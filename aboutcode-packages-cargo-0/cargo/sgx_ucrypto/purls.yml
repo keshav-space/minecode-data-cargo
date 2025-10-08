@@ -1,0 +1,7 @@
+- pkg:cargo/sgx_ucrypto@1.0.5
+- pkg:cargo/sgx_ucrypto@1.0.6
+- pkg:cargo/sgx_ucrypto@1.0.7
+- pkg:cargo/sgx_ucrypto@1.0.8
+- pkg:cargo/sgx_ucrypto@1.0.9
+- pkg:cargo/sgx_ucrypto@1.1.0
+- pkg:cargo/sgx_ucrypto@1.1.1

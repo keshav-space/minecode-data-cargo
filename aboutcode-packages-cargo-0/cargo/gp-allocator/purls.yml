@@ -1,0 +1,4 @@
+- pkg:cargo/gp-allocator@4.1.0
+- pkg:cargo/gp-allocator@4.1.0-dev
+- pkg:cargo/gp-allocator@4.1.1
+- pkg:cargo/gp-allocator@4.1.2

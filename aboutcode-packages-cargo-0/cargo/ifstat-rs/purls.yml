@@ -1,0 +1,5 @@
+- pkg:cargo/ifstat-rs@1.9.9
+- pkg:cargo/ifstat-rs@1.9.99
+- pkg:cargo/ifstat-rs@1.9.999
+- pkg:cargo/ifstat-rs@2.0.0
+- pkg:cargo/ifstat-rs@3.0.0

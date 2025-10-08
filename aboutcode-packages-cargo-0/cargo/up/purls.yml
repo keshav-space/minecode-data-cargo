@@ -1,0 +1,4 @@
+- pkg:cargo/up@0.16.0
+- pkg:cargo/up@0.17.0
+- pkg:cargo/up@0.17.1
+- pkg:cargo/up@0.18.0

@@ -1,0 +1,13 @@
+- pkg:cargo/writedisk@0.7.0
+- pkg:cargo/writedisk@0.8.0
+- pkg:cargo/writedisk@0.8.1
+- pkg:cargo/writedisk@0.9.0
+- pkg:cargo/writedisk@1.0.0
+- pkg:cargo/writedisk@1.0.1
+- pkg:cargo/writedisk@1.0.2
+- pkg:cargo/writedisk@1.0.3
+- pkg:cargo/writedisk@1.1.0
+- pkg:cargo/writedisk@1.2.0
+- pkg:cargo/writedisk@1.3.0
+- pkg:cargo/writedisk@1.4.0
+- pkg:cargo/writedisk@1.5.0
