@@ -1,0 +1,2 @@
+- pkg:cargo/threadsafe_zmq@1.0.0
+- pkg:cargo/threadsafe_zmq@1.0.1

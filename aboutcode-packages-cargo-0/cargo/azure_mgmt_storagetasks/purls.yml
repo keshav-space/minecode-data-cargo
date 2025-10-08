@@ -1,0 +1,4 @@
+- pkg:cargo/azure_mgmt_storagetasks@0.14.0
+- pkg:cargo/azure_mgmt_storagetasks@0.15.0
+- pkg:cargo/azure_mgmt_storagetasks@0.16.0
+- pkg:cargo/azure_mgmt_storagetasks@0.17.0

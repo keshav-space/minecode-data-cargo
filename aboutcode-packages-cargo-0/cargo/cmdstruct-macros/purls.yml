@@ -1,0 +1,5 @@
+- pkg:cargo/cmdstruct-macros@1.0.0
+- pkg:cargo/cmdstruct-macros@1.1.0
+- pkg:cargo/cmdstruct-macros@1.2.0
+- pkg:cargo/cmdstruct-macros@2.0.0
+- pkg:cargo/cmdstruct-macros@2.0.1

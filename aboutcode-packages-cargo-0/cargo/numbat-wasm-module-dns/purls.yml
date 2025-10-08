@@ -1,0 +1,4 @@
+- pkg:cargo/numbat-wasm-module-dns@0.0.11
+- pkg:cargo/numbat-wasm-module-dns@0.0.13
+- pkg:cargo/numbat-wasm-module-dns@0.0.15
+- pkg:cargo/numbat-wasm-module-dns@0.0.9

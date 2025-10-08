@@ -1,0 +1,4 @@
+- pkg:cargo/this_crate_is_here_forever@0.1.0
+- pkg:cargo/this_crate_is_here_forever@0.2.0
+- pkg:cargo/this_crate_is_here_forever@0.3.0
+- pkg:cargo/this_crate_is_here_forever@0.3.1

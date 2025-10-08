@@ -1,0 +1,6 @@
+- pkg:cargo/azure_mgmt_recoveryservicesdatareplication@0.16.0
+- pkg:cargo/azure_mgmt_recoveryservicesdatareplication@0.17.0
+- pkg:cargo/azure_mgmt_recoveryservicesdatareplication@0.18.0
+- pkg:cargo/azure_mgmt_recoveryservicesdatareplication@0.19.0
+- pkg:cargo/azure_mgmt_recoveryservicesdatareplication@0.20.0
+- pkg:cargo/azure_mgmt_recoveryservicesdatareplication@0.21.0

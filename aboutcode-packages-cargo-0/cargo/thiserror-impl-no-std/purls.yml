@@ -1,0 +1,3 @@
+- pkg:cargo/thiserror-impl-no-std@2.0.0
+- pkg:cargo/thiserror-impl-no-std@2.0.1
+- pkg:cargo/thiserror-impl-no-std@2.0.2

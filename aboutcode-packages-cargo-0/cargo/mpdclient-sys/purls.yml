@@ -1,0 +1,8 @@
+- pkg:cargo/mpdclient-sys@0.1.0
+- pkg:cargo/mpdclient-sys@0.1.1
+- pkg:cargo/mpdclient-sys@2.22.0
+- pkg:cargo/mpdclient-sys@2.22.1
+- pkg:cargo/mpdclient-sys@2.22.2
+- pkg:cargo/mpdclient-sys@2.22.3
+- pkg:cargo/mpdclient-sys@2.22.3-rc.1
+- pkg:cargo/mpdclient-sys@3.0.0

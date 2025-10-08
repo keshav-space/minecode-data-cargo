@@ -1,0 +1,5 @@
+- pkg:cargo/jellyfin_api@10.8.10-1
+- pkg:cargo/jellyfin_api@10.8.10-2
+- pkg:cargo/jellyfin_api@10.8.13-1
+- pkg:cargo/jellyfin_api@10.8.13-2
+- pkg:cargo/jellyfin_api@10.9.2-1

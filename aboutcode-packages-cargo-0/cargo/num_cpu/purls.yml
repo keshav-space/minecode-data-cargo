@@ -1,0 +1,4 @@
+- pkg:cargo/num_cpu@1.13.0
+- pkg:cargo/num_cpu@1.13.1
+- pkg:cargo/num_cpu@1.13.2
+- pkg:cargo/num_cpu@1.14.0

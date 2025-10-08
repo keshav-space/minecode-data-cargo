@@ -1,0 +1,5 @@
+- pkg:cargo/owasm-ethereum@0.1.0
+- pkg:cargo/owasm-ethereum@0.7.0
+- pkg:cargo/owasm-ethereum@0.7.1
+- pkg:cargo/owasm-ethereum@0.7.2
+- pkg:cargo/owasm-ethereum@0.8.0

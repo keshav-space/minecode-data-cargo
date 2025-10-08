@@ -1,0 +1,5 @@
+- pkg:cargo/nu_plugin_bio@0.70.0
+- pkg:cargo/nu_plugin_bio@0.74.1
+- pkg:cargo/nu_plugin_bio@0.74.2
+- pkg:cargo/nu_plugin_bio@0.76.0
+- pkg:cargo/nu_plugin_bio@0.85.0

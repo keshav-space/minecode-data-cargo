@@ -1,0 +1,5 @@
+- pkg:cargo/krossbar-state-machine@0.5.0
+- pkg:cargo/krossbar-state-machine@0.5.1
+- pkg:cargo/krossbar-state-machine@0.5.2
+- pkg:cargo/krossbar-state-machine@0.5.3
+- pkg:cargo/krossbar-state-machine@0.5.4

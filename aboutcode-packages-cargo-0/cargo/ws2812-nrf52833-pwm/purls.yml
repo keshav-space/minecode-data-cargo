@@ -1,0 +1,2 @@
+- pkg:cargo/ws2812-nrf52833-pwm@0.2.0
+- pkg:cargo/ws2812-nrf52833-pwm@0.2.1

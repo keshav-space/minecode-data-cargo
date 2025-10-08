@@ -1,0 +1,11 @@
+- pkg:cargo/azalea-inventory@0.10.1
+- pkg:cargo/azalea-inventory@0.10.2
+- pkg:cargo/azalea-inventory@0.10.3%2Bmc1.21.1
+- pkg:cargo/azalea-inventory@0.11.0%2Bmc1.21.4
+- pkg:cargo/azalea-inventory@0.12.0%2Bmc1.21.5
+- pkg:cargo/azalea-inventory@0.13.0%2Bmc1.21.5
+- pkg:cargo/azalea-inventory@0.14.0%2Bmc1.21.8
+- pkg:cargo/azalea-inventory@0.7.0
+- pkg:cargo/azalea-inventory@0.8.0
+- pkg:cargo/azalea-inventory@0.9.0
+- pkg:cargo/azalea-inventory@0.9.1

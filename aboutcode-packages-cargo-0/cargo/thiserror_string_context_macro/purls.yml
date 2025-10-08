@@ -1,0 +1,3 @@
+- pkg:cargo/thiserror_string_context_macro@0.1.0
+- pkg:cargo/thiserror_string_context_macro@0.1.1
+- pkg:cargo/thiserror_string_context_macro@0.1.2

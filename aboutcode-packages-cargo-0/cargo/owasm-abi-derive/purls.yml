@@ -1,0 +1,8 @@
+- pkg:cargo/owasm-abi-derive@0.1.0
+- pkg:cargo/owasm-abi-derive@0.1.12
+- pkg:cargo/owasm-abi-derive@0.1.13
+- pkg:cargo/owasm-abi-derive@0.1.14
+- pkg:cargo/owasm-abi-derive@0.1.15
+- pkg:cargo/owasm-abi-derive@0.1.16
+- pkg:cargo/owasm-abi-derive@0.3.0
+- pkg:cargo/owasm-abi-derive@0.4.0

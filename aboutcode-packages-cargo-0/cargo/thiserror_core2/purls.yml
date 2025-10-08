@@ -1,0 +1,4 @@
+- pkg:cargo/thiserror_core2@1.0.23
+- pkg:cargo/thiserror_core2@1.0.30
+- pkg:cargo/thiserror_core2@2.0.0
+- pkg:cargo/thiserror_core2@2.0.1

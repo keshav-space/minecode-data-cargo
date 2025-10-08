@@ -1,0 +1,4 @@
+- pkg:cargo/azure_mgmt_devopsinfrastructure@0.18.0
+- pkg:cargo/azure_mgmt_devopsinfrastructure@0.19.0
+- pkg:cargo/azure_mgmt_devopsinfrastructure@0.20.0
+- pkg:cargo/azure_mgmt_devopsinfrastructure@0.21.0

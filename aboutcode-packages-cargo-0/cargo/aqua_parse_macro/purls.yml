@@ -1,0 +1,5 @@
+- pkg:cargo/aqua_parse_macro@0.11.0
+- pkg:cargo/aqua_parse_macro@0.12.0
+- pkg:cargo/aqua_parse_macro@0.13.0
+- pkg:cargo/aqua_parse_macro@0.14.0
+- pkg:cargo/aqua_parse_macro@0.16.0

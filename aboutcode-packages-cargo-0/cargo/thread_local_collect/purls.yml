@@ -1,0 +1,5 @@
+- pkg:cargo/thread_local_collect@0.5.0
+- pkg:cargo/thread_local_collect@0.5.1
+- pkg:cargo/thread_local_collect@0.5.2
+- pkg:cargo/thread_local_collect@1.0.0
+- pkg:cargo/thread_local_collect@1.0.1

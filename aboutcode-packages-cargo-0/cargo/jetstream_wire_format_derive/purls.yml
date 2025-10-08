@@ -1,0 +1,7 @@
+- pkg:cargo/jetstream_wire_format_derive@1.0.0
+- pkg:cargo/jetstream_wire_format_derive@1.1.0
+- pkg:cargo/jetstream_wire_format_derive@1.1.1
+- pkg:cargo/jetstream_wire_format_derive@2.0.0
+- pkg:cargo/jetstream_wire_format_derive@2.0.1
+- pkg:cargo/jetstream_wire_format_derive@2.0.2
+- pkg:cargo/jetstream_wire_format_derive@3.0.0

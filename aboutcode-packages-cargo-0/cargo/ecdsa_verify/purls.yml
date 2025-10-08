@@ -1,0 +1,3 @@
+- pkg:cargo/ecdsa_verify@1.0.0
+- pkg:cargo/ecdsa_verify@1.1.0
+- pkg:cargo/ecdsa_verify@1.1.1
