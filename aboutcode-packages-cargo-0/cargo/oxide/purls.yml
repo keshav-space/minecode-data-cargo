@@ -1,0 +1,13 @@
+- pkg:cargo/oxide@0.1.0
+- pkg:cargo/oxide@0.10.0%2B20250212.0.0
+- pkg:cargo/oxide@0.11.0%2B20250409.0.0
+- pkg:cargo/oxide@0.12.0%2B20250604.0.0
+- pkg:cargo/oxide@0.13.0%2B20250730.0.0
+- pkg:cargo/oxide@0.2.0
+- pkg:cargo/oxide@0.3.0%2B0.0.6
+- pkg:cargo/oxide@0.4.0%2B20240327.0
+- pkg:cargo/oxide@0.5.0%2B20240502.0
+- pkg:cargo/oxide@0.6.0%2B20240710.0
+- pkg:cargo/oxide@0.7.0%2B20240821.0
+- pkg:cargo/oxide@0.8.0%2B20241009.0
+- pkg:cargo/oxide@0.9.0%2B20241204.0.0

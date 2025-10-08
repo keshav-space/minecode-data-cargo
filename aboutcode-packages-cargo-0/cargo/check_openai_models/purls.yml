@@ -1,0 +1,3 @@
+- pkg:cargo/check_openai_models@0.1.0
+- pkg:cargo/check_openai_models@0.1.1
+- pkg:cargo/check_openai_models@0.1.2

@@ -1,0 +1,5 @@
+- pkg:cargo/check_brandmeister@0.1.0
+- pkg:cargo/check_brandmeister@0.1.1
+- pkg:cargo/check_brandmeister@0.2.0
+- pkg:cargo/check_brandmeister@0.2.3
+- pkg:cargo/check_brandmeister@0.2.4

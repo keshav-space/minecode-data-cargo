@@ -1,0 +1,5 @@
+- pkg:cargo/bootstrap-service-bin@0.1.21
+- pkg:cargo/bootstrap-service-bin@0.1.21-rc.3
+- pkg:cargo/bootstrap-service-bin@0.1.22-rc.1
+- pkg:cargo/bootstrap-service-bin@0.1.22-rc.3
+- pkg:cargo/bootstrap-service-bin@0.1.22-rc.4

@@ -1,0 +1,4 @@
+- pkg:cargo/r-efi-alloc@0.1.0
+- pkg:cargo/r-efi-alloc@1.0.0
+- pkg:cargo/r-efi-alloc@2.0.0
+- pkg:cargo/r-efi-alloc@2.1.0

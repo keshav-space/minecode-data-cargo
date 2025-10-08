@@ -1,0 +1,5 @@
+- pkg:cargo/chrome_native_messaging@0.1.0
+- pkg:cargo/chrome_native_messaging@0.1.1
+- pkg:cargo/chrome_native_messaging@0.1.2
+- pkg:cargo/chrome_native_messaging@0.2.0
+- pkg:cargo/chrome_native_messaging@0.3.0

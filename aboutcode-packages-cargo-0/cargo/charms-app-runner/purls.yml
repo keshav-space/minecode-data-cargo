@@ -1,0 +1,6 @@
+- pkg:cargo/charms-app-runner@0.8.0
+- pkg:cargo/charms-app-runner@0.8.1
+- pkg:cargo/charms-app-runner@0.9.0
+- pkg:cargo/charms-app-runner@0.9.1
+- pkg:cargo/charms-app-runner@0.9.2
+- pkg:cargo/charms-app-runner@0.9.3

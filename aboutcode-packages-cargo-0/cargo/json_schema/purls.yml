@@ -1,0 +1,9 @@
+- pkg:cargo/json_schema@1.6.10
+- pkg:cargo/json_schema@1.6.16
+- pkg:cargo/json_schema@1.6.17
+- pkg:cargo/json_schema@1.6.18
+- pkg:cargo/json_schema@1.6.19
+- pkg:cargo/json_schema@1.7.0
+- pkg:cargo/json_schema@1.7.4
+- pkg:cargo/json_schema@1.7.5
+- pkg:cargo/json_schema@1.8.0

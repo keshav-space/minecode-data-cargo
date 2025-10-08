@@ -1,0 +1,10 @@
+- pkg:cargo/jsonrpc-macros@0.1.0
+- pkg:cargo/jsonrpc-macros@10.0.0
+- pkg:cargo/jsonrpc-macros@10.0.1
+- pkg:cargo/jsonrpc-macros@10.1.0
+- pkg:cargo/jsonrpc-macros@6.0.0
+- pkg:cargo/jsonrpc-macros@7.0.1
+- pkg:cargo/jsonrpc-macros@7.1.0
+- pkg:cargo/jsonrpc-macros@7.1.1
+- pkg:cargo/jsonrpc-macros@8.0.0
+- pkg:cargo/jsonrpc-macros@9.0.0

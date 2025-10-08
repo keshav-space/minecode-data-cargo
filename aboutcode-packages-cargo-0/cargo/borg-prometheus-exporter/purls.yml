@@ -1,0 +1,4 @@
+- pkg:cargo/borg-prometheus-exporter@1.0.0
+- pkg:cargo/borg-prometheus-exporter@1.1.0
+- pkg:cargo/borg-prometheus-exporter@1.2.0
+- pkg:cargo/borg-prometheus-exporter@1.2.1

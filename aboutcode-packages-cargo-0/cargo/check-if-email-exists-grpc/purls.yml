@@ -1,0 +1,5 @@
+- pkg:cargo/check-if-email-exists-grpc@0.8.0
+- pkg:cargo/check-if-email-exists-grpc@0.8.1
+- pkg:cargo/check-if-email-exists-grpc@0.9.0
+- pkg:cargo/check-if-email-exists-grpc@0.9.1
+- pkg:cargo/check-if-email-exists-grpc@1.0.0

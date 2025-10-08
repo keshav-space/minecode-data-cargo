@@ -1,0 +1,2 @@
+- pkg:cargo/check_sum@1.0.0
+- pkg:cargo/check_sum@1.0.1

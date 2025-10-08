@@ -1,0 +1,4 @@
+- pkg:cargo/borsh-schema-writer@0.1.0
+- pkg:cargo/borsh-schema-writer@1.0.0
+- pkg:cargo/borsh-schema-writer@1.0.1
+- pkg:cargo/borsh-schema-writer@1.0.2

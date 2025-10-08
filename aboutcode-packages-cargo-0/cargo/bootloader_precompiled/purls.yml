@@ -1,0 +1,8 @@
+- pkg:cargo/bootloader_precompiled@0.2.0
+- pkg:cargo/bootloader_precompiled@0.2.0-alpha-001
+- pkg:cargo/bootloader_precompiled@0.2.0-alpha-002
+- pkg:cargo/bootloader_precompiled@0.2.0-alpha-003
+- pkg:cargo/bootloader_precompiled@0.2.0-alpha-004
+- pkg:cargo/bootloader_precompiled@0.2.0-alpha-005
+- pkg:cargo/bootloader_precompiled@0.2.0-beta
+- pkg:cargo/bootloader_precompiled@0.3.0

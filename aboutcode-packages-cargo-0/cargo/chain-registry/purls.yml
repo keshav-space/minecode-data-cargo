@@ -1,0 +1,4 @@
+- pkg:cargo/chain-registry@0.1.0
+- pkg:cargo/chain-registry@0.2.0-rc1
+- pkg:cargo/chain-registry@0.2.0-rc2
+- pkg:cargo/chain-registry@0.2.0-rc3

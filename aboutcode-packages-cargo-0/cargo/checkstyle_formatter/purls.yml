@@ -1,0 +1,4 @@
+- pkg:cargo/checkstyle_formatter@0.0.1
+- pkg:cargo/checkstyle_formatter@1.0.0
+- pkg:cargo/checkstyle_formatter@1.0.1
+- pkg:cargo/checkstyle_formatter@1.0.2

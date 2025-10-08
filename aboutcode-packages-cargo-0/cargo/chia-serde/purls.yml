@@ -1,0 +1,16 @@
+- pkg:cargo/chia-serde@0.19.1
+- pkg:cargo/chia-serde@0.20.0
+- pkg:cargo/chia-serde@0.21.0
+- pkg:cargo/chia-serde@0.21.1
+- pkg:cargo/chia-serde@0.21.2
+- pkg:cargo/chia-serde@0.22.0
+- pkg:cargo/chia-serde@0.23.0
+- pkg:cargo/chia-serde@0.24.0
+- pkg:cargo/chia-serde@0.25.0
+- pkg:cargo/chia-serde@0.26.0
+- pkg:cargo/chia-serde@0.27.0
+- pkg:cargo/chia-serde@0.28.0
+- pkg:cargo/chia-serde@0.28.1
+- pkg:cargo/chia-serde@0.28.2
+- pkg:cargo/chia-serde@0.29.0
+- pkg:cargo/chia-serde@0.30.0

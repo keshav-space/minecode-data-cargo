@@ -1,0 +1,3 @@
+- pkg:cargo/bolt_udp@0.11.11
+- pkg:cargo/bolt_udp@0.12.4
+- pkg:cargo/bolt_udp@0.12.5

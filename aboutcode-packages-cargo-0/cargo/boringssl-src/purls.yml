@@ -1,0 +1,8 @@
+- pkg:cargo/boringssl-src@0.1.0
+- pkg:cargo/boringssl-src@0.2.0
+- pkg:cargo/boringssl-src@0.3.0%2B688fc5c
+- pkg:cargo/boringssl-src@0.4.0%2Bfc44652
+- pkg:cargo/boringssl-src@0.5.0%2Bb9232f9
+- pkg:cargo/boringssl-src@0.5.1%2Bb9232f9
+- pkg:cargo/boringssl-src@0.5.2%2B6195bf8
+- pkg:cargo/boringssl-src@0.6.0%2Be46383f

@@ -1,0 +1,3 @@
+- pkg:cargo/jsonwebtoken-rustcrypto@1.0.0
+- pkg:cargo/jsonwebtoken-rustcrypto@1.1.0
+- pkg:cargo/jsonwebtoken-rustcrypto@1.2.0

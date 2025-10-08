@@ -1,0 +1,2 @@
+- pkg:cargo/jsonnet-go-sys@0.1.0%2Bgo-jsonnet-v0.20.0
+- pkg:cargo/jsonnet-go-sys@0.1.1%2Bgo-jsonnet-v0.20.0

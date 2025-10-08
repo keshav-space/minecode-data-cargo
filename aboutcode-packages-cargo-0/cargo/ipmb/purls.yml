@@ -1,0 +1,12 @@
+- pkg:cargo/ipmb@0.7.14
+- pkg:cargo/ipmb@0.7.2
+- pkg:cargo/ipmb@0.7.3
+- pkg:cargo/ipmb@0.7.4
+- pkg:cargo/ipmb@0.7.5
+- pkg:cargo/ipmb@0.8.0
+- pkg:cargo/ipmb@0.8.0-20240814
+- pkg:cargo/ipmb@0.8.0-20241011
+- pkg:cargo/ipmb@0.8.0-20241122
+- pkg:cargo/ipmb@0.8.1
+- pkg:cargo/ipmb@0.8.2
+- pkg:cargo/ipmb@0.8.3

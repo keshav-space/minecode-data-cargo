@@ -1,0 +1,12 @@
+- pkg:cargo/json-ld-serialization@0.16.0
+- pkg:cargo/json-ld-serialization@0.17.0
+- pkg:cargo/json-ld-serialization@0.17.1
+- pkg:cargo/json-ld-serialization@0.17.2
+- pkg:cargo/json-ld-serialization@0.18.0
+- pkg:cargo/json-ld-serialization@0.19.0
+- pkg:cargo/json-ld-serialization@0.19.1
+- pkg:cargo/json-ld-serialization@0.19.2
+- pkg:cargo/json-ld-serialization@0.20.0
+- pkg:cargo/json-ld-serialization@0.21.0
+- pkg:cargo/json-ld-serialization@0.21.1
+- pkg:cargo/json-ld-serialization@0.21.2
