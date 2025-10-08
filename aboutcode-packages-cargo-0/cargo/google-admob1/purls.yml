@@ -1,0 +1,14 @@
+- pkg:cargo/google-admob1@1.0.14%2B20200709
+- pkg:cargo/google-admob1@2.0.0%2B20210331
+- pkg:cargo/google-admob1@2.0.3%2B20210331
+- pkg:cargo/google-admob1@2.0.4%2B20210331
+- pkg:cargo/google-admob1@2.0.8%2B20210331
+- pkg:cargo/google-admob1@3.0.0%2B20220303
+- pkg:cargo/google-admob1@3.1.0%2B20220303
+- pkg:cargo/google-admob1@4.0.1%2B20220303
+- pkg:cargo/google-admob1@5.0.2%2B20230124
+- pkg:cargo/google-admob1@5.0.2-beta-1%2B20230124
+- pkg:cargo/google-admob1@5.0.3%2B20230124
+- pkg:cargo/google-admob1@5.0.4%2B20240223
+- pkg:cargo/google-admob1@5.0.5%2B20240626
+- pkg:cargo/google-admob1@6.0.0%2B20240626

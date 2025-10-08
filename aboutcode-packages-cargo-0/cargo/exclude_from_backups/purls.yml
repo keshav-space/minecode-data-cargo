@@ -1,0 +1,8 @@
+- pkg:cargo/exclude_from_backups@0.1.0
+- pkg:cargo/exclude_from_backups@0.1.1
+- pkg:cargo/exclude_from_backups@0.2.0
+- pkg:cargo/exclude_from_backups@0.2.1
+- pkg:cargo/exclude_from_backups@1.0.0
+- pkg:cargo/exclude_from_backups@1.0.1
+- pkg:cargo/exclude_from_backups@1.0.2
+- pkg:cargo/exclude_from_backups@1.0.3

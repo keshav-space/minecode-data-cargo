@@ -1,0 +1,6 @@
+- pkg:cargo/exonum-supervisor@0.13.0-rc.1
+- pkg:cargo/exonum-supervisor@0.13.0-rc.2
+- pkg:cargo/exonum-supervisor@1.0.0
+- pkg:cargo/exonum-supervisor@1.0.0-rc.1
+- pkg:cargo/exonum-supervisor@1.0.0-rc.2
+- pkg:cargo/exonum-supervisor@1.0.0-rc.3

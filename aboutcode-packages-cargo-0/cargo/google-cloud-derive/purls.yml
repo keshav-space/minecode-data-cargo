@@ -1,0 +1,4 @@
+- pkg:cargo/google-cloud-derive@0.0.0
+- pkg:cargo/google-cloud-derive@0.1.0
+- pkg:cargo/google-cloud-derive@0.2.0
+- pkg:cargo/google-cloud-derive@0.2.1

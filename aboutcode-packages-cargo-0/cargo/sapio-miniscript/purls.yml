@@ -1,0 +1,17 @@
+- pkg:cargo/sapio-miniscript@5.1.0
+- pkg:cargo/sapio-miniscript@5.1.1
+- pkg:cargo/sapio-miniscript@7.0.0
+- pkg:cargo/sapio-miniscript@7.0.0-0
+- pkg:cargo/sapio-miniscript@7.0.0-1
+- pkg:cargo/sapio-miniscript@7.0.0-10
+- pkg:cargo/sapio-miniscript@7.0.0-2
+- pkg:cargo/sapio-miniscript@7.0.0-3
+- pkg:cargo/sapio-miniscript@7.0.0-4
+- pkg:cargo/sapio-miniscript@7.0.0-5
+- pkg:cargo/sapio-miniscript@7.0.0-6
+- pkg:cargo/sapio-miniscript@7.0.0-7
+- pkg:cargo/sapio-miniscript@7.0.0-8
+- pkg:cargo/sapio-miniscript@7.0.0-9
+- pkg:cargo/sapio-miniscript@7.0.1
+- pkg:cargo/sapio-miniscript@7.0.2-alpha.0
+- pkg:cargo/sapio-miniscript@8.0.1-alpha.0

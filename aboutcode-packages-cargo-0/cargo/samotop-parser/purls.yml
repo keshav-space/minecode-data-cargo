@@ -1,0 +1,6 @@
+- pkg:cargo/samotop-parser@0.10.0
+- pkg:cargo/samotop-parser@0.10.0-preview.2
+- pkg:cargo/samotop-parser@0.11.0
+- pkg:cargo/samotop-parser@0.12.0
+- pkg:cargo/samotop-parser@0.13.0
+- pkg:cargo/samotop-parser@0.13.0-samotop-dev

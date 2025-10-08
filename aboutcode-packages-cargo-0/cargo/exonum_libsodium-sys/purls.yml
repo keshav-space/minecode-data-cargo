@@ -1,0 +1,10 @@
+- pkg:cargo/exonum_libsodium-sys@0.0.14
+- pkg:cargo/exonum_libsodium-sys@0.0.16
+- pkg:cargo/exonum_libsodium-sys@0.0.17
+- pkg:cargo/exonum_libsodium-sys@0.0.18
+- pkg:cargo/exonum_libsodium-sys@0.0.19
+- pkg:cargo/exonum_libsodium-sys@0.0.20
+- pkg:cargo/exonum_libsodium-sys@0.0.21
+- pkg:cargo/exonum_libsodium-sys@0.0.22
+- pkg:cargo/exonum_libsodium-sys@0.0.23
+- pkg:cargo/exonum_libsodium-sys@0.0.24

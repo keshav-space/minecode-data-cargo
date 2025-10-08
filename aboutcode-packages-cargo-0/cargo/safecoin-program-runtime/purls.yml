@@ -1,0 +1,5 @@
+- pkg:cargo/safecoin-program-runtime@1.10.32
+- pkg:cargo/safecoin-program-runtime@1.10.34
+- pkg:cargo/safecoin-program-runtime@1.14.17
+- pkg:cargo/safecoin-program-runtime@1.14.3
+- pkg:cargo/safecoin-program-runtime@1.9.29

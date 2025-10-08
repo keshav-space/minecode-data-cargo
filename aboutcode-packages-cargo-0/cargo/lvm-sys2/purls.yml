@@ -1,0 +1,6 @@
+- pkg:cargo/lvm-sys2@0.1.1
+- pkg:cargo/lvm-sys2@1.1.1
+- pkg:cargo/lvm-sys2@2.0.0
+- pkg:cargo/lvm-sys2@3.0.0
+- pkg:cargo/lvm-sys2@4.0.0
+- pkg:cargo/lvm-sys2@4.0.1

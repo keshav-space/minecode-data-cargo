@@ -1,0 +1,12 @@
+- pkg:cargo/google-smartdevicemanagement1@2.0.0%2B20210319
+- pkg:cargo/google-smartdevicemanagement1@2.0.4%2B20210319
+- pkg:cargo/google-smartdevicemanagement1@2.0.8%2B20210319
+- pkg:cargo/google-smartdevicemanagement1@3.0.0%2B20220302
+- pkg:cargo/google-smartdevicemanagement1@3.1.0%2B20220302
+- pkg:cargo/google-smartdevicemanagement1@4.0.1%2B20220302
+- pkg:cargo/google-smartdevicemanagement1@5.0.2%2B20230112
+- pkg:cargo/google-smartdevicemanagement1@5.0.2-beta-1%2B20230112
+- pkg:cargo/google-smartdevicemanagement1@5.0.3%2B20230112
+- pkg:cargo/google-smartdevicemanagement1@5.0.4%2B20240218
+- pkg:cargo/google-smartdevicemanagement1@5.0.5%2B20240616
+- pkg:cargo/google-smartdevicemanagement1@6.0.0%2B20240616

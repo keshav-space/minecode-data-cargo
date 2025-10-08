@@ -1,0 +1,13 @@
+- pkg:cargo/google-cloudresourcemanager3@2.0.0%2B20210328
+- pkg:cargo/google-cloudresourcemanager3@2.0.3%2B20210328
+- pkg:cargo/google-cloudresourcemanager3@2.0.4%2B20210328
+- pkg:cargo/google-cloudresourcemanager3@2.0.8%2B20210328
+- pkg:cargo/google-cloudresourcemanager3@3.0.0%2B20220306
+- pkg:cargo/google-cloudresourcemanager3@3.1.0%2B20220306
+- pkg:cargo/google-cloudresourcemanager3@4.0.1%2B20220306
+- pkg:cargo/google-cloudresourcemanager3@5.0.2%2B20230115
+- pkg:cargo/google-cloudresourcemanager3@5.0.2-beta-1%2B20230115
+- pkg:cargo/google-cloudresourcemanager3@5.0.3%2B20230115
+- pkg:cargo/google-cloudresourcemanager3@5.0.4%2B20240303
+- pkg:cargo/google-cloudresourcemanager3@5.0.5%2B20240617
+- pkg:cargo/google-cloudresourcemanager3@6.0.0%2B20240617

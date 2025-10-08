@@ -1,0 +1,4 @@
+- pkg:cargo/google-jwt-auth@0.0.1
+- pkg:cargo/google-jwt-auth@0.0.2
+- pkg:cargo/google-jwt-auth@0.1.0
+- pkg:cargo/google-jwt-auth@0.2.1

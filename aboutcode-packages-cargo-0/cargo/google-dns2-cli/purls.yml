@@ -1,0 +1,4 @@
+- pkg:cargo/google-dns2-cli@3.0.0%2B20220217
+- pkg:cargo/google-dns2-cli@3.1.0%2B20220217
+- pkg:cargo/google-dns2-cli@5.0.4%2B20240229
+- pkg:cargo/google-dns2-cli@6.0.0%2B20240616

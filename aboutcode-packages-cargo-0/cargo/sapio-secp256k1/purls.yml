@@ -1,0 +1,8 @@
+- pkg:cargo/sapio-secp256k1@0.20.1
+- pkg:cargo/sapio-secp256k1@0.21.6
+- pkg:cargo/sapio-secp256k1@0.22.2
+- pkg:cargo/sapio-secp256k1@0.22.3
+- pkg:cargo/sapio-secp256k1@0.22.4
+- pkg:cargo/sapio-secp256k1@0.28.1
+- pkg:cargo/sapio-secp256k1@0.5.2
+- pkg:cargo/sapio-secp256k1@0.5.3

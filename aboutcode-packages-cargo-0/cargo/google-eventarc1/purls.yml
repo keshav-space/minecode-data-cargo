@@ -1,0 +1,13 @@
+- pkg:cargo/google-eventarc1@2.0.0%2B20210325
+- pkg:cargo/google-eventarc1@2.0.3%2B20210325
+- pkg:cargo/google-eventarc1@2.0.4%2B20210325
+- pkg:cargo/google-eventarc1@2.0.8%2B20210325
+- pkg:cargo/google-eventarc1@3.0.0%2B20220301
+- pkg:cargo/google-eventarc1@3.1.0%2B20220301
+- pkg:cargo/google-eventarc1@4.0.1%2B20220301
+- pkg:cargo/google-eventarc1@5.0.2%2B20230113
+- pkg:cargo/google-eventarc1@5.0.2-beta-1%2B20230113
+- pkg:cargo/google-eventarc1@5.0.3%2B20230113
+- pkg:cargo/google-eventarc1@5.0.4%2B20240223
+- pkg:cargo/google-eventarc1@5.0.5%2B20240618
+- pkg:cargo/google-eventarc1@6.0.0%2B20240618

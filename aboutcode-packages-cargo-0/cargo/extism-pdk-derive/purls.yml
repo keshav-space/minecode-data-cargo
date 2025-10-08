@@ -1,0 +1,15 @@
+- pkg:cargo/extism-pdk-derive@0.0.1-rc.1
+- pkg:cargo/extism-pdk-derive@0.1.0
+- pkg:cargo/extism-pdk-derive@0.1.1
+- pkg:cargo/extism-pdk-derive@0.2.0
+- pkg:cargo/extism-pdk-derive@0.3.0
+- pkg:cargo/extism-pdk-derive@0.3.1
+- pkg:cargo/extism-pdk-derive@1.0.0
+- pkg:cargo/extism-pdk-derive@1.0.0-beta.0
+- pkg:cargo/extism-pdk-derive@1.0.0-rc1
+- pkg:cargo/extism-pdk-derive@1.1.0
+- pkg:cargo/extism-pdk-derive@1.2.0
+- pkg:cargo/extism-pdk-derive@1.2.1
+- pkg:cargo/extism-pdk-derive@1.3.0
+- pkg:cargo/extism-pdk-derive@1.4.0
+- pkg:cargo/extism-pdk-derive@1.4.1

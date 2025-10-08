@@ -1,0 +1,5 @@
+- pkg:cargo/safecoin-secp256k1-program@1.6.16
+- pkg:cargo/safecoin-secp256k1-program@1.6.18
+- pkg:cargo/safecoin-secp256k1-program@1.6.19
+- pkg:cargo/safecoin-secp256k1-program@1.7.17
+- pkg:cargo/safecoin-secp256k1-program@1.8.12

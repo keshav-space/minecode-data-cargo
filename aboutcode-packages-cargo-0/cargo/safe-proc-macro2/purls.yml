@@ -1,0 +1,5 @@
+- pkg:cargo/safe-proc-macro2@1.0.24
+- pkg:cargo/safe-proc-macro2@1.0.36
+- pkg:cargo/safe-proc-macro2@1.0.67
+- pkg:cargo/safe-proc-macro2@1.0.94
+- pkg:cargo/safe-proc-macro2@1.0.95

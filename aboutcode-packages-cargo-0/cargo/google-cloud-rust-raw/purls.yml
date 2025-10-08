@@ -1,0 +1,9 @@
+- pkg:cargo/google-cloud-rust-raw@0.10.0
+- pkg:cargo/google-cloud-rust-raw@0.11.0
+- pkg:cargo/google-cloud-rust-raw@0.13.0
+- pkg:cargo/google-cloud-rust-raw@0.14.0
+- pkg:cargo/google-cloud-rust-raw@0.15.0
+- pkg:cargo/google-cloud-rust-raw@0.16.0
+- pkg:cargo/google-cloud-rust-raw@0.16.1
+- pkg:cargo/google-cloud-rust-raw@0.17.1-beta.1
+- pkg:cargo/google-cloud-rust-raw@0.17.1-beta.3

@@ -1,0 +1,9 @@
+- pkg:cargo/google-dns2@3.0.0%2B20220217
+- pkg:cargo/google-dns2@3.1.0%2B20220217
+- pkg:cargo/google-dns2@4.0.1%2B20220217
+- pkg:cargo/google-dns2@5.0.2%2B20230119
+- pkg:cargo/google-dns2@5.0.2-beta-1%2B20230119
+- pkg:cargo/google-dns2@5.0.3%2B20230119
+- pkg:cargo/google-dns2@5.0.4%2B20240229
+- pkg:cargo/google-dns2@5.0.5%2B20240616
+- pkg:cargo/google-dns2@6.0.0%2B20240616

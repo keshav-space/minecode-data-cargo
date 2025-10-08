@@ -1,0 +1,13 @@
+- pkg:cargo/google-notebooks1@2.0.0%2B20210305
+- pkg:cargo/google-notebooks1@2.0.3%2B20210305
+- pkg:cargo/google-notebooks1@2.0.4%2B20210305
+- pkg:cargo/google-notebooks1@2.0.8%2B20210305
+- pkg:cargo/google-notebooks1@3.0.0%2B20220224
+- pkg:cargo/google-notebooks1@3.1.0%2B20220224
+- pkg:cargo/google-notebooks1@4.0.1%2B20220224
+- pkg:cargo/google-notebooks1@5.0.2%2B20221213
+- pkg:cargo/google-notebooks1@5.0.2-beta-1%2B20221213
+- pkg:cargo/google-notebooks1@5.0.3%2B20221213
+- pkg:cargo/google-notebooks1@5.0.4%2B20231227
+- pkg:cargo/google-notebooks1@5.0.5%2B20240613
+- pkg:cargo/google-notebooks1@6.0.0%2B20240613

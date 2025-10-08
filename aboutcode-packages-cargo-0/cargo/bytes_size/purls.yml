@@ -1,0 +1,4 @@
+- pkg:cargo/bytes_size@0.1.0
+- pkg:cargo/bytes_size@0.1.1
+- pkg:cargo/bytes_size@0.1.1-fix
+- pkg:cargo/bytes_size@0.1.2

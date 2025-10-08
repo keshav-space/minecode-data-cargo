@@ -1,0 +1,10 @@
+- pkg:cargo/google-spanner1@1.0.10%2B20190613
+- pkg:cargo/google-spanner1@1.0.12%2B20190613
+- pkg:cargo/google-spanner1@1.0.6%2B20170914
+- pkg:cargo/google-spanner1@1.0.6%2B20171204
+- pkg:cargo/google-spanner1@1.0.7%2B20171204
+- pkg:cargo/google-spanner1@1.0.7%2B20180920
+- pkg:cargo/google-spanner1@1.0.8%2B20180920
+- pkg:cargo/google-spanner1@1.0.9%2B20190613
+- pkg:cargo/google-spanner1@5.0.5%2B20240618
+- pkg:cargo/google-spanner1@6.0.0%2B20240618

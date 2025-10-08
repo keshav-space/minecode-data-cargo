@@ -1,0 +1,5 @@
+- pkg:cargo/npm-package-json@0.0.0
+- pkg:cargo/npm-package-json@0.1.0
+- pkg:cargo/npm-package-json@0.1.1
+- pkg:cargo/npm-package-json@0.1.2
+- pkg:cargo/npm-package-json@0.1.3
