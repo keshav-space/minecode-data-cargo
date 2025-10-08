@@ -1,0 +1,5 @@
+- pkg:cargo/mylibrary_@1.1.3
+- pkg:cargo/mylibrary_@1.2.4
+- pkg:cargo/mylibrary_@1.2.5
+- pkg:cargo/mylibrary_@1.2.6
+- pkg:cargo/mylibrary_@1.2.7

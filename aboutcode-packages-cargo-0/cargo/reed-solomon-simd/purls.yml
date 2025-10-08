@@ -1,0 +1,7 @@
+- pkg:cargo/reed-solomon-simd@2.0.0
+- pkg:cargo/reed-solomon-simd@2.1.0
+- pkg:cargo/reed-solomon-simd@2.2.0
+- pkg:cargo/reed-solomon-simd@2.2.1
+- pkg:cargo/reed-solomon-simd@2.2.2
+- pkg:cargo/reed-solomon-simd@3.0.0
+- pkg:cargo/reed-solomon-simd@3.0.1

@@ -1,0 +1,2 @@
+- pkg:cargo/redis_dumbpool@0.1.0
+- pkg:cargo/redis_dumbpool@0.2.0

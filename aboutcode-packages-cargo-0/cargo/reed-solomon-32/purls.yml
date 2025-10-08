@@ -1,0 +1,4 @@
+- pkg:cargo/reed-solomon-32@1.0.0
+- pkg:cargo/reed-solomon-32@2.0.0
+- pkg:cargo/reed-solomon-32@2.0.1
+- pkg:cargo/reed-solomon-32@2.0.2

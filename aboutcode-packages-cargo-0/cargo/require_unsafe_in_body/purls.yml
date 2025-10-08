@@ -1,0 +1,10 @@
+- pkg:cargo/require_unsafe_in_body@0.1.0
+- pkg:cargo/require_unsafe_in_body@0.1.1
+- pkg:cargo/require_unsafe_in_body@0.1.2
+- pkg:cargo/require_unsafe_in_body@0.2.0
+- pkg:cargo/require_unsafe_in_body@0.2.0-alpha
+- pkg:cargo/require_unsafe_in_body@0.2.1
+- pkg:cargo/require_unsafe_in_body@0.3.0
+- pkg:cargo/require_unsafe_in_body@0.3.0-rc1
+- pkg:cargo/require_unsafe_in_body@0.3.1
+- pkg:cargo/require_unsafe_in_body@0.3.2

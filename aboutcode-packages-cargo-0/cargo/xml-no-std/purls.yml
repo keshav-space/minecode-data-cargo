@@ -1,0 +1,2 @@
+- pkg:cargo/xml-no-std@0.8.19
+- pkg:cargo/xml-no-std@0.8.26

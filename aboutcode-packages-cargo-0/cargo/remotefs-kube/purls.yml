@@ -1,0 +1,4 @@
+- pkg:cargo/remotefs-kube@0.1.0
+- pkg:cargo/remotefs-kube@0.2.0
+- pkg:cargo/remotefs-kube@0.3.0
+- pkg:cargo/remotefs-kube@0.4.0

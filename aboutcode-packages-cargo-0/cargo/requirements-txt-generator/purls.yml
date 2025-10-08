@@ -1,0 +1,3 @@
+- pkg:cargo/requirements-txt-generator@0.1.0
+- pkg:cargo/requirements-txt-generator@0.1.1
+- pkg:cargo/requirements-txt-generator@0.1.2

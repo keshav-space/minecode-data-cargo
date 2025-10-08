@@ -1,0 +1,5 @@
+- pkg:cargo/reqwest-spider@0.12.15
+- pkg:cargo/reqwest-spider@0.12.16
+- pkg:cargo/reqwest-spider@0.12.17
+- pkg:cargo/reqwest-spider@0.12.18
+- pkg:cargo/reqwest-spider@0.12.19

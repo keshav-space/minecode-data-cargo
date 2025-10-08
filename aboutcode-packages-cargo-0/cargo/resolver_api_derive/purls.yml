@@ -1,0 +1,12 @@
+- pkg:cargo/resolver_api_derive@0.1.0
+- pkg:cargo/resolver_api_derive@0.1.1
+- pkg:cargo/resolver_api_derive@0.1.3
+- pkg:cargo/resolver_api_derive@0.1.4
+- pkg:cargo/resolver_api_derive@0.1.5
+- pkg:cargo/resolver_api_derive@0.1.6
+- pkg:cargo/resolver_api_derive@0.1.7
+- pkg:cargo/resolver_api_derive@0.1.8
+- pkg:cargo/resolver_api_derive@1.0.0
+- pkg:cargo/resolver_api_derive@1.1.0
+- pkg:cargo/resolver_api_derive@2.0.0
+- pkg:cargo/resolver_api_derive@3.0.0

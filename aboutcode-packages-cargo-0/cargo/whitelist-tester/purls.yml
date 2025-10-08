@@ -1,0 +1,12 @@
+- pkg:cargo/whitelist-tester@0.1.10
+- pkg:cargo/whitelist-tester@0.1.11
+- pkg:cargo/whitelist-tester@0.1.8
+- pkg:cargo/whitelist-tester@0.1.9
+- pkg:cargo/whitelist-tester@0.3.0
+- pkg:cargo/whitelist-tester@0.3.2
+- pkg:cargo/whitelist-tester@0.4.0
+- pkg:cargo/whitelist-tester@0.5.1
+- pkg:cargo/whitelist-tester@0.5.3
+- pkg:cargo/whitelist-tester@0.5.4
+- pkg:cargo/whitelist-tester@0.5.5
+- pkg:cargo/whitelist-tester@0.5.6

@@ -1,0 +1,2 @@
+- pkg:cargo/redis-stream@0.1.1
+- pkg:cargo/redis-stream@0.1.2

@@ -1,0 +1,14 @@
+- pkg:cargo/realsense-sys@0.1.0
+- pkg:cargo/realsense-sys@0.1.1
+- pkg:cargo/realsense-sys@0.2.0
+- pkg:cargo/realsense-sys@0.2.2
+- pkg:cargo/realsense-sys@0.2.3
+- pkg:cargo/realsense-sys@0.2.4
+- pkg:cargo/realsense-sys@0.3.0
+- pkg:cargo/realsense-sys@0.3.1
+- pkg:cargo/realsense-sys@2.44.0
+- pkg:cargo/realsense-sys@2.44.1
+- pkg:cargo/realsense-sys@2.47.0
+- pkg:cargo/realsense-sys@2.54.2
+- pkg:cargo/realsense-sys@2.54.2-1
+- pkg:cargo/realsense-sys@2.54.3

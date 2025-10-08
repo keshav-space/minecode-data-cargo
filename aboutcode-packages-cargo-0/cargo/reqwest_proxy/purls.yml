@@ -1,0 +1,4 @@
+- pkg:cargo/reqwest_proxy@0.1.3
+- pkg:cargo/reqwest_proxy@0.1.4
+- pkg:cargo/reqwest_proxy@0.1.6
+- pkg:cargo/reqwest_proxy@0.1.7

@@ -1,0 +1,2 @@
+- pkg:cargo/remove-async-await@1.0.0
+- pkg:cargo/remove-async-await@1.0.1

@@ -1,0 +1,6 @@
+- pkg:cargo/reqwest-wasm@0.11.0
+- pkg:cargo/reqwest-wasm@0.11.12
+- pkg:cargo/reqwest-wasm@0.11.13
+- pkg:cargo/reqwest-wasm@0.11.14
+- pkg:cargo/reqwest-wasm@0.11.15
+- pkg:cargo/reqwest-wasm@0.11.16

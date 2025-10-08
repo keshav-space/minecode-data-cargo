@@ -1,0 +1,2 @@
+- pkg:cargo/redis-protocol-mm@4.1.0
+- pkg:cargo/redis-protocol-mm@4.2.0

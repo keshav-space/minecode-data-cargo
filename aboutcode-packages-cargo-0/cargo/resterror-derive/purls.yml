@@ -1,0 +1,3 @@
+- pkg:cargo/resterror-derive@0.1.1
+- pkg:cargo/resterror-derive@0.1.2
+- pkg:cargo/resterror-derive@0.1.3

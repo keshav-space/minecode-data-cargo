@@ -1,0 +1,2 @@
+- pkg:cargo/remove_empty_query_params@0.1.0
+- pkg:cargo/remove_empty_query_params@0.1.1

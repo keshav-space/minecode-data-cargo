@@ -1,0 +1,9 @@
+- pkg:cargo/reql-derive@0.0.10
+- pkg:cargo/reql-derive@0.0.6
+- pkg:cargo/reql-derive@0.0.6-alpha1
+- pkg:cargo/reql-derive@0.0.6-alpha2
+- pkg:cargo/reql-derive@0.0.6-alpha3
+- pkg:cargo/reql-derive@0.0.6-alpha4
+- pkg:cargo/reql-derive@0.0.7
+- pkg:cargo/reql-derive@0.0.8
+- pkg:cargo/reql-derive@0.0.9
