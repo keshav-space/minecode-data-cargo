@@ -1,0 +1,12 @@
+- pkg:cargo/ptr_meta_derive@0.1.0
+- pkg:cargo/ptr_meta_derive@0.1.1
+- pkg:cargo/ptr_meta_derive@0.1.2
+- pkg:cargo/ptr_meta_derive@0.1.4
+- pkg:cargo/ptr_meta_derive@0.2.0
+- pkg:cargo/ptr_meta_derive@0.3.0
+- pkg:cargo/ptr_meta_derive@0.3.0-alpha.2
+- pkg:cargo/ptr_meta_derive@0.3.0-alpha.3
+- pkg:cargo/ptr_meta_derive@0.3.0-pre1
+- pkg:cargo/ptr_meta_derive@0.3.0-rc.1
+- pkg:cargo/ptr_meta_derive@0.3.0-rc.2
+- pkg:cargo/ptr_meta_derive@0.3.1

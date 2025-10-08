@@ -1,0 +1,2 @@
+- pkg:cargo/muta-vendor-prost-derive@0.5.0
+- pkg:cargo/muta-vendor-prost-derive@0.5.1

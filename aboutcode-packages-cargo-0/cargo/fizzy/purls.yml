@@ -1,0 +1,4 @@
+- pkg:cargo/fizzy@0.6.0
+- pkg:cargo/fizzy@0.6.0-dev
+- pkg:cargo/fizzy@0.7.0
+- pkg:cargo/fizzy@0.8.0

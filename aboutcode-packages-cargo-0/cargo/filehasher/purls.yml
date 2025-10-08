@@ -1,0 +1,3 @@
+- pkg:cargo/filehasher@0.1.0
+- pkg:cargo/filehasher@0.2.0
+- pkg:cargo/filehasher@0.3.0

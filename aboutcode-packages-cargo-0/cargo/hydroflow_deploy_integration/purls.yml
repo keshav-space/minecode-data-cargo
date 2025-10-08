@@ -1,0 +1,4 @@
+- pkg:cargo/hydroflow_deploy_integration@0.10.0
+- pkg:cargo/hydroflow_deploy_integration@0.11.0
+- pkg:cargo/hydroflow_deploy_integration@0.12.0
+- pkg:cargo/hydroflow_deploy_integration@0.9.0

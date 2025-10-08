@@ -1,0 +1,3 @@
+- pkg:cargo/bmi160-esp32-minimal@0.1.0
+- pkg:cargo/bmi160-esp32-minimal@0.1.1
+- pkg:cargo/bmi160-esp32-minimal@0.1.2

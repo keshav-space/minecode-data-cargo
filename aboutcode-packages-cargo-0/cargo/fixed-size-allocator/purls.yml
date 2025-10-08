@@ -1,0 +1,2 @@
+- pkg:cargo/fixed-size-allocator@0.1.0
+- pkg:cargo/fixed-size-allocator@0.1.1

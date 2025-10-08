@@ -1,0 +1,15 @@
+- pkg:cargo/hyper2@0.14.60
+- pkg:cargo/hyper2@0.14.61
+- pkg:cargo/hyper2@0.14.62
+- pkg:cargo/hyper2@0.14.65
+- pkg:cargo/hyper2@0.14.66
+- pkg:cargo/hyper2@0.14.70
+- pkg:cargo/hyper2@0.14.80
+- pkg:cargo/hyper2@0.14.81
+- pkg:cargo/hyper2@0.14.82
+- pkg:cargo/hyper2@0.14.83
+- pkg:cargo/hyper2@0.14.84
+- pkg:cargo/hyper2@0.14.85
+- pkg:cargo/hyper2@1.5.2
+- pkg:cargo/hyper2@1.5.3
+- pkg:cargo/hyper2@1.5.5

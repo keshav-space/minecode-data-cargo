@@ -1,0 +1,4 @@
+- pkg:cargo/hyper-util-wasm@0.1.3
+- pkg:cargo/hyper-util-wasm@0.1.6
+- pkg:cargo/hyper-util-wasm@0.1.6-1
+- pkg:cargo/hyper-util-wasm@0.1.7

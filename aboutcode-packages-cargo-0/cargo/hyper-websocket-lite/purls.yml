@@ -1,0 +1,4 @@
+- pkg:cargo/hyper-websocket-lite@0.3.3
+- pkg:cargo/hyper-websocket-lite@0.3.4
+- pkg:cargo/hyper-websocket-lite@0.3.5
+- pkg:cargo/hyper-websocket-lite@0.5.0

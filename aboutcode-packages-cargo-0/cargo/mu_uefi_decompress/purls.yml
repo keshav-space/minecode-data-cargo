@@ -1,0 +1,4 @@
+- pkg:cargo/mu_uefi_decompress@2.0.0
+- pkg:cargo/mu_uefi_decompress@3.0.0
+- pkg:cargo/mu_uefi_decompress@3.0.1
+- pkg:cargo/mu_uefi_decompress@3.0.2

@@ -1,0 +1,4 @@
+- pkg:cargo/ynab-api@1.0.0
+- pkg:cargo/ynab-api@2.0.0
+- pkg:cargo/ynab-api@3.0.0
+- pkg:cargo/ynab-api@4.0.0

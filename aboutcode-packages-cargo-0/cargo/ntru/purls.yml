@@ -1,0 +1,17 @@
+- pkg:cargo/ntru@0.0.1
+- pkg:cargo/ntru@0.1.0
+- pkg:cargo/ntru@0.2.0
+- pkg:cargo/ntru@0.4.0-rc1
+- pkg:cargo/ntru@0.4.2-rc1
+- pkg:cargo/ntru@0.4.2-rc2
+- pkg:cargo/ntru@0.4.2-rc3
+- pkg:cargo/ntru@0.4.2-rc4
+- pkg:cargo/ntru@0.4.2-rc5
+- pkg:cargo/ntru@0.4.3
+- pkg:cargo/ntru@0.5.0
+- pkg:cargo/ntru@0.5.1
+- pkg:cargo/ntru@0.5.2
+- pkg:cargo/ntru@0.5.3
+- pkg:cargo/ntru@0.5.4
+- pkg:cargo/ntru@0.5.5
+- pkg:cargo/ntru@0.5.6

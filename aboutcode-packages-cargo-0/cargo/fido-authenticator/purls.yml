@@ -1,0 +1,4 @@
+- pkg:cargo/fido-authenticator@0.0.0-unreleased
+- pkg:cargo/fido-authenticator@0.1.0
+- pkg:cargo/fido-authenticator@0.1.1
+- pkg:cargo/fido-authenticator@0.2.0

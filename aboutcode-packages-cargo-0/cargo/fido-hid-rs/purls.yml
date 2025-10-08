@@ -1,0 +1,4 @@
+- pkg:cargo/fido-hid-rs@0.5.0
+- pkg:cargo/fido-hid-rs@0.5.0-dev
+- pkg:cargo/fido-hid-rs@0.5.1
+- pkg:cargo/fido-hid-rs@0.5.2

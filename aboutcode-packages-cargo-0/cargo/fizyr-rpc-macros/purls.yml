@@ -1,0 +1,16 @@
+- pkg:cargo/fizyr-rpc-macros@0.5.0
+- pkg:cargo/fizyr-rpc-macros@0.5.0-alpha1
+- pkg:cargo/fizyr-rpc-macros@0.5.0-alpha10
+- pkg:cargo/fizyr-rpc-macros@0.5.0-alpha2
+- pkg:cargo/fizyr-rpc-macros@0.5.0-alpha3
+- pkg:cargo/fizyr-rpc-macros@0.5.0-alpha4
+- pkg:cargo/fizyr-rpc-macros@0.5.0-alpha5
+- pkg:cargo/fizyr-rpc-macros@0.5.0-alpha6
+- pkg:cargo/fizyr-rpc-macros@0.5.0-alpha7
+- pkg:cargo/fizyr-rpc-macros@0.5.0-alpha8
+- pkg:cargo/fizyr-rpc-macros@0.5.0-alpha9
+- pkg:cargo/fizyr-rpc-macros@0.5.1
+- pkg:cargo/fizyr-rpc-macros@0.6.0
+- pkg:cargo/fizyr-rpc-macros@0.7.0
+- pkg:cargo/fizyr-rpc-macros@0.7.1
+- pkg:cargo/fizyr-rpc-macros@0.8.0

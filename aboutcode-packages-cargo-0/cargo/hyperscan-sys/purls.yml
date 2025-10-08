@@ -1,0 +1,8 @@
+- pkg:cargo/hyperscan-sys@0.1.7
+- pkg:cargo/hyperscan-sys@0.1.8
+- pkg:cargo/hyperscan-sys@0.2.0
+- pkg:cargo/hyperscan-sys@0.2.1
+- pkg:cargo/hyperscan-sys@0.2.2
+- pkg:cargo/hyperscan-sys@0.3.0
+- pkg:cargo/hyperscan-sys@0.3.1
+- pkg:cargo/hyperscan-sys@0.3.2

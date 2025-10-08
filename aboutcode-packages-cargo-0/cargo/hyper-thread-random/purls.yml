@@ -1,0 +1,2 @@
+- pkg:cargo/hyper-thread-random@0.4.0
+- pkg:cargo/hyper-thread-random@0.4.2

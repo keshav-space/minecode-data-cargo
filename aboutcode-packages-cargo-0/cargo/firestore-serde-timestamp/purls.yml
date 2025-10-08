@@ -1,0 +1,2 @@
+- pkg:cargo/firestore-serde-timestamp@0.1.0
+- pkg:cargo/firestore-serde-timestamp@0.1.2

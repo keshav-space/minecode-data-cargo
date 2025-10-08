@@ -1,0 +1,17 @@
+- pkg:cargo/ntex-glommio@0.1.0
+- pkg:cargo/ntex-glommio@0.1.1
+- pkg:cargo/ntex-glommio@0.1.2
+- pkg:cargo/ntex-glommio@0.2.0
+- pkg:cargo/ntex-glommio@0.2.0-beta.0
+- pkg:cargo/ntex-glommio@0.2.1
+- pkg:cargo/ntex-glommio@0.2.2
+- pkg:cargo/ntex-glommio@0.2.3
+- pkg:cargo/ntex-glommio@0.2.4
+- pkg:cargo/ntex-glommio@0.3.0
+- pkg:cargo/ntex-glommio@0.3.0-beta.0
+- pkg:cargo/ntex-glommio@0.3.1
+- pkg:cargo/ntex-glommio@0.4.0
+- pkg:cargo/ntex-glommio@0.4.0-b.0
+- pkg:cargo/ntex-glommio@0.5.0
+- pkg:cargo/ntex-glommio@0.5.1
+- pkg:cargo/ntex-glommio@0.5.2

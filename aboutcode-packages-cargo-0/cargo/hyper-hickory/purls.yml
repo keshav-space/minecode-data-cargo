@@ -1,0 +1,3 @@
+- pkg:cargo/hyper-hickory@0.6.0
+- pkg:cargo/hyper-hickory@0.7.0
+- pkg:cargo/hyper-hickory@0.8.0

@@ -1,0 +1,4 @@
+- pkg:cargo/dd_statechart@0.3.2
+- pkg:cargo/dd_statechart@0.4.0
+- pkg:cargo/dd_statechart@0.4.1
+- pkg:cargo/dd_statechart@0.7.0

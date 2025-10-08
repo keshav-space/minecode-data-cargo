@@ -1,0 +1,2 @@
+- pkg:cargo/bcrypt-no-getrandom@0.15.1
+- pkg:cargo/bcrypt-no-getrandom@0.16.0

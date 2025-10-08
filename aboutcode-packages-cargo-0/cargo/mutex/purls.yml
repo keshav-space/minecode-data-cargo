@@ -1,0 +1,4 @@
+- pkg:cargo/mutex@0.1.0
+- pkg:cargo/mutex@1.0.0
+- pkg:cargo/mutex@1.0.1
+- pkg:cargo/mutex@1.0.2

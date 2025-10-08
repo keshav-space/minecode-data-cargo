@@ -1,0 +1,2 @@
+- pkg:cargo/dd-trace-php@0.0.0
+- pkg:cargo/dd-trace-php@0.1.0
