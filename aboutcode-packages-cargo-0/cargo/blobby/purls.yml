@@ -4,5 +4,6 @@
 - pkg:cargo/blobby@0.2.0
 - pkg:cargo/blobby@0.3.0
 - pkg:cargo/blobby@0.3.1
+- pkg:cargo/blobby@0.4.0
 - pkg:cargo/blobby@0.4.0-pre.0
 - pkg:cargo/blobby@0.4.0-pre.1
