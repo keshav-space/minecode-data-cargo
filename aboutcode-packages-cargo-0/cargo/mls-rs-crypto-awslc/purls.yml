@@ -16,6 +16,7 @@
 - pkg:cargo/mls-rs-crypto-awslc@0.19.0
 - pkg:cargo/mls-rs-crypto-awslc@0.20.0
 - pkg:cargo/mls-rs-crypto-awslc@0.20.1
+- pkg:cargo/mls-rs-crypto-awslc@0.20.2
 - pkg:cargo/mls-rs-crypto-awslc@0.6.0
 - pkg:cargo/mls-rs-crypto-awslc@0.6.2
 - pkg:cargo/mls-rs-crypto-awslc@0.7.0
