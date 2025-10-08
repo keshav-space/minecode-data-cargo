@@ -2,6 +2,7 @@
 - pkg:cargo/polylane@0.1.0
 - pkg:cargo/polylane@0.10.0
 - pkg:cargo/polylane@0.11.0
+- pkg:cargo/polylane@0.12.0
 - pkg:cargo/polylane@0.2.0
 - pkg:cargo/polylane@0.3.0
 - pkg:cargo/polylane@0.4.0
