@@ -1,0 +1,12 @@
+- pkg:cargo/http_tiny@0.9.0
+- pkg:cargo/http_tiny@1.0.0
+- pkg:cargo/http_tiny@1.0.1
+- pkg:cargo/http_tiny@1.0.2
+- pkg:cargo/http_tiny@1.0.3
+- pkg:cargo/http_tiny@1.1.0
+- pkg:cargo/http_tiny@2.0.0-pre.0
+- pkg:cargo/http_tiny@2.0.0-pre.1
+- pkg:cargo/http_tiny@2.0.0-pre.2
+- pkg:cargo/http_tiny@2.0.0-pre.3
+- pkg:cargo/http_tiny@2.0.0-pre.5
+- pkg:cargo/http_tiny@2.0.0-pre.6

@@ -1,0 +1,2 @@
+- pkg:cargo/http-request-derive-client-reqwest@0.1.0
+- pkg:cargo/http-request-derive-client-reqwest@0.2.0

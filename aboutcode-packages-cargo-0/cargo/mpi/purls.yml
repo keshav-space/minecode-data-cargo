@@ -1,0 +1,13 @@
+- pkg:cargo/mpi@0.1.10
+- pkg:cargo/mpi@0.1.7
+- pkg:cargo/mpi@0.1.8
+- pkg:cargo/mpi@0.1.9
+- pkg:cargo/mpi@0.2.0
+- pkg:cargo/mpi@0.5.0
+- pkg:cargo/mpi@0.5.1
+- pkg:cargo/mpi@0.5.2
+- pkg:cargo/mpi@0.5.3
+- pkg:cargo/mpi@0.5.4
+- pkg:cargo/mpi@0.6.0
+- pkg:cargo/mpi@0.7.0
+- pkg:cargo/mpi@0.8.0

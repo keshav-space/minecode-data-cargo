@@ -1,0 +1,10 @@
+- pkg:cargo/vmi@0.0.0
+- pkg:cargo/vmi@0.0.1-rc.1
+- pkg:cargo/vmi@0.0.1-rc.2
+- pkg:cargo/vmi@0.0.1-rc.3
+- pkg:cargo/vmi@0.1.0
+- pkg:cargo/vmi@0.1.1
+- pkg:cargo/vmi@0.2.0
+- pkg:cargo/vmi@0.2.1
+- pkg:cargo/vmi@0.3.0
+- pkg:cargo/vmi@0.4.0

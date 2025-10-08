@@ -1,0 +1,16 @@
+- pkg:cargo/http-cache-semantics@0.1.0
+- pkg:cargo/http-cache-semantics@0.3.0
+- pkg:cargo/http-cache-semantics@0.3.1
+- pkg:cargo/http-cache-semantics@0.4.0
+- pkg:cargo/http-cache-semantics@0.5.0
+- pkg:cargo/http-cache-semantics@0.9.10
+- pkg:cargo/http-cache-semantics@0.9.12
+- pkg:cargo/http-cache-semantics@0.9.13
+- pkg:cargo/http-cache-semantics@0.9.14
+- pkg:cargo/http-cache-semantics@0.9.9
+- pkg:cargo/http-cache-semantics@1.0.0
+- pkg:cargo/http-cache-semantics@1.0.1
+- pkg:cargo/http-cache-semantics@1.0.2
+- pkg:cargo/http-cache-semantics@2.0.0
+- pkg:cargo/http-cache-semantics@2.0.1
+- pkg:cargo/http-cache-semantics@2.1.0

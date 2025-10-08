@@ -1,0 +1,4 @@
+- pkg:cargo/httphealth@1.0.0
+- pkg:cargo/httphealth@2.0.0
+- pkg:cargo/httphealth@2.0.1
+- pkg:cargo/httphealth@2.0.2

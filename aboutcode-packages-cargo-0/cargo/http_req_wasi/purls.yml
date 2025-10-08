@@ -1,0 +1,5 @@
+- pkg:cargo/http_req_wasi@0.10.0
+- pkg:cargo/http_req_wasi@0.10.1
+- pkg:cargo/http_req_wasi@0.10.2
+- pkg:cargo/http_req_wasi@0.11.0
+- pkg:cargo/http_req_wasi@0.11.1

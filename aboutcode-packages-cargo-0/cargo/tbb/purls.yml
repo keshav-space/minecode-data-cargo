@@ -1,0 +1,5 @@
+- pkg:cargo/tbb@0.1.0
+- pkg:cargo/tbb@0.4.0
+- pkg:cargo/tbb@0.6.0
+- pkg:cargo/tbb@0.7.0-dev.1
+- pkg:cargo/tbb@0.7.0-dev.2

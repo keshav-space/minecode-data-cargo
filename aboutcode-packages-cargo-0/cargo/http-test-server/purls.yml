@@ -1,0 +1,6 @@
+- pkg:cargo/http-test-server@1.0.0
+- pkg:cargo/http-test-server@1.0.1
+- pkg:cargo/http-test-server@2.0.0
+- pkg:cargo/http-test-server@2.0.1
+- pkg:cargo/http-test-server@2.1.0
+- pkg:cargo/http-test-server@2.1.1

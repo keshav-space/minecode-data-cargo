@@ -1,0 +1,4 @@
+- pkg:cargo/dpkg-query-json@0.1.0
+- pkg:cargo/dpkg-query-json@0.1.1
+- pkg:cargo/dpkg-query-json@0.1.11
+- pkg:cargo/dpkg-query-json@0.1.12

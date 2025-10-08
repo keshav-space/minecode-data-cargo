@@ -1,0 +1,3 @@
+- pkg:cargo/dpdu-rust@0.8.0
+- pkg:cargo/dpdu-rust@0.8.5
+- pkg:cargo/dpdu-rust@0.8.6

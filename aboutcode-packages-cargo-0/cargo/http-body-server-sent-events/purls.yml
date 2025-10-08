@@ -1,0 +1,5 @@
+- pkg:cargo/http-body-server-sent-events@0.1.0
+- pkg:cargo/http-body-server-sent-events@0.1.1
+- pkg:cargo/http-body-server-sent-events@0.1.2
+- pkg:cargo/http-body-server-sent-events@0.2.0
+- pkg:cargo/http-body-server-sent-events@0.2.1

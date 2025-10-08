@@ -1,0 +1,4 @@
+- pkg:cargo/dprint-plugin-sql@0.1.0
+- pkg:cargo/dprint-plugin-sql@0.1.1
+- pkg:cargo/dprint-plugin-sql@0.1.2
+- pkg:cargo/dprint-plugin-sql@0.2.0

@@ -1,0 +1,4 @@
+- pkg:cargo/http-client-2@6.6.0
+- pkg:cargo/http-client-2@6.6.1
+- pkg:cargo/http-client-2@6.6.2
+- pkg:cargo/http-client-2@6.6.3

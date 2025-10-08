@@ -1,0 +1,4 @@
+- pkg:cargo/pam@0.0.1
+- pkg:cargo/pam@0.0.2
+- pkg:cargo/pam@0.7.0
+- pkg:cargo/pam@0.8.0
