@@ -80,6 +80,7 @@
 - pkg:cargo/pmat@2.15.1
 - pkg:cargo/pmat@2.150.0
 - pkg:cargo/pmat@2.150.1
+- pkg:cargo/pmat@2.151.0
 - pkg:cargo/pmat@2.16.1
 - pkg:cargo/pmat@2.17.0
 - pkg:cargo/pmat@2.18.0
