@@ -1,0 +1,10 @@
+- pkg:cargo/evm-rpc-canister-types@0.1.0
+- pkg:cargo/evm-rpc-canister-types@0.1.1
+- pkg:cargo/evm-rpc-canister-types@0.1.2
+- pkg:cargo/evm-rpc-canister-types@0.1.3
+- pkg:cargo/evm-rpc-canister-types@1.0.0
+- pkg:cargo/evm-rpc-canister-types@2.0.0
+- pkg:cargo/evm-rpc-canister-types@3.0.0
+- pkg:cargo/evm-rpc-canister-types@4.0.0
+- pkg:cargo/evm-rpc-canister-types@4.0.1
+- pkg:cargo/evm-rpc-canister-types@5.0.1

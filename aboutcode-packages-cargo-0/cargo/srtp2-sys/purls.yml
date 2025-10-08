@@ -1,0 +1,8 @@
+- pkg:cargo/srtp2-sys@2.2.0
+- pkg:cargo/srtp2-sys@2.20.0
+- pkg:cargo/srtp2-sys@2.20.1
+- pkg:cargo/srtp2-sys@2.20.2
+- pkg:cargo/srtp2-sys@2.30.0
+- pkg:cargo/srtp2-sys@3.0.0
+- pkg:cargo/srtp2-sys@3.0.1
+- pkg:cargo/srtp2-sys@3.0.2

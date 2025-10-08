@@ -1,0 +1,7 @@
+- pkg:cargo/evmc-sys@7.1.0
+- pkg:cargo/evmc-sys@7.2.0
+- pkg:cargo/evmc-sys@7.3.0
+- pkg:cargo/evmc-sys@7.4.0
+- pkg:cargo/evmc-sys@7.5.0
+- pkg:cargo/evmc-sys@8.0.0
+- pkg:cargo/evmc-sys@9.0.0

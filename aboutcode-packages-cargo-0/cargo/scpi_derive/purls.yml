@@ -1,0 +1,14 @@
+- pkg:cargo/scpi_derive@0.1.0
+- pkg:cargo/scpi_derive@0.1.1
+- pkg:cargo/scpi_derive@0.3.0
+- pkg:cargo/scpi_derive@0.3.1
+- pkg:cargo/scpi_derive@0.3.2
+- pkg:cargo/scpi_derive@0.3.3
+- pkg:cargo/scpi_derive@0.3.4
+- pkg:cargo/scpi_derive@0.3.5
+- pkg:cargo/scpi_derive@0.4.1
+- pkg:cargo/scpi_derive@0.4.2
+- pkg:cargo/scpi_derive@0.4.3
+- pkg:cargo/scpi_derive@0.4.4
+- pkg:cargo/scpi_derive@1.0.0
+- pkg:cargo/scpi_derive@1.0.1

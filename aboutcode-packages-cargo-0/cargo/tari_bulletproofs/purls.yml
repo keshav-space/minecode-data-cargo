@@ -1,0 +1,3 @@
+- pkg:cargo/tari_bulletproofs@2.1.0
+- pkg:cargo/tari_bulletproofs@4.0.0
+- pkg:cargo/tari_bulletproofs@4.4.1

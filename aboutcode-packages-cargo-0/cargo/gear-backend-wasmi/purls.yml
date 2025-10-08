@@ -1,0 +1,5 @@
+- pkg:cargo/gear-backend-wasmi@0.0.0
+- pkg:cargo/gear-backend-wasmi@0.1.0
+- pkg:cargo/gear-backend-wasmi@0.2.1-alpha.0
+- pkg:cargo/gear-backend-wasmi@0.2.1-alpha.1
+- pkg:cargo/gear-backend-wasmi@0.2.1-alpha.2

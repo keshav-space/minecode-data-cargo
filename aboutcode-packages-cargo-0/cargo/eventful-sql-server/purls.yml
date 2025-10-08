@@ -1,0 +1,4 @@
+- pkg:cargo/eventful-sql-server@0.1.0-alpha.0
+- pkg:cargo/eventful-sql-server@0.1.19
+- pkg:cargo/eventful-sql-server@0.2.0
+- pkg:cargo/eventful-sql-server@0.2.1

@@ -1,0 +1,9 @@
+- pkg:cargo/taichi-sys@0.0.1%2B1.3.0
+- pkg:cargo/taichi-sys@0.0.2%2B1.3.0
+- pkg:cargo/taichi-sys@0.0.3%2B1.3.0
+- pkg:cargo/taichi-sys@0.0.4%2B1.3.0
+- pkg:cargo/taichi-sys@0.0.5%2B1.3.0
+- pkg:cargo/taichi-sys@0.0.6%2B1.3.0
+- pkg:cargo/taichi-sys@0.0.7%2B1.3.0
+- pkg:cargo/taichi-sys@0.0.8%2B1.3.0
+- pkg:cargo/taichi-sys@0.0.9%2B1.6.0

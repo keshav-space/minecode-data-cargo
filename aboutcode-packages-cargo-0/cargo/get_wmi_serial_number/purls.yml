@@ -1,0 +1,2 @@
+- pkg:cargo/get_wmi_serial_number@1.0.0
+- pkg:cargo/get_wmi_serial_number@1.0.1

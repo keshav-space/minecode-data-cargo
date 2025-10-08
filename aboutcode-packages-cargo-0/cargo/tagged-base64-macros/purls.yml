@@ -1,0 +1,4 @@
+- pkg:cargo/tagged-base64-macros@0.3.2
+- pkg:cargo/tagged-base64-macros@0.3.3
+- pkg:cargo/tagged-base64-macros@0.4.0
+- pkg:cargo/tagged-base64-macros@0.4.1

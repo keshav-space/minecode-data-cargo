@@ -1,0 +1,2 @@
+- pkg:cargo/tari-curve25519-dalek@4.0.2
+- pkg:cargo/tari-curve25519-dalek@4.0.3

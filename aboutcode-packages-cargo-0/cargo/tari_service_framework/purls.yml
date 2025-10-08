@@ -1,0 +1,9 @@
+- pkg:cargo/tari_service_framework@0.0.10
+- pkg:cargo/tari_service_framework@0.0.7
+- pkg:cargo/tari_service_framework@0.0.9
+- pkg:cargo/tari_service_framework@0.2.1
+- pkg:cargo/tari_service_framework@0.2.3
+- pkg:cargo/tari_service_framework@0.2.6
+- pkg:cargo/tari_service_framework@0.2.7
+- pkg:cargo/tari_service_framework@0.8.1
+- pkg:cargo/tari_service_framework@1.0.0-rc.5

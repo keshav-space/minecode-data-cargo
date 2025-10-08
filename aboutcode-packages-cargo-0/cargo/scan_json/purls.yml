@@ -1,0 +1,4 @@
+- pkg:cargo/scan_json@1.0.0
+- pkg:cargo/scan_json@1.0.1
+- pkg:cargo/scan_json@1.0.2
+- pkg:cargo/scan_json@1.1.0

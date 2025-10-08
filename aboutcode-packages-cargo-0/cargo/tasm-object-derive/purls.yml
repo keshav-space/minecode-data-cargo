@@ -1,0 +1,7 @@
+- pkg:cargo/tasm-object-derive@0.43.0
+- pkg:cargo/tasm-object-derive@0.45.0
+- pkg:cargo/tasm-object-derive@0.46.0
+- pkg:cargo/tasm-object-derive@0.47.0
+- pkg:cargo/tasm-object-derive@0.48.0
+- pkg:cargo/tasm-object-derive@0.49.0
+- pkg:cargo/tasm-object-derive@0.50.0

@@ -1,0 +1,2 @@
+- pkg:cargo/tauri-plugin-centrifugo@0.1.0
+- pkg:cargo/tauri-plugin-centrifugo@0.1.1

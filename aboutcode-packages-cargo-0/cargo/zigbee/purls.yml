@@ -1,0 +1,4 @@
+- pkg:cargo/zigbee@0.0.1
+- pkg:cargo/zigbee@0.1.0-alpha.1
+- pkg:cargo/zigbee@0.1.0-alpha.2
+- pkg:cargo/zigbee@0.1.0-alpha.3

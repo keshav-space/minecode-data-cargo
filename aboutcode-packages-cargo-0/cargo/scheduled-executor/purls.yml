@@ -1,0 +1,4 @@
+- pkg:cargo/scheduled-executor@0.2.0
+- pkg:cargo/scheduled-executor@0.2.1
+- pkg:cargo/scheduled-executor@0.3.0
+- pkg:cargo/scheduled-executor@0.4.0

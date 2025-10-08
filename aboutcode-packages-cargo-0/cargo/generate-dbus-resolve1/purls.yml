@@ -1,0 +1,4 @@
+- pkg:cargo/generate-dbus-resolve1@0.2.0
+- pkg:cargo/generate-dbus-resolve1@0.3.0
+- pkg:cargo/generate-dbus-resolve1@1.0.0
+- pkg:cargo/generate-dbus-resolve1@1.1.0

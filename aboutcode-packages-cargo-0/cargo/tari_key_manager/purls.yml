@@ -1,0 +1,11 @@
+- pkg:cargo/tari_key_manager@0.0.10
+- pkg:cargo/tari_key_manager@0.0.5
+- pkg:cargo/tari_key_manager@0.0.6
+- pkg:cargo/tari_key_manager@0.0.7
+- pkg:cargo/tari_key_manager@0.0.9
+- pkg:cargo/tari_key_manager@0.2.0
+- pkg:cargo/tari_key_manager@0.2.1
+- pkg:cargo/tari_key_manager@0.2.6
+- pkg:cargo/tari_key_manager@0.2.7
+- pkg:cargo/tari_key_manager@0.8.1
+- pkg:cargo/tari_key_manager@1.0.0-rc.5

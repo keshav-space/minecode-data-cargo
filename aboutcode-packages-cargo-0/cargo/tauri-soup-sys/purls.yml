@@ -1,0 +1,3 @@
+- pkg:cargo/tauri-soup-sys@0.10.0
+- pkg:cargo/tauri-soup-sys@0.14.0
+- pkg:cargo/tauri-soup-sys@0.14.1

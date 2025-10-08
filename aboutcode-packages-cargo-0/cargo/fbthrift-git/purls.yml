@@ -1,0 +1,9 @@
+- pkg:cargo/fbthrift-git@0.0.1%2B617c2e9
+- pkg:cargo/fbthrift-git@0.0.1%2Bunstable2020090200
+- pkg:cargo/fbthrift-git@0.0.2%2B617c2e9
+- pkg:cargo/fbthrift-git@0.0.3%2B3121e6e
+- pkg:cargo/fbthrift-git@0.0.4%2Bc18333c
+- pkg:cargo/fbthrift-git@0.0.5%2B876fb9a
+- pkg:cargo/fbthrift-git@0.0.6%2Bc7fcc0e
+- pkg:cargo/fbthrift-git@0.0.7%2Bb377f46
+- pkg:cargo/fbthrift-git@0.0.8%2Bc383b5e

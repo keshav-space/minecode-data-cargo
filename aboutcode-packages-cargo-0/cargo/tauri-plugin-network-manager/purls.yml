@@ -1,0 +1,3 @@
+- pkg:cargo/tauri-plugin-network-manager@0.1.0
+- pkg:cargo/tauri-plugin-network-manager@2.0.0
+- pkg:cargo/tauri-plugin-network-manager@2.0.1

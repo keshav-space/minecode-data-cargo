@@ -1,0 +1,2 @@
+- pkg:cargo/scylla-migrate@0.1.0
+- pkg:cargo/scylla-migrate@0.1.1

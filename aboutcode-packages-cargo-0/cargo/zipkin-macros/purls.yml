@@ -1,0 +1,3 @@
+- pkg:cargo/zipkin-macros@0.1.0
+- pkg:cargo/zipkin-macros@0.1.1
+- pkg:cargo/zipkin-macros@1.0.0

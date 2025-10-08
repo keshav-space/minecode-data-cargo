@@ -1,0 +1,3 @@
+- pkg:cargo/zilog_z80_cpu@0.1.0
+- pkg:cargo/zilog_z80_cpu@0.1.1
+- pkg:cargo/zilog_z80_cpu@0.1.2

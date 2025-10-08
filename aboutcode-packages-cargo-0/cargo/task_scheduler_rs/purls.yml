@@ -1,0 +1,5 @@
+- pkg:cargo/task_scheduler_rs@0.1.0
+- pkg:cargo/task_scheduler_rs@0.1.0-beta
+- pkg:cargo/task_scheduler_rs@0.2.0-beta
+- pkg:cargo/task_scheduler_rs@0.3.0
+- pkg:cargo/task_scheduler_rs@0.4.0
