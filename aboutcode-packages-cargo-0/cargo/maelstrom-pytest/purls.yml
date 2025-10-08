@@ -1,0 +1,5 @@
+- pkg:cargo/maelstrom-pytest@0.10.0
+- pkg:cargo/maelstrom-pytest@0.11.0
+- pkg:cargo/maelstrom-pytest@0.12.0
+- pkg:cargo/maelstrom-pytest@0.13.0
+- pkg:cargo/maelstrom-pytest@0.14.0

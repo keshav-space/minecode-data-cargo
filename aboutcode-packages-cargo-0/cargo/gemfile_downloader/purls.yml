@@ -1,0 +1,7 @@
+- pkg:cargo/gemfile_downloader@0.1.0
+- pkg:cargo/gemfile_downloader@0.1.1
+- pkg:cargo/gemfile_downloader@0.1.2
+- pkg:cargo/gemfile_downloader@1.0.0
+- pkg:cargo/gemfile_downloader@1.0.1
+- pkg:cargo/gemfile_downloader@2.0.0
+- pkg:cargo/gemfile_downloader@3.0.0

@@ -1,0 +1,8 @@
+- pkg:cargo/gettext-sys@0.19.8
+- pkg:cargo/gettext-sys@0.19.9
+- pkg:cargo/gettext-sys@0.21.0
+- pkg:cargo/gettext-sys@0.21.1
+- pkg:cargo/gettext-sys@0.21.2
+- pkg:cargo/gettext-sys@0.21.3
+- pkg:cargo/gettext-sys@0.21.4
+- pkg:cargo/gettext-sys@0.22.5

@@ -1,0 +1,4 @@
+- pkg:cargo/madsim-tokio-postgres@0.2.0
+- pkg:cargo/madsim-tokio-postgres@0.2.0-alpha.5
+- pkg:cargo/madsim-tokio-postgres@0.2.0-alpha.6
+- pkg:cargo/madsim-tokio-postgres@0.2.0-alpha.7

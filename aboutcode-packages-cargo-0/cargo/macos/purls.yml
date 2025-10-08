@@ -1,0 +1,4 @@
+- pkg:cargo/macos@0.0.1
+- pkg:cargo/macos@0.0.1-beta
+- pkg:cargo/macos@0.0.2
+- pkg:cargo/macos@0.0.3

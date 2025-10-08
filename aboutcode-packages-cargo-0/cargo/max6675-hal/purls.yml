@@ -1,0 +1,5 @@
+- pkg:cargo/max6675-hal@0.3.1
+- pkg:cargo/max6675-hal@0.4.0
+- pkg:cargo/max6675-hal@1.0.0
+- pkg:cargo/max6675-hal@1.0.0-rc.1
+- pkg:cargo/max6675-hal@1.0.1

@@ -1,0 +1,4 @@
+- pkg:cargo/mavlink-bindgen@0.13.1
+- pkg:cargo/mavlink-bindgen@0.13.2
+- pkg:cargo/mavlink-bindgen@0.14.1
+- pkg:cargo/mavlink-bindgen@0.15.0

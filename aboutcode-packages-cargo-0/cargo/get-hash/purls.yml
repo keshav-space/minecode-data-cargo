@@ -1,0 +1,6 @@
+- pkg:cargo/get-hash@1.0.2
+- pkg:cargo/get-hash@1.0.4
+- pkg:cargo/get-hash@1.1.0
+- pkg:cargo/get-hash@1.1.1
+- pkg:cargo/get-hash@1.1.2
+- pkg:cargo/get-hash@1.1.9

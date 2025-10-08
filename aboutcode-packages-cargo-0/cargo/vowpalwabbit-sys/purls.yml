@@ -1,0 +1,7 @@
+- pkg:cargo/vowpalwabbit-sys@8.6.1-beta
+- pkg:cargo/vowpalwabbit-sys@8.7.0
+- pkg:cargo/vowpalwabbit-sys@8.8.0
+- pkg:cargo/vowpalwabbit-sys@8.8.0%2Bpost1
+- pkg:cargo/vowpalwabbit-sys@8.8.0%2Bpost2
+- pkg:cargo/vowpalwabbit-sys@8.8.0%2Bpost3
+- pkg:cargo/vowpalwabbit-sys@8.8.1%2Bvw-v8.8.0

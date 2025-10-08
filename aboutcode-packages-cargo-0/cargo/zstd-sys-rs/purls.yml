@@ -1,0 +1,5 @@
+- pkg:cargo/zstd-sys-rs@1.5.10
+- pkg:cargo/zstd-sys-rs@1.5.7
+- pkg:cargo/zstd-sys-rs@1.5.7-try1
+- pkg:cargo/zstd-sys-rs@1.5.8
+- pkg:cargo/zstd-sys-rs@1.5.9

@@ -1,0 +1,3 @@
+- pkg:cargo/makepad-http@0.4.0
+- pkg:cargo/makepad-http@0.9.0
+- pkg:cargo/makepad-http@1.0.0

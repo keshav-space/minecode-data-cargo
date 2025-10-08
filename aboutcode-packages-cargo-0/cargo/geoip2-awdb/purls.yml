@@ -1,0 +1,4 @@
+- pkg:cargo/geoip2-awdb@0.1.10
+- pkg:cargo/geoip2-awdb@0.1.8
+- pkg:cargo/geoip2-awdb@0.1.9
+- pkg:cargo/geoip2-awdb@0.2.0

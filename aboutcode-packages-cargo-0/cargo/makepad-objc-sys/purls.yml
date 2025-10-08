@@ -1,0 +1,5 @@
+- pkg:cargo/makepad-objc-sys@0.2.7
+- pkg:cargo/makepad-objc-sys@0.3.0
+- pkg:cargo/makepad-objc-sys@0.4.0
+- pkg:cargo/makepad-objc-sys@0.9.0
+- pkg:cargo/makepad-objc-sys@1.0.0

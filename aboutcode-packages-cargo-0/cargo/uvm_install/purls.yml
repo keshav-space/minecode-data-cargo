@@ -1,0 +1,9 @@
+- pkg:cargo/uvm_install@0.13.1
+- pkg:cargo/uvm_install@0.13.2
+- pkg:cargo/uvm_install@0.13.3
+- pkg:cargo/uvm_install@0.13.4
+- pkg:cargo/uvm_install@0.13.5
+- pkg:cargo/uvm_install@0.13.6
+- pkg:cargo/uvm_install@0.13.7
+- pkg:cargo/uvm_install@0.18.0
+- pkg:cargo/uvm_install@0.19.0

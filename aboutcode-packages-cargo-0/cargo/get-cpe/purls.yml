@@ -1,0 +1,4 @@
+- pkg:cargo/get-cpe@0.0.1
+- pkg:cargo/get-cpe@0.1.0
+- pkg:cargo/get-cpe@0.2.0
+- pkg:cargo/get-cpe@0.2.1
