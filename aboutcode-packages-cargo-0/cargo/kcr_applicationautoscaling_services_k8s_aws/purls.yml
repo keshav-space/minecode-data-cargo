@@ -1,0 +1,10 @@
+- pkg:cargo/kcr_applicationautoscaling_services_k8s_aws@1.20250330.220741
+- pkg:cargo/kcr_applicationautoscaling_services_k8s_aws@1.20250406.210936
+- pkg:cargo/kcr_applicationautoscaling_services_k8s_aws@1.20250413.210940
+- pkg:cargo/kcr_applicationautoscaling_services_k8s_aws@1.20250420.210917
+- pkg:cargo/kcr_applicationautoscaling_services_k8s_aws@1.20250511.210935
+- pkg:cargo/kcr_applicationautoscaling_services_k8s_aws@1.20250525.210957
+- pkg:cargo/kcr_applicationautoscaling_services_k8s_aws@1.20250601.210959
+- pkg:cargo/kcr_applicationautoscaling_services_k8s_aws@1.20250824.210939
+- pkg:cargo/kcr_applicationautoscaling_services_k8s_aws@2.20250914.210847
+- pkg:cargo/kcr_applicationautoscaling_services_k8s_aws@2.20250928.210905

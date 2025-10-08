@@ -1,0 +1,9 @@
+- pkg:cargo/kcr_secretsmanager_services_k8s_aws@1.20250406.125836
+- pkg:cargo/kcr_secretsmanager_services_k8s_aws@1.20250413.125926
+- pkg:cargo/kcr_secretsmanager_services_k8s_aws@1.20250420.130020
+- pkg:cargo/kcr_secretsmanager_services_k8s_aws@1.20250511.130140
+- pkg:cargo/kcr_secretsmanager_services_k8s_aws@1.20250525.130249
+- pkg:cargo/kcr_secretsmanager_services_k8s_aws@1.20250727.130853
+- pkg:cargo/kcr_secretsmanager_services_k8s_aws@1.20250824.130238
+- pkg:cargo/kcr_secretsmanager_services_k8s_aws@2.20250914.125659
+- pkg:cargo/kcr_secretsmanager_services_k8s_aws@2.20250928.125924

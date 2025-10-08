@@ -1,0 +1,13 @@
+- pkg:cargo/kcr_sns_services_k8s_aws@1.20250404.33122
+- pkg:cargo/kcr_sns_services_k8s_aws@1.20250411.33257
+- pkg:cargo/kcr_sns_services_k8s_aws@1.20250418.33228
+- pkg:cargo/kcr_sns_services_k8s_aws@1.20250516.34222
+- pkg:cargo/kcr_sns_services_k8s_aws@1.20250523.34140
+- pkg:cargo/kcr_sns_services_k8s_aws@1.20250613.34730
+- pkg:cargo/kcr_sns_services_k8s_aws@1.20250725.35933
+- pkg:cargo/kcr_sns_services_k8s_aws@1.20250801.41329
+- pkg:cargo/kcr_sns_services_k8s_aws@1.20250829.33359
+- pkg:cargo/kcr_sns_services_k8s_aws@2.20250912.32649
+- pkg:cargo/kcr_sns_services_k8s_aws@2.20250919.33230
+- pkg:cargo/kcr_sns_services_k8s_aws@2.20250926.33117
+- pkg:cargo/kcr_sns_services_k8s_aws@2.20251003.32856

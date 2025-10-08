@@ -1,0 +1,6 @@
+- pkg:cargo/tokio_wasi@1.21.2
+- pkg:cargo/tokio_wasi@1.21.3
+- pkg:cargo/tokio_wasi@1.23.0
+- pkg:cargo/tokio_wasi@1.25.0
+- pkg:cargo/tokio_wasi@1.25.1
+- pkg:cargo/tokio_wasi@1.25.2

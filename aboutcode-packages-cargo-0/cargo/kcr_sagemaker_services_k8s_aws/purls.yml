@@ -1,0 +1,11 @@
+- pkg:cargo/kcr_sagemaker_services_k8s_aws@1.20250401.184218
+- pkg:cargo/kcr_sagemaker_services_k8s_aws@1.20250415.184051
+- pkg:cargo/kcr_sagemaker_services_k8s_aws@1.20250422.184208
+- pkg:cargo/kcr_sagemaker_services_k8s_aws@1.20250513.184246
+- pkg:cargo/kcr_sagemaker_services_k8s_aws@1.20250520.184439
+- pkg:cargo/kcr_sagemaker_services_k8s_aws@1.20250603.184530
+- pkg:cargo/kcr_sagemaker_services_k8s_aws@1.20250826.184249
+- pkg:cargo/kcr_sagemaker_services_k8s_aws@2.20250909.183932
+- pkg:cargo/kcr_sagemaker_services_k8s_aws@2.20250916.184221
+- pkg:cargo/kcr_sagemaker_services_k8s_aws@2.20250923.184307
+- pkg:cargo/kcr_sagemaker_services_k8s_aws@2.20250930.184135

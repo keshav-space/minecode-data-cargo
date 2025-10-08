@@ -1,0 +1,2 @@
+- pkg:cargo/tokio-rustls-wasi@0.24.1
+- pkg:cargo/tokio-rustls-wasi@0.25.0-alpha

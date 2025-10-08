@@ -1,0 +1,11 @@
+- pkg:cargo/kcr_kafka_services_k8s_aws@1.20250331.204628
+- pkg:cargo/kcr_kafka_services_k8s_aws@1.20250407.85231
+- pkg:cargo/kcr_kafka_services_k8s_aws@1.20250414.85235
+- pkg:cargo/kcr_kafka_services_k8s_aws@1.20250421.85230
+- pkg:cargo/kcr_kafka_services_k8s_aws@1.20250512.85421
+- pkg:cargo/kcr_kafka_services_k8s_aws@1.20250519.85434
+- pkg:cargo/kcr_kafka_services_k8s_aws@1.20250526.93315
+- pkg:cargo/kcr_kafka_services_k8s_aws@1.20250825.85515
+- pkg:cargo/kcr_kafka_services_k8s_aws@2.20250915.85139
+- pkg:cargo/kcr_kafka_services_k8s_aws@2.20250922.85301
+- pkg:cargo/kcr_kafka_services_k8s_aws@2.20250929.85323

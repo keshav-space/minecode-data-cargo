@@ -1,0 +1,12 @@
+- pkg:cargo/kcr_upgrade_managed_openshift_io@1.20250331.203034
+- pkg:cargo/kcr_upgrade_managed_openshift_io@1.20250407.112427
+- pkg:cargo/kcr_upgrade_managed_openshift_io@1.20250414.112405
+- pkg:cargo/kcr_upgrade_managed_openshift_io@1.20250421.112348
+- pkg:cargo/kcr_upgrade_managed_openshift_io@1.20250512.112552
+- pkg:cargo/kcr_upgrade_managed_openshift_io@1.20250519.112547
+- pkg:cargo/kcr_upgrade_managed_openshift_io@1.20250526.112402
+- pkg:cargo/kcr_upgrade_managed_openshift_io@1.20250825.112605
+- pkg:cargo/kcr_upgrade_managed_openshift_io@2.20250908.112409
+- pkg:cargo/kcr_upgrade_managed_openshift_io@2.20250915.112354
+- pkg:cargo/kcr_upgrade_managed_openshift_io@2.20250922.112513
+- pkg:cargo/kcr_upgrade_managed_openshift_io@2.20250929.112455

@@ -1,0 +1,11 @@
+- pkg:cargo/kcr_multicluster_x_k8s_io@1.20250402.94559
+- pkg:cargo/kcr_multicluster_x_k8s_io@1.20250409.94700
+- pkg:cargo/kcr_multicluster_x_k8s_io@1.20250416.94644
+- pkg:cargo/kcr_multicluster_x_k8s_io@1.20250423.94554
+- pkg:cargo/kcr_multicluster_x_k8s_io@1.20250514.94646
+- pkg:cargo/kcr_multicluster_x_k8s_io@1.20250521.94745
+- pkg:cargo/kcr_multicluster_x_k8s_io@1.20250827.94557
+- pkg:cargo/kcr_multicluster_x_k8s_io@2.20250910.94523
+- pkg:cargo/kcr_multicluster_x_k8s_io@2.20250917.94628
+- pkg:cargo/kcr_multicluster_x_k8s_io@2.20250924.94646
+- pkg:cargo/kcr_multicluster_x_k8s_io@2.20251001.94646

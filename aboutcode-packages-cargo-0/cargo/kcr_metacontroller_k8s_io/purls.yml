@@ -1,0 +1,11 @@
+- pkg:cargo/kcr_metacontroller_k8s_io@1.20250331.154321
+- pkg:cargo/kcr_metacontroller_k8s_io@1.20250407.184707
+- pkg:cargo/kcr_metacontroller_k8s_io@1.20250414.184917
+- pkg:cargo/kcr_metacontroller_k8s_io@1.20250421.184915
+- pkg:cargo/kcr_metacontroller_k8s_io@1.20250512.185048
+- pkg:cargo/kcr_metacontroller_k8s_io@1.20250519.185054
+- pkg:cargo/kcr_metacontroller_k8s_io@1.20250825.185134
+- pkg:cargo/kcr_metacontroller_k8s_io@2.20250908.184815
+- pkg:cargo/kcr_metacontroller_k8s_io@2.20250915.184901
+- pkg:cargo/kcr_metacontroller_k8s_io@2.20250922.184827
+- pkg:cargo/kcr_metacontroller_k8s_io@2.20250929.184922

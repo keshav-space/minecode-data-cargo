@@ -1,0 +1,11 @@
+- pkg:cargo/kcr_rds_services_k8s_aws@1.20250403.91902
+- pkg:cargo/kcr_rds_services_k8s_aws@1.20250410.91908
+- pkg:cargo/kcr_rds_services_k8s_aws@1.20250417.91945
+- pkg:cargo/kcr_rds_services_k8s_aws@1.20250515.92018
+- pkg:cargo/kcr_rds_services_k8s_aws@1.20250522.92010
+- pkg:cargo/kcr_rds_services_k8s_aws@1.20250828.91921
+- pkg:cargo/kcr_rds_services_k8s_aws@1.20250904.91834
+- pkg:cargo/kcr_rds_services_k8s_aws@2.20250911.91836
+- pkg:cargo/kcr_rds_services_k8s_aws@2.20250918.91859
+- pkg:cargo/kcr_rds_services_k8s_aws@2.20250925.91909
+- pkg:cargo/kcr_rds_services_k8s_aws@2.20251002.91858

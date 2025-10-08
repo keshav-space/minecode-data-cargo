@@ -1,0 +1,12 @@
+- pkg:cargo/kcr_cloudtrail_services_k8s_aws@1.20250407.114241
+- pkg:cargo/kcr_cloudtrail_services_k8s_aws@1.20250414.114245
+- pkg:cargo/kcr_cloudtrail_services_k8s_aws@1.20250421.114245
+- pkg:cargo/kcr_cloudtrail_services_k8s_aws@1.20250512.114308
+- pkg:cargo/kcr_cloudtrail_services_k8s_aws@1.20250519.114322
+- pkg:cargo/kcr_cloudtrail_services_k8s_aws@1.20250526.114320
+- pkg:cargo/kcr_cloudtrail_services_k8s_aws@1.20250602.114331
+- pkg:cargo/kcr_cloudtrail_services_k8s_aws@1.20250825.114406
+- pkg:cargo/kcr_cloudtrail_services_k8s_aws@2.20250908.114259
+- pkg:cargo/kcr_cloudtrail_services_k8s_aws@2.20250915.114317
+- pkg:cargo/kcr_cloudtrail_services_k8s_aws@2.20250922.114319
+- pkg:cargo/kcr_cloudtrail_services_k8s_aws@2.20250929.114255

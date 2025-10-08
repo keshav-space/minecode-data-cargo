@@ -1,0 +1,14 @@
+- pkg:cargo/kcr_operator_tigera_io@1.20250405.153636
+- pkg:cargo/kcr_operator_tigera_io@1.20250412.153744
+- pkg:cargo/kcr_operator_tigera_io@1.20250419.153708
+- pkg:cargo/kcr_operator_tigera_io@1.20250503.153755
+- pkg:cargo/kcr_operator_tigera_io@1.20250510.153820
+- pkg:cargo/kcr_operator_tigera_io@1.20250524.153808
+- pkg:cargo/kcr_operator_tigera_io@1.20250531.153819
+- pkg:cargo/kcr_operator_tigera_io@1.20250621.153925
+- pkg:cargo/kcr_operator_tigera_io@1.20250628.153933
+- pkg:cargo/kcr_operator_tigera_io@1.20250802.154203
+- pkg:cargo/kcr_operator_tigera_io@1.20250823.153716
+- pkg:cargo/kcr_operator_tigera_io@1.20250906.153612
+- pkg:cargo/kcr_operator_tigera_io@2.20250913.153614
+- pkg:cargo/kcr_operator_tigera_io@2.20250927.153634

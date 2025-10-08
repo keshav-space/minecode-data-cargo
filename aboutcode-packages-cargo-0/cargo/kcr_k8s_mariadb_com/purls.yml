@@ -1,0 +1,15 @@
+- pkg:cargo/kcr_k8s_mariadb_com@1.20250403.63559
+- pkg:cargo/kcr_k8s_mariadb_com@1.20250410.63610
+- pkg:cargo/kcr_k8s_mariadb_com@1.20250417.63603
+- pkg:cargo/kcr_k8s_mariadb_com@1.20250424.63716
+- pkg:cargo/kcr_k8s_mariadb_com@1.20250515.63820
+- pkg:cargo/kcr_k8s_mariadb_com@1.20250522.63801
+- pkg:cargo/kcr_k8s_mariadb_com@1.20250703.64038
+- pkg:cargo/kcr_k8s_mariadb_com@1.20250717.64304
+- pkg:cargo/kcr_k8s_mariadb_com@1.20250724.64450
+- pkg:cargo/kcr_k8s_mariadb_com@1.20250731.64605
+- pkg:cargo/kcr_k8s_mariadb_com@1.20250828.63853
+- pkg:cargo/kcr_k8s_mariadb_com@2.20250911.63806
+- pkg:cargo/kcr_k8s_mariadb_com@2.20250918.63809
+- pkg:cargo/kcr_k8s_mariadb_com@2.20250925.63853
+- pkg:cargo/kcr_k8s_mariadb_com@2.20251002.63738

@@ -1,0 +1,11 @@
+- pkg:cargo/kcr_secrets_store_csi_x_k8s_io@1.20250402.94853
+- pkg:cargo/kcr_secrets_store_csi_x_k8s_io@1.20250409.94935
+- pkg:cargo/kcr_secrets_store_csi_x_k8s_io@1.20250416.94848
+- pkg:cargo/kcr_secrets_store_csi_x_k8s_io@1.20250423.94901
+- pkg:cargo/kcr_secrets_store_csi_x_k8s_io@1.20250514.94938
+- pkg:cargo/kcr_secrets_store_csi_x_k8s_io@1.20250521.95000
+- pkg:cargo/kcr_secrets_store_csi_x_k8s_io@1.20250827.94906
+- pkg:cargo/kcr_secrets_store_csi_x_k8s_io@2.20250910.94850
+- pkg:cargo/kcr_secrets_store_csi_x_k8s_io@2.20250917.94901
+- pkg:cargo/kcr_secrets_store_csi_x_k8s_io@2.20250924.94849
+- pkg:cargo/kcr_secrets_store_csi_x_k8s_io@2.20251001.94916

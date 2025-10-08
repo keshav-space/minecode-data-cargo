@@ -1,0 +1,6 @@
+- pkg:cargo/osdk-heap-allocator@0.14.1
+- pkg:cargo/osdk-heap-allocator@0.15.0
+- pkg:cargo/osdk-heap-allocator@0.15.1
+- pkg:cargo/osdk-heap-allocator@0.15.2
+- pkg:cargo/osdk-heap-allocator@0.16.0
+- pkg:cargo/osdk-heap-allocator@0.16.1

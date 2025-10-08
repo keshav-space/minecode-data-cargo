@@ -1,0 +1,12 @@
+- pkg:cargo/kcr_apm_k8s_elastic_co@1.20250405.135157
+- pkg:cargo/kcr_apm_k8s_elastic_co@1.20250412.135139
+- pkg:cargo/kcr_apm_k8s_elastic_co@1.20250419.135157
+- pkg:cargo/kcr_apm_k8s_elastic_co@1.20250503.135207
+- pkg:cargo/kcr_apm_k8s_elastic_co@1.20250510.135154
+- pkg:cargo/kcr_apm_k8s_elastic_co@1.20250524.135214
+- pkg:cargo/kcr_apm_k8s_elastic_co@1.20250809.135258
+- pkg:cargo/kcr_apm_k8s_elastic_co@1.20250816.135201
+- pkg:cargo/kcr_apm_k8s_elastic_co@1.20250823.135149
+- pkg:cargo/kcr_apm_k8s_elastic_co@2.20250913.135209
+- pkg:cargo/kcr_apm_k8s_elastic_co@2.20250920.135208
+- pkg:cargo/kcr_apm_k8s_elastic_co@2.20250927.135208

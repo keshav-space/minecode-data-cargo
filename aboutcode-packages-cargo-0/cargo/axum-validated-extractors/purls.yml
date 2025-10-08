@@ -1,0 +1,2 @@
+- pkg:cargo/axum-validated-extractors@0.1.2
+- pkg:cargo/axum-validated-extractors@0.2.0

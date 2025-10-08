@@ -1,0 +1,13 @@
+- pkg:cargo/kcr_elbv2_k8s_aws@1.20250330.162004
+- pkg:cargo/kcr_elbv2_k8s_aws@1.20250406.33732
+- pkg:cargo/kcr_elbv2_k8s_aws@1.20250413.43452
+- pkg:cargo/kcr_elbv2_k8s_aws@1.20250420.34046
+- pkg:cargo/kcr_elbv2_k8s_aws@1.20250504.34913
+- pkg:cargo/kcr_elbv2_k8s_aws@1.20250511.34755
+- pkg:cargo/kcr_elbv2_k8s_aws@1.20250525.35223
+- pkg:cargo/kcr_elbv2_k8s_aws@1.20250810.40909
+- pkg:cargo/kcr_elbv2_k8s_aws@1.20250817.35911
+- pkg:cargo/kcr_elbv2_k8s_aws@1.20250824.35242
+- pkg:cargo/kcr_elbv2_k8s_aws@1.20250831.34038
+- pkg:cargo/kcr_elbv2_k8s_aws@2.20250914.33700
+- pkg:cargo/kcr_elbv2_k8s_aws@2.20250928.34142

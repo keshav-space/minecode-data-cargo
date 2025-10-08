@@ -1,0 +1,8 @@
+- pkg:cargo/tonic-async-interceptor@0.1.0
+- pkg:cargo/tonic-async-interceptor@0.1.0-alpha.0
+- pkg:cargo/tonic-async-interceptor@0.10.0
+- pkg:cargo/tonic-async-interceptor@0.11.0
+- pkg:cargo/tonic-async-interceptor@0.11.1
+- pkg:cargo/tonic-async-interceptor@0.12.0
+- pkg:cargo/tonic-async-interceptor@0.13.0
+- pkg:cargo/tonic-async-interceptor@0.14.1

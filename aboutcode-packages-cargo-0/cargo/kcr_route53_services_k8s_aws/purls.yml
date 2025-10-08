@@ -1,0 +1,14 @@
+- pkg:cargo/kcr_route53_services_k8s_aws@1.20250331.94106
+- pkg:cargo/kcr_route53_services_k8s_aws@1.20250407.130437
+- pkg:cargo/kcr_route53_services_k8s_aws@1.20250414.130500
+- pkg:cargo/kcr_route53_services_k8s_aws@1.20250421.130259
+- pkg:cargo/kcr_route53_services_k8s_aws@1.20250512.130816
+- pkg:cargo/kcr_route53_services_k8s_aws@1.20250519.130839
+- pkg:cargo/kcr_route53_services_k8s_aws@1.20250526.130544
+- pkg:cargo/kcr_route53_services_k8s_aws@1.20250602.130837
+- pkg:cargo/kcr_route53_services_k8s_aws@1.20250728.132151
+- pkg:cargo/kcr_route53_services_k8s_aws@1.20250825.130808
+- pkg:cargo/kcr_route53_services_k8s_aws@2.20250908.130652
+- pkg:cargo/kcr_route53_services_k8s_aws@2.20250915.130522
+- pkg:cargo/kcr_route53_services_k8s_aws@2.20250922.130605
+- pkg:cargo/kcr_route53_services_k8s_aws@2.20250929.130656

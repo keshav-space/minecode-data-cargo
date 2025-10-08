@@ -1,0 +1,13 @@
+- pkg:cargo/kcr_pxc_percona_com@1.20250405.43628
+- pkg:cargo/kcr_pxc_percona_com@1.20250412.43834
+- pkg:cargo/kcr_pxc_percona_com@1.20250419.43730
+- pkg:cargo/kcr_pxc_percona_com@1.20250426.43857
+- pkg:cargo/kcr_pxc_percona_com@1.20250503.43945
+- pkg:cargo/kcr_pxc_percona_com@1.20250510.44018
+- pkg:cargo/kcr_pxc_percona_com@1.20250524.44014
+- pkg:cargo/kcr_pxc_percona_com@1.20250802.45159
+- pkg:cargo/kcr_pxc_percona_com@1.20250809.44556
+- pkg:cargo/kcr_pxc_percona_com@1.20250816.44236
+- pkg:cargo/kcr_pxc_percona_com@1.20250823.43811
+- pkg:cargo/kcr_pxc_percona_com@2.20250913.43444
+- pkg:cargo/kcr_pxc_percona_com@2.20250927.43552

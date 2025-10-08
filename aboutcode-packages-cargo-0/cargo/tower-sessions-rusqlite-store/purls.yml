@@ -1,0 +1,6 @@
+- pkg:cargo/tower-sessions-rusqlite-store@0.1.0
+- pkg:cargo/tower-sessions-rusqlite-store@0.11.1
+- pkg:cargo/tower-sessions-rusqlite-store@0.11.1-2
+- pkg:cargo/tower-sessions-rusqlite-store@0.12.0
+- pkg:cargo/tower-sessions-rusqlite-store@0.13.0
+- pkg:cargo/tower-sessions-rusqlite-store@0.14.0

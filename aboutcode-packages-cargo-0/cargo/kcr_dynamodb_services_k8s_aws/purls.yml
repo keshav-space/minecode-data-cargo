@@ -1,0 +1,11 @@
+- pkg:cargo/kcr_dynamodb_services_k8s_aws@1.20250403.75622
+- pkg:cargo/kcr_dynamodb_services_k8s_aws@1.20250410.75642
+- pkg:cargo/kcr_dynamodb_services_k8s_aws@1.20250417.75618
+- pkg:cargo/kcr_dynamodb_services_k8s_aws@1.20250515.75643
+- pkg:cargo/kcr_dynamodb_services_k8s_aws@1.20250522.75643
+- pkg:cargo/kcr_dynamodb_services_k8s_aws@1.20250605.75632
+- pkg:cargo/kcr_dynamodb_services_k8s_aws@1.20250828.75631
+- pkg:cargo/kcr_dynamodb_services_k8s_aws@2.20250911.75631
+- pkg:cargo/kcr_dynamodb_services_k8s_aws@2.20250918.75701
+- pkg:cargo/kcr_dynamodb_services_k8s_aws@2.20250925.75634
+- pkg:cargo/kcr_dynamodb_services_k8s_aws@2.20251002.75650

@@ -1,0 +1,12 @@
+- pkg:cargo/kcr_networkfirewall_services_k8s_aws@1.20250402.125829
+- pkg:cargo/kcr_networkfirewall_services_k8s_aws@1.20250409.125839
+- pkg:cargo/kcr_networkfirewall_services_k8s_aws@1.20250416.125918
+- pkg:cargo/kcr_networkfirewall_services_k8s_aws@1.20250423.125933
+- pkg:cargo/kcr_networkfirewall_services_k8s_aws@1.20250514.130132
+- pkg:cargo/kcr_networkfirewall_services_k8s_aws@1.20250521.130214
+- pkg:cargo/kcr_networkfirewall_services_k8s_aws@1.20250604.130415
+- pkg:cargo/kcr_networkfirewall_services_k8s_aws@1.20250827.125925
+- pkg:cargo/kcr_networkfirewall_services_k8s_aws@2.20250910.125753
+- pkg:cargo/kcr_networkfirewall_services_k8s_aws@2.20250917.125948
+- pkg:cargo/kcr_networkfirewall_services_k8s_aws@2.20250924.125939
+- pkg:cargo/kcr_networkfirewall_services_k8s_aws@2.20251001.130158

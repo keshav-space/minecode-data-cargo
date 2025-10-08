@@ -1,0 +1,10 @@
+- pkg:cargo/kcr_scheduling_sigs_k8s_io@1.20250408.35121
+- pkg:cargo/kcr_scheduling_sigs_k8s_io@1.20250415.35325
+- pkg:cargo/kcr_scheduling_sigs_k8s_io@1.20250422.35430
+- pkg:cargo/kcr_scheduling_sigs_k8s_io@1.20250513.35750
+- pkg:cargo/kcr_scheduling_sigs_k8s_io@1.20250520.35750
+- pkg:cargo/kcr_scheduling_sigs_k8s_io@1.20250826.35632
+- pkg:cargo/kcr_scheduling_sigs_k8s_io@2.20250909.35104
+- pkg:cargo/kcr_scheduling_sigs_k8s_io@2.20250916.34800
+- pkg:cargo/kcr_scheduling_sigs_k8s_io@2.20250923.34910
+- pkg:cargo/kcr_scheduling_sigs_k8s_io@2.20250930.34951

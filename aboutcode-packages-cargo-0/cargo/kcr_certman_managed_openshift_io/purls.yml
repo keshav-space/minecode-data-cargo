@@ -1,0 +1,11 @@
+- pkg:cargo/kcr_certman_managed_openshift_io@1.20250402.24126
+- pkg:cargo/kcr_certman_managed_openshift_io@1.20250416.24459
+- pkg:cargo/kcr_certman_managed_openshift_io@1.20250423.24415
+- pkg:cargo/kcr_certman_managed_openshift_io@1.20250514.25004
+- pkg:cargo/kcr_certman_managed_openshift_io@1.20250521.25149
+- pkg:cargo/kcr_certman_managed_openshift_io@1.20250702.25716
+- pkg:cargo/kcr_certman_managed_openshift_io@1.20250827.24158
+- pkg:cargo/kcr_certman_managed_openshift_io@2.20250910.23523
+- pkg:cargo/kcr_certman_managed_openshift_io@2.20250917.23538
+- pkg:cargo/kcr_certman_managed_openshift_io@2.20250924.23842
+- pkg:cargo/kcr_certman_managed_openshift_io@2.20251001.25002

@@ -1,0 +1,9 @@
+- pkg:cargo/kcr_cloudfront_services_k8s_aws@1.20250404.223852
+- pkg:cargo/kcr_cloudfront_services_k8s_aws@1.20250411.224041
+- pkg:cargo/kcr_cloudfront_services_k8s_aws@1.20250418.224005
+- pkg:cargo/kcr_cloudfront_services_k8s_aws@1.20250509.223959
+- pkg:cargo/kcr_cloudfront_services_k8s_aws@1.20250523.224031
+- pkg:cargo/kcr_cloudfront_services_k8s_aws@1.20250530.224056
+- pkg:cargo/kcr_cloudfront_services_k8s_aws@1.20250822.223919
+- pkg:cargo/kcr_cloudfront_services_k8s_aws@2.20250912.223701
+- pkg:cargo/kcr_cloudfront_services_k8s_aws@2.20250926.223713

@@ -1,0 +1,10 @@
+- pkg:cargo/kcr_groupsnapshot_storage_k8s_io@1.20250402.44327
+- pkg:cargo/kcr_groupsnapshot_storage_k8s_io@1.20250416.44244
+- pkg:cargo/kcr_groupsnapshot_storage_k8s_io@1.20250423.44445
+- pkg:cargo/kcr_groupsnapshot_storage_k8s_io@1.20250514.44402
+- pkg:cargo/kcr_groupsnapshot_storage_k8s_io@1.20250521.44449
+- pkg:cargo/kcr_groupsnapshot_storage_k8s_io@1.20250827.44212
+- pkg:cargo/kcr_groupsnapshot_storage_k8s_io@2.20250910.44014
+- pkg:cargo/kcr_groupsnapshot_storage_k8s_io@2.20250917.44109
+- pkg:cargo/kcr_groupsnapshot_storage_k8s_io@2.20250924.44122
+- pkg:cargo/kcr_groupsnapshot_storage_k8s_io@2.20251001.44216

@@ -1,0 +1,1 @@
+- pkg:cargo/tokio-graceful-shutdown-without-anyhow@0.6.0

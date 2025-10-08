@@ -1,0 +1,11 @@
+- pkg:cargo/kcr_iam_services_k8s_aws@1.20250403.204522
+- pkg:cargo/kcr_iam_services_k8s_aws@1.20250410.204536
+- pkg:cargo/kcr_iam_services_k8s_aws@1.20250417.204552
+- pkg:cargo/kcr_iam_services_k8s_aws@1.20250515.204746
+- pkg:cargo/kcr_iam_services_k8s_aws@1.20250522.204732
+- pkg:cargo/kcr_iam_services_k8s_aws@1.20250605.204437
+- pkg:cargo/kcr_iam_services_k8s_aws@1.20250828.204555
+- pkg:cargo/kcr_iam_services_k8s_aws@2.20250911.204409
+- pkg:cargo/kcr_iam_services_k8s_aws@2.20250918.204511
+- pkg:cargo/kcr_iam_services_k8s_aws@2.20250925.204434
+- pkg:cargo/kcr_iam_services_k8s_aws@2.20251002.204441

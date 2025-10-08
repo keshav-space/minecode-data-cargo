@@ -1,0 +1,4 @@
+- pkg:cargo/toml-input-derive@0.1.0
+- pkg:cargo/toml-input-derive@0.1.1
+- pkg:cargo/toml-input-derive@0.1.2
+- pkg:cargo/toml-input-derive@0.1.4

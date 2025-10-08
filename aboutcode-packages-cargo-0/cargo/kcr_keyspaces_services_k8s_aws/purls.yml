@@ -1,0 +1,12 @@
+- pkg:cargo/kcr_keyspaces_services_k8s_aws@1.20250331.172439
+- pkg:cargo/kcr_keyspaces_services_k8s_aws@1.20250407.163533
+- pkg:cargo/kcr_keyspaces_services_k8s_aws@1.20250414.163558
+- pkg:cargo/kcr_keyspaces_services_k8s_aws@1.20250421.163608
+- pkg:cargo/kcr_keyspaces_services_k8s_aws@1.20250512.163742
+- pkg:cargo/kcr_keyspaces_services_k8s_aws@1.20250519.163809
+- pkg:cargo/kcr_keyspaces_services_k8s_aws@1.20250602.164011
+- pkg:cargo/kcr_keyspaces_services_k8s_aws@1.20250825.163658
+- pkg:cargo/kcr_keyspaces_services_k8s_aws@2.20250908.163538
+- pkg:cargo/kcr_keyspaces_services_k8s_aws@2.20250915.163535
+- pkg:cargo/kcr_keyspaces_services_k8s_aws@2.20250922.163603
+- pkg:cargo/kcr_keyspaces_services_k8s_aws@2.20250929.162954

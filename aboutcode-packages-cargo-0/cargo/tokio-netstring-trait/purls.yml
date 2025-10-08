@@ -1,0 +1,2 @@
+- pkg:cargo/tokio-netstring-trait@0.0.1
+- pkg:cargo/tokio-netstring-trait@0.1.0

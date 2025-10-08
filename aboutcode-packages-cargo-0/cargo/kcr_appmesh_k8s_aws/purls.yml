@@ -1,0 +1,10 @@
+- pkg:cargo/kcr_appmesh_k8s_aws@1.20250331.192707
+- pkg:cargo/kcr_appmesh_k8s_aws@1.20250407.43732
+- pkg:cargo/kcr_appmesh_k8s_aws@1.20250414.43811
+- pkg:cargo/kcr_appmesh_k8s_aws@1.20250421.43949
+- pkg:cargo/kcr_appmesh_k8s_aws@1.20250512.44056
+- pkg:cargo/kcr_appmesh_k8s_aws@1.20250519.44411
+- pkg:cargo/kcr_appmesh_k8s_aws@1.20250526.44307
+- pkg:cargo/kcr_appmesh_k8s_aws@1.20250825.44358
+- pkg:cargo/kcr_appmesh_k8s_aws@2.20250915.43806
+- pkg:cargo/kcr_appmesh_k8s_aws@2.20250929.43749

@@ -1,0 +1,12 @@
+- pkg:cargo/kcr_networking_k8s_aws@1.20250330.163747
+- pkg:cargo/kcr_networking_k8s_aws@1.20250331.72829
+- pkg:cargo/kcr_networking_k8s_aws@1.20250407.134047
+- pkg:cargo/kcr_networking_k8s_aws@1.20250414.134119
+- pkg:cargo/kcr_networking_k8s_aws@1.20250421.133824
+- pkg:cargo/kcr_networking_k8s_aws@1.20250512.134419
+- pkg:cargo/kcr_networking_k8s_aws@1.20250519.134429
+- pkg:cargo/kcr_networking_k8s_aws@1.20250526.134224
+- pkg:cargo/kcr_networking_k8s_aws@2.20250908.134208
+- pkg:cargo/kcr_networking_k8s_aws@2.20250915.133620
+- pkg:cargo/kcr_networking_k8s_aws@2.20250922.134055
+- pkg:cargo/kcr_networking_k8s_aws@2.20250929.134203

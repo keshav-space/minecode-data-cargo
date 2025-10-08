@@ -1,0 +1,7 @@
+- pkg:cargo/tokio-console-web@0.1.0
+- pkg:cargo/tokio-console-web@0.1.1
+- pkg:cargo/tokio-console-web@0.1.1-alpha
+- pkg:cargo/tokio-console-web@0.1.1-alpha.1
+- pkg:cargo/tokio-console-web@0.1.1-alpha.2
+- pkg:cargo/tokio-console-web@0.1.1-beta.1
+- pkg:cargo/tokio-console-web@0.1.1-beta.2

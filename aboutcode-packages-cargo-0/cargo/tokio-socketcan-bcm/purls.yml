@@ -1,0 +1,4 @@
+- pkg:cargo/tokio-socketcan-bcm@0.1.0
+- pkg:cargo/tokio-socketcan-bcm@0.1.1
+- pkg:cargo/tokio-socketcan-bcm@0.2.0
+- pkg:cargo/tokio-socketcan-bcm@1.0.0

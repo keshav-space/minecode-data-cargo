@@ -1,0 +1,1 @@
+- pkg:cargo/tokio-postgres_wasi@0.7.7

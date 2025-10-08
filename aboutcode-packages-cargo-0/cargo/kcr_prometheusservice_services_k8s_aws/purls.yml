@@ -1,0 +1,12 @@
+- pkg:cargo/kcr_prometheusservice_services_k8s_aws@1.20250330.191837
+- pkg:cargo/kcr_prometheusservice_services_k8s_aws@1.20250404.63701
+- pkg:cargo/kcr_prometheusservice_services_k8s_aws@1.20250411.63731
+- pkg:cargo/kcr_prometheusservice_services_k8s_aws@1.20250418.63724
+- pkg:cargo/kcr_prometheusservice_services_k8s_aws@1.20250516.64020
+- pkg:cargo/kcr_prometheusservice_services_k8s_aws@1.20250523.63920
+- pkg:cargo/kcr_prometheusservice_services_k8s_aws@1.20250606.64321
+- pkg:cargo/kcr_prometheusservice_services_k8s_aws@1.20250829.63912
+- pkg:cargo/kcr_prometheusservice_services_k8s_aws@2.20250912.63852
+- pkg:cargo/kcr_prometheusservice_services_k8s_aws@2.20250919.63914
+- pkg:cargo/kcr_prometheusservice_services_k8s_aws@2.20250926.63918
+- pkg:cargo/kcr_prometheusservice_services_k8s_aws@2.20251003.63839

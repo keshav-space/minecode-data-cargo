@@ -1,0 +1,17 @@
+- pkg:cargo/toml_datetime@0.5.0
+- pkg:cargo/toml_datetime@0.5.1
+- pkg:cargo/toml_datetime@0.6.0
+- pkg:cargo/toml_datetime@0.6.1
+- pkg:cargo/toml_datetime@0.6.10
+- pkg:cargo/toml_datetime@0.6.11
+- pkg:cargo/toml_datetime@0.6.2
+- pkg:cargo/toml_datetime@0.6.3
+- pkg:cargo/toml_datetime@0.6.4
+- pkg:cargo/toml_datetime@0.6.5
+- pkg:cargo/toml_datetime@0.6.6
+- pkg:cargo/toml_datetime@0.6.7
+- pkg:cargo/toml_datetime@0.6.8
+- pkg:cargo/toml_datetime@0.6.9
+- pkg:cargo/toml_datetime@0.7.0
+- pkg:cargo/toml_datetime@0.7.1
+- pkg:cargo/toml_datetime@0.7.2

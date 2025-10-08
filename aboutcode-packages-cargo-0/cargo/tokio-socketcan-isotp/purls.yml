@@ -1,0 +1,2 @@
+- pkg:cargo/tokio-socketcan-isotp@0.1.0
+- pkg:cargo/tokio-socketcan-isotp@0.2.0

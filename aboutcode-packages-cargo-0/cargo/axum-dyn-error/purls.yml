@@ -1,0 +1,2 @@
+- pkg:cargo/axum-dyn-error@0.0.0
+- pkg:cargo/axum-dyn-error@0.1.0

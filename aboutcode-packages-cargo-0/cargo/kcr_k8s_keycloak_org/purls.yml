@@ -1,0 +1,16 @@
+- pkg:cargo/kcr_k8s_keycloak_org@1.20250403.174425
+- pkg:cargo/kcr_k8s_keycloak_org@1.20250410.174428
+- pkg:cargo/kcr_k8s_keycloak_org@1.20250417.174420
+- pkg:cargo/kcr_k8s_keycloak_org@1.20250424.174428
+- pkg:cargo/kcr_k8s_keycloak_org@1.20250515.174522
+- pkg:cargo/kcr_k8s_keycloak_org@1.20250522.174540
+- pkg:cargo/kcr_k8s_keycloak_org@1.20250626.174710
+- pkg:cargo/kcr_k8s_keycloak_org@1.20250731.175048
+- pkg:cargo/kcr_k8s_keycloak_org@1.20250814.174736
+- pkg:cargo/kcr_k8s_keycloak_org@1.20250821.174617
+- pkg:cargo/kcr_k8s_keycloak_org@1.20250828.174442
+- pkg:cargo/kcr_k8s_keycloak_org@1.20250904.174419
+- pkg:cargo/kcr_k8s_keycloak_org@2.20250911.174417
+- pkg:cargo/kcr_k8s_keycloak_org@2.20250918.174454
+- pkg:cargo/kcr_k8s_keycloak_org@2.20250925.174433
+- pkg:cargo/kcr_k8s_keycloak_org@2.20251002.174413

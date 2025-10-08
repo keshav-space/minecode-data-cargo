@@ -1,0 +1,12 @@
+- pkg:cargo/kcr_lambda_services_k8s_aws@1.20250401.204509
+- pkg:cargo/kcr_lambda_services_k8s_aws@1.20250415.204454
+- pkg:cargo/kcr_lambda_services_k8s_aws@1.20250422.204523
+- pkg:cargo/kcr_lambda_services_k8s_aws@1.20250513.204625
+- pkg:cargo/kcr_lambda_services_k8s_aws@1.20250520.204638
+- pkg:cargo/kcr_lambda_services_k8s_aws@1.20250603.204521
+- pkg:cargo/kcr_lambda_services_k8s_aws@1.20250826.204425
+- pkg:cargo/kcr_lambda_services_k8s_aws@1.20250902.204315
+- pkg:cargo/kcr_lambda_services_k8s_aws@2.20250909.204307
+- pkg:cargo/kcr_lambda_services_k8s_aws@2.20250916.204422
+- pkg:cargo/kcr_lambda_services_k8s_aws@2.20250923.204422
+- pkg:cargo/kcr_lambda_services_k8s_aws@2.20250930.204410

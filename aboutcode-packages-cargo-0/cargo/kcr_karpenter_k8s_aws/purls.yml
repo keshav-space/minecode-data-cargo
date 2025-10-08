@@ -1,0 +1,15 @@
+- pkg:cargo/kcr_karpenter_k8s_aws@1.20250330.193800
+- pkg:cargo/kcr_karpenter_k8s_aws@1.20250404.64756
+- pkg:cargo/kcr_karpenter_k8s_aws@1.20250411.64837
+- pkg:cargo/kcr_karpenter_k8s_aws@1.20250418.64819
+- pkg:cargo/kcr_karpenter_k8s_aws@1.20250425.64912
+- pkg:cargo/kcr_karpenter_k8s_aws@1.20250516.65041
+- pkg:cargo/kcr_karpenter_k8s_aws@1.20250523.65020
+- pkg:cargo/kcr_karpenter_k8s_aws@1.20250620.65154
+- pkg:cargo/kcr_karpenter_k8s_aws@1.20250815.65405
+- pkg:cargo/kcr_karpenter_k8s_aws@1.20250822.65155
+- pkg:cargo/kcr_karpenter_k8s_aws@1.20250829.64935
+- pkg:cargo/kcr_karpenter_k8s_aws@2.20250912.64807
+- pkg:cargo/kcr_karpenter_k8s_aws@2.20250919.64849
+- pkg:cargo/kcr_karpenter_k8s_aws@2.20250926.64928
+- pkg:cargo/kcr_karpenter_k8s_aws@2.20251003.64759

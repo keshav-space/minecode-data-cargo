@@ -1,0 +1,10 @@
+- pkg:cargo/kcr_mq_services_k8s_aws@1.20250403.52546
+- pkg:cargo/kcr_mq_services_k8s_aws@1.20250410.52603
+- pkg:cargo/kcr_mq_services_k8s_aws@1.20250417.52613
+- pkg:cargo/kcr_mq_services_k8s_aws@1.20250515.52755
+- pkg:cargo/kcr_mq_services_k8s_aws@1.20250522.52754
+- pkg:cargo/kcr_mq_services_k8s_aws@1.20250828.52631
+- pkg:cargo/kcr_mq_services_k8s_aws@2.20250911.52558
+- pkg:cargo/kcr_mq_services_k8s_aws@2.20250918.52502
+- pkg:cargo/kcr_mq_services_k8s_aws@2.20250925.52624
+- pkg:cargo/kcr_mq_services_k8s_aws@2.20251002.52514

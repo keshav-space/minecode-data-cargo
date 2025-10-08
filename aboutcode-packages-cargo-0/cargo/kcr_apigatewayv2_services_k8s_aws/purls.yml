@@ -1,0 +1,10 @@
+- pkg:cargo/kcr_apigatewayv2_services_k8s_aws@1.20250401.220943
+- pkg:cargo/kcr_apigatewayv2_services_k8s_aws@1.20250415.220930
+- pkg:cargo/kcr_apigatewayv2_services_k8s_aws@1.20250422.220932
+- pkg:cargo/kcr_apigatewayv2_services_k8s_aws@1.20250513.221009
+- pkg:cargo/kcr_apigatewayv2_services_k8s_aws@1.20250520.220947
+- pkg:cargo/kcr_apigatewayv2_services_k8s_aws@1.20250826.221018
+- pkg:cargo/kcr_apigatewayv2_services_k8s_aws@2.20250909.220855
+- pkg:cargo/kcr_apigatewayv2_services_k8s_aws@2.20250916.220909
+- pkg:cargo/kcr_apigatewayv2_services_k8s_aws@2.20250923.220914
+- pkg:cargo/kcr_apigatewayv2_services_k8s_aws@2.20250930.220923

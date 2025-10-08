@@ -1,0 +1,16 @@
+- pkg:cargo/kcr_k8s_nginx_org@1.20250330.154522
+- pkg:cargo/kcr_k8s_nginx_org@1.20250404.85024
+- pkg:cargo/kcr_k8s_nginx_org@1.20250411.85046
+- pkg:cargo/kcr_k8s_nginx_org@1.20250418.85028
+- pkg:cargo/kcr_k8s_nginx_org@1.20250516.85259
+- pkg:cargo/kcr_k8s_nginx_org@1.20250523.85249
+- pkg:cargo/kcr_k8s_nginx_org@1.20250620.85423
+- pkg:cargo/kcr_k8s_nginx_org@1.20250704.85428
+- pkg:cargo/kcr_k8s_nginx_org@1.20250801.85759
+- pkg:cargo/kcr_k8s_nginx_org@1.20250815.85408
+- pkg:cargo/kcr_k8s_nginx_org@1.20250822.85227
+- pkg:cargo/kcr_k8s_nginx_org@1.20250829.85106
+- pkg:cargo/kcr_k8s_nginx_org@2.20250912.85030
+- pkg:cargo/kcr_k8s_nginx_org@2.20250919.85039
+- pkg:cargo/kcr_k8s_nginx_org@2.20250926.85057
+- pkg:cargo/kcr_k8s_nginx_org@2.20251003.84940

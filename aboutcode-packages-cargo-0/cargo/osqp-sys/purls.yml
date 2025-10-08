@@ -1,0 +1,15 @@
+- pkg:cargo/osqp-sys@0.2.1-pre.1
+- pkg:cargo/osqp-sys@0.2.1-pre.2
+- pkg:cargo/osqp-sys@0.2.1-pre.3
+- pkg:cargo/osqp-sys@0.3.0
+- pkg:cargo/osqp-sys@0.3.1
+- pkg:cargo/osqp-sys@0.4.0
+- pkg:cargo/osqp-sys@0.4.1
+- pkg:cargo/osqp-sys@0.5.0
+- pkg:cargo/osqp-sys@0.6.0
+- pkg:cargo/osqp-sys@0.6.2
+- pkg:cargo/osqp-sys@0.6.2-pre
+- pkg:cargo/osqp-sys@0.6.3
+- pkg:cargo/osqp-sys@0.6.3-pre
+- pkg:cargo/osqp-sys@1.0.0
+- pkg:cargo/osqp-sys@1.0.1

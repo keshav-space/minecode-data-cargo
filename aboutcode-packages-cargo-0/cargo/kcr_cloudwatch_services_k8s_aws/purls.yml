@@ -1,0 +1,11 @@
+- pkg:cargo/kcr_cloudwatch_services_k8s_aws@1.20250402.183646
+- pkg:cargo/kcr_cloudwatch_services_k8s_aws@1.20250409.183723
+- pkg:cargo/kcr_cloudwatch_services_k8s_aws@1.20250416.183723
+- pkg:cargo/kcr_cloudwatch_services_k8s_aws@1.20250514.183711
+- pkg:cargo/kcr_cloudwatch_services_k8s_aws@1.20250521.183850
+- pkg:cargo/kcr_cloudwatch_services_k8s_aws@1.20250604.183947
+- pkg:cargo/kcr_cloudwatch_services_k8s_aws@1.20250827.183627
+- pkg:cargo/kcr_cloudwatch_services_k8s_aws@2.20250910.183734
+- pkg:cargo/kcr_cloudwatch_services_k8s_aws@2.20250917.183749
+- pkg:cargo/kcr_cloudwatch_services_k8s_aws@2.20250924.183601
+- pkg:cargo/kcr_cloudwatch_services_k8s_aws@2.20251001.185024
