@@ -1,0 +1,15 @@
+- pkg:cargo/cranelift-srcgen@0.119.0
+- pkg:cargo/cranelift-srcgen@0.119.1
+- pkg:cargo/cranelift-srcgen@0.120.0
+- pkg:cargo/cranelift-srcgen@0.120.1
+- pkg:cargo/cranelift-srcgen@0.120.2
+- pkg:cargo/cranelift-srcgen@0.121.0
+- pkg:cargo/cranelift-srcgen@0.121.1
+- pkg:cargo/cranelift-srcgen@0.121.2
+- pkg:cargo/cranelift-srcgen@0.122.0
+- pkg:cargo/cranelift-srcgen@0.123.0
+- pkg:cargo/cranelift-srcgen@0.123.1
+- pkg:cargo/cranelift-srcgen@0.123.2
+- pkg:cargo/cranelift-srcgen@0.124.0
+- pkg:cargo/cranelift-srcgen@0.124.1
+- pkg:cargo/cranelift-srcgen@0.124.2

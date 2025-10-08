@@ -1,0 +1,4 @@
+- pkg:cargo/simdjson-sys@0.1.0-alpha
+- pkg:cargo/simdjson-sys@0.1.0-alpha.1
+- pkg:cargo/simdjson-sys@0.1.0-alpha.2
+- pkg:cargo/simdjson-sys@0.3.0-alpha

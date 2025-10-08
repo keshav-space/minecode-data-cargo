@@ -1,0 +1,4 @@
+- pkg:cargo/simd_cesu8@0.1.0
+- pkg:cargo/simd_cesu8@1.0.0
+- pkg:cargo/simd_cesu8@1.0.1
+- pkg:cargo/simd_cesu8@1.1.0

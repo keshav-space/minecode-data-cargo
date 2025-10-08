@@ -1,0 +1,16 @@
+- pkg:cargo/simple-log-derive@1.7.0
+- pkg:cargo/simple-log-derive@1.7.1
+- pkg:cargo/simple-log-derive@1.7.2
+- pkg:cargo/simple-log-derive@1.7.3
+- pkg:cargo/simple-log-derive@1.8.0
+- pkg:cargo/simple-log-derive@1.8.1
+- pkg:cargo/simple-log-derive@1.8.2
+- pkg:cargo/simple-log-derive@1.9.0
+- pkg:cargo/simple-log-derive@2.0.0
+- pkg:cargo/simple-log-derive@2.1.0
+- pkg:cargo/simple-log-derive@2.1.1
+- pkg:cargo/simple-log-derive@2.1.2
+- pkg:cargo/simple-log-derive@2.2.0
+- pkg:cargo/simple-log-derive@2.3.0
+- pkg:cargo/simple-log-derive@2.3.1
+- pkg:cargo/simple-log-derive@2.4.0

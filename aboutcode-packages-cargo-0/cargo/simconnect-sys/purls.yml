@@ -1,0 +1,8 @@
+- pkg:cargo/simconnect-sys@0.1.0
+- pkg:cargo/simconnect-sys@0.22.3
+- pkg:cargo/simconnect-sys@0.23.1
+- pkg:cargo/simconnect-sys@0.23.1-latest.0
+- pkg:cargo/simconnect-sys@0.23.1-latest.1
+- pkg:cargo/simconnect-sys@0.23.1-latest.2
+- pkg:cargo/simconnect-sys@0.23.2-pre.1
+- pkg:cargo/simconnect-sys@0.24.3

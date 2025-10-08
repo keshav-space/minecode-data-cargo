@@ -1,0 +1,11 @@
+- pkg:cargo/simple_pg_pool@0.12.1
+- pkg:cargo/simple_pg_pool@0.13.0
+- pkg:cargo/simple_pg_pool@0.14.0
+- pkg:cargo/simple_pg_pool@0.15.0
+- pkg:cargo/simple_pg_pool@0.15.1
+- pkg:cargo/simple_pg_pool@0.15.2
+- pkg:cargo/simple_pg_pool@0.16.0
+- pkg:cargo/simple_pg_pool@0.16.1
+- pkg:cargo/simple_pg_pool@0.17.0
+- pkg:cargo/simple_pg_pool@0.17.1
+- pkg:cargo/simple_pg_pool@0.17.2

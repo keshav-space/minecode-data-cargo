@@ -1,0 +1,3 @@
+- pkg:cargo/lcd_1602_i2c@0.2.0
+- pkg:cargo/lcd_1602_i2c@0.2.1
+- pkg:cargo/lcd_1602_i2c@0.3.0

@@ -1,0 +1,7 @@
+- pkg:cargo/cranelift-egraph@0.89.0
+- pkg:cargo/cranelift-egraph@0.89.1
+- pkg:cargo/cranelift-egraph@0.89.2
+- pkg:cargo/cranelift-egraph@0.90.0
+- pkg:cargo/cranelift-egraph@0.90.1
+- pkg:cargo/cranelift-egraph@0.91.0
+- pkg:cargo/cranelift-egraph@0.91.1

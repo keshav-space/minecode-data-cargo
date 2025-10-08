@@ -1,0 +1,7 @@
+- pkg:cargo/croissant@0.0.0-alpha
+- pkg:cargo/croissant@0.0.0-beta
+- pkg:cargo/croissant@0.0.0-delta
+- pkg:cargo/croissant@0.0.0-gamma
+- pkg:cargo/croissant@0.0.1
+- pkg:cargo/croissant@0.0.2
+- pkg:cargo/croissant@0.0.3

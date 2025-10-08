@@ -1,0 +1,4 @@
+- pkg:cargo/simdjson-rust@0.2.0-alpha
+- pkg:cargo/simdjson-rust@0.3.0-alpha
+- pkg:cargo/simdjson-rust@0.3.0-alpha.1
+- pkg:cargo/simdjson-rust@0.3.0-alpha.2

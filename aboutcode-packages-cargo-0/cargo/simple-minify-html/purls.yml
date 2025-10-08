@@ -1,0 +1,4 @@
+- pkg:cargo/simple-minify-html@0.16.0
+- pkg:cargo/simple-minify-html@0.17.0
+- pkg:cargo/simple-minify-html@0.17.1
+- pkg:cargo/simple-minify-html@0.17.2

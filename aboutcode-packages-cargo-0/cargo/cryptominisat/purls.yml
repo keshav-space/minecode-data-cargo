@@ -1,0 +1,5 @@
+- pkg:cargo/cryptominisat@0.1.0
+- pkg:cargo/cryptominisat@5.0.1
+- pkg:cargo/cryptominisat@5.6.3
+- pkg:cargo/cryptominisat@5.8.0
+- pkg:cargo/cryptominisat@5.8.0-rust1

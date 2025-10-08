@@ -1,0 +1,5 @@
+- pkg:cargo/create_broken_files@1.0.0
+- pkg:cargo/create_broken_files@2.0.0
+- pkg:cargo/create_broken_files@3.0.0
+- pkg:cargo/create_broken_files@3.0.1
+- pkg:cargo/create_broken_files@3.1.0

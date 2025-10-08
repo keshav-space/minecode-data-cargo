@@ -1,0 +1,8 @@
+- pkg:cargo/tket-qsystem@0.0.0
+- pkg:cargo/tket-qsystem@0.17.0
+- pkg:cargo/tket-qsystem@0.18.0
+- pkg:cargo/tket-qsystem@0.18.1
+- pkg:cargo/tket-qsystem@0.19.0
+- pkg:cargo/tket-qsystem@0.20.0
+- pkg:cargo/tket-qsystem@0.20.1
+- pkg:cargo/tket-qsystem@0.21.0

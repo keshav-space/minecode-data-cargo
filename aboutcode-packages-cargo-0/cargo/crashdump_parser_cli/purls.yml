@@ -1,0 +1,3 @@
+- pkg:cargo/crashdump_parser_cli@0.1.0
+- pkg:cargo/crashdump_parser_cli@0.2.0
+- pkg:cargo/crashdump_parser_cli@0.3.0

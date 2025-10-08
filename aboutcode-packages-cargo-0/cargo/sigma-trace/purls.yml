@@ -1,0 +1,5 @@
+- pkg:cargo/sigma-trace@0.0.1
+- pkg:cargo/sigma-trace@0.0.1-b
+- pkg:cargo/sigma-trace@0.0.1-c
+- pkg:cargo/sigma-trace@0.0.2
+- pkg:cargo/sigma-trace@0.0.3

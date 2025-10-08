@@ -1,0 +1,5 @@
+- pkg:cargo/simd-r-drive-muxio-service-definition@0.10.0-alpha
+- pkg:cargo/simd-r-drive-muxio-service-definition@0.11.0-alpha
+- pkg:cargo/simd-r-drive-muxio-service-definition@0.7.0-alpha
+- pkg:cargo/simd-r-drive-muxio-service-definition@0.8.0-alpha
+- pkg:cargo/simd-r-drive-muxio-service-definition@0.9.0-alpha

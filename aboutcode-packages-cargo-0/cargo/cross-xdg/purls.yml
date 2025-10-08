@@ -1,0 +1,6 @@
+- pkg:cargo/cross-xdg@0.1.0
+- pkg:cargo/cross-xdg@0.1.1
+- pkg:cargo/cross-xdg@0.2.0
+- pkg:cargo/cross-xdg@0.3.0
+- pkg:cargo/cross-xdg@1.0.0
+- pkg:cargo/cross-xdg@2.0.0

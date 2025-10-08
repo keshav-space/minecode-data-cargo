@@ -1,0 +1,4 @@
+- pkg:cargo/crypto_secretbox@0.0.0
+- pkg:cargo/crypto_secretbox@0.1.0
+- pkg:cargo/crypto_secretbox@0.1.1
+- pkg:cargo/crypto_secretbox@0.2.0-pre.0

@@ -1,0 +1,4 @@
+- pkg:cargo/croissant-macro@0.0.0-alpha
+- pkg:cargo/croissant-macro@0.0.0-beta
+- pkg:cargo/croissant-macro@0.0.1
+- pkg:cargo/croissant-macro@0.0.2
