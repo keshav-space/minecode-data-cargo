@@ -3,3 +3,4 @@
 - pkg:cargo/wasmrun@0.10.2
 - pkg:cargo/wasmrun@0.11.3
 - pkg:cargo/wasmrun@0.12.0
+- pkg:cargo/wasmrun@0.12.1

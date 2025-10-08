@@ -40,6 +40,7 @@
 - pkg:cargo/pallet-root-offences@39.0.0
 - pkg:cargo/pallet-root-offences@4.0.0
 - pkg:cargo/pallet-root-offences@40.0.0
+- pkg:cargo/pallet-root-offences@41.0.0
 - pkg:cargo/pallet-root-offences@5.0.0
 - pkg:cargo/pallet-root-offences@6.0.0
 - pkg:cargo/pallet-root-offences@7.0.0

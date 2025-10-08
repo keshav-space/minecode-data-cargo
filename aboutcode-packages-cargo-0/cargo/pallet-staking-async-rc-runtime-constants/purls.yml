@@ -1,4 +1,5 @@
 - pkg:cargo/pallet-staking-async-rc-runtime-constants@0.0.0
 - pkg:cargo/pallet-staking-async-rc-runtime-constants@0.2.0
 - pkg:cargo/pallet-staking-async-rc-runtime-constants@0.3.0
+- pkg:cargo/pallet-staking-async-rc-runtime-constants@0.3.1
 - pkg:cargo/pallet-staking-async-rc-runtime-constants@0.4.0
