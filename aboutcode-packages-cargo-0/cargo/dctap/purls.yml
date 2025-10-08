@@ -6,6 +6,7 @@
 - pkg:cargo/dctap@0.1.102
 - pkg:cargo/dctap@0.1.109
 - pkg:cargo/dctap@0.1.111
+- pkg:cargo/dctap@0.1.119
 - pkg:cargo/dctap@0.1.14
 - pkg:cargo/dctap@0.1.15
 - pkg:cargo/dctap@0.1.16
