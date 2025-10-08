@@ -8,3 +8,4 @@
 - pkg:cargo/webrust-macros@0.9.0
 - pkg:cargo/webrust-macros@1.0.0
 - pkg:cargo/webrust-macros@1.1.0
+- pkg:cargo/webrust-macros@1.2.0
