@@ -1,0 +1,17 @@
+- pkg:cargo/time-tz@0.1.0
+- pkg:cargo/time-tz@0.2.0
+- pkg:cargo/time-tz@0.2.1
+- pkg:cargo/time-tz@0.3.0
+- pkg:cargo/time-tz@0.3.1
+- pkg:cargo/time-tz@0.4.1
+- pkg:cargo/time-tz@0.4.2
+- pkg:cargo/time-tz@0.5.2
+- pkg:cargo/time-tz@0.6.0
+- pkg:cargo/time-tz@1.0.0
+- pkg:cargo/time-tz@1.0.0-alpha-1
+- pkg:cargo/time-tz@1.0.1
+- pkg:cargo/time-tz@1.0.2
+- pkg:cargo/time-tz@1.0.3
+- pkg:cargo/time-tz@2.0.0
+- pkg:cargo/time-tz@3.0.0-rc.3.0.0
+- pkg:cargo/time-tz@3.0.0-rc.5.0.0

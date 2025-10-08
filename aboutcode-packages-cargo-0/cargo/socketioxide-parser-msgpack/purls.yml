@@ -1,0 +1,5 @@
+- pkg:cargo/socketioxide-parser-msgpack@0.15.0
+- pkg:cargo/socketioxide-parser-msgpack@0.15.1
+- pkg:cargo/socketioxide-parser-msgpack@0.15.2
+- pkg:cargo/socketioxide-parser-msgpack@0.16.0
+- pkg:cargo/socketioxide-parser-msgpack@0.17.0

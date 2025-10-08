@@ -1,0 +1,4 @@
+- pkg:cargo/solana-feature-set-interface@0.0.0
+- pkg:cargo/solana-feature-set-interface@3.0.0
+- pkg:cargo/solana-feature-set-interface@4.0.0
+- pkg:cargo/solana-feature-set-interface@4.0.1

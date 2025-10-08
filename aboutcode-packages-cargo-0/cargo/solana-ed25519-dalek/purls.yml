@@ -1,0 +1,2 @@
+- pkg:cargo/solana-ed25519-dalek@0.1.0
+- pkg:cargo/solana-ed25519-dalek@0.2.0

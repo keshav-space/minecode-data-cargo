@@ -1,0 +1,8 @@
+- pkg:cargo/pyspark-arrow-rs@0.2.0
+- pkg:cargo/pyspark-arrow-rs@0.2.1
+- pkg:cargo/pyspark-arrow-rs@0.3.0
+- pkg:cargo/pyspark-arrow-rs@0.4.0-rc
+- pkg:cargo/pyspark-arrow-rs@0.4.0-rc1
+- pkg:cargo/pyspark-arrow-rs@0.4.0-rc2
+- pkg:cargo/pyspark-arrow-rs@0.4.0-rc3
+- pkg:cargo/pyspark-arrow-rs@0.4.1

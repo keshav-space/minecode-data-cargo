@@ -1,0 +1,9 @@
+- pkg:cargo/otter-daemon@0.5.1
+- pkg:cargo/otter-daemon@0.6.0
+- pkg:cargo/otter-daemon@0.7.0
+- pkg:cargo/otter-daemon@0.7.1
+- pkg:cargo/otter-daemon@0.7.3
+- pkg:cargo/otter-daemon@1.0.0
+- pkg:cargo/otter-daemon@1.1.0
+- pkg:cargo/otter-daemon@1.2.0
+- pkg:cargo/otter-daemon@1.2.1

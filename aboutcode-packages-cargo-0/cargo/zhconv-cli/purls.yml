@@ -1,0 +1,10 @@
+- pkg:cargo/zhconv-cli@0.1.0
+- pkg:cargo/zhconv-cli@0.1.0-alpha
+- pkg:cargo/zhconv-cli@0.1.0-beta
+- pkg:cargo/zhconv-cli@0.1.0-rc
+- pkg:cargo/zhconv-cli@0.2.0-beta
+- pkg:cargo/zhconv-cli@0.3.0
+- pkg:cargo/zhconv-cli@0.3.0-beta
+- pkg:cargo/zhconv-cli@0.3.1
+- pkg:cargo/zhconv-cli@0.3.2
+- pkg:cargo/zhconv-cli@0.3.2-3

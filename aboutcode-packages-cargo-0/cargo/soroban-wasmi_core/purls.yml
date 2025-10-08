@@ -1,0 +1,4 @@
+- pkg:cargo/soroban-wasmi_core@0.1.0
+- pkg:cargo/soroban-wasmi_core@0.16.0-soroban0
+- pkg:cargo/soroban-wasmi_core@0.16.0-soroban1
+- pkg:cargo/soroban-wasmi_core@0.16.0-soroban2

@@ -1,0 +1,9 @@
+- pkg:cargo/ffmpeg-sys-the-third@1.0.0%2Bffmpeg-5.1.2
+- pkg:cargo/ffmpeg-sys-the-third@1.0.1%2Bffmpeg-5.1.2
+- pkg:cargo/ffmpeg-sys-the-third@1.0.2%2Bffmpeg-5.1.2
+- pkg:cargo/ffmpeg-sys-the-third@1.1.0%2Bffmpeg-6.0.0
+- pkg:cargo/ffmpeg-sys-the-third@1.1.1%2Bffmpeg-6.0
+- pkg:cargo/ffmpeg-sys-the-third@2.0.0%2Bffmpeg-7.0
+- pkg:cargo/ffmpeg-sys-the-third@3.0.0%2Bffmpeg-7.1
+- pkg:cargo/ffmpeg-sys-the-third@3.0.1%2Bffmpeg-7.1
+- pkg:cargo/ffmpeg-sys-the-third@4.0.0%2Bffmpeg-8.0

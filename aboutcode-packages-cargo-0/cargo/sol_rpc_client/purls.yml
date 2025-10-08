@@ -1,0 +1,5 @@
+- pkg:cargo/sol_rpc_client@0.1.0
+- pkg:cargo/sol_rpc_client@0.2.0
+- pkg:cargo/sol_rpc_client@1.0.0
+- pkg:cargo/sol_rpc_client@2.0.0
+- pkg:cargo/sol_rpc_client@3.0.0

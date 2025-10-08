@@ -1,0 +1,5 @@
+- pkg:cargo/ffmpeg4-sys@4.2.1
+- pkg:cargo/ffmpeg4-sys@4.2.1%2B1
+- pkg:cargo/ffmpeg4-sys@4.2.2
+- pkg:cargo/ffmpeg4-sys@4.3.0-pre.0
+- pkg:cargo/ffmpeg4-sys@4.3.0-pre.1

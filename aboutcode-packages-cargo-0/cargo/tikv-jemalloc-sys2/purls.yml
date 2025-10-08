@@ -1,0 +1,2 @@
+- pkg:cargo/tikv-jemalloc-sys2@0.6.1%2B5.3.0-1-g298687593109d2a574b4d6db33025f935fd5e974
+- pkg:cargo/tikv-jemalloc-sys2@0.6.2%2B5.3.0-1-g298687593109d2a574b4d6db33025f935fd5e974

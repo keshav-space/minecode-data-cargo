@@ -1,0 +1,4 @@
+- pkg:cargo/ffi-opaque@0.1.0
+- pkg:cargo/ffi-opaque@1.0.0
+- pkg:cargo/ffi-opaque@2.0.0
+- pkg:cargo/ffi-opaque@2.0.1

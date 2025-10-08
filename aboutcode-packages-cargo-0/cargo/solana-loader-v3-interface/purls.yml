@@ -1,0 +1,9 @@
+- pkg:cargo/solana-loader-v3-interface@0.0.1
+- pkg:cargo/solana-loader-v3-interface@0.0.2
+- pkg:cargo/solana-loader-v3-interface@2.2.0
+- pkg:cargo/solana-loader-v3-interface@3.0.0
+- pkg:cargo/solana-loader-v3-interface@4.0.0
+- pkg:cargo/solana-loader-v3-interface@4.0.1
+- pkg:cargo/solana-loader-v3-interface@5.0.0
+- pkg:cargo/solana-loader-v3-interface@6.0.0
+- pkg:cargo/solana-loader-v3-interface@6.1.0

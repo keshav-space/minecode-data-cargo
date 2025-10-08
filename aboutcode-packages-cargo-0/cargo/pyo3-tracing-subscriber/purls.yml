@@ -1,0 +1,12 @@
+- pkg:cargo/pyo3-tracing-subscriber@0.1.0
+- pkg:cargo/pyo3-tracing-subscriber@0.1.0-rc.0
+- pkg:cargo/pyo3-tracing-subscriber@0.1.0-rc.1
+- pkg:cargo/pyo3-tracing-subscriber@0.1.1
+- pkg:cargo/pyo3-tracing-subscriber@0.1.1-rc.0
+- pkg:cargo/pyo3-tracing-subscriber@0.1.1-rc.1
+- pkg:cargo/pyo3-tracing-subscriber@0.1.2-dev.0
+- pkg:cargo/pyo3-tracing-subscriber@0.1.2-dev.1
+- pkg:cargo/pyo3-tracing-subscriber@0.1.2-rc.0
+- pkg:cargo/pyo3-tracing-subscriber@0.1.4
+- pkg:cargo/pyo3-tracing-subscriber@0.2.0
+- pkg:cargo/pyo3-tracing-subscriber@0.2.0-rc.0

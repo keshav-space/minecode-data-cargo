@@ -1,0 +1,4 @@
+- pkg:cargo/solana-payments@0.2.0
+- pkg:cargo/solana-payments@0.3.0
+- pkg:cargo/solana-payments@0.3.1
+- pkg:cargo/solana-payments@1.0.0

@@ -1,0 +1,6 @@
+- pkg:cargo/sophon-wasm@0.15.3
+- pkg:cargo/sophon-wasm@0.15.30
+- pkg:cargo/sophon-wasm@0.15.31
+- pkg:cargo/sophon-wasm@0.18.0
+- pkg:cargo/sophon-wasm@0.18.1
+- pkg:cargo/sophon-wasm@0.19.0

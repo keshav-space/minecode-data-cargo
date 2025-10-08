@@ -1,0 +1,13 @@
+- pkg:cargo/solana-client-test@1.10.0
+- pkg:cargo/solana-client-test@1.10.1
+- pkg:cargo/solana-client-test@1.9.0
+- pkg:cargo/solana-client-test@1.9.1
+- pkg:cargo/solana-client-test@1.9.12
+- pkg:cargo/solana-client-test@1.9.2
+- pkg:cargo/solana-client-test@1.9.3
+- pkg:cargo/solana-client-test@1.9.4
+- pkg:cargo/solana-client-test@1.9.5
+- pkg:cargo/solana-client-test@1.9.6
+- pkg:cargo/solana-client-test@1.9.7
+- pkg:cargo/solana-client-test@1.9.8
+- pkg:cargo/solana-client-test@1.9.9

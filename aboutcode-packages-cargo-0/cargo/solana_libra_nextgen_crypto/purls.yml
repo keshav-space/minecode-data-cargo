@@ -1,0 +1,5 @@
+- pkg:cargo/solana_libra_nextgen_crypto@0.0.0
+- pkg:cargo/solana_libra_nextgen_crypto@0.0.0-sol10
+- pkg:cargo/solana_libra_nextgen_crypto@0.0.0-sol13
+- pkg:cargo/solana_libra_nextgen_crypto@0.0.0-sol14
+- pkg:cargo/solana_libra_nextgen_crypto@0.0.0-sol15

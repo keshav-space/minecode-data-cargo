@@ -1,0 +1,8 @@
+- pkg:cargo/soapysdr-sys@0.5.0
+- pkg:cargo/soapysdr-sys@0.6.0
+- pkg:cargo/soapysdr-sys@0.7.0
+- pkg:cargo/soapysdr-sys@0.7.1
+- pkg:cargo/soapysdr-sys@0.7.2
+- pkg:cargo/soapysdr-sys@0.7.3
+- pkg:cargo/soapysdr-sys@0.7.4
+- pkg:cargo/soapysdr-sys@0.7.5

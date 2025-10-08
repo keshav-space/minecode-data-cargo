@@ -1,0 +1,5 @@
+- pkg:cargo/otlp-sigv4-client@0.1.0
+- pkg:cargo/otlp-sigv4-client@0.10.0
+- pkg:cargo/otlp-sigv4-client@0.11.0
+- pkg:cargo/otlp-sigv4-client@0.12.0
+- pkg:cargo/otlp-sigv4-client@0.3.0

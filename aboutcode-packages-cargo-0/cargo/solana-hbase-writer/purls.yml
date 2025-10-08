@@ -1,0 +1,4 @@
+- pkg:cargo/solana-hbase-writer@2.0.11
+- pkg:cargo/solana-hbase-writer@2.0.14
+- pkg:cargo/solana-hbase-writer@2.0.15
+- pkg:cargo/solana-hbase-writer@2.1.2

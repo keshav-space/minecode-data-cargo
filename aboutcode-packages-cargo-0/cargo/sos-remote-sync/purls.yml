@@ -1,0 +1,4 @@
+- pkg:cargo/sos-remote-sync@0.16.0
+- pkg:cargo/sos-remote-sync@0.16.1
+- pkg:cargo/sos-remote-sync@0.17.0
+- pkg:cargo/sos-remote-sync@0.17.1

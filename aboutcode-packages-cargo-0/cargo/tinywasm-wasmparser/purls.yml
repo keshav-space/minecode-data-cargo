@@ -1,0 +1,5 @@
+- pkg:cargo/tinywasm-wasmparser@0.200.0
+- pkg:cargo/tinywasm-wasmparser@0.200.1
+- pkg:cargo/tinywasm-wasmparser@0.200.2
+- pkg:cargo/tinywasm-wasmparser@0.200.3
+- pkg:cargo/tinywasm-wasmparser@0.202.0

@@ -1,0 +1,14 @@
+- pkg:cargo/eznacl@1.0.0
+- pkg:cargo/eznacl@2.0.0
+- pkg:cargo/eznacl@2.1.0
+- pkg:cargo/eznacl@2.1.1
+- pkg:cargo/eznacl@3.1.1
+- pkg:cargo/eznacl@3.2.1
+- pkg:cargo/eznacl@3.2.2
+- pkg:cargo/eznacl@3.2.3
+- pkg:cargo/eznacl@3.2.4
+- pkg:cargo/eznacl@3.2.5
+- pkg:cargo/eznacl@3.2.6
+- pkg:cargo/eznacl@3.2.7
+- pkg:cargo/eznacl@3.2.8
+- pkg:cargo/eznacl@3.2.9

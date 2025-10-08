@@ -1,0 +1,3 @@
+- pkg:cargo/solana-config-interface@0.0.0
+- pkg:cargo/solana-config-interface@1.0.0
+- pkg:cargo/solana-config-interface@2.0.0

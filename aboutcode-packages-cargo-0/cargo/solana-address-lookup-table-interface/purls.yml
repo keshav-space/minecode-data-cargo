@@ -1,0 +1,6 @@
+- pkg:cargo/solana-address-lookup-table-interface@0.0.1
+- pkg:cargo/solana-address-lookup-table-interface@0.0.2
+- pkg:cargo/solana-address-lookup-table-interface@2.2.0
+- pkg:cargo/solana-address-lookup-table-interface@2.2.1
+- pkg:cargo/solana-address-lookup-table-interface@2.2.2
+- pkg:cargo/solana-address-lookup-table-interface@3.0.0

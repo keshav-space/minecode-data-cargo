@@ -1,0 +1,10 @@
+- pkg:cargo/solana-accountsdb-plugin-kafka@0.1.0
+- pkg:cargo/solana-accountsdb-plugin-kafka@0.1.1
+- pkg:cargo/solana-accountsdb-plugin-kafka@0.1.2
+- pkg:cargo/solana-accountsdb-plugin-kafka@0.1.3%2Bsolana.1.10.0
+- pkg:cargo/solana-accountsdb-plugin-kafka@0.1.3%2Bsolana.1.10.11
+- pkg:cargo/solana-accountsdb-plugin-kafka@0.1.3%2Bsolana.1.10.2
+- pkg:cargo/solana-accountsdb-plugin-kafka@0.1.3%2Bsolana.1.9.11
+- pkg:cargo/solana-accountsdb-plugin-kafka@0.1.3%2Bsolana.1.9.12
+- pkg:cargo/solana-accountsdb-plugin-kafka@0.1.3%2Bsolana.1.9.9
+- pkg:cargo/solana-accountsdb-plugin-kafka@0.1.4%2Bsolana.1.11.3

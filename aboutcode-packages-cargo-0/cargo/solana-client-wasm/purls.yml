@@ -1,0 +1,10 @@
+- pkg:cargo/solana-client-wasm@1.11.0-alpha
+- pkg:cargo/solana-client-wasm@1.11.0-beta
+- pkg:cargo/solana-client-wasm@1.14.11
+- pkg:cargo/solana-client-wasm@1.14.15
+- pkg:cargo/solana-client-wasm@1.14.16
+- pkg:cargo/solana-client-wasm@1.16.1
+- pkg:cargo/solana-client-wasm@1.16.5
+- pkg:cargo/solana-client-wasm@1.17.2
+- pkg:cargo/solana-client-wasm@1.17.4
+- pkg:cargo/solana-client-wasm@1.18.0

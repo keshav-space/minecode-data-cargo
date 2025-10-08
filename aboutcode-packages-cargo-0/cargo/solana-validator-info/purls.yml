@@ -1,0 +1,9 @@
+- pkg:cargo/solana-validator-info@0.16.3
+- pkg:cargo/solana-validator-info@0.16.6
+- pkg:cargo/solana-validator-info@0.17.0
+- pkg:cargo/solana-validator-info@0.17.1
+- pkg:cargo/solana-validator-info@0.17.2
+- pkg:cargo/solana-validator-info@0.18.0
+- pkg:cargo/solana-validator-info@0.18.0-pre1
+- pkg:cargo/solana-validator-info@0.18.0-pre2
+- pkg:cargo/solana-validator-info@0.18.1

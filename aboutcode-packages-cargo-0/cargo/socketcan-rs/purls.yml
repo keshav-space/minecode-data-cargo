@@ -1,0 +1,5 @@
+- pkg:cargo/socketcan-rs@0.2.6
+- pkg:cargo/socketcan-rs@0.3.0
+- pkg:cargo/socketcan-rs@0.3.0-b0
+- pkg:cargo/socketcan-rs@0.3.1
+- pkg:cargo/socketcan-rs@0.3.2

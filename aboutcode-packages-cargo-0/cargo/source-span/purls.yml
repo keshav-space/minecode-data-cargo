@@ -1,0 +1,17 @@
+- pkg:cargo/source-span@1.0.0
+- pkg:cargo/source-span@1.1.0
+- pkg:cargo/source-span@1.2.0
+- pkg:cargo/source-span@1.3.0
+- pkg:cargo/source-span@1.4.0
+- pkg:cargo/source-span@2.0.0
+- pkg:cargo/source-span@2.0.1
+- pkg:cargo/source-span@2.1.0
+- pkg:cargo/source-span@2.1.1
+- pkg:cargo/source-span@2.2.0
+- pkg:cargo/source-span@2.2.1
+- pkg:cargo/source-span@2.3.0
+- pkg:cargo/source-span@2.4.0
+- pkg:cargo/source-span@2.5.0
+- pkg:cargo/source-span@2.5.1
+- pkg:cargo/source-span@2.6.0
+- pkg:cargo/source-span@2.7.0

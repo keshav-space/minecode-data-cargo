@@ -1,0 +1,10 @@
+- pkg:cargo/tikv-jemalloc-sys@0.4.0%2B5.2.1
+- pkg:cargo/tikv-jemalloc-sys@0.4.1%2B5.2.1-patched
+- pkg:cargo/tikv-jemalloc-sys@0.4.2%2B5.2.1-patched.2
+- pkg:cargo/tikv-jemalloc-sys@0.4.3%2B5.2.1-patched.2
+- pkg:cargo/tikv-jemalloc-sys@0.5.0%2B5.3.0
+- pkg:cargo/tikv-jemalloc-sys@0.5.1%2B5.3.0-patched
+- pkg:cargo/tikv-jemalloc-sys@0.5.2%2B5.3.0-patched
+- pkg:cargo/tikv-jemalloc-sys@0.5.3%2B5.3.0-patched
+- pkg:cargo/tikv-jemalloc-sys@0.5.4%2B5.3.0-patched
+- pkg:cargo/tikv-jemalloc-sys@0.6.0%2B5.3.0-1-ge13ca993e8ccb9ba9847cc330696e02839f328f7

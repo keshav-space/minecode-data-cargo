@@ -1,0 +1,5 @@
+- pkg:cargo/icu_experimental_data@0.1.0
+- pkg:cargo/icu_experimental_data@0.1.1
+- pkg:cargo/icu_experimental_data@0.2.0-dev
+- pkg:cargo/icu_experimental_data@0.3.0
+- pkg:cargo/icu_experimental_data@0.3.0-beta2

@@ -1,0 +1,5 @@
+- pkg:cargo/solana-offchain-message@0.0.1
+- pkg:cargo/solana-offchain-message@0.0.2
+- pkg:cargo/solana-offchain-message@2.2.0
+- pkg:cargo/solana-offchain-message@2.2.1
+- pkg:cargo/solana-offchain-message@3.0.0

@@ -1,0 +1,2 @@
+- pkg:cargo/py-ed25519-bindings@0.1.1
+- pkg:cargo/py-ed25519-bindings@0.1.2

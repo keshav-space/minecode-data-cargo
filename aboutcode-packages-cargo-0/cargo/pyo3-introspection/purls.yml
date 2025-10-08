@@ -1,0 +1,2 @@
+- pkg:cargo/pyo3-introspection@0.26.0
+- pkg:cargo/pyo3-introspection@0.26.0-dev
