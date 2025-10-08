@@ -1,0 +1,16 @@
+- pkg:cargo/gst-plugin-cdg@0.0.0
+- pkg:cargo/gst-plugin-cdg@0.10.0
+- pkg:cargo/gst-plugin-cdg@0.11.0
+- pkg:cargo/gst-plugin-cdg@0.11.1
+- pkg:cargo/gst-plugin-cdg@0.12.0
+- pkg:cargo/gst-plugin-cdg@0.13.0
+- pkg:cargo/gst-plugin-cdg@0.13.3
+- pkg:cargo/gst-plugin-cdg@0.13.5
+- pkg:cargo/gst-plugin-cdg@0.13.6
+- pkg:cargo/gst-plugin-cdg@0.14.0
+- pkg:cargo/gst-plugin-cdg@0.6.0
+- pkg:cargo/gst-plugin-cdg@0.7.0
+- pkg:cargo/gst-plugin-cdg@0.7.1
+- pkg:cargo/gst-plugin-cdg@0.7.2
+- pkg:cargo/gst-plugin-cdg@0.8.0
+- pkg:cargo/gst-plugin-cdg@0.9.0

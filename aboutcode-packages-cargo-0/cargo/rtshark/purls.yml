@@ -1,0 +1,17 @@
+- pkg:cargo/rtshark@1.0.0
+- pkg:cargo/rtshark@2.0.0
+- pkg:cargo/rtshark@2.1.0
+- pkg:cargo/rtshark@2.1.1
+- pkg:cargo/rtshark@2.10.0
+- pkg:cargo/rtshark@2.2.0
+- pkg:cargo/rtshark@2.3.1
+- pkg:cargo/rtshark@2.4.0
+- pkg:cargo/rtshark@2.5.0
+- pkg:cargo/rtshark@2.6.0
+- pkg:cargo/rtshark@2.7.0
+- pkg:cargo/rtshark@2.7.1
+- pkg:cargo/rtshark@2.8.0
+- pkg:cargo/rtshark@2.9.0
+- pkg:cargo/rtshark@3.0.0
+- pkg:cargo/rtshark@3.1.0
+- pkg:cargo/rtshark@3.2.0

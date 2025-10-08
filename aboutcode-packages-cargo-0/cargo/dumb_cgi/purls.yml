@@ -1,0 +1,4 @@
+- pkg:cargo/dumb_cgi@0.5.0
+- pkg:cargo/dumb_cgi@0.6.0
+- pkg:cargo/dumb_cgi@0.7.0
+- pkg:cargo/dumb_cgi@0.8.0

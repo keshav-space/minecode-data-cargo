@@ -1,0 +1,4 @@
+- pkg:cargo/wiredtiger-sys@0.1.0
+- pkg:cargo/wiredtiger-sys@0.10.0-rc0
+- pkg:cargo/wiredtiger-sys@0.3.1-rc0
+- pkg:cargo/wiredtiger-sys@0.3.1-rc1

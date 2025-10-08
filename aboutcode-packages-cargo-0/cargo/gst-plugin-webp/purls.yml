@@ -1,0 +1,14 @@
+- pkg:cargo/gst-plugin-webp@0.0.0
+- pkg:cargo/gst-plugin-webp@0.10.0
+- pkg:cargo/gst-plugin-webp@0.11.0
+- pkg:cargo/gst-plugin-webp@0.11.1
+- pkg:cargo/gst-plugin-webp@0.12.0
+- pkg:cargo/gst-plugin-webp@0.13.0
+- pkg:cargo/gst-plugin-webp@0.13.4
+- pkg:cargo/gst-plugin-webp@0.13.5
+- pkg:cargo/gst-plugin-webp@0.14.0
+- pkg:cargo/gst-plugin-webp@0.14.1
+- pkg:cargo/gst-plugin-webp@0.7.0
+- pkg:cargo/gst-plugin-webp@0.7.2
+- pkg:cargo/gst-plugin-webp@0.8.0
+- pkg:cargo/gst-plugin-webp@0.9.0

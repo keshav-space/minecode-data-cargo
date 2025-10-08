@@ -1,0 +1,4 @@
+- pkg:cargo/sshd-openpgp-auth@0.1.0
+- pkg:cargo/sshd-openpgp-auth@0.2.0
+- pkg:cargo/sshd-openpgp-auth@0.2.1
+- pkg:cargo/sshd-openpgp-auth@0.3.0

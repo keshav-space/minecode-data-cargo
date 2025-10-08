@@ -1,0 +1,4 @@
+- pkg:cargo/windows-embedded-sys@0.0.0
+- pkg:cargo/windows-embedded-sys@0.0.1
+- pkg:cargo/windows-embedded-sys@0.0.2
+- pkg:cargo/windows-embedded-sys@0.1.0

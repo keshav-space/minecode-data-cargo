@@ -1,0 +1,4 @@
+- pkg:cargo/ssh-protocol@0.0.0
+- pkg:cargo/ssh-protocol@0.0.1-alpha
+- pkg:cargo/ssh-protocol@0.1.0-pre.0
+- pkg:cargo/ssh-protocol@0.3.0-rc.0

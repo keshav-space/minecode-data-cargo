@@ -1,0 +1,5 @@
+- pkg:cargo/playit-agent-core@0.15.13
+- pkg:cargo/playit-agent-core@0.15.14
+- pkg:cargo/playit-agent-core@0.16.0
+- pkg:cargo/playit-agent-core@0.17.0
+- pkg:cargo/playit-agent-core@0.17.5

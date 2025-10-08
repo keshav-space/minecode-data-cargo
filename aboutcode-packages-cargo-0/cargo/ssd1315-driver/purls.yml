@@ -1,0 +1,4 @@
+- pkg:cargo/ssd1315-driver@0.3.0
+- pkg:cargo/ssd1315-driver@0.3.5
+- pkg:cargo/ssd1315-driver@0.4.0
+- pkg:cargo/ssd1315-driver@0.4.1

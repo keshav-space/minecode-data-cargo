@@ -1,0 +1,4 @@
+- pkg:cargo/plrust-trusted-pgx@0.0.0-do-not-use
+- pkg:cargo/plrust-trusted-pgx@1.0.0
+- pkg:cargo/plrust-trusted-pgx@1.0.0-rc.0
+- pkg:cargo/plrust-trusted-pgx@1.0.0-rc.1

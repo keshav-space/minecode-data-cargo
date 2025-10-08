@@ -1,0 +1,12 @@
+- pkg:cargo/gstreamer-analytics-sys@0.0.0
+- pkg:cargo/gstreamer-analytics-sys@0.22.0
+- pkg:cargo/gstreamer-analytics-sys@0.22.3
+- pkg:cargo/gstreamer-analytics-sys@0.22.5
+- pkg:cargo/gstreamer-analytics-sys@0.22.6
+- pkg:cargo/gstreamer-analytics-sys@0.23.0
+- pkg:cargo/gstreamer-analytics-sys@0.23.2
+- pkg:cargo/gstreamer-analytics-sys@0.23.3
+- pkg:cargo/gstreamer-analytics-sys@0.23.4
+- pkg:cargo/gstreamer-analytics-sys@0.23.5
+- pkg:cargo/gstreamer-analytics-sys@0.24.0
+- pkg:cargo/gstreamer-analytics-sys@0.24.1

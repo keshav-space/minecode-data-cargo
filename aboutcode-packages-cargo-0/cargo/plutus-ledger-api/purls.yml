@@ -1,0 +1,16 @@
+- pkg:cargo/plutus-ledger-api@0.1.0
+- pkg:cargo/plutus-ledger-api@0.2.0
+- pkg:cargo/plutus-ledger-api@0.2.1
+- pkg:cargo/plutus-ledger-api@0.2.1-alpha
+- pkg:cargo/plutus-ledger-api@0.2.1-beta
+- pkg:cargo/plutus-ledger-api@1.0.0
+- pkg:cargo/plutus-ledger-api@2.0.0
+- pkg:cargo/plutus-ledger-api@2.1.0
+- pkg:cargo/plutus-ledger-api@3.0.0
+- pkg:cargo/plutus-ledger-api@3.0.1
+- pkg:cargo/plutus-ledger-api@3.0.1-beta
+- pkg:cargo/plutus-ledger-api@3.0.1-beta.2
+- pkg:cargo/plutus-ledger-api@3.0.2
+- pkg:cargo/plutus-ledger-api@3.0.2-beta.1
+- pkg:cargo/plutus-ledger-api@3.0.3
+- pkg:cargo/plutus-ledger-api@3.0.4

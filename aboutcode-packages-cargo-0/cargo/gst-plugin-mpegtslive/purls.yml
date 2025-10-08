@@ -1,0 +1,10 @@
+- pkg:cargo/gst-plugin-mpegtslive@0.0.0
+- pkg:cargo/gst-plugin-mpegtslive@0.13.0
+- pkg:cargo/gst-plugin-mpegtslive@0.13.1
+- pkg:cargo/gst-plugin-mpegtslive@0.13.2
+- pkg:cargo/gst-plugin-mpegtslive@0.13.3
+- pkg:cargo/gst-plugin-mpegtslive@0.13.4
+- pkg:cargo/gst-plugin-mpegtslive@0.13.5
+- pkg:cargo/gst-plugin-mpegtslive@0.13.6
+- pkg:cargo/gst-plugin-mpegtslive@0.14.0
+- pkg:cargo/gst-plugin-mpegtslive@0.14.1

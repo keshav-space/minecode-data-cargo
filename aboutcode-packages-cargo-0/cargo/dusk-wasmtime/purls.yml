@@ -1,0 +1,7 @@
+- pkg:cargo/dusk-wasmtime@14.0.0
+- pkg:cargo/dusk-wasmtime@15.0.1
+- pkg:cargo/dusk-wasmtime@17.0.0
+- pkg:cargo/dusk-wasmtime@18.0.1
+- pkg:cargo/dusk-wasmtime@19.0.2
+- pkg:cargo/dusk-wasmtime@20.0.0
+- pkg:cargo/dusk-wasmtime@21.0.0-alpha

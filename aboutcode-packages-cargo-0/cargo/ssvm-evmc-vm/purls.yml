@@ -1,0 +1,2 @@
+- pkg:cargo/ssvm-evmc-vm@6.3.1-rc3
+- pkg:cargo/ssvm-evmc-vm@7.4.0

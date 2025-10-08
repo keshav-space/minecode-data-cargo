@@ -1,0 +1,6 @@
+- pkg:cargo/duct_sh@0.1.0
+- pkg:cargo/duct_sh@0.13.4
+- pkg:cargo/duct_sh@0.13.5
+- pkg:cargo/duct_sh@0.13.6
+- pkg:cargo/duct_sh@0.13.7
+- pkg:cargo/duct_sh@1.0.0

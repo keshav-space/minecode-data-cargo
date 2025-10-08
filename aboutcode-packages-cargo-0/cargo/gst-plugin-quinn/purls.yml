@@ -1,0 +1,5 @@
+- pkg:cargo/gst-plugin-quinn@0.13.0
+- pkg:cargo/gst-plugin-quinn@0.13.3
+- pkg:cargo/gst-plugin-quinn@0.13.5
+- pkg:cargo/gst-plugin-quinn@0.14.0
+- pkg:cargo/gst-plugin-quinn@0.14.2

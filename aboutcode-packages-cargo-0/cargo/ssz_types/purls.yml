@@ -1,0 +1,16 @@
+- pkg:cargo/ssz_types@0.10.0
+- pkg:cargo/ssz_types@0.10.1
+- pkg:cargo/ssz_types@0.11.0
+- pkg:cargo/ssz_types@0.12.0
+- pkg:cargo/ssz_types@0.12.1
+- pkg:cargo/ssz_types@0.12.2
+- pkg:cargo/ssz_types@0.5.0
+- pkg:cargo/ssz_types@0.5.1
+- pkg:cargo/ssz_types@0.5.2
+- pkg:cargo/ssz_types@0.5.3
+- pkg:cargo/ssz_types@0.5.4
+- pkg:cargo/ssz_types@0.6.0
+- pkg:cargo/ssz_types@0.7.0
+- pkg:cargo/ssz_types@0.8.0
+- pkg:cargo/ssz_types@0.9.0
+- pkg:cargo/ssz_types@1.0.0-beta.0

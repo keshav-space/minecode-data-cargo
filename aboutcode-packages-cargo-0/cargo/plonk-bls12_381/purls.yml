@@ -1,0 +1,5 @@
+- pkg:cargo/plonk-bls12_381@0.0.1
+- pkg:cargo/plonk-bls12_381@0.0.2
+- pkg:cargo/plonk-bls12_381@0.1.0
+- pkg:cargo/plonk-bls12_381@0.1.1
+- pkg:cargo/plonk-bls12_381@0.2.0

@@ -1,0 +1,5 @@
+- pkg:cargo/hpke-rs-evercrypt@0.1.0
+- pkg:cargo/hpke-rs-evercrypt@0.1.1
+- pkg:cargo/hpke-rs-evercrypt@0.1.1-pre.1
+- pkg:cargo/hpke-rs-evercrypt@0.1.1-pre.2
+- pkg:cargo/hpke-rs-evercrypt@0.1.2

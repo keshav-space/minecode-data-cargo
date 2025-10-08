@@ -1,0 +1,4 @@
+- pkg:cargo/gst-plugin-gopbuffer@0.13.0
+- pkg:cargo/gst-plugin-gopbuffer@0.13.6
+- pkg:cargo/gst-plugin-gopbuffer@0.13.7
+- pkg:cargo/gst-plugin-gopbuffer@0.14.0

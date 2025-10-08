@@ -1,0 +1,5 @@
+- pkg:cargo/windows-kernel-build@0.1.0
+- pkg:cargo/windows-kernel-build@2.11.11
+- pkg:cargo/windows-kernel-build@2.11.12
+- pkg:cargo/windows-kernel-build@2.11.18
+- pkg:cargo/windows-kernel-build@2.11.19

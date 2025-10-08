@@ -1,0 +1,7 @@
+- pkg:cargo/gst-plugin-rtsp@0.12.0
+- pkg:cargo/gst-plugin-rtsp@0.12.4
+- pkg:cargo/gst-plugin-rtsp@0.13.0
+- pkg:cargo/gst-plugin-rtsp@0.13.3
+- pkg:cargo/gst-plugin-rtsp@0.13.5
+- pkg:cargo/gst-plugin-rtsp@0.13.6
+- pkg:cargo/gst-plugin-rtsp@0.14.0

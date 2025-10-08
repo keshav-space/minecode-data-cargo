@@ -1,0 +1,4 @@
+- pkg:cargo/win32-util@0.1.0
+- pkg:cargo/win32-util@0.2.0
+- pkg:cargo/win32-util@0.2.1-alpha.0
+- pkg:cargo/win32-util@0.2.1-alpha.1

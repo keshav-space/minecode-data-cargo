@@ -1,0 +1,4 @@
+- pkg:cargo/r_git@0.1.0
+- pkg:cargo/r_git@0.2.0
+- pkg:cargo/r_git@1.0.0
+- pkg:cargo/r_git@1.0.1

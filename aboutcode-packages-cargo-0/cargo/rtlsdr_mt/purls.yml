@@ -1,0 +1,6 @@
+- pkg:cargo/rtlsdr_mt@2.0.0
+- pkg:cargo/rtlsdr_mt@2.0.1
+- pkg:cargo/rtlsdr_mt@2.1.0
+- pkg:cargo/rtlsdr_mt@2.1.0-rc0
+- pkg:cargo/rtlsdr_mt@2.1.0-rc1
+- pkg:cargo/rtlsdr_mt@2.2.0
