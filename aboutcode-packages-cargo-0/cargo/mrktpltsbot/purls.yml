@@ -63,3 +63,5 @@
 - pkg:cargo/mrktpltsbot@2.1.0-rc.6
 - pkg:cargo/mrktpltsbot@2.1.0-rc.8
 - pkg:cargo/mrktpltsbot@2.1.0-rc.9
+- pkg:cargo/mrktpltsbot@2.1.1
+- pkg:cargo/mrktpltsbot@2.1.2
