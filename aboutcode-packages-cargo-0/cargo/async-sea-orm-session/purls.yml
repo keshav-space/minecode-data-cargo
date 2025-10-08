@@ -1,0 +1,8 @@
+- pkg:cargo/async-sea-orm-session@0.1.0
+- pkg:cargo/async-sea-orm-session@0.1.0%2Bdev0
+- pkg:cargo/async-sea-orm-session@0.1.0%2Bdev1
+- pkg:cargo/async-sea-orm-session@0.1.1
+- pkg:cargo/async-sea-orm-session@0.1.2
+- pkg:cargo/async-sea-orm-session@0.2.0
+- pkg:cargo/async-sea-orm-session@0.3.0
+- pkg:cargo/async-sea-orm-session@0.4.0

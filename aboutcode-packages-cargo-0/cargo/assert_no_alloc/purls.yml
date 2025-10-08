@@ -1,0 +1,4 @@
+- pkg:cargo/assert_no_alloc@1.0.0
+- pkg:cargo/assert_no_alloc@1.1.0
+- pkg:cargo/assert_no_alloc@1.1.1
+- pkg:cargo/assert_no_alloc@1.1.2

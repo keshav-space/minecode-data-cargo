@@ -1,0 +1,15 @@
+- pkg:cargo/async-tensorrt@0.1.0
+- pkg:cargo/async-tensorrt@0.1.1
+- pkg:cargo/async-tensorrt@0.1.3
+- pkg:cargo/async-tensorrt@0.2.0
+- pkg:cargo/async-tensorrt@0.3.0
+- pkg:cargo/async-tensorrt@0.4.0
+- pkg:cargo/async-tensorrt@0.5.1
+- pkg:cargo/async-tensorrt@0.5.2
+- pkg:cargo/async-tensorrt@0.5.3
+- pkg:cargo/async-tensorrt@0.5.4
+- pkg:cargo/async-tensorrt@0.6.0
+- pkg:cargo/async-tensorrt@0.7.0
+- pkg:cargo/async-tensorrt@0.8.0
+- pkg:cargo/async-tensorrt@0.9.0
+- pkg:cargo/async-tensorrt@0.9.1

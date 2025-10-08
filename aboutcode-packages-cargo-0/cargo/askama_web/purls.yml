@@ -1,0 +1,14 @@
+- pkg:cargo/askama_web@0.0.1-pre.0
+- pkg:cargo/askama_web@0.12.0
+- pkg:cargo/askama_web@0.12.0-pre.0
+- pkg:cargo/askama_web@0.12.1
+- pkg:cargo/askama_web@0.13.0
+- pkg:cargo/askama_web@0.13.0-pre.0
+- pkg:cargo/askama_web@0.13.1
+- pkg:cargo/askama_web@0.14.0
+- pkg:cargo/askama_web@0.14.1
+- pkg:cargo/askama_web@0.14.2
+- pkg:cargo/askama_web@0.14.3
+- pkg:cargo/askama_web@0.14.4
+- pkg:cargo/askama_web@0.14.5
+- pkg:cargo/askama_web@0.14.6

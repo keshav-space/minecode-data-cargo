@@ -1,0 +1,12 @@
+- pkg:cargo/swc_transform_common@0.1.0
+- pkg:cargo/swc_transform_common@0.1.1
+- pkg:cargo/swc_transform_common@1.0.0
+- pkg:cargo/swc_transform_common@1.0.1
+- pkg:cargo/swc_transform_common@2.0.0
+- pkg:cargo/swc_transform_common@3.0.0
+- pkg:cargo/swc_transform_common@4.0.0
+- pkg:cargo/swc_transform_common@5.0.0
+- pkg:cargo/swc_transform_common@6.0.0
+- pkg:cargo/swc_transform_common@7.0.0
+- pkg:cargo/swc_transform_common@7.0.1
+- pkg:cargo/swc_transform_common@8.0.0

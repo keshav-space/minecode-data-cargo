@@ -1,0 +1,11 @@
+- pkg:cargo/gw-bin@0.0.1-rc2
+- pkg:cargo/gw-bin@0.1.1
+- pkg:cargo/gw-bin@0.2.0
+- pkg:cargo/gw-bin@0.2.1
+- pkg:cargo/gw-bin@0.2.2
+- pkg:cargo/gw-bin@0.3.0
+- pkg:cargo/gw-bin@0.3.1
+- pkg:cargo/gw-bin@0.3.2
+- pkg:cargo/gw-bin@0.4.0
+- pkg:cargo/gw-bin@0.4.1
+- pkg:cargo/gw-bin@0.4.2

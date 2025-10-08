@@ -1,0 +1,5 @@
+- pkg:cargo/swc_ecma_visit_std@1.0.0
+- pkg:cargo/swc_ecma_visit_std@2.0.0
+- pkg:cargo/swc_ecma_visit_std@3.0.0
+- pkg:cargo/swc_ecma_visit_std@4.0.0
+- pkg:cargo/swc_ecma_visit_std@5.0.0

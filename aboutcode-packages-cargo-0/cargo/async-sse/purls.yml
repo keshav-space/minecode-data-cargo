@@ -1,0 +1,12 @@
+- pkg:cargo/async-sse@1.0.0
+- pkg:cargo/async-sse@1.0.1
+- pkg:cargo/async-sse@1.0.2
+- pkg:cargo/async-sse@2.0.0
+- pkg:cargo/async-sse@2.1.0
+- pkg:cargo/async-sse@3.0.0
+- pkg:cargo/async-sse@3.0.1
+- pkg:cargo/async-sse@4.0.0
+- pkg:cargo/async-sse@4.0.1
+- pkg:cargo/async-sse@4.1.0
+- pkg:cargo/async-sse@5.0.0
+- pkg:cargo/async-sse@5.1.0

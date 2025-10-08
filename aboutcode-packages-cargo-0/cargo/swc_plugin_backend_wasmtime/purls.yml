@@ -1,0 +1,4 @@
+- pkg:cargo/swc_plugin_backend_wasmtime@0.1.0
+- pkg:cargo/swc_plugin_backend_wasmtime@0.2.0
+- pkg:cargo/swc_plugin_backend_wasmtime@1.0.0
+- pkg:cargo/swc_plugin_backend_wasmtime@1.0.2

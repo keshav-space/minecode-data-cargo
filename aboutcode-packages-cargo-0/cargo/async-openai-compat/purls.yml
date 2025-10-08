@@ -1,0 +1,11 @@
+- pkg:cargo/async-openai-compat@0.27.2
+- pkg:cargo/async-openai-compat@0.27.3
+- pkg:cargo/async-openai-compat@0.28.3
+- pkg:cargo/async-openai-compat@0.28.4
+- pkg:cargo/async-openai-compat@0.29.0
+- pkg:cargo/async-openai-compat@0.29.1
+- pkg:cargo/async-openai-compat@0.29.2
+- pkg:cargo/async-openai-compat@0.29.3
+- pkg:cargo/async-openai-compat@0.29.4
+- pkg:cargo/async-openai-compat@0.29.5
+- pkg:cargo/async-openai-compat@0.29.6

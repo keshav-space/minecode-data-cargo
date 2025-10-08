@@ -1,0 +1,9 @@
+- pkg:cargo/petstore@0.1.0
+- pkg:cargo/petstore@1.0.0
+- pkg:cargo/petstore@3.1.0
+- pkg:cargo/petstore@4.0.0
+- pkg:cargo/petstore@5.0.0
+- pkg:cargo/petstore@6.0.0
+- pkg:cargo/petstore@7.0.0
+- pkg:cargo/petstore@8.0.0
+- pkg:cargo/petstore@9.0.0

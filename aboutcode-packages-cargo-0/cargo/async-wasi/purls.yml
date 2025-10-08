@@ -1,0 +1,7 @@
+- pkg:cargo/async-wasi@0.0.1
+- pkg:cargo/async-wasi@0.0.2
+- pkg:cargo/async-wasi@0.0.3
+- pkg:cargo/async-wasi@0.1.0
+- pkg:cargo/async-wasi@0.2.0
+- pkg:cargo/async-wasi@0.2.0-alpha
+- pkg:cargo/async-wasi@0.2.1

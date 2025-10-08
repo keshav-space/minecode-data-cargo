@@ -1,0 +1,2 @@
+- pkg:cargo/assert-no-alloc-patched@1.1.2
+- pkg:cargo/assert-no-alloc-patched@1.1.3

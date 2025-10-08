@@ -1,0 +1,8 @@
+- pkg:cargo/petgraph-graphml@1.0.0
+- pkg:cargo/petgraph-graphml@1.0.1
+- pkg:cargo/petgraph-graphml@1.0.2
+- pkg:cargo/petgraph-graphml@2.0.0
+- pkg:cargo/petgraph-graphml@2.0.1
+- pkg:cargo/petgraph-graphml@3.0.0
+- pkg:cargo/petgraph-graphml@3.1.0
+- pkg:cargo/petgraph-graphml@5.0.0

@@ -1,0 +1,4 @@
+- pkg:cargo/perfetto_protos@0.1.0
+- pkg:cargo/perfetto_protos@0.48.1
+- pkg:cargo/perfetto_protos@0.49.0
+- pkg:cargo/perfetto_protos@0.51.1

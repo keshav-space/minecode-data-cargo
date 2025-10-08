@@ -1,0 +1,8 @@
+- pkg:cargo/askama_tide@0.10.0
+- pkg:cargo/askama_tide@0.11.0
+- pkg:cargo/askama_tide@0.11.1
+- pkg:cargo/askama_tide@0.11.2
+- pkg:cargo/askama_tide@0.12.0
+- pkg:cargo/askama_tide@0.13.0
+- pkg:cargo/askama_tide@0.14.0
+- pkg:cargo/askama_tide@0.15.0

@@ -1,0 +1,13 @@
+- pkg:cargo/swc_mut_cjs_exports@0.109.0
+- pkg:cargo/swc_mut_cjs_exports@0.109.1
+- pkg:cargo/swc_mut_cjs_exports@0.79.19
+- pkg:cargo/swc_mut_cjs_exports@0.79.69
+- pkg:cargo/swc_mut_cjs_exports@0.85.0
+- pkg:cargo/swc_mut_cjs_exports@0.86.17
+- pkg:cargo/swc_mut_cjs_exports@0.89.2
+- pkg:cargo/swc_mut_cjs_exports@0.90.24
+- pkg:cargo/swc_mut_cjs_exports@0.90.3
+- pkg:cargo/swc_mut_cjs_exports@0.90.6
+- pkg:cargo/swc_mut_cjs_exports@0.99.0
+- pkg:cargo/swc_mut_cjs_exports@10.7.0
+- pkg:cargo/swc_mut_cjs_exports@8.0.1

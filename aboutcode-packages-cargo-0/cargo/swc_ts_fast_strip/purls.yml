@@ -1,0 +1,17 @@
+- pkg:cargo/swc_ts_fast_strip@23.0.2
+- pkg:cargo/swc_ts_fast_strip@23.0.3
+- pkg:cargo/swc_ts_fast_strip@23.1.0
+- pkg:cargo/swc_ts_fast_strip@24.0.0
+- pkg:cargo/swc_ts_fast_strip@24.0.1
+- pkg:cargo/swc_ts_fast_strip@25.0.0
+- pkg:cargo/swc_ts_fast_strip@26.0.0
+- pkg:cargo/swc_ts_fast_strip@27.0.0
+- pkg:cargo/swc_ts_fast_strip@27.0.1
+- pkg:cargo/swc_ts_fast_strip@27.0.2
+- pkg:cargo/swc_ts_fast_strip@28.0.0
+- pkg:cargo/swc_ts_fast_strip@29.0.0
+- pkg:cargo/swc_ts_fast_strip@30.0.0
+- pkg:cargo/swc_ts_fast_strip@31.0.0
+- pkg:cargo/swc_ts_fast_strip@32.0.0
+- pkg:cargo/swc_ts_fast_strip@33.0.0
+- pkg:cargo/swc_ts_fast_strip@33.0.1

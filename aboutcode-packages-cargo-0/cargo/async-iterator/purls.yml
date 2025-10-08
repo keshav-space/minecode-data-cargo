@@ -1,0 +1,6 @@
+- pkg:cargo/async-iterator@1.0.0
+- pkg:cargo/async-iterator@1.0.1
+- pkg:cargo/async-iterator@2.0.0
+- pkg:cargo/async-iterator@2.1.0
+- pkg:cargo/async-iterator@2.2.0
+- pkg:cargo/async-iterator@2.3.0

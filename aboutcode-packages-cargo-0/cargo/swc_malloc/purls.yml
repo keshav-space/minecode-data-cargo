@@ -1,0 +1,9 @@
+- pkg:cargo/swc_malloc@0.5.10
+- pkg:cargo/swc_malloc@0.5.11
+- pkg:cargo/swc_malloc@0.5.9
+- pkg:cargo/swc_malloc@1.0.0
+- pkg:cargo/swc_malloc@1.1.0
+- pkg:cargo/swc_malloc@1.2.0
+- pkg:cargo/swc_malloc@1.2.1
+- pkg:cargo/swc_malloc@1.2.2
+- pkg:cargo/swc_malloc@1.2.3

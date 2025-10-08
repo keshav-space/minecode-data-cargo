@@ -1,0 +1,5 @@
+- pkg:cargo/lunatic-test@0.10.0
+- pkg:cargo/lunatic-test@0.10.1
+- pkg:cargo/lunatic-test@0.12.0
+- pkg:cargo/lunatic-test@0.13.0
+- pkg:cargo/lunatic-test@0.9.0

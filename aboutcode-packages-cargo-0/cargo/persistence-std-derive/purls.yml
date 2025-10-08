@@ -1,0 +1,4 @@
+- pkg:cargo/persistence-std-derive@0.1.0
+- pkg:cargo/persistence-std-derive@1.0.0
+- pkg:cargo/persistence-std-derive@1.0.0-beta1
+- pkg:cargo/persistence-std-derive@1.1.0

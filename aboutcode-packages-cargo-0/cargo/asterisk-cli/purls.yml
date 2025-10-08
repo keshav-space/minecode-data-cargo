@@ -1,0 +1,5 @@
+- pkg:cargo/asterisk-cli@0.1.0
+- pkg:cargo/asterisk-cli@0.1.1
+- pkg:cargo/asterisk-cli@1.0.0
+- pkg:cargo/asterisk-cli@2.0.0
+- pkg:cargo/asterisk-cli@2.0.1

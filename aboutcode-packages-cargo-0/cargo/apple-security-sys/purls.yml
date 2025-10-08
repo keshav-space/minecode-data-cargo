@@ -1,0 +1,3 @@
+- pkg:cargo/apple-security-sys@2.9.2
+- pkg:cargo/apple-security-sys@2.9.3
+- pkg:cargo/apple-security-sys@2.9.4

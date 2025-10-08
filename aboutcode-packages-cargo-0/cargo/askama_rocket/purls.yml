@@ -1,0 +1,5 @@
+- pkg:cargo/askama_rocket@0.10.0
+- pkg:cargo/askama_rocket@0.11.0
+- pkg:cargo/askama_rocket@0.11.0-rc.1
+- pkg:cargo/askama_rocket@0.12.0
+- pkg:cargo/askama_rocket@0.13.0%2Bdeprecated

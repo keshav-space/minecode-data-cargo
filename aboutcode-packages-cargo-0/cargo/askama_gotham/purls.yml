@@ -1,0 +1,5 @@
+- pkg:cargo/askama_gotham@0.10.0
+- pkg:cargo/askama_gotham@0.11.0
+- pkg:cargo/askama_gotham@0.12.0
+- pkg:cargo/askama_gotham@0.13.0
+- pkg:cargo/askama_gotham@0.14.0

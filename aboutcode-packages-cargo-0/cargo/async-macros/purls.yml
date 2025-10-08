@@ -1,0 +1,3 @@
+- pkg:cargo/async-macros@0.1.0
+- pkg:cargo/async-macros@1.0.0
+- pkg:cargo/async-macros@2.0.0

@@ -1,0 +1,11 @@
+- pkg:cargo/assert-migrator-reversible@1.0.0
+- pkg:cargo/assert-migrator-reversible@1.1.0
+- pkg:cargo/assert-migrator-reversible@2.0.0
+- pkg:cargo/assert-migrator-reversible@3.0.0
+- pkg:cargo/assert-migrator-reversible@3.1.0
+- pkg:cargo/assert-migrator-reversible@4.0.0
+- pkg:cargo/assert-migrator-reversible@4.1.0
+- pkg:cargo/assert-migrator-reversible@5.0.0
+- pkg:cargo/assert-migrator-reversible@6.0.0
+- pkg:cargo/assert-migrator-reversible@6.1.0
+- pkg:cargo/assert-migrator-reversible@6.2.0

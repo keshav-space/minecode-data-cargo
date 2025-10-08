@@ -1,0 +1,3 @@
+- pkg:cargo/assert_panic_free@1.0.0
+- pkg:cargo/assert_panic_free@1.0.1
+- pkg:cargo/assert_panic_free@1.0.2
