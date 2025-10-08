@@ -1,0 +1,5 @@
+- pkg:cargo/sqlite-es@0.4.10
+- pkg:cargo/sqlite-es@0.4.12
+- pkg:cargo/sqlite-es@0.4.13
+- pkg:cargo/sqlite-es@0.4.5
+- pkg:cargo/sqlite-es@0.4.9

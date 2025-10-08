@@ -1,0 +1,2 @@
+- pkg:cargo/db-migrate@0.1.0
+- pkg:cargo/db-migrate@0.1.1

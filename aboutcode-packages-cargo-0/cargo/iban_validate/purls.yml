@@ -1,0 +1,16 @@
+- pkg:cargo/iban_validate@0.1.0
+- pkg:cargo/iban_validate@0.1.1
+- pkg:cargo/iban_validate@0.2.0
+- pkg:cargo/iban_validate@0.2.1
+- pkg:cargo/iban_validate@0.3.1
+- pkg:cargo/iban_validate@0.4.0
+- pkg:cargo/iban_validate@1.0.0
+- pkg:cargo/iban_validate@1.0.1
+- pkg:cargo/iban_validate@1.0.2
+- pkg:cargo/iban_validate@1.0.3
+- pkg:cargo/iban_validate@2.0.0
+- pkg:cargo/iban_validate@3.0.0
+- pkg:cargo/iban_validate@4.0.0
+- pkg:cargo/iban_validate@4.0.1
+- pkg:cargo/iban_validate@5.0.0
+- pkg:cargo/iban_validate@5.0.1

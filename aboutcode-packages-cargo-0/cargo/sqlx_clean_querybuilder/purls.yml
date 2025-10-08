@@ -1,0 +1,6 @@
+- pkg:cargo/sqlx_clean_querybuilder@0.1.2
+- pkg:cargo/sqlx_clean_querybuilder@0.1.3
+- pkg:cargo/sqlx_clean_querybuilder@0.1.4
+- pkg:cargo/sqlx_clean_querybuilder@0.1.5
+- pkg:cargo/sqlx_clean_querybuilder@0.1.6
+- pkg:cargo/sqlx_clean_querybuilder@0.1.7

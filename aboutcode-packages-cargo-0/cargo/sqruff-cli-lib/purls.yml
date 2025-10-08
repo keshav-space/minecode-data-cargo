@@ -1,0 +1,6 @@
+- pkg:cargo/sqruff-cli-lib@0.28.1
+- pkg:cargo/sqruff-cli-lib@0.28.2
+- pkg:cargo/sqruff-cli-lib@0.29.0
+- pkg:cargo/sqruff-cli-lib@0.29.1
+- pkg:cargo/sqruff-cli-lib@0.29.2
+- pkg:cargo/sqruff-cli-lib@0.29.3

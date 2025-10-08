@@ -1,0 +1,2 @@
+- pkg:cargo/cipherstash-dynamodb-derive@0.7.1
+- pkg:cargo/cipherstash-dynamodb-derive@0.8.0

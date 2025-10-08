@@ -1,0 +1,4 @@
+- pkg:cargo/pulumi_gestalt_schema_protobuf@0.0.1-test32
+- pkg:cargo/pulumi_gestalt_schema_protobuf@0.0.1-test33
+- pkg:cargo/pulumi_gestalt_schema_protobuf@0.0.3
+- pkg:cargo/pulumi_gestalt_schema_protobuf@0.0.4

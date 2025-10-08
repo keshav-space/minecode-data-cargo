@@ -1,0 +1,4 @@
+- pkg:cargo/ketos_derive@0.1.0
+- pkg:cargo/ketos_derive@0.10.0
+- pkg:cargo/ketos_derive@0.11.0
+- pkg:cargo/ketos_derive@0.12.0

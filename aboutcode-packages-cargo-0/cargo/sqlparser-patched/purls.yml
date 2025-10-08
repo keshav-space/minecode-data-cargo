@@ -1,0 +1,2 @@
+- pkg:cargo/sqlparser-patched@0.41.0
+- pkg:cargo/sqlparser-patched@0.43.1

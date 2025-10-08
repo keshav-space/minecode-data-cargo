@@ -1,0 +1,9 @@
+- pkg:cargo/haizhi-librocksdb-sys@0.1.0
+- pkg:cargo/haizhi-librocksdb-sys@0.2.0%2B7.9.2
+- pkg:cargo/haizhi-librocksdb-sys@0.2.1%2B7.9.2
+- pkg:cargo/haizhi-librocksdb-sys@0.2.10%2B8.1.1
+- pkg:cargo/haizhi-librocksdb-sys@0.2.11%2B8.1.1
+- pkg:cargo/haizhi-librocksdb-sys@0.2.6%2B8.1.1
+- pkg:cargo/haizhi-librocksdb-sys@0.2.7%2B8.1.1
+- pkg:cargo/haizhi-librocksdb-sys@0.2.9%2B8.1.1
+- pkg:cargo/haizhi-librocksdb-sys@0.8.0%2B7.4.4

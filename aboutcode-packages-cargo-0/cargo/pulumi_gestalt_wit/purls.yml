@@ -1,0 +1,15 @@
+- pkg:cargo/pulumi_gestalt_wit@0.0.0-test1
+- pkg:cargo/pulumi_gestalt_wit@0.0.0-test2
+- pkg:cargo/pulumi_gestalt_wit@0.0.0-test3
+- pkg:cargo/pulumi_gestalt_wit@0.0.0-test31
+- pkg:cargo/pulumi_gestalt_wit@0.0.0-test4
+- pkg:cargo/pulumi_gestalt_wit@0.0.0-test5
+- pkg:cargo/pulumi_gestalt_wit@0.0.0-test6
+- pkg:cargo/pulumi_gestalt_wit@0.0.0-test7
+- pkg:cargo/pulumi_gestalt_wit@0.0.0-test8
+- pkg:cargo/pulumi_gestalt_wit@0.0.1
+- pkg:cargo/pulumi_gestalt_wit@0.0.1-test32
+- pkg:cargo/pulumi_gestalt_wit@0.0.1-test33
+- pkg:cargo/pulumi_gestalt_wit@0.0.2
+- pkg:cargo/pulumi_gestalt_wit@0.0.3
+- pkg:cargo/pulumi_gestalt_wit@0.0.4

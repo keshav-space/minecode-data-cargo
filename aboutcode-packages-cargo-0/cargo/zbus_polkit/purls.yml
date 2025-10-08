@@ -1,0 +1,16 @@
+- pkg:cargo/zbus_polkit@1.0.0
+- pkg:cargo/zbus_polkit@1.0.1
+- pkg:cargo/zbus_polkit@1.1.0
+- pkg:cargo/zbus_polkit@1.2.0
+- pkg:cargo/zbus_polkit@2.0.0
+- pkg:cargo/zbus_polkit@2.0.0-beta.4
+- pkg:cargo/zbus_polkit@2.0.0-beta.5
+- pkg:cargo/zbus_polkit@2.0.0-beta.6
+- pkg:cargo/zbus_polkit@2.0.0-beta.7
+- pkg:cargo/zbus_polkit@2.0.0-beta.8
+- pkg:cargo/zbus_polkit@2.0.1
+- pkg:cargo/zbus_polkit@2.0.2
+- pkg:cargo/zbus_polkit@3.0.0
+- pkg:cargo/zbus_polkit@3.0.1
+- pkg:cargo/zbus_polkit@4.0.0
+- pkg:cargo/zbus_polkit@5.0.0

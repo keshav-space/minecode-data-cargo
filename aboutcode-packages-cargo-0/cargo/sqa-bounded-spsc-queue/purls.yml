@@ -1,0 +1,2 @@
+- pkg:cargo/sqa-bounded-spsc-queue@0.2.0
+- pkg:cargo/sqa-bounded-spsc-queue@0.2.1

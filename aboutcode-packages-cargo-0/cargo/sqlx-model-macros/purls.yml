@@ -1,0 +1,9 @@
+- pkg:cargo/sqlx-model-macros@0.0.1-beta.1
+- pkg:cargo/sqlx-model-macros@0.0.1-beta.2
+- pkg:cargo/sqlx-model-macros@0.0.1-beta.3
+- pkg:cargo/sqlx-model-macros@0.0.1-beta.4
+- pkg:cargo/sqlx-model-macros@0.0.1-beta.5
+- pkg:cargo/sqlx-model-macros@0.0.1-beta.6
+- pkg:cargo/sqlx-model-macros@0.0.2
+- pkg:cargo/sqlx-model-macros@0.0.3
+- pkg:cargo/sqlx-model-macros@0.0.4

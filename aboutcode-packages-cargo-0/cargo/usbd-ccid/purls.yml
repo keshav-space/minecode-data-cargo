@@ -1,0 +1,4 @@
+- pkg:cargo/usbd-ccid@0.0.0-unreleased
+- pkg:cargo/usbd-ccid@0.1.0
+- pkg:cargo/usbd-ccid@0.2.0
+- pkg:cargo/usbd-ccid@0.3.0

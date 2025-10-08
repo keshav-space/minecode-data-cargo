@@ -1,0 +1,8 @@
+- pkg:cargo/sqlx-transparent-json-decode@1.0.0
+- pkg:cargo/sqlx-transparent-json-decode@2.0.0
+- pkg:cargo/sqlx-transparent-json-decode@2.0.1
+- pkg:cargo/sqlx-transparent-json-decode@2.1.0
+- pkg:cargo/sqlx-transparent-json-decode@2.2.0
+- pkg:cargo/sqlx-transparent-json-decode@2.2.1
+- pkg:cargo/sqlx-transparent-json-decode@2.2.2
+- pkg:cargo/sqlx-transparent-json-decode@3.0.0

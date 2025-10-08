@@ -1,0 +1,2 @@
+- pkg:cargo/onnxruntime-ng@1.15.1
+- pkg:cargo/onnxruntime-ng@1.16.1

@@ -1,0 +1,3 @@
+- pkg:cargo/hadron-client@0.0.0
+- pkg:cargo/hadron-client@0.1.0-beta.0
+- pkg:cargo/hadron-client@0.1.0-beta.1

@@ -1,0 +1,6 @@
+- pkg:cargo/ibc-client-cw@0.52.0
+- pkg:cargo/ibc-client-cw@0.53.0
+- pkg:cargo/ibc-client-cw@0.54.0
+- pkg:cargo/ibc-client-cw@0.55.0
+- pkg:cargo/ibc-client-cw@0.56.0
+- pkg:cargo/ibc-client-cw@0.57.0

@@ -1,0 +1,9 @@
+- pkg:cargo/hack_asm@0.1.0-dev
+- pkg:cargo/hack_asm@0.1.1-dev
+- pkg:cargo/hack_asm@0.1.2-dev
+- pkg:cargo/hack_asm@0.1.3-dev
+- pkg:cargo/hack_asm@0.2.0-dev
+- pkg:cargo/hack_asm@0.3.0-dev
+- pkg:cargo/hack_asm@1.0.0
+- pkg:cargo/hack_asm@1.0.1
+- pkg:cargo/hack_asm@1.0.2

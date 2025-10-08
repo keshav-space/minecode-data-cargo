@@ -1,0 +1,4 @@
+- pkg:cargo/sqlx-ts@0.1.0
+- pkg:cargo/sqlx-ts@0.1.0-alpha.11
+- pkg:cargo/sqlx-ts@0.1.0-alpha.6
+- pkg:cargo/sqlx-ts@0.1.1

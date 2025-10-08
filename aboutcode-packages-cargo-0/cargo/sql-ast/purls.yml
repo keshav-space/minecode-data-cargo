@@ -1,0 +1,9 @@
+- pkg:cargo/sql-ast@0.5.1-alpha-1
+- pkg:cargo/sql-ast@0.6.0
+- pkg:cargo/sql-ast@0.7.0
+- pkg:cargo/sql-ast@0.7.1
+- pkg:cargo/sql-ast@0.7.2
+- pkg:cargo/sql-ast@0.7.3
+- pkg:cargo/sql-ast@0.7.4
+- pkg:cargo/sql-ast@0.7.5
+- pkg:cargo/sql-ast@0.8.0

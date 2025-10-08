@@ -1,0 +1,5 @@
+- pkg:cargo/svg2pdf-cli@0.10.0
+- pkg:cargo/svg2pdf-cli@0.11.0
+- pkg:cargo/svg2pdf-cli@0.12.0
+- pkg:cargo/svg2pdf-cli@0.13.0
+- pkg:cargo/svg2pdf-cli@0.9.1

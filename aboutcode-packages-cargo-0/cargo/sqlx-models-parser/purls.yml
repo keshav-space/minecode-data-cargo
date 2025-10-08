@@ -1,0 +1,2 @@
+- pkg:cargo/sqlx-models-parser@0.0.1
+- pkg:cargo/sqlx-models-parser@0.10.1-alpha.0

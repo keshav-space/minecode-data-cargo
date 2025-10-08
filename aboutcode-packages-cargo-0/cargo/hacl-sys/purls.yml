@@ -1,0 +1,9 @@
+- pkg:cargo/hacl-sys@0.0.0
+- pkg:cargo/hacl-sys@0.0.1-dev.1
+- pkg:cargo/hacl-sys@0.0.2
+- pkg:cargo/hacl-sys@0.0.2-dev.1
+- pkg:cargo/hacl-sys@0.0.2-dev.2
+- pkg:cargo/hacl-sys@0.0.2-dev.3
+- pkg:cargo/hacl-sys@0.0.2-dev.4
+- pkg:cargo/hacl-sys@0.0.2-dev.5
+- pkg:cargo/hacl-sys@0.0.3-pre.1

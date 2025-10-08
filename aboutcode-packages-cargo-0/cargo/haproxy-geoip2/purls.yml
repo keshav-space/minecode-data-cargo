@@ -1,0 +1,2 @@
+- pkg:cargo/haproxy-geoip2@0.1.0
+- pkg:cargo/haproxy-geoip2@0.2.0
