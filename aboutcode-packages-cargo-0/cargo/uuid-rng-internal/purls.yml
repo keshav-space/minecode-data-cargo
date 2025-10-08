@@ -1,0 +1,10 @@
+- pkg:cargo/uuid-rng-internal@1.13.0
+- pkg:cargo/uuid-rng-internal@1.13.1
+- pkg:cargo/uuid-rng-internal@1.13.2
+- pkg:cargo/uuid-rng-internal@1.14.0
+- pkg:cargo/uuid-rng-internal@1.15.0
+- pkg:cargo/uuid-rng-internal@1.15.1
+- pkg:cargo/uuid-rng-internal@1.16.0
+- pkg:cargo/uuid-rng-internal@1.17.0
+- pkg:cargo/uuid-rng-internal@1.18.0
+- pkg:cargo/uuid-rng-internal@1.18.1

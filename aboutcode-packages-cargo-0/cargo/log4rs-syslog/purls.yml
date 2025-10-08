@@ -1,0 +1,11 @@
+- pkg:cargo/log4rs-syslog@1.0.0
+- pkg:cargo/log4rs-syslog@1.0.1
+- pkg:cargo/log4rs-syslog@1.0.2
+- pkg:cargo/log4rs-syslog@1.0.3
+- pkg:cargo/log4rs-syslog@1.0.4
+- pkg:cargo/log4rs-syslog@1.1.0
+- pkg:cargo/log4rs-syslog@2.0.0
+- pkg:cargo/log4rs-syslog@3.0.0
+- pkg:cargo/log4rs-syslog@3.0.1
+- pkg:cargo/log4rs-syslog@3.0.2
+- pkg:cargo/log4rs-syslog@3.0.3

@@ -1,0 +1,2 @@
+- pkg:cargo/maybe-uninit@1.0.0
+- pkg:cargo/maybe-uninit@2.0.0

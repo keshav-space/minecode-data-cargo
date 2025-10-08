@@ -1,0 +1,15 @@
+- pkg:cargo/iota-ledger-nano@1.0.0
+- pkg:cargo/iota-ledger-nano@1.0.0-alpha.1
+- pkg:cargo/iota-ledger-nano@1.0.0-alpha.2
+- pkg:cargo/iota-ledger-nano@1.0.0-alpha.3
+- pkg:cargo/iota-ledger-nano@1.0.0-alpha.4
+- pkg:cargo/iota-ledger-nano@1.0.0-alpha.5
+- pkg:cargo/iota-ledger-nano@1.0.0-e39faa7
+- pkg:cargo/iota-ledger-nano@1.0.0-f824a29
+- pkg:cargo/iota-ledger-nano@1.0.1
+- pkg:cargo/iota-ledger-nano@1.0.2
+- pkg:cargo/iota-ledger-nano@1.0.3
+- pkg:cargo/iota-ledger-nano@1.0.3-alpha.1
+- pkg:cargo/iota-ledger-nano@1.0.4-alpha.1
+- pkg:cargo/iota-ledger-nano@1.0.4-alpha.2
+- pkg:cargo/iota-ledger-nano@1.0.4-alpha.3

@@ -1,0 +1,3 @@
+- pkg:cargo/loop-http-get@1.0.0
+- pkg:cargo/loop-http-get@1.0.1
+- pkg:cargo/loop-http-get@1.0.2

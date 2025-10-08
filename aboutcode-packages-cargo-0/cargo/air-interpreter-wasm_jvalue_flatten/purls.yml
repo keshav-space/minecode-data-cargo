@@ -1,0 +1,5 @@
+- pkg:cargo/air-interpreter-wasm_jvalue_flatten@0.0.0
+- pkg:cargo/air-interpreter-wasm_jvalue_flatten@0.0.1
+- pkg:cargo/air-interpreter-wasm_jvalue_flatten@0.0.2
+- pkg:cargo/air-interpreter-wasm_jvalue_flatten@0.0.3
+- pkg:cargo/air-interpreter-wasm_jvalue_flatten@0.0.5

@@ -1,0 +1,4 @@
+- pkg:cargo/vsprintf@1.0.0
+- pkg:cargo/vsprintf@1.0.1
+- pkg:cargo/vsprintf@1.0.3
+- pkg:cargo/vsprintf@2.0.0

@@ -1,0 +1,5 @@
+- pkg:cargo/io_uring_buf_ring@0.1.0
+- pkg:cargo/io_uring_buf_ring@0.1.0-dev.1
+- pkg:cargo/io_uring_buf_ring@0.1.0-dev.2
+- pkg:cargo/io_uring_buf_ring@0.2.0
+- pkg:cargo/io_uring_buf_ring@0.2.1

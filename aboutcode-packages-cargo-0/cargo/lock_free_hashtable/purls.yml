@@ -1,0 +1,2 @@
+- pkg:cargo/lock_free_hashtable@0.1.0
+- pkg:cargo/lock_free_hashtable@0.1.1

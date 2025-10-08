@@ -1,0 +1,4 @@
+- pkg:cargo/ureeves-wasmtime@27.0.0
+- pkg:cargo/ureeves-wasmtime@27.0.1
+- pkg:cargo/ureeves-wasmtime@27.0.2
+- pkg:cargo/ureeves-wasmtime@27.0.3

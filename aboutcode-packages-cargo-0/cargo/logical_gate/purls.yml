@@ -1,0 +1,3 @@
+- pkg:cargo/logical_gate@0.1.0
+- pkg:cargo/logical_gate@0.1.0-bool
+- pkg:cargo/logical_gate@0.1.0-fast

@@ -1,0 +1,5 @@
+- pkg:cargo/uuid-sys@0.0.1
+- pkg:cargo/uuid-sys@0.0.2
+- pkg:cargo/uuid-sys@0.1.1
+- pkg:cargo/uuid-sys@0.1.2
+- pkg:cargo/uuid-sys@0.1.3

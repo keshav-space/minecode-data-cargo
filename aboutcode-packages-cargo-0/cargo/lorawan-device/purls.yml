@@ -1,0 +1,8 @@
+- pkg:cargo/lorawan-device@0.10.0
+- pkg:cargo/lorawan-device@0.11.0
+- pkg:cargo/lorawan-device@0.12.0
+- pkg:cargo/lorawan-device@0.12.1
+- pkg:cargo/lorawan-device@0.12.2
+- pkg:cargo/lorawan-device@0.7.1
+- pkg:cargo/lorawan-device@0.8.0
+- pkg:cargo/lorawan-device@0.9.0

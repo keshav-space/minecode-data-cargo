@@ -1,0 +1,11 @@
+- pkg:cargo/vls-cli@0.11.0
+- pkg:cargo/vls-cli@0.11.0-rc.2
+- pkg:cargo/vls-cli@0.11.0-rc.3
+- pkg:cargo/vls-cli@0.11.1
+- pkg:cargo/vls-cli@0.12.0
+- pkg:cargo/vls-cli@0.12.0-rc.2
+- pkg:cargo/vls-cli@0.12.0-rc.3
+- pkg:cargo/vls-cli@0.13.0
+- pkg:cargo/vls-cli@0.13.0-rc.1
+- pkg:cargo/vls-cli@0.14.0-rc.1
+- pkg:cargo/vls-cli@0.14.0-rc.2

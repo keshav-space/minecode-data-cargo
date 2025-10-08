@@ -1,0 +1,4 @@
+- pkg:cargo/air-interpreter-wasm_crate_release@0.0.14
+- pkg:cargo/air-interpreter-wasm_crate_release@0.0.15
+- pkg:cargo/air-interpreter-wasm_crate_release@0.0.17
+- pkg:cargo/air-interpreter-wasm_crate_release@0.0.18

@@ -1,0 +1,4 @@
+- pkg:cargo/loop-forever@0.2.0
+- pkg:cargo/loop-forever@0.2.1
+- pkg:cargo/loop-forever@1.0.0
+- pkg:cargo/loop-forever@1.0.2

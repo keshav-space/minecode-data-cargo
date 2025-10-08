@@ -1,0 +1,4 @@
+- pkg:cargo/uuid_diesel_0_7_pg@0.1.0
+- pkg:cargo/uuid_diesel_0_7_pg@0.1.1
+- pkg:cargo/uuid_diesel_0_7_pg@0.1.2
+- pkg:cargo/uuid_diesel_0_7_pg@0.1.3

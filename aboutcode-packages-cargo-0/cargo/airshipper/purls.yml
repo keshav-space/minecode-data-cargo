@@ -1,0 +1,5 @@
+- pkg:cargo/airshipper@0.0.0
+- pkg:cargo/airshipper@0.11.0
+- pkg:cargo/airshipper@0.13.0
+- pkg:cargo/airshipper@0.15.0
+- pkg:cargo/airshipper@0.16.0

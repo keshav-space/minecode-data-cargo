@@ -1,0 +1,4 @@
+- pkg:cargo/kdl-lsp@6.3.2
+- pkg:cargo/kdl-lsp@6.3.3
+- pkg:cargo/kdl-lsp@6.4.0
+- pkg:cargo/kdl-lsp@6.5.0

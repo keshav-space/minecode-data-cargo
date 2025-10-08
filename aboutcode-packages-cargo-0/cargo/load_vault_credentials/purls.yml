@@ -1,0 +1,2 @@
+- pkg:cargo/load_vault_credentials@0.1.0
+- pkg:cargo/load_vault_credentials@0.1.1

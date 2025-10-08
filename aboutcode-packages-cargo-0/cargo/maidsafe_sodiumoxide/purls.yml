@@ -1,0 +1,4 @@
+- pkg:cargo/maidsafe_sodiumoxide@0.0.12
+- pkg:cargo/maidsafe_sodiumoxide@0.0.13
+- pkg:cargo/maidsafe_sodiumoxide@0.0.6
+- pkg:cargo/maidsafe_sodiumoxide@0.0.7

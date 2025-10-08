@@ -1,0 +1,9 @@
+- pkg:cargo/uring-sys@0.6.0
+- pkg:cargo/uring-sys@0.6.1
+- pkg:cargo/uring-sys@0.7.0
+- pkg:cargo/uring-sys@0.7.1
+- pkg:cargo/uring-sys@0.7.2
+- pkg:cargo/uring-sys@0.7.3
+- pkg:cargo/uring-sys@0.7.4
+- pkg:cargo/uring-sys@1.0.0-alpha
+- pkg:cargo/uring-sys@1.0.0-beta
