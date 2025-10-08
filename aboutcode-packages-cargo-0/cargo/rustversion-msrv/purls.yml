@@ -1,0 +1,2 @@
+- pkg:cargo/rustversion-msrv@0.100.0
+- pkg:cargo/rustversion-msrv@0.99.16

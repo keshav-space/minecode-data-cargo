@@ -1,0 +1,2 @@
+- pkg:cargo/rustrun@0.0.0--
+- pkg:cargo/rustrun@0.0.0-rustrun
