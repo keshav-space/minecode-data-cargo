@@ -1,0 +1,4 @@
+- pkg:cargo/drop-with-owned-fields-proc_macros@0.0.0-wip
+- pkg:cargo/drop-with-owned-fields-proc_macros@0.1.0
+- pkg:cargo/drop-with-owned-fields-proc_macros@0.1.0-rc1
+- pkg:cargo/drop-with-owned-fields-proc_macros@0.1.1

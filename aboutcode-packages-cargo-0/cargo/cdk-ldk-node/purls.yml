@@ -1,0 +1,4 @@
+- pkg:cargo/cdk-ldk-node@0.12.0
+- pkg:cargo/cdk-ldk-node@0.12.1
+- pkg:cargo/cdk-ldk-node@0.13.0
+- pkg:cargo/cdk-ldk-node@0.13.1

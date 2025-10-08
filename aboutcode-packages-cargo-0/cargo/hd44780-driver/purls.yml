@@ -1,0 +1,4 @@
+- pkg:cargo/hd44780-driver@0.2.0
+- pkg:cargo/hd44780-driver@0.2.1
+- pkg:cargo/hd44780-driver@0.3.0
+- pkg:cargo/hd44780-driver@0.4.0

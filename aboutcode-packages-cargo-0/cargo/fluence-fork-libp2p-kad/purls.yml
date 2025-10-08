@@ -1,0 +1,8 @@
+- pkg:cargo/fluence-fork-libp2p-kad@0.21.0
+- pkg:cargo/fluence-fork-libp2p-kad@0.21.1
+- pkg:cargo/fluence-fork-libp2p-kad@0.27.0
+- pkg:cargo/fluence-fork-libp2p-kad@0.27.1
+- pkg:cargo/fluence-fork-libp2p-kad@0.27.2
+- pkg:cargo/fluence-fork-libp2p-kad@0.29.0
+- pkg:cargo/fluence-fork-libp2p-kad@0.29.1
+- pkg:cargo/fluence-fork-libp2p-kad@0.29.2

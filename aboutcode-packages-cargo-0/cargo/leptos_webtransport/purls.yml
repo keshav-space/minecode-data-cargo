@@ -1,0 +1,4 @@
+- pkg:cargo/leptos_webtransport@0.1.0
+- pkg:cargo/leptos_webtransport@0.6.6
+- pkg:cargo/leptos_webtransport@0.6.7
+- pkg:cargo/leptos_webtransport@0.7.6

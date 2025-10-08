@@ -1,0 +1,5 @@
+- pkg:cargo/fluence-fork-libp2p-mdns@0.20.0
+- pkg:cargo/fluence-fork-libp2p-mdns@0.27.0
+- pkg:cargo/fluence-fork-libp2p-mdns@0.27.1
+- pkg:cargo/fluence-fork-libp2p-mdns@0.29.0
+- pkg:cargo/fluence-fork-libp2p-mdns@0.29.1

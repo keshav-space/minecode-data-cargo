@@ -1,0 +1,5 @@
+- pkg:cargo/floxide-redis@3.0.8
+- pkg:cargo/floxide-redis@3.1.0
+- pkg:cargo/floxide-redis@3.2.0
+- pkg:cargo/floxide-redis@3.2.1
+- pkg:cargo/floxide-redis@3.2.2

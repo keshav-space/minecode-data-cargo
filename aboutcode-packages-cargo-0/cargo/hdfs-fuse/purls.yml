@@ -1,0 +1,2 @@
+- pkg:cargo/hdfs-fuse@0.2.0
+- pkg:cargo/hdfs-fuse@0.2.1

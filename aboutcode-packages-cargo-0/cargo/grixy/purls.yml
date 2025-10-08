@@ -1,0 +1,17 @@
+- pkg:cargo/grixy@0.0.0-reserved
+- pkg:cargo/grixy@0.1.0
+- pkg:cargo/grixy@0.2.0
+- pkg:cargo/grixy@0.2.1
+- pkg:cargo/grixy@0.3.0
+- pkg:cargo/grixy@0.4.0
+- pkg:cargo/grixy@0.5.0
+- pkg:cargo/grixy@0.5.0-alpha.1
+- pkg:cargo/grixy@0.5.0-alpha.2
+- pkg:cargo/grixy@0.5.0-alpha.3
+- pkg:cargo/grixy@0.5.0-alpha.4
+- pkg:cargo/grixy@0.5.0-alpha.5
+- pkg:cargo/grixy@0.5.0-alpha.6
+- pkg:cargo/grixy@0.5.0-alpha.7
+- pkg:cargo/grixy@0.6.0-alpha.1
+- pkg:cargo/grixy@0.6.0-alpha.2
+- pkg:cargo/grixy@0.6.0-alpha.3

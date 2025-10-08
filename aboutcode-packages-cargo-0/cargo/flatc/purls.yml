@@ -1,0 +1,7 @@
+- pkg:cargo/flatc@0.1.0%2B1.12.0
+- pkg:cargo/flatc@0.1.1%2B1.12.0
+- pkg:cargo/flatc@0.2.0%2B1.12.0
+- pkg:cargo/flatc@0.2.0%2B2.0.0
+- pkg:cargo/flatc@0.2.1%2B2.0.0
+- pkg:cargo/flatc@0.2.1%2B23.5.8
+- pkg:cargo/flatc@0.2.2%2B23.5.26

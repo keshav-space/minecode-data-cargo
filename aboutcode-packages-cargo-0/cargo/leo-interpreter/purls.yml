@@ -1,0 +1,11 @@
+- pkg:cargo/leo-interpreter@2.4.1
+- pkg:cargo/leo-interpreter@2.5.0
+- pkg:cargo/leo-interpreter@2.6.0
+- pkg:cargo/leo-interpreter@2.6.1
+- pkg:cargo/leo-interpreter@2.7.0
+- pkg:cargo/leo-interpreter@2.7.1
+- pkg:cargo/leo-interpreter@2.7.2
+- pkg:cargo/leo-interpreter@2.7.3
+- pkg:cargo/leo-interpreter@3.0.0
+- pkg:cargo/leo-interpreter@3.1.0
+- pkg:cargo/leo-interpreter@3.2.0

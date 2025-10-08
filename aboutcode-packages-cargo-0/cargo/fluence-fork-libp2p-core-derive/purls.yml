@@ -1,0 +1,4 @@
+- pkg:cargo/fluence-fork-libp2p-core-derive@0.20.2
+- pkg:cargo/fluence-fork-libp2p-core-derive@0.20.3
+- pkg:cargo/fluence-fork-libp2p-core-derive@0.21.0
+- pkg:cargo/fluence-fork-libp2p-core-derive@0.21.1

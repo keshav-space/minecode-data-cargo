@@ -1,0 +1,6 @@
+- pkg:cargo/fluence-fork-parity-multiaddr@0.10.0
+- pkg:cargo/fluence-fork-parity-multiaddr@0.10.1
+- pkg:cargo/fluence-fork-parity-multiaddr@0.11.1
+- pkg:cargo/fluence-fork-parity-multiaddr@0.11.2
+- pkg:cargo/fluence-fork-parity-multiaddr@0.9.1
+- pkg:cargo/fluence-fork-parity-multiaddr@0.9.2

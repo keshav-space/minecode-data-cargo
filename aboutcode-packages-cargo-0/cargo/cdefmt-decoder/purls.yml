@@ -1,0 +1,3 @@
+- pkg:cargo/cdefmt-decoder@0.3.0
+- pkg:cargo/cdefmt-decoder@0.6.0
+- pkg:cargo/cdefmt-decoder@0.7.0

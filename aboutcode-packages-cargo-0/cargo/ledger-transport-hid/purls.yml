@@ -1,0 +1,6 @@
+- pkg:cargo/ledger-transport-hid@0.10.0
+- pkg:cargo/ledger-transport-hid@0.11.0
+- pkg:cargo/ledger-transport-hid@0.4.0
+- pkg:cargo/ledger-transport-hid@0.7.0
+- pkg:cargo/ledger-transport-hid@0.8.0
+- pkg:cargo/ledger-transport-hid@0.9.0

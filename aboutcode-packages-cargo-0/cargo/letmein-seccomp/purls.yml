@@ -1,0 +1,17 @@
+- pkg:cargo/letmein-seccomp@10.0.0
+- pkg:cargo/letmein-seccomp@10.0.1
+- pkg:cargo/letmein-seccomp@10.1.0
+- pkg:cargo/letmein-seccomp@10.2.0
+- pkg:cargo/letmein-seccomp@10.2.1
+- pkg:cargo/letmein-seccomp@10.3.0
+- pkg:cargo/letmein-seccomp@10.4.0
+- pkg:cargo/letmein-seccomp@3.0.0
+- pkg:cargo/letmein-seccomp@4.0.0
+- pkg:cargo/letmein-seccomp@5.0.0
+- pkg:cargo/letmein-seccomp@5.1.0
+- pkg:cargo/letmein-seccomp@6.0.0
+- pkg:cargo/letmein-seccomp@7.0.0
+- pkg:cargo/letmein-seccomp@7.1.0
+- pkg:cargo/letmein-seccomp@7.2.0
+- pkg:cargo/letmein-seccomp@8.0.0
+- pkg:cargo/letmein-seccomp@9.0.0

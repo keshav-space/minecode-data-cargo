@@ -1,0 +1,4 @@
+- pkg:cargo/leveldb-rs-binding@0.8.7
+- pkg:cargo/leveldb-rs-binding@0.8.8
+- pkg:cargo/leveldb-rs-binding@1.0.0
+- pkg:cargo/leveldb-rs-binding@1.1.0

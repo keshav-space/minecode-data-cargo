@@ -1,0 +1,4 @@
+- pkg:cargo/fluence-fork-libp2p-pnet@0.19.1
+- pkg:cargo/fluence-fork-libp2p-pnet@0.20.0
+- pkg:cargo/fluence-fork-libp2p-pnet@0.20.1
+- pkg:cargo/fluence-fork-libp2p-pnet@0.20.2

@@ -1,0 +1,5 @@
+- pkg:cargo/graphql_client_web@0.6.0
+- pkg:cargo/graphql_client_web@0.6.1
+- pkg:cargo/graphql_client_web@0.7.0
+- pkg:cargo/graphql_client_web@0.8.0
+- pkg:cargo/graphql_client_web@0.9.0

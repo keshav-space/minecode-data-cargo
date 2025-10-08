@@ -1,0 +1,17 @@
+- pkg:cargo/letmein-fwproto@10.0.0
+- pkg:cargo/letmein-fwproto@10.0.1
+- pkg:cargo/letmein-fwproto@10.1.0
+- pkg:cargo/letmein-fwproto@10.2.0
+- pkg:cargo/letmein-fwproto@10.2.1
+- pkg:cargo/letmein-fwproto@10.3.0
+- pkg:cargo/letmein-fwproto@10.4.0
+- pkg:cargo/letmein-fwproto@3.0.0
+- pkg:cargo/letmein-fwproto@4.0.0
+- pkg:cargo/letmein-fwproto@5.0.0
+- pkg:cargo/letmein-fwproto@5.1.0
+- pkg:cargo/letmein-fwproto@6.0.0
+- pkg:cargo/letmein-fwproto@7.0.0
+- pkg:cargo/letmein-fwproto@7.1.0
+- pkg:cargo/letmein-fwproto@7.2.0
+- pkg:cargo/letmein-fwproto@8.0.0
+- pkg:cargo/letmein-fwproto@9.0.0

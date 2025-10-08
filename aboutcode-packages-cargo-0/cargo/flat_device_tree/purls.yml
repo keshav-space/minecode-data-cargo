@@ -1,0 +1,5 @@
+- pkg:cargo/flat_device_tree@2.1.0
+- pkg:cargo/flat_device_tree@2.1.1
+- pkg:cargo/flat_device_tree@3.0.0
+- pkg:cargo/flat_device_tree@3.1.0
+- pkg:cargo/flat_device_tree@3.1.1

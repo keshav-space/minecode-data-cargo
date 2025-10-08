@@ -1,0 +1,4 @@
+- pkg:cargo/kf-socket@0.1.0
+- pkg:cargo/kf-socket@1.0.0
+- pkg:cargo/kf-socket@1.1.0
+- pkg:cargo/kf-socket@2.0.0

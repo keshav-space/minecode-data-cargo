@@ -1,0 +1,3 @@
+- pkg:cargo/drone-nrf-map-periph-uarte@0.12.0
+- pkg:cargo/drone-nrf-map-periph-uarte@0.13.0
+- pkg:cargo/drone-nrf-map-periph-uarte@0.14.0

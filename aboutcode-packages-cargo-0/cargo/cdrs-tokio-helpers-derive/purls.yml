@@ -1,0 +1,16 @@
+- pkg:cargo/cdrs-tokio-helpers-derive@1.0.0
+- pkg:cargo/cdrs-tokio-helpers-derive@1.0.1
+- pkg:cargo/cdrs-tokio-helpers-derive@1.1.0
+- pkg:cargo/cdrs-tokio-helpers-derive@1.1.1
+- pkg:cargo/cdrs-tokio-helpers-derive@2.0.0
+- pkg:cargo/cdrs-tokio-helpers-derive@3.0.0
+- pkg:cargo/cdrs-tokio-helpers-derive@3.1.0
+- pkg:cargo/cdrs-tokio-helpers-derive@3.2.0
+- pkg:cargo/cdrs-tokio-helpers-derive@3.2.0-beta.1
+- pkg:cargo/cdrs-tokio-helpers-derive@3.2.0-beta.2
+- pkg:cargo/cdrs-tokio-helpers-derive@4.0.0
+- pkg:cargo/cdrs-tokio-helpers-derive@5.0.0
+- pkg:cargo/cdrs-tokio-helpers-derive@5.0.0-beta.1
+- pkg:cargo/cdrs-tokio-helpers-derive@5.0.1
+- pkg:cargo/cdrs-tokio-helpers-derive@5.0.2
+- pkg:cargo/cdrs-tokio-helpers-derive@5.0.3
