@@ -1,0 +1,15 @@
+- pkg:cargo/rinf_proc@8.0.0
+- pkg:cargo/rinf_proc@8.0.0-alpha
+- pkg:cargo/rinf_proc@8.0.0-beta
+- pkg:cargo/rinf_proc@8.0.0-rc
+- pkg:cargo/rinf_proc@8.1.0
+- pkg:cargo/rinf_proc@8.2.0
+- pkg:cargo/rinf_proc@8.3.0
+- pkg:cargo/rinf_proc@8.3.1
+- pkg:cargo/rinf_proc@8.3.2
+- pkg:cargo/rinf_proc@8.4.0
+- pkg:cargo/rinf_proc@8.5.0
+- pkg:cargo/rinf_proc@8.6.0
+- pkg:cargo/rinf_proc@8.7.0
+- pkg:cargo/rinf_proc@8.7.1
+- pkg:cargo/rinf_proc@8.7.2

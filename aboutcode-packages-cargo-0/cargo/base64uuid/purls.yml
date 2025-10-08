@@ -1,0 +1,4 @@
+- pkg:cargo/base64uuid@1.0.0
+- pkg:cargo/base64uuid@1.0.0-alpha.2
+- pkg:cargo/base64uuid@1.0.0-beta.1
+- pkg:cargo/base64uuid@1.1.0

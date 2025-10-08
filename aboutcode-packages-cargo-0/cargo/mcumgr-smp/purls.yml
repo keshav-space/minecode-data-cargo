@@ -1,0 +1,3 @@
+- pkg:cargo/mcumgr-smp@0.6.0
+- pkg:cargo/mcumgr-smp@0.7.0
+- pkg:cargo/mcumgr-smp@0.8.0

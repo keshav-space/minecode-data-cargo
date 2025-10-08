@@ -1,0 +1,6 @@
+- pkg:cargo/ring-wasi@0.16.20
+- pkg:cargo/ring-wasi@0.16.21
+- pkg:cargo/ring-wasi@0.16.22
+- pkg:cargo/ring-wasi@0.16.23
+- pkg:cargo/ring-wasi@0.16.24
+- pkg:cargo/ring-wasi@0.16.25

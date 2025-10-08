@@ -1,0 +1,4 @@
+- pkg:cargo/mcp23017@0.1.0
+- pkg:cargo/mcp23017@0.1.1
+- pkg:cargo/mcp23017@1.0.0
+- pkg:cargo/mcp23017@1.1.0

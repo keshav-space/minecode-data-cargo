@@ -1,0 +1,2 @@
+- pkg:cargo/base58check-encode@0.1.0
+- pkg:cargo/base58check-encode@0.1.1

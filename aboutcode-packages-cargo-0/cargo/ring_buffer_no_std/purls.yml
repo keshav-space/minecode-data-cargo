@@ -1,0 +1,2 @@
+- pkg:cargo/ring_buffer_no_std@0.1.0
+- pkg:cargo/ring_buffer_no_std@0.1.1

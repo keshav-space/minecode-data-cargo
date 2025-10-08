@@ -1,0 +1,5 @@
+- pkg:cargo/rippled_binary_codec@0.0.1
+- pkg:cargo/rippled_binary_codec@0.0.2
+- pkg:cargo/rippled_binary_codec@0.0.3
+- pkg:cargo/rippled_binary_codec@0.0.4
+- pkg:cargo/rippled_binary_codec@0.0.5

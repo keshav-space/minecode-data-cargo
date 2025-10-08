@@ -1,0 +1,4 @@
+- pkg:cargo/word_filter_codegen@0.5.0
+- pkg:cargo/word_filter_codegen@0.5.1
+- pkg:cargo/word_filter_codegen@0.6.0
+- pkg:cargo/word_filter_codegen@0.7.0

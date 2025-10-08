@@ -1,0 +1,4 @@
+- pkg:cargo/workflow-egui-macros@0.0.0
+- pkg:cargo/workflow-egui-macros@0.16.0
+- pkg:cargo/workflow-egui-macros@0.17.0
+- pkg:cargo/workflow-egui-macros@0.18.0

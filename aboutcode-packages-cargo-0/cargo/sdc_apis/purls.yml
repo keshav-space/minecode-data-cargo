@@ -1,0 +1,4 @@
+- pkg:cargo/sdc_apis@0.2.0-dev20230930
+- pkg:cargo/sdc_apis@0.2.1-dev20240222
+- pkg:cargo/sdc_apis@0.3.0-dev20241104
+- pkg:cargo/sdc_apis@0.3.0-hyper-dev20241119

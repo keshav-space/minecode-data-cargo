@@ -1,0 +1,11 @@
+- pkg:cargo/wormhole-core-bridge-solana@0.0.0-alpha.1
+- pkg:cargo/wormhole-core-bridge-solana@0.0.0-alpha.2
+- pkg:cargo/wormhole-core-bridge-solana@0.0.0-alpha.3
+- pkg:cargo/wormhole-core-bridge-solana@0.0.0-alpha.4
+- pkg:cargo/wormhole-core-bridge-solana@0.0.0-alpha.6
+- pkg:cargo/wormhole-core-bridge-solana@0.0.0-alpha.7
+- pkg:cargo/wormhole-core-bridge-solana@0.0.1-alpha.1
+- pkg:cargo/wormhole-core-bridge-solana@0.0.1-alpha.2
+- pkg:cargo/wormhole-core-bridge-solana@0.0.1-alpha.3
+- pkg:cargo/wormhole-core-bridge-solana@0.0.1-alpha.4
+- pkg:cargo/wormhole-core-bridge-solana@0.0.1-alpha.5

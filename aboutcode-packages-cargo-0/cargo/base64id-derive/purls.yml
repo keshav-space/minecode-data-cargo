@@ -1,0 +1,3 @@
+- pkg:cargo/base64id-derive@0.4.0
+- pkg:cargo/base64id-derive@0.4.0-alpha.0
+- pkg:cargo/base64id-derive@0.4.1

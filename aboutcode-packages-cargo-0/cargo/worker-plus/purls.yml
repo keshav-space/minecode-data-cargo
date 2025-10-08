@@ -1,0 +1,5 @@
+- pkg:cargo/worker-plus@0.0.12
+- pkg:cargo/worker-plus@0.0.12-beta
+- pkg:cargo/worker-plus@0.0.13
+- pkg:cargo/worker-plus@0.0.14
+- pkg:cargo/worker-plus@0.0.15

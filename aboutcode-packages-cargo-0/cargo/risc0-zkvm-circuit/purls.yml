@@ -1,0 +1,10 @@
+- pkg:cargo/risc0-zkvm-circuit@0.1.0
+- pkg:cargo/risc0-zkvm-circuit@0.11.0
+- pkg:cargo/risc0-zkvm-circuit@0.11.0-rc.1
+- pkg:cargo/risc0-zkvm-circuit@0.11.0-rc.2
+- pkg:cargo/risc0-zkvm-circuit@0.11.0-rc.3
+- pkg:cargo/risc0-zkvm-circuit@0.11.0-rc.4
+- pkg:cargo/risc0-zkvm-circuit@0.11.1
+- pkg:cargo/risc0-zkvm-circuit@0.2.0
+- pkg:cargo/risc0-zkvm-circuit@0.4.0
+- pkg:cargo/risc0-zkvm-circuit@0.6.0

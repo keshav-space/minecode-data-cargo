@@ -1,0 +1,5 @@
+- pkg:cargo/sdl3-ttf-sys@0.1.0
+- pkg:cargo/sdl3-ttf-sys@0.1.1%2BSDL3-ttf-3.2.2
+- pkg:cargo/sdl3-ttf-sys@0.1.2%2BSDL3-ttf-3.2.2
+- pkg:cargo/sdl3-ttf-sys@0.1.3%2BSDL3-ttf-3.2.2
+- pkg:cargo/sdl3-ttf-sys@0.2.0%2BSDL3-ttf-3.2.2
