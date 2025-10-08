@@ -106,6 +106,7 @@
 - pkg:cargo/mostro-core@0.6.53
 - pkg:cargo/mostro-core@0.6.54
 - pkg:cargo/mostro-core@0.6.55
+- pkg:cargo/mostro-core@0.6.56
 - pkg:cargo/mostro-core@0.6.6
 - pkg:cargo/mostro-core@0.6.7
 - pkg:cargo/mostro-core@0.6.8
