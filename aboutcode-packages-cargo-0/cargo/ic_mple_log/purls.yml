@@ -8,6 +8,7 @@
 - pkg:cargo/ic_mple_log@0.12.3
 - pkg:cargo/ic_mple_log@0.12.4
 - pkg:cargo/ic_mple_log@0.12.5
+- pkg:cargo/ic_mple_log@0.13.0
 - pkg:cargo/ic_mple_log@0.7.1
 - pkg:cargo/ic_mple_log@0.8.0
 - pkg:cargo/ic_mple_log@0.8.1
