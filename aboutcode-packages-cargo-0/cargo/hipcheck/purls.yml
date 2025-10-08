@@ -1,0 +1,12 @@
+- pkg:cargo/hipcheck@3.2.0
+- pkg:cargo/hipcheck@3.2.1
+- pkg:cargo/hipcheck@3.3.0
+- pkg:cargo/hipcheck@3.3.1
+- pkg:cargo/hipcheck@3.3.2
+- pkg:cargo/hipcheck@3.4.0
+- pkg:cargo/hipcheck@3.5.0
+- pkg:cargo/hipcheck@3.6.0
+- pkg:cargo/hipcheck@3.6.1
+- pkg:cargo/hipcheck@3.6.2
+- pkg:cargo/hipcheck@3.6.3
+- pkg:cargo/hipcheck@3.7.0

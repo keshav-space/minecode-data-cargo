@@ -1,0 +1,3 @@
+- pkg:cargo/cxx-llvm-auto@0.0.0
+- pkg:cargo/cxx-llvm-auto@0.0.2
+- pkg:cargo/cxx-llvm-auto@0.0.3

@@ -1,0 +1,4 @@
+- pkg:cargo/cedar-local-agent@1.0.0
+- pkg:cargo/cedar-local-agent@1.1.0
+- pkg:cargo/cedar-local-agent@2.0.0
+- pkg:cargo/cedar-local-agent@3.0.0

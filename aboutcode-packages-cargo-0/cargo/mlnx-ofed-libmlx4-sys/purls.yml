@@ -1,0 +1,4 @@
+- pkg:cargo/mlnx-ofed-libmlx4-sys@0.0.10
+- pkg:cargo/mlnx-ofed-libmlx4-sys@0.0.7
+- pkg:cargo/mlnx-ofed-libmlx4-sys@0.0.8
+- pkg:cargo/mlnx-ofed-libmlx4-sys@0.0.9

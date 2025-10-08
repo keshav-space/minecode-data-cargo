@@ -1,0 +1,5 @@
+- pkg:cargo/msrv@0.0.0
+- pkg:cargo/msrv@0.0.1
+- pkg:cargo/msrv@0.0.1-beta.0
+- pkg:cargo/msrv@0.0.1-beta.2
+- pkg:cargo/msrv@0.0.2

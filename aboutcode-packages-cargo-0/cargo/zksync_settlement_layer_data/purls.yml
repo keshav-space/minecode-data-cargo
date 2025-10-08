@@ -1,0 +1,5 @@
+- pkg:cargo/zksync_settlement_layer_data@29.1.2-non-semver-compat
+- pkg:cargo/zksync_settlement_layer_data@29.2.0-non-semver-compat
+- pkg:cargo/zksync_settlement_layer_data@29.3.0-non-semver-compat
+- pkg:cargo/zksync_settlement_layer_data@29.4.0-non-semver-compat
+- pkg:cargo/zksync_settlement_layer_data@29.4.1-non-semver-compat

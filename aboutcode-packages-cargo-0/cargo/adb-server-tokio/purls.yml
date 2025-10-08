@@ -1,0 +1,2 @@
+- pkg:cargo/adb-server-tokio@0.0.1
+- pkg:cargo/adb-server-tokio@0.0.2

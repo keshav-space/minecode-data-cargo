@@ -1,0 +1,15 @@
+- pkg:cargo/ngt-sys@1.11.4
+- pkg:cargo/ngt-sys@1.11.6
+- pkg:cargo/ngt-sys@1.12.2
+- pkg:cargo/ngt-sys@1.13.4
+- pkg:cargo/ngt-sys@1.13.7
+- pkg:cargo/ngt-sys@1.13.8
+- pkg:cargo/ngt-sys@1.14.6
+- pkg:cargo/ngt-sys@1.14.7
+- pkg:cargo/ngt-sys@1.14.8
+- pkg:cargo/ngt-sys@1.14.8-static
+- pkg:cargo/ngt-sys@2.1.2
+- pkg:cargo/ngt-sys@2.1.3
+- pkg:cargo/ngt-sys@2.1.5
+- pkg:cargo/ngt-sys@2.1.6
+- pkg:cargo/ngt-sys@2.2.2

@@ -1,0 +1,10 @@
+- pkg:cargo/ccp-cu-rpc-client@0.14.1
+- pkg:cargo/ccp-cu-rpc-client@0.14.3
+- pkg:cargo/ccp-cu-rpc-client@0.15.0
+- pkg:cargo/ccp-cu-rpc-client@0.16.1
+- pkg:cargo/ccp-cu-rpc-client@0.16.11
+- pkg:cargo/ccp-cu-rpc-client@0.16.12
+- pkg:cargo/ccp-cu-rpc-client@0.16.2
+- pkg:cargo/ccp-cu-rpc-client@0.16.7
+- pkg:cargo/ccp-cu-rpc-client@0.16.9
+- pkg:cargo/ccp-cu-rpc-client@0.17.0

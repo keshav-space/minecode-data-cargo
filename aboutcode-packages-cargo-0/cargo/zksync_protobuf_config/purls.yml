@@ -1,0 +1,9 @@
+- pkg:cargo/zksync_protobuf_config@0.1.0
+- pkg:cargo/zksync_protobuf_config@26.1.0-non-semver-compat
+- pkg:cargo/zksync_protobuf_config@26.2.1-non-semver-compat
+- pkg:cargo/zksync_protobuf_config@26.7.0-non-semver-compat
+- pkg:cargo/zksync_protobuf_config@27.0.0-non-semver-compat
+- pkg:cargo/zksync_protobuf_config@27.5.0-non-semver-compat
+- pkg:cargo/zksync_protobuf_config@27.5.1-non-semver-compat
+- pkg:cargo/zksync_protobuf_config@28.0.0-non-semver-compat
+- pkg:cargo/zksync_protobuf_config@28.1.0-non-semver-compat

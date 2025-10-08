@@ -1,0 +1,13 @@
+- pkg:cargo/zksync_shared_resources@28.10.0-non-semver-compat
+- pkg:cargo/zksync_shared_resources@28.6.0-non-semver-compat
+- pkg:cargo/zksync_shared_resources@28.7.0-non-semver-compat
+- pkg:cargo/zksync_shared_resources@28.8.0-non-semver-compat
+- pkg:cargo/zksync_shared_resources@28.9.0-non-semver-compat
+- pkg:cargo/zksync_shared_resources@29.0.0-non-semver-compat
+- pkg:cargo/zksync_shared_resources@29.1.0-non-semver-compat
+- pkg:cargo/zksync_shared_resources@29.1.1-non-semver-compat
+- pkg:cargo/zksync_shared_resources@29.1.2-non-semver-compat
+- pkg:cargo/zksync_shared_resources@29.2.0-non-semver-compat
+- pkg:cargo/zksync_shared_resources@29.3.0-non-semver-compat
+- pkg:cargo/zksync_shared_resources@29.4.0-non-semver-compat
+- pkg:cargo/zksync_shared_resources@29.4.1-non-semver-compat

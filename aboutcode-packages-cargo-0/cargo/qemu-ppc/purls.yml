@@ -1,0 +1,2 @@
+- pkg:cargo/qemu-ppc@0.1.0
+- pkg:cargo/qemu-ppc@0.1.3

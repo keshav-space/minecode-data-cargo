@@ -1,0 +1,15 @@
+- pkg:cargo/mls-rs-crypto-hpke@0.10.0
+- pkg:cargo/mls-rs-crypto-hpke@0.11.0
+- pkg:cargo/mls-rs-crypto-hpke@0.12.0
+- pkg:cargo/mls-rs-crypto-hpke@0.14.0
+- pkg:cargo/mls-rs-crypto-hpke@0.15.0
+- pkg:cargo/mls-rs-crypto-hpke@0.16.0
+- pkg:cargo/mls-rs-crypto-hpke@0.17.0
+- pkg:cargo/mls-rs-crypto-hpke@0.18.0
+- pkg:cargo/mls-rs-crypto-hpke@0.4.0
+- pkg:cargo/mls-rs-crypto-hpke@0.4.1
+- pkg:cargo/mls-rs-crypto-hpke@0.5.0
+- pkg:cargo/mls-rs-crypto-hpke@0.6.0
+- pkg:cargo/mls-rs-crypto-hpke@0.7.0
+- pkg:cargo/mls-rs-crypto-hpke@0.8.0
+- pkg:cargo/mls-rs-crypto-hpke@0.9.0

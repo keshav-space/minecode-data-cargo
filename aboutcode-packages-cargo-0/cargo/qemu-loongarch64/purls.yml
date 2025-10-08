@@ -1,0 +1,2 @@
+- pkg:cargo/qemu-loongarch64@0.1.0
+- pkg:cargo/qemu-loongarch64@0.1.3

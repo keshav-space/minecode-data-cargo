@@ -1,0 +1,12 @@
+- pkg:cargo/utoipa-rapidoc@0.1.0
+- pkg:cargo/utoipa-rapidoc@1.0.0
+- pkg:cargo/utoipa-rapidoc@2.0.0
+- pkg:cargo/utoipa-rapidoc@3.0.0
+- pkg:cargo/utoipa-rapidoc@4.0.0
+- pkg:cargo/utoipa-rapidoc@4.0.1-alpha.0
+- pkg:cargo/utoipa-rapidoc@4.0.1-alpha.1
+- pkg:cargo/utoipa-rapidoc@4.0.1-beta.0
+- pkg:cargo/utoipa-rapidoc@4.0.1-rc.0
+- pkg:cargo/utoipa-rapidoc@5.0.0
+- pkg:cargo/utoipa-rapidoc@5.0.1
+- pkg:cargo/utoipa-rapidoc@6.0.0
