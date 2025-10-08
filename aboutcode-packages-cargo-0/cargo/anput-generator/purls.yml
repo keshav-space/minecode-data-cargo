@@ -1,0 +1,15 @@
+- pkg:cargo/anput-generator@0.15.10
+- pkg:cargo/anput-generator@0.15.11
+- pkg:cargo/anput-generator@0.15.7
+- pkg:cargo/anput-generator@0.15.8
+- pkg:cargo/anput-generator@0.15.9
+- pkg:cargo/anput-generator@0.16.0
+- pkg:cargo/anput-generator@0.17.0
+- pkg:cargo/anput-generator@0.18.0
+- pkg:cargo/anput-generator@0.19.0
+- pkg:cargo/anput-generator@0.19.1
+- pkg:cargo/anput-generator@0.19.2
+- pkg:cargo/anput-generator@0.20.0
+- pkg:cargo/anput-generator@0.20.1
+- pkg:cargo/anput-generator@0.20.2
+- pkg:cargo/anput-generator@0.20.3

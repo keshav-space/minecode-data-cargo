@@ -1,0 +1,5 @@
+- pkg:cargo/anchor-derive-serde@0.29.0
+- pkg:cargo/anchor-derive-serde@0.30.0
+- pkg:cargo/anchor-derive-serde@0.30.1
+- pkg:cargo/anchor-derive-serde@0.31.0
+- pkg:cargo/anchor-derive-serde@0.31.1

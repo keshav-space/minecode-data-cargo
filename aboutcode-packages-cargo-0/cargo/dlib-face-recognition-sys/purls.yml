@@ -1,0 +1,4 @@
+- pkg:cargo/dlib-face-recognition-sys@19.22.0-rc.0
+- pkg:cargo/dlib-face-recognition-sys@19.22.0-rc.1
+- pkg:cargo/dlib-face-recognition-sys@19.22.0-rc.2
+- pkg:cargo/dlib-face-recognition-sys@19.24.0-rc.1

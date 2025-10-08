@@ -1,0 +1,17 @@
+- pkg:cargo/jwt-cli@2.5.0
+- pkg:cargo/jwt-cli@2.5.1
+- pkg:cargo/jwt-cli@3.0.0
+- pkg:cargo/jwt-cli@3.0.1
+- pkg:cargo/jwt-cli@3.1.0
+- pkg:cargo/jwt-cli@3.2.0
+- pkg:cargo/jwt-cli@3.2.1
+- pkg:cargo/jwt-cli@3.3.0
+- pkg:cargo/jwt-cli@4.0.0
+- pkg:cargo/jwt-cli@5.0.0
+- pkg:cargo/jwt-cli@5.0.1
+- pkg:cargo/jwt-cli@5.0.2
+- pkg:cargo/jwt-cli@5.0.3
+- pkg:cargo/jwt-cli@6.0.0
+- pkg:cargo/jwt-cli@6.1.0
+- pkg:cargo/jwt-cli@6.1.1
+- pkg:cargo/jwt-cli@6.2.0

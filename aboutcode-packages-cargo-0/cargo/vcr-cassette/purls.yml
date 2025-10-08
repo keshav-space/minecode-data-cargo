@@ -1,0 +1,5 @@
+- pkg:cargo/vcr-cassette@1.0.0
+- pkg:cargo/vcr-cassette@1.0.1
+- pkg:cargo/vcr-cassette@1.0.2
+- pkg:cargo/vcr-cassette@2.0.0
+- pkg:cargo/vcr-cassette@2.0.1

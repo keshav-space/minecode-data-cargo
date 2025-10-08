@@ -1,0 +1,4 @@
+- pkg:cargo/xtensa-lx106-rt@0.0.1
+- pkg:cargo/xtensa-lx106-rt@0.1.0
+- pkg:cargo/xtensa-lx106-rt@0.1.1
+- pkg:cargo/xtensa-lx106-rt@0.1.2

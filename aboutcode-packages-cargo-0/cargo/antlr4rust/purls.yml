@@ -1,0 +1,4 @@
+- pkg:cargo/antlr4rust@0.3.0-beta
+- pkg:cargo/antlr4rust@0.3.0-beta2
+- pkg:cargo/antlr4rust@0.3.0-beta3
+- pkg:cargo/antlr4rust@0.3.0-rc1

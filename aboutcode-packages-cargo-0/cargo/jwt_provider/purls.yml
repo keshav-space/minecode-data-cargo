@@ -1,0 +1,4 @@
+- pkg:cargo/jwt_provider@0.1.0
+- pkg:cargo/jwt_provider@1.0.13
+- pkg:cargo/jwt_provider@1.0.14
+- pkg:cargo/jwt_provider@1.0.15

@@ -1,0 +1,2 @@
+- pkg:cargo/ansible_module@0.1.0
+- pkg:cargo/ansible_module@0.2.0

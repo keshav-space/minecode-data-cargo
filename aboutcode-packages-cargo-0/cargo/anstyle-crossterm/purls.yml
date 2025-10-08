@@ -1,0 +1,11 @@
+- pkg:cargo/anstyle-crossterm@0.1.1
+- pkg:cargo/anstyle-crossterm@0.2.0
+- pkg:cargo/anstyle-crossterm@1.0.0
+- pkg:cargo/anstyle-crossterm@2.0.0
+- pkg:cargo/anstyle-crossterm@2.0.1
+- pkg:cargo/anstyle-crossterm@2.0.2
+- pkg:cargo/anstyle-crossterm@3.0.0
+- pkg:cargo/anstyle-crossterm@3.0.1
+- pkg:cargo/anstyle-crossterm@4.0.0
+- pkg:cargo/anstyle-crossterm@4.0.1
+- pkg:cargo/anstyle-crossterm@4.0.2

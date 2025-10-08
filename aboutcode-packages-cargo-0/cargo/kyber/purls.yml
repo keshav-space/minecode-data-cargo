@@ -1,0 +1,5 @@
+- pkg:cargo/kyber@0.1.0
+- pkg:cargo/kyber@0.1.1%2Bdeprecated
+- pkg:cargo/kyber@0.2.0-alpha
+- pkg:cargo/kyber@0.2.0-alpha.1
+- pkg:cargo/kyber@0.2.0-alpha.2

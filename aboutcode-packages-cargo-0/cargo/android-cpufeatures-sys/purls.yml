@@ -1,0 +1,3 @@
+- pkg:cargo/android-cpufeatures-sys@1.0.0
+- pkg:cargo/android-cpufeatures-sys@1.0.1
+- pkg:cargo/android-cpufeatures-sys@2.0.0

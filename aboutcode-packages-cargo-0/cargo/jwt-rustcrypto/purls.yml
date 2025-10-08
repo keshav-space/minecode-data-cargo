@@ -1,0 +1,3 @@
+- pkg:cargo/jwt-rustcrypto@0.1.0
+- pkg:cargo/jwt-rustcrypto@0.2.0
+- pkg:cargo/jwt-rustcrypto@0.2.1
