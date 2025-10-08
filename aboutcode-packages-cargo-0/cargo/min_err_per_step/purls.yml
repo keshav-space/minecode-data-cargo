@@ -20,6 +20,7 @@
 - pkg:cargo/min_err_per_step@0.0.115
 - pkg:cargo/min_err_per_step@0.0.116
 - pkg:cargo/min_err_per_step@0.0.117
+- pkg:cargo/min_err_per_step@0.0.118
 - pkg:cargo/min_err_per_step@0.0.12
 - pkg:cargo/min_err_per_step@0.0.13
 - pkg:cargo/min_err_per_step@0.0.14
