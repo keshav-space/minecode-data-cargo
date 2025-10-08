@@ -1,0 +1,5 @@
+- pkg:cargo/atomic-wait@0.1.0
+- pkg:cargo/atomic-wait@0.2.0
+- pkg:cargo/atomic-wait@1.0.0
+- pkg:cargo/atomic-wait@1.0.1
+- pkg:cargo/atomic-wait@1.1.0

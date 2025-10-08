@@ -1,0 +1,6 @@
+- pkg:cargo/shasum@0.4.0
+- pkg:cargo/shasum@0.5.0
+- pkg:cargo/shasum@0.5.1
+- pkg:cargo/shasum@0.6.0
+- pkg:cargo/shasum@0.6.1
+- pkg:cargo/shasum@0.7.0

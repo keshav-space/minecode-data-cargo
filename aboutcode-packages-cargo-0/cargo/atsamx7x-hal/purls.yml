@@ -1,0 +1,8 @@
+- pkg:cargo/atsamx7x-hal@0.0.1
+- pkg:cargo/atsamx7x-hal@0.0.2
+- pkg:cargo/atsamx7x-hal@0.1.0
+- pkg:cargo/atsamx7x-hal@0.4.0
+- pkg:cargo/atsamx7x-hal@0.4.1
+- pkg:cargo/atsamx7x-hal@0.4.2
+- pkg:cargo/atsamx7x-hal@0.4.3-alpha1
+- pkg:cargo/atsamx7x-hal@0.4.6

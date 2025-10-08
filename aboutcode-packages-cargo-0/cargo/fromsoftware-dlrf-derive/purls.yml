@@ -1,0 +1,5 @@
+- pkg:cargo/fromsoftware-dlrf-derive@0.10.0
+- pkg:cargo/fromsoftware-dlrf-derive@0.11.0
+- pkg:cargo/fromsoftware-dlrf-derive@0.8.0
+- pkg:cargo/fromsoftware-dlrf-derive@0.9.0
+- pkg:cargo/fromsoftware-dlrf-derive@0.9.1

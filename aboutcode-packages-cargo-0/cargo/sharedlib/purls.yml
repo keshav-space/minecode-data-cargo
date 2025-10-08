@@ -1,0 +1,8 @@
+- pkg:cargo/sharedlib@0.2.0
+- pkg:cargo/sharedlib@1.0.0
+- pkg:cargo/sharedlib@3.0.0
+- pkg:cargo/sharedlib@3.1.0
+- pkg:cargo/sharedlib@4.0.0
+- pkg:cargo/sharedlib@5.0.0
+- pkg:cargo/sharedlib@6.0.0
+- pkg:cargo/sharedlib@7.0.0

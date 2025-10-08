@@ -1,0 +1,5 @@
+- pkg:cargo/freeimage-sys@0.0.1
+- pkg:cargo/freeimage-sys@3.18.0
+- pkg:cargo/freeimage-sys@3.18.1
+- pkg:cargo/freeimage-sys@3.18.2
+- pkg:cargo/freeimage-sys@3.18.3

@@ -1,0 +1,2 @@
+- pkg:cargo/esp32-hal-proc-macros@0.1.0
+- pkg:cargo/esp32-hal-proc-macros@0.2.0

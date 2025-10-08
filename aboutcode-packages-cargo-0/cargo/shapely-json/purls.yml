@@ -1,0 +1,6 @@
+- pkg:cargo/shapely-json@0.1.0-alpha.1
+- pkg:cargo/shapely-json@1.0.0
+- pkg:cargo/shapely-json@2.0.0
+- pkg:cargo/shapely-json@2.0.1
+- pkg:cargo/shapely-json@3.0.0
+- pkg:cargo/shapely-json@3.1.0

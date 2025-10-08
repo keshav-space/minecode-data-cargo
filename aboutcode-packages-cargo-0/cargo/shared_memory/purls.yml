@@ -1,0 +1,16 @@
+- pkg:cargo/shared_memory@0.1.0
+- pkg:cargo/shared_memory@0.1.1
+- pkg:cargo/shared_memory@0.10.0
+- pkg:cargo/shared_memory@0.11.0
+- pkg:cargo/shared_memory@0.11.1
+- pkg:cargo/shared_memory@0.11.2
+- pkg:cargo/shared_memory@0.11.3
+- pkg:cargo/shared_memory@0.11.4
+- pkg:cargo/shared_memory@0.12.0
+- pkg:cargo/shared_memory@0.12.1
+- pkg:cargo/shared_memory@0.12.2
+- pkg:cargo/shared_memory@0.12.3
+- pkg:cargo/shared_memory@0.12.4
+- pkg:cargo/shared_memory@0.8.0
+- pkg:cargo/shared_memory@0.8.1
+- pkg:cargo/shared_memory@0.8.2

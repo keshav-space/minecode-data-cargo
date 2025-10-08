@@ -1,0 +1,15 @@
+- pkg:cargo/shuttle-env-vars@0.21.0
+- pkg:cargo/shuttle-env-vars@0.21.1
+- pkg:cargo/shuttle-env-vars@0.21.2
+- pkg:cargo/shuttle-env-vars@0.21.3
+- pkg:cargo/shuttle-env-vars@0.21.4
+- pkg:cargo/shuttle-env-vars@0.22.0
+- pkg:cargo/shuttle-env-vars@0.23.0
+- pkg:cargo/shuttle-env-vars@0.23.1
+- pkg:cargo/shuttle-env-vars@0.23.2
+- pkg:cargo/shuttle-env-vars@0.23.3
+- pkg:cargo/shuttle-env-vars@0.23.4
+- pkg:cargo/shuttle-env-vars@0.24.0
+- pkg:cargo/shuttle-env-vars@0.25.0
+- pkg:cargo/shuttle-env-vars@0.26.0
+- pkg:cargo/shuttle-env-vars@0.26.1

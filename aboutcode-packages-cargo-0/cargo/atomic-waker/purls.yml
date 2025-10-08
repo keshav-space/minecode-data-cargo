@@ -1,0 +1,5 @@
+- pkg:cargo/atomic-waker@0.0.1
+- pkg:cargo/atomic-waker@1.0.0
+- pkg:cargo/atomic-waker@1.1.0
+- pkg:cargo/atomic-waker@1.1.1
+- pkg:cargo/atomic-waker@1.1.2

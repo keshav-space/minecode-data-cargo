@@ -1,0 +1,13 @@
+- pkg:cargo/hexagonal_pathfinding_astar@0.4.1
+- pkg:cargo/hexagonal_pathfinding_astar@0.4.2
+- pkg:cargo/hexagonal_pathfinding_astar@0.5.0
+- pkg:cargo/hexagonal_pathfinding_astar@0.5.1
+- pkg:cargo/hexagonal_pathfinding_astar@0.6.0
+- pkg:cargo/hexagonal_pathfinding_astar@0.7.0
+- pkg:cargo/hexagonal_pathfinding_astar@0.8.0
+- pkg:cargo/hexagonal_pathfinding_astar@0.8.1
+- pkg:cargo/hexagonal_pathfinding_astar@0.8.2
+- pkg:cargo/hexagonal_pathfinding_astar@0.8.3
+- pkg:cargo/hexagonal_pathfinding_astar@0.8.4
+- pkg:cargo/hexagonal_pathfinding_astar@0.9.0
+- pkg:cargo/hexagonal_pathfinding_astar@1.0.0

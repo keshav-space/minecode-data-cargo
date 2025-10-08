@@ -1,0 +1,4 @@
+- pkg:cargo/shutdown-barrier@0.1.0
+- pkg:cargo/shutdown-barrier@1.0.0
+- pkg:cargo/shutdown-barrier@2.0.0
+- pkg:cargo/shutdown-barrier@3.0.0
