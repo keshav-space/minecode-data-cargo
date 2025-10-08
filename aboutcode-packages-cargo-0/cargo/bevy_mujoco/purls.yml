@@ -1,0 +1,8 @@
+- pkg:cargo/bevy_mujoco@0.0.2
+- pkg:cargo/bevy_mujoco@0.0.3
+- pkg:cargo/bevy_mujoco@0.0.5
+- pkg:cargo/bevy_mujoco@0.11.0-beta
+- pkg:cargo/bevy_mujoco@0.12.0
+- pkg:cargo/bevy_mujoco@0.13.0
+- pkg:cargo/bevy_mujoco@0.14.0
+- pkg:cargo/bevy_mujoco@0.14.0-rc.1

@@ -1,0 +1,4 @@
+- pkg:cargo/derive-diesel-connection@2.0.0
+- pkg:cargo/derive-diesel-connection@2.0.0-rc.0
+- pkg:cargo/derive-diesel-connection@4.0.0
+- pkg:cargo/derive-diesel-connection@4.1.0

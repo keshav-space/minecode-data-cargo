@@ -1,0 +1,5 @@
+- pkg:cargo/vitess-grpc@0.1.0
+- pkg:cargo/vitess-grpc@0.1.1
+- pkg:cargo/vitess-grpc@0.1.2%2Bvitess-16.0.2
+- pkg:cargo/vitess-grpc@0.2.0%2Bvitess-17.0.1
+- pkg:cargo/vitess-grpc@0.3.0%2Bvitess-18.0.0

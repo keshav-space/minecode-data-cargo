@@ -1,0 +1,10 @@
+- pkg:cargo/csp_generator@0.1.0-alpha
+- pkg:cargo/csp_generator@0.1.0-beta
+- pkg:cargo/csp_generator@0.1.0-beta.1
+- pkg:cargo/csp_generator@0.1.0-rc
+- pkg:cargo/csp_generator@0.1.0-rc.1
+- pkg:cargo/csp_generator@0.2.0-beta
+- pkg:cargo/csp_generator@0.2.0-beta.1
+- pkg:cargo/csp_generator@0.2.0-beta.2
+- pkg:cargo/csp_generator@0.2.0-beta.3
+- pkg:cargo/csp_generator@0.2.0-rc

@@ -1,0 +1,5 @@
+- pkg:cargo/bevy_window_utils@0.15.3
+- pkg:cargo/bevy_window_utils@0.15.4
+- pkg:cargo/bevy_window_utils@0.15.5
+- pkg:cargo/bevy_window_utils@0.16.0
+- pkg:cargo/bevy_window_utils@0.16.0-rc.5

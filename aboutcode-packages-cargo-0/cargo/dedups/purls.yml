@@ -1,0 +1,5 @@
+- pkg:cargo/dedups@0.0.21
+- pkg:cargo/dedups@0.0.22
+- pkg:cargo/dedups@0.0.24
+- pkg:cargo/dedups@0.0.25
+- pkg:cargo/dedups@0.1.0

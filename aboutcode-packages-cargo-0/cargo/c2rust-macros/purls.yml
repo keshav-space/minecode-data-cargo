@@ -1,0 +1,4 @@
+- pkg:cargo/c2rust-macros@0.10.0
+- pkg:cargo/c2rust-macros@0.11.0
+- pkg:cargo/c2rust-macros@0.14.0
+- pkg:cargo/c2rust-macros@0.15.0

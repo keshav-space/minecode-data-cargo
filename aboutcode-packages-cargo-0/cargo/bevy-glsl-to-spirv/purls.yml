@@ -1,0 +1,3 @@
+- pkg:cargo/bevy-glsl-to-spirv@0.1.7
+- pkg:cargo/bevy-glsl-to-spirv@0.2.0
+- pkg:cargo/bevy-glsl-to-spirv@0.2.1

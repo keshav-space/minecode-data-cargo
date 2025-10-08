@@ -1,0 +1,4 @@
+- pkg:cargo/bedrockci@0.1.0
+- pkg:cargo/bedrockci@1.0.0
+- pkg:cargo/bedrockci@2.0.0
+- pkg:cargo/bedrockci@2.1.0

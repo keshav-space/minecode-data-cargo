@@ -1,0 +1,13 @@
+- pkg:cargo/d3d12@0.1.0
+- pkg:cargo/d3d12@0.19.0
+- pkg:cargo/d3d12@0.2.2
+- pkg:cargo/d3d12@0.20.0
+- pkg:cargo/d3d12@0.3.0
+- pkg:cargo/d3d12@0.3.1
+- pkg:cargo/d3d12@0.3.2
+- pkg:cargo/d3d12@0.4.0
+- pkg:cargo/d3d12@0.4.1
+- pkg:cargo/d3d12@0.5.0
+- pkg:cargo/d3d12@0.6.0
+- pkg:cargo/d3d12@0.7.0
+- pkg:cargo/d3d12@22.0.0

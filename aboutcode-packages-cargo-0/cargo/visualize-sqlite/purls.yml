@@ -1,0 +1,6 @@
+- pkg:cargo/visualize-sqlite@1.0.0
+- pkg:cargo/visualize-sqlite@1.0.1
+- pkg:cargo/visualize-sqlite@1.1.0
+- pkg:cargo/visualize-sqlite@1.1.1
+- pkg:cargo/visualize-sqlite@2.0.0
+- pkg:cargo/visualize-sqlite@2.0.0-rc.0

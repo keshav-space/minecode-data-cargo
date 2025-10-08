@@ -1,0 +1,7 @@
+- pkg:cargo/bevy_wasm_shared@0.10.0
+- pkg:cargo/bevy_wasm_shared@0.10.1
+- pkg:cargo/bevy_wasm_shared@0.9.5
+- pkg:cargo/bevy_wasm_shared@0.9.6
+- pkg:cargo/bevy_wasm_shared@0.9.7
+- pkg:cargo/bevy_wasm_shared@0.9.8
+- pkg:cargo/bevy_wasm_shared@0.9.9

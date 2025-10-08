@@ -1,0 +1,3 @@
+- pkg:cargo/bevy_hammer_ui@0.15.1
+- pkg:cargo/bevy_hammer_ui@0.15.2
+- pkg:cargo/bevy_hammer_ui@0.16.0

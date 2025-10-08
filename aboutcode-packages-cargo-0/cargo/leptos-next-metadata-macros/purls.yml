@@ -1,0 +1,4 @@
+- pkg:cargo/leptos-next-metadata-macros@0.1.0-alpha.1
+- pkg:cargo/leptos-next-metadata-macros@0.1.0-beta.1
+- pkg:cargo/leptos-next-metadata-macros@1.0.0
+- pkg:cargo/leptos-next-metadata-macros@1.5.0

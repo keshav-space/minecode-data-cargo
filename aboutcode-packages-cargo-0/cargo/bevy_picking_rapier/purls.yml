@@ -1,0 +1,13 @@
+- pkg:cargo/bevy_picking_rapier@0.1.0
+- pkg:cargo/bevy_picking_rapier@0.15.0
+- pkg:cargo/bevy_picking_rapier@0.16.0
+- pkg:cargo/bevy_picking_rapier@0.17.0
+- pkg:cargo/bevy_picking_rapier@0.17.1
+- pkg:cargo/bevy_picking_rapier@0.18.0
+- pkg:cargo/bevy_picking_rapier@0.18.1
+- pkg:cargo/bevy_picking_rapier@0.19.0
+- pkg:cargo/bevy_picking_rapier@0.19.1
+- pkg:cargo/bevy_picking_rapier@0.2.0
+- pkg:cargo/bevy_picking_rapier@0.20.0
+- pkg:cargo/bevy_picking_rapier@0.20.0-rc.0
+- pkg:cargo/bevy_picking_rapier@0.20.0-rc.1

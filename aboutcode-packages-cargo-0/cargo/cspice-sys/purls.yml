@@ -1,0 +1,6 @@
+- pkg:cargo/cspice-sys@0.0.1
+- pkg:cargo/cspice-sys@1.0.0
+- pkg:cargo/cspice-sys@1.0.1
+- pkg:cargo/cspice-sys@1.0.2
+- pkg:cargo/cspice-sys@1.0.3
+- pkg:cargo/cspice-sys@1.0.4

@@ -1,0 +1,4 @@
+- pkg:cargo/c2rust-build-paths@0.17.0
+- pkg:cargo/c2rust-build-paths@0.18.0
+- pkg:cargo/c2rust-build-paths@0.19.0
+- pkg:cargo/c2rust-build-paths@0.20.0
