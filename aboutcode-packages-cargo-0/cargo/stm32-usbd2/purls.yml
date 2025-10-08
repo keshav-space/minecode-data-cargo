@@ -1,0 +1,2 @@
+- pkg:cargo/stm32-usbd2@0.7.0
+- pkg:cargo/stm32-usbd2@0.8.0

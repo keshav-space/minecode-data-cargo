@@ -1,0 +1,5 @@
+- pkg:cargo/streamdal-gjson@0.8.1-delete-path
+- pkg:cargo/streamdal-gjson@0.8.1-with-set-rename
+- pkg:cargo/streamdal-gjson@0.8.2-delete-path
+- pkg:cargo/streamdal-gjson@0.8.3-add-traits
+- pkg:cargo/streamdal-gjson@0.8.4-delete-path-fix

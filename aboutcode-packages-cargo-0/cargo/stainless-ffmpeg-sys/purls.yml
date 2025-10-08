@@ -1,0 +1,4 @@
+- pkg:cargo/stainless-ffmpeg-sys@4.2.1
+- pkg:cargo/stainless-ffmpeg-sys@4.2.2
+- pkg:cargo/stainless-ffmpeg-sys@4.2.2-update.1
+- pkg:cargo/stainless-ffmpeg-sys@4.2.3

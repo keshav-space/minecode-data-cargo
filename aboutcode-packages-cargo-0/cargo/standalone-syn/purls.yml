@@ -1,0 +1,2 @@
+- pkg:cargo/standalone-syn@0.12.10
+- pkg:cargo/standalone-syn@0.13.0

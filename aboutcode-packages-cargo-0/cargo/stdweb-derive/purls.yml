@@ -1,0 +1,5 @@
+- pkg:cargo/stdweb-derive@0.4.0
+- pkg:cargo/stdweb-derive@0.5.0
+- pkg:cargo/stdweb-derive@0.5.1
+- pkg:cargo/stdweb-derive@0.5.2
+- pkg:cargo/stdweb-derive@0.5.3

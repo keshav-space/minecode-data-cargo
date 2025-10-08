@@ -1,0 +1,2 @@
+- pkg:cargo/kafka-connect@0.0.0
+- pkg:cargo/kafka-connect@0.0.1-alpha.0

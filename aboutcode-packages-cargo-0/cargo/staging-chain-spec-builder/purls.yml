@@ -1,0 +1,14 @@
+- pkg:cargo/staging-chain-spec-builder@0.0.0
+- pkg:cargo/staging-chain-spec-builder@1.12.0
+- pkg:cargo/staging-chain-spec-builder@1.13.0
+- pkg:cargo/staging-chain-spec-builder@10.0.0
+- pkg:cargo/staging-chain-spec-builder@11.0.0
+- pkg:cargo/staging-chain-spec-builder@12.0.0
+- pkg:cargo/staging-chain-spec-builder@13.0.0
+- pkg:cargo/staging-chain-spec-builder@14.0.0
+- pkg:cargo/staging-chain-spec-builder@2.0.0
+- pkg:cargo/staging-chain-spec-builder@3.0.0
+- pkg:cargo/staging-chain-spec-builder@5.0.0
+- pkg:cargo/staging-chain-spec-builder@6.0.0
+- pkg:cargo/staging-chain-spec-builder@8.0.0
+- pkg:cargo/staging-chain-spec-builder@9.0.0

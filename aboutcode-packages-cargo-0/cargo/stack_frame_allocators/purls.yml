@@ -1,0 +1,5 @@
+- pkg:cargo/stack_frame_allocators@0.1.0
+- pkg:cargo/stack_frame_allocators@1.0.0
+- pkg:cargo/stack_frame_allocators@1.1.0
+- pkg:cargo/stack_frame_allocators@1.1.1
+- pkg:cargo/stack_frame_allocators@1.1.2

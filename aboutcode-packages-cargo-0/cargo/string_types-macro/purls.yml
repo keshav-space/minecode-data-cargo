@@ -1,0 +1,5 @@
+- pkg:cargo/string_types-macro@0.10.0
+- pkg:cargo/string_types-macro@0.10.1
+- pkg:cargo/string_types-macro@0.11.0
+- pkg:cargo/string_types-macro@0.12.0
+- pkg:cargo/string_types-macro@0.13.0

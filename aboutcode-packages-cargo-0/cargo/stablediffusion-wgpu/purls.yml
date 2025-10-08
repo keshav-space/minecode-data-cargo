@@ -1,0 +1,3 @@
+- pkg:cargo/stablediffusion-wgpu@0.1.0
+- pkg:cargo/stablediffusion-wgpu@0.1.1
+- pkg:cargo/stablediffusion-wgpu@0.1.2

@@ -1,0 +1,4 @@
+- pkg:cargo/stackdriver_logger_kv@0.7.0
+- pkg:cargo/stackdriver_logger_kv@0.7.1
+- pkg:cargo/stackdriver_logger_kv@0.7.2
+- pkg:cargo/stackdriver_logger_kv@0.7.3

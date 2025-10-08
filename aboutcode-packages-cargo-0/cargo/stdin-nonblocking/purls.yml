@@ -1,0 +1,7 @@
+- pkg:cargo/stdin-nonblocking@0.1.0
+- pkg:cargo/stdin-nonblocking@0.1.0-alpha
+- pkg:cargo/stdin-nonblocking@0.2.0
+- pkg:cargo/stdin-nonblocking@0.2.1
+- pkg:cargo/stdin-nonblocking@0.3.0
+- pkg:cargo/stdin-nonblocking@0.4.0
+- pkg:cargo/stdin-nonblocking@0.4.1

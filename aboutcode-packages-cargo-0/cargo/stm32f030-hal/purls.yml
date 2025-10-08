@@ -1,0 +1,4 @@
+- pkg:cargo/stm32f030-hal@0.6.5
+- pkg:cargo/stm32f030-hal@0.6.6
+- pkg:cargo/stm32f030-hal@0.7.0
+- pkg:cargo/stm32f030-hal@0.7.1

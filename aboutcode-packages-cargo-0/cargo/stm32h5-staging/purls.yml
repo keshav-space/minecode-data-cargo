@@ -1,0 +1,4 @@
+- pkg:cargo/stm32h5-staging@0.16.0
+- pkg:cargo/stm32h5-staging@0.17.0
+- pkg:cargo/stm32h5-staging@0.18.0
+- pkg:cargo/stm32h5-staging@0.18.1

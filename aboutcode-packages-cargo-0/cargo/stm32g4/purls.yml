@@ -1,0 +1,11 @@
+- pkg:cargo/stm32g4@0.10.0
+- pkg:cargo/stm32g4@0.11.0
+- pkg:cargo/stm32g4@0.12.0
+- pkg:cargo/stm32g4@0.12.1
+- pkg:cargo/stm32g4@0.13.0
+- pkg:cargo/stm32g4@0.14.0
+- pkg:cargo/stm32g4@0.15.0
+- pkg:cargo/stm32g4@0.15.1
+- pkg:cargo/stm32g4@0.16.0
+- pkg:cargo/stm32g4@0.8.0
+- pkg:cargo/stm32g4@0.9.0

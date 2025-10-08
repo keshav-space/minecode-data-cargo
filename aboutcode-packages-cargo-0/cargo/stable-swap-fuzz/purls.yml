@@ -1,0 +1,8 @@
+- pkg:cargo/stable-swap-fuzz@0.2.0
+- pkg:cargo/stable-swap-fuzz@1.6.9
+- pkg:cargo/stable-swap-fuzz@1.7.0
+- pkg:cargo/stable-swap-fuzz@1.7.1
+- pkg:cargo/stable-swap-fuzz@1.7.2
+- pkg:cargo/stable-swap-fuzz@1.7.3
+- pkg:cargo/stable-swap-fuzz@1.8.0
+- pkg:cargo/stable-swap-fuzz@1.8.1
