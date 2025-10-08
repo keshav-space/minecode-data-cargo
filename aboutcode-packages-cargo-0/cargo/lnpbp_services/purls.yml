@@ -1,0 +1,15 @@
+- pkg:cargo/lnpbp_services@0.2.0
+- pkg:cargo/lnpbp_services@0.2.0-alpha.1
+- pkg:cargo/lnpbp_services@0.2.0-alpha.2
+- pkg:cargo/lnpbp_services@0.2.0-alpha.3
+- pkg:cargo/lnpbp_services@0.2.0-beta.1
+- pkg:cargo/lnpbp_services@0.2.0-beta.2
+- pkg:cargo/lnpbp_services@0.2.0-beta.3
+- pkg:cargo/lnpbp_services@0.2.0-beta.4
+- pkg:cargo/lnpbp_services@0.2.0-rc.1
+- pkg:cargo/lnpbp_services@0.2.0-rc.1%2B1
+- pkg:cargo/lnpbp_services@0.2.0-rc.1%2B2
+- pkg:cargo/lnpbp_services@0.2.0-rc.2
+- pkg:cargo/lnpbp_services@0.2.1
+- pkg:cargo/lnpbp_services@0.2.2
+- pkg:cargo/lnpbp_services@0.3.0-alpha.1

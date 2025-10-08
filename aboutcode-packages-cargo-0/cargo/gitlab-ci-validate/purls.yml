@@ -1,0 +1,5 @@
+- pkg:cargo/gitlab-ci-validate@0.0.1
+- pkg:cargo/gitlab-ci-validate@0.0.2
+- pkg:cargo/gitlab-ci-validate@0.0.3
+- pkg:cargo/gitlab-ci-validate@0.0.4
+- pkg:cargo/gitlab-ci-validate@0.1.0

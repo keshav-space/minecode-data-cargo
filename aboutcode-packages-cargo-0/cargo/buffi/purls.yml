@@ -1,0 +1,13 @@
+- pkg:cargo/buffi@0.1.0%2Brust.1.82.0
+- pkg:cargo/buffi@0.2.0%2Brust.1.82.0
+- pkg:cargo/buffi@0.2.1%2Brust.1.82.0
+- pkg:cargo/buffi@0.2.2%2Brust.1.82.0
+- pkg:cargo/buffi@0.2.3%2Brust.1.83.0
+- pkg:cargo/buffi@0.2.4%2Brust.1.83.0
+- pkg:cargo/buffi@0.2.5%2Brust.1.84.0
+- pkg:cargo/buffi@0.2.6%2Brust.1.85.0
+- pkg:cargo/buffi@0.2.7%2Brust.1.86.0
+- pkg:cargo/buffi@0.3.0%2Brust.1.87.0
+- pkg:cargo/buffi@0.3.1%2Brust.1.88.0
+- pkg:cargo/buffi@0.3.2%2Brust.1.89.0
+- pkg:cargo/buffi@0.3.3%2Brust.1.90.0

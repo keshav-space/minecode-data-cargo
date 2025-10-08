@@ -1,0 +1,7 @@
+- pkg:cargo/gitlab_client@0.12.3
+- pkg:cargo/gitlab_client@0.13.0
+- pkg:cargo/gitlab_client@0.14.0
+- pkg:cargo/gitlab_client@0.14.1
+- pkg:cargo/gitlab_client@0.14.2
+- pkg:cargo/gitlab_client@0.15.0
+- pkg:cargo/gitlab_client@0.15.1

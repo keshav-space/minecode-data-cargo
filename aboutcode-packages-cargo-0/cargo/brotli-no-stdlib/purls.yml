@@ -1,0 +1,4 @@
+- pkg:cargo/brotli-no-stdlib@1.0.0
+- pkg:cargo/brotli-no-stdlib@1.0.1
+- pkg:cargo/brotli-no-stdlib@1.0.3
+- pkg:cargo/brotli-no-stdlib@1.0.4

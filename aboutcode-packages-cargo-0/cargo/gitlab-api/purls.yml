@@ -1,0 +1,5 @@
+- pkg:cargo/gitlab-api@0.2.0
+- pkg:cargo/gitlab-api@0.3.0
+- pkg:cargo/gitlab-api@0.4.0
+- pkg:cargo/gitlab-api@0.5.2
+- pkg:cargo/gitlab-api@0.6.0

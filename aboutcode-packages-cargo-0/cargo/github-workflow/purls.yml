@@ -1,0 +1,5 @@
+- pkg:cargo/github-workflow@1.0.0
+- pkg:cargo/github-workflow@2.0.0
+- pkg:cargo/github-workflow@2.1.0
+- pkg:cargo/github-workflow@2.2.0
+- pkg:cargo/github-workflow@2.3.0

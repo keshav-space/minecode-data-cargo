@@ -1,0 +1,16 @@
+- pkg:cargo/git-lock@0.0.0
+- pkg:cargo/git-lock@0.1.0
+- pkg:cargo/git-lock@0.2.0
+- pkg:cargo/git-lock@0.3.0
+- pkg:cargo/git-lock@0.3.1
+- pkg:cargo/git-lock@0.3.2
+- pkg:cargo/git-lock@1.0.0
+- pkg:cargo/git-lock@1.0.1
+- pkg:cargo/git-lock@2.0.0
+- pkg:cargo/git-lock@2.1.0
+- pkg:cargo/git-lock@2.1.1
+- pkg:cargo/git-lock@2.2.0
+- pkg:cargo/git-lock@3.0.0
+- pkg:cargo/git-lock@3.0.1
+- pkg:cargo/git-lock@3.0.2
+- pkg:cargo/git-lock@3.0.3

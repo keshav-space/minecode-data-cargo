@@ -1,0 +1,14 @@
+- pkg:cargo/lnd_grpc_rust@2.0.0
+- pkg:cargo/lnd_grpc_rust@2.1.0
+- pkg:cargo/lnd_grpc_rust@2.10.0
+- pkg:cargo/lnd_grpc_rust@2.11.0
+- pkg:cargo/lnd_grpc_rust@2.12.0
+- pkg:cargo/lnd_grpc_rust@2.2.0
+- pkg:cargo/lnd_grpc_rust@2.3.0
+- pkg:cargo/lnd_grpc_rust@2.3.1
+- pkg:cargo/lnd_grpc_rust@2.4.0
+- pkg:cargo/lnd_grpc_rust@2.5.0
+- pkg:cargo/lnd_grpc_rust@2.6.0
+- pkg:cargo/lnd_grpc_rust@2.7.0
+- pkg:cargo/lnd_grpc_rust@2.8.0
+- pkg:cargo/lnd_grpc_rust@2.9.0

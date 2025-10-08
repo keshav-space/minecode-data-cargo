@@ -1,0 +1,2 @@
+- pkg:cargo/git_fetch_concurrently@0.0.1
+- pkg:cargo/git_fetch_concurrently@0.0.2

@@ -1,0 +1,11 @@
+- pkg:cargo/build_html@1.0.0
+- pkg:cargo/build_html@1.1.0
+- pkg:cargo/build_html@2.0.0
+- pkg:cargo/build_html@2.1.0
+- pkg:cargo/build_html@2.1.1
+- pkg:cargo/build_html@2.2.0
+- pkg:cargo/build_html@2.3.0
+- pkg:cargo/build_html@2.4.0
+- pkg:cargo/build_html@2.5.0
+- pkg:cargo/build_html@2.6.0
+- pkg:cargo/build_html@2.7.0

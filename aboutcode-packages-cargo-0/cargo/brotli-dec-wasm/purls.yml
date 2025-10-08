@@ -1,0 +1,2 @@
+- pkg:cargo/brotli-dec-wasm@2.0.1
+- pkg:cargo/brotli-dec-wasm@2.3.0

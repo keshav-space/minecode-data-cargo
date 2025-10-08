@@ -1,0 +1,2 @@
+- pkg:cargo/git_describe_build_tool@1.0.0
+- pkg:cargo/git_describe_build_tool@1.0.2

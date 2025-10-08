@@ -1,0 +1,7 @@
+- pkg:cargo/git-mirror@0.10.0
+- pkg:cargo/git-mirror@0.14.0
+- pkg:cargo/git-mirror@0.14.10
+- pkg:cargo/git-mirror@0.14.12
+- pkg:cargo/git-mirror@0.14.15
+- pkg:cargo/git-mirror@0.14.4
+- pkg:cargo/git-mirror@0.14.6

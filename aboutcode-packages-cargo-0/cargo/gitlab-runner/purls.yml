@@ -1,0 +1,13 @@
+- pkg:cargo/gitlab-runner@0.0.1
+- pkg:cargo/gitlab-runner@0.0.2
+- pkg:cargo/gitlab-runner@0.0.2-alpha.2
+- pkg:cargo/gitlab-runner@0.0.3
+- pkg:cargo/gitlab-runner@0.0.4
+- pkg:cargo/gitlab-runner@0.0.5
+- pkg:cargo/gitlab-runner@0.0.6
+- pkg:cargo/gitlab-runner@0.0.7
+- pkg:cargo/gitlab-runner@0.0.8
+- pkg:cargo/gitlab-runner@0.0.9
+- pkg:cargo/gitlab-runner@0.1.0
+- pkg:cargo/gitlab-runner@0.2.0
+- pkg:cargo/gitlab-runner@0.3.0-rc1

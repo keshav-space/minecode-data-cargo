@@ -1,0 +1,4 @@
+- pkg:cargo/git-graph@0.5.1
+- pkg:cargo/git-graph@0.5.2
+- pkg:cargo/git-graph@0.5.3
+- pkg:cargo/git-graph@0.6.0

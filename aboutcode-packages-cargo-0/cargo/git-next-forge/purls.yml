@@ -1,0 +1,4 @@
+- pkg:cargo/git-next-forge@0.10.0
+- pkg:cargo/git-next-forge@0.11.0
+- pkg:cargo/git-next-forge@0.12.0
+- pkg:cargo/git-next-forge@0.9.4

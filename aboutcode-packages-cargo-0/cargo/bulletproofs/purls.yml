@@ -1,0 +1,12 @@
+- pkg:cargo/bulletproofs@0.0.0
+- pkg:cargo/bulletproofs@1.0.0
+- pkg:cargo/bulletproofs@1.0.0-pre.0
+- pkg:cargo/bulletproofs@1.0.1
+- pkg:cargo/bulletproofs@1.0.2
+- pkg:cargo/bulletproofs@1.0.3
+- pkg:cargo/bulletproofs@1.0.4
+- pkg:cargo/bulletproofs@2.0.0
+- pkg:cargo/bulletproofs@3.0.0
+- pkg:cargo/bulletproofs@3.0.1
+- pkg:cargo/bulletproofs@4.0.0
+- pkg:cargo/bulletproofs@5.0.0

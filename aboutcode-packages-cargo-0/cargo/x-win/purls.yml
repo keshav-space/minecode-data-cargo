@@ -1,0 +1,15 @@
+- pkg:cargo/x-win@1.10.1
+- pkg:cargo/x-win@1.10.2
+- pkg:cargo/x-win@1.10.3
+- pkg:cargo/x-win@2.0.0
+- pkg:cargo/x-win@2.0.1
+- pkg:cargo/x-win@2.0.2
+- pkg:cargo/x-win@3.0.0
+- pkg:cargo/x-win@4.0.0
+- pkg:cargo/x-win@5.0.0
+- pkg:cargo/x-win@5.0.1
+- pkg:cargo/x-win@5.1.0
+- pkg:cargo/x-win@5.2.0
+- pkg:cargo/x-win@5.3.0
+- pkg:cargo/x-win@5.3.1
+- pkg:cargo/x-win@5.3.2
